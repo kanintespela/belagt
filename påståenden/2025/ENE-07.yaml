@@ -1,0 +1,21 @@
+id: ENE-07
+påstående: Utsläppen från datacentrens elanvändning väntas öka från 180 miljoner ton i dag till 300 miljoner
+  ton 2035 i IEA:s huvudscenario, och upp till 500 miljoner ton i scenariot med snabbast AI-utveckling.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: Emissions from electricity use by data centres grows from 180 million tonnes (Mt) today to 300
+    Mt in the Base Case by 2035, and up to 500 Mt in the Lift-Off Case.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Det motsvarar
+  mindre än 1,5 procent av energisektorns utsläpp, men datacenter hör till de snabbast växande utsläppskällorna.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: ENE-08
+påstående: IEA bedömer att farhågorna om att AI påskyndar klimatförändringarna verkar överdrivna, liksom
+  förhoppningarna om att AI på egen hand ska lösa klimatfrågan.
+typ: bedömning
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+- nytta
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: Concerns that AI could accelerate climate change appear overstated, as do expectations that AI
+    alone will address the issue
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar
+  IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -4,7 +4,7 @@
 
 Vad AI redan gör för sjukvård, forskning och samhälle.
 
-18 påståenden, de viktigaste först inom varje år.
+20 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -63,6 +63,12 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 
 ## 2025
 
+- **IEA bedömer att farhågorna om att AI påskyndar klimatförändringarna verkar överdrivna, liksom förhoppningarna om att AI på egen hand ska lösa klimatfrågan.**
+  IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, nytta · [ENE-08](../påståenden/2025/ENE-08.yaml)
+  > Concerns that AI could accelerate climate change appear overstated, as do expectations that AI alone will address the issue
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.
 - **Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.**
   EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg) · 2025-05-08 · nytta, förmågor · [SVR-18](../påståenden/2025/SVR-18.yaml)
   > När kostnad tyvärr varit det dominerande utvärderingskriteriet vid organisationen så får man till slut lägre kvalitet
@@ -87,6 +93,12 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
   > — [”AI-debatten bör bygga på vetenskap – inte på spekulation”](https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406)
 
   *Förbehåll:* Ett av de viktigaste sakliga argumenten mot en paus.
+- **IEA uppskattar att en bred användning av befintliga AI-lösningar kan minska utsläppen med motsvarande omkring 5 procent av de energirelaterade utsläppen 2035, vilket är mycket mer än datacentrens utsläpp men långt ifrån vad som behövs för att lösa klimatfrågan.**
+  IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, nytta · [ENE-09](../påståenden/2025/ENE-09.yaml)
+  > We estimate that emissions reductions from the broad application of existing AI-led solutions to be equivalent to around 5% of energy-related emissions in 2035.
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förutsätter att hinder för användningen övervinns. Rekyleffekter, till exempel att folk väljer självkörande bilar i stället för kollektivtrafik, kan äta upp en del av vinsten.
 - **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**
   Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster, nytta · [SAM-06](../påståenden/2025/SAM-06.yaml)
   > Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.

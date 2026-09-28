@@ -1,0 +1,23 @@
+id: ENE-15
+påstående: Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket
+  44 gånger på ett år, tack vare effektivare programvara och köp av ren el.
+typ: mätning
+vem: Google (Elsworth m.fl., bland dem Jeff Dean)
+datum: '2025-08-21'
+tema:
+- miljö
+- tempo
+källa:
+  url: https://arxiv.org/abs/2508.15734
+  titel: 'Google: Measuring the environmental impact of delivering AI at Google scale (2025)'
+  citat: Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction
+    in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt
+    over one year.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket
+  IEA:s prognoser (ENE-02) tar hänsyn till.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

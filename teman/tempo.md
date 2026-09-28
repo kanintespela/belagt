@@ -4,7 +4,7 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-30 påståenden, de viktigaste först inom varje år.
+33 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -147,12 +147,30 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Den mest genomarbetade akademiska motbilden till superintelligensperspektivet, och mycket spridd. Deras huvudpoäng är att tekniken kan uppfinnas snabbt men att den sprids och införs långsamt. Texten skrevs 2025, så fråga om 2026 års händelser ändrar deras bild.
+- **IEA räknar med att datacentrens elförbrukning mer än fördubblas till omkring 945 terawattimmar 2030, något mer än hela Japans elförbrukning i dag. AI är den viktigaste drivkraften.**
+  IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, tempo · [ENE-02](../påståenden/2025/ENE-02.yaml)
+  > Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se ENE-10.
 - **Google uppger att C2S-Scales upptäckt krävde ett slags villkorat resonemang som uppstod först med modellens storlek, och att företagets mindre modeller inte klarade uppgiften.**
   Google Research och Google DeepMind · 2025-10 · nytta, förmågor, tempo · [NYT-06](../påståenden/2025/NYT-06.yaml)
   > This required a level of conditional reasoning that appeared to be an emergent capability of scale; our smaller models could not resolve this context-dependent effect.
   > — [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/)
 
   *Förbehåll:* Nyckelpåstående för balansen: det komplicerar den enkla gränsdragningen mellan ofarlig smal AI och riskabel generell AI. C2S-Scale är byggd på Gemma, Googles familj av öppna generella modeller. Just den upptäckten hängde alltså på skalan. Partsuppgift.
+- **De globala investeringarna i datacenter har nästan fördubblats sedan 2022 och uppgick till en halv biljon dollar 2024.**
+  IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, tempo · [ENE-11](../påståenden/2025/ENE-11.yaml)
+  > Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07 om AI-företagens aviserade investeringar.
+- **Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.**
+  Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö, tempo · [ENE-15](../påståenden/2025/ENE-15.yaml)
+  > Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.
+  > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
+
+  *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser (ENE-02) tar hänsyn till.
 
 ## 2024
 

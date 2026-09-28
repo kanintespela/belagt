@@ -11,7 +11,8 @@
   "geopolitik": "Kapplöpningen mellan länder, exportkontroller, USA och Kina.",
   "nytta": "Vad AI redan gör för sjukvård, forskning och samhälle.",
   "röster": "Vad forskare, insiders, politiker och andra bedömare säger.",
-  "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande."
+  "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.",
+  "miljö": "Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen."
  },
  "påståenden": [
   {
@@ -272,6 +273,29 @@
    "citera": "Future of Life Institute (öppet brev), 2023-03-22. Pause Giant AI Experiments: An Open Letter - Future of Life Institute. https://futureoflife.org/open-letter/pause-giant-ai-experiments/. Via Belagt TID-07: https://kanintespela.github.io/belagt/#TID-07"
   },
   {
+   "id": "ENE-17",
+   "påstående": "Forskare vid University of California uppskattar att AI globalt kan ta ut 4,2–6,6 miljarder kubikmeter vatten 2027, mer än vad 4–6 Danmark tar ut på ett år.",
+   "typ": "prognos",
+   "vem": "Li, Yang, Islam och Ren (UC Riverside och UT Arlington)",
+   "datum": "2023-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2304.03271",
+    "titel": "Li m.fl.: Making AI Less Thirsty (2023)",
+    "citat": "the global AI demand is projected to account for 4.2 – 6.6 billion cubic meters of water withdrawal in 2027, which is more than the total annual water withdrawal of 4 – 6 Denmark",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Uttag är inte samma sak som förbrukning: det mesta vattnet återförs. Uppskattningen är osäker och bygger på antaganden om hur mycket AI växer. Jämför Googles mätning på 0,26 milliliter per fråga (ENE-14).",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Li, Yang, Islam och Ren (UC Riverside och UT Arlington), 2023-04. Li m.fl.: Making AI Less Thirsty (2023). https://arxiv.org/abs/2304.03271. Via Belagt ENE-17: https://kanintespela.github.io/belagt/#ENE-17"
+  },
+  {
    "id": "SVE-16",
    "påstående": "Polisen varnade redan i maj 2023 för att bedragare i Sverige använt AI-klonade röster, till exempel för att utge sig för att vara en vd och begära en utlandsbetalning.",
    "typ": "händelse",
@@ -341,6 +365,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Marc Andreessen (riskkapitalist, Andreessen Horowitz), 2023-10. The Techno-Optimist Manifesto | Andreessen Horowitz. https://a16z.com/the-techno-optimist-manifesto/. Via Belagt BAL-10: https://kanintespela.github.io/belagt/#BAL-10"
+  },
+  {
+   "id": "ENE-16",
+   "påstående": "Generella generativa AI-modeller drar storleksordningar mer energi än modeller som är tränade för en enda uppgift, även när man tar hänsyn till modellernas storlek.",
+   "typ": "mätning",
+   "vem": "Luccioni och Jernite (Hugging Face) samt Strubell (Carnegie Mellon)",
+   "datum": "2023-11",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2311.16863",
+    "titel": "Luccioni m.fl.: Power Hungry Processing (2023)",
+    "citat": "We find that multi-purpose, generative architectures are orders of magnitude more expensive than task-specific systems for a variety of tasks, even when controlling for the number of model parameters.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför NYT-07 om att PauseAI:s förslag inte omfattar smal AI.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Luccioni och Jernite (Hugging Face) samt Strubell (Carnegie Mellon), 2023-11. Luccioni m.fl.: Power Hungry Processing (2023). https://arxiv.org/abs/2311.16863. Via Belagt ENE-16: https://kanintespela.github.io/belagt/#ENE-16"
   },
   {
    "id": "TID-10",
@@ -958,6 +1005,29 @@
    "citera": "DeepSeek, 2025-01. DeepSeek-R1 (januari 2025). https://arxiv.org/abs/2501.12948. Via Belagt TID-21: https://kanintespela.github.io/belagt/#TID-21"
   },
   {
+   "id": "ENE-13",
+   "påstående": "Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar, en tiondel av den ofta citerade siffran 3 wattimmar.",
+   "typ": "mätning",
+   "vem": "Epoch AI (oberoende forskningsinstitut)",
+   "datum": "2025-02",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use",
+    "titel": "How much energy does ChatGPT use?",
+    "citat": "We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which is ten times less than the older estimate.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Uppskattningen gäller vanliga frågor. Långa texter, resonerande modeller och verktyg som Deep Research drar betydligt mer, och träningen av framtida modeller kan kräva mycket mer energi. Publicerat i februari 2025.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Epoch AI (oberoende forskningsinstitut), 2025-02. How much energy does ChatGPT use?. https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use. Via Belagt ENE-13: https://kanintespela.github.io/belagt/#ENE-13"
+  },
+  {
    "id": "TID-12",
    "påstående": "De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.",
    "typ": "händelse",
@@ -979,6 +1049,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-02-02. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-12: https://kanintespela.github.io/belagt/#TID-12"
+  },
+  {
+   "id": "ENE-18",
+   "påstående": "AAAI:s panelrapport hänvisar till prognoser om att datacenter 2028 kan stå för mellan 7 och 12 procent av USA:s elbehov, beroende på hur snabbt AI växer.",
+   "typ": "prognos",
+   "vem": "AAAI:s ordförandepanel om AI-forskningens framtid",
+   "datum": "2025-03",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf",
+    "titel": "AAAI 2025 Presidential Panel on the Future of AI Research",
+    "citat": "Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity demand, depending on AI growth scenarios",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Den bakomliggande prognosen, troligen från Lawrence Berkeley National Laboratory, har inte gått att hämta. Jämför ENE-05.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "AAAI:s ordförandepanel om AI-forskningens framtid, 2025-03. AAAI 2025 Presidential Panel on the Future of AI Research. https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf. Via Belagt ENE-18: https://kanintespela.github.io/belagt/#ENE-18"
   },
   {
    "id": "FOR-18",
@@ -1148,6 +1241,287 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Arvind Narayanan och Sayash Kapoor, 2025-04. AI as Normal Technology. https://knightcolumbia.org/content/ai-as-normal-technology. Via Belagt BAL-09: https://kanintespela.github.io/belagt/#BAL-09"
+  },
+  {
+   "id": "ENE-01",
+   "påstående": "Datacenter stod 2024 för omkring 1,5 procent av världens elförbrukning, 415 terawattimmar. USA stod för 45 procent av datacentrens förbrukning, Kina för 25 och Europa för 15.",
+   "typ": "mätning",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Data centres accounted for around 1.5% of the world’s electricity consumption in 2024, or 415 terawatt-hours (TWh).",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förbrukningen har vuxit med omkring 12 procent per år sedan 2017, mer än fyra gånger snabbare än den totala elförbrukningen. Siffrorna gäller alla datacenter, inte bara AI.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-01: https://kanintespela.github.io/belagt/#ENE-01"
+  },
+  {
+   "id": "ENE-02",
+   "påstående": "IEA räknar med att datacentrens elförbrukning mer än fördubblas till omkring 945 terawattimmar 2030, något mer än hela Japans elförbrukning i dag. AI är den viktigaste drivkraften.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö",
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se ENE-10.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-02: https://kanintespela.github.io/belagt/#ENE-02"
+  },
+  {
+   "id": "ENE-03",
+   "påstående": "Ett typiskt AI-datacenter drar lika mycket el som 100 000 hushåll, och de största som byggs i dag kommer att dra 20 gånger så mycket.",
+   "typ": "mätning",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "A typical AI-focused data centre consumes as much electricity as 100 000 households, but the largest ones under construction today will consume 20 times as much.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förbrukningen är också geografiskt koncentrerad, vilket gör den lokala påverkan på elnätet mycket större än den globala andelen antyder.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-03: https://kanintespela.github.io/belagt/#ENE-03"
+  },
+  {
+   "id": "ENE-04",
+   "påstående": "Datacenter står enligt IEA för omkring en tiondel av den globala ökningen av elbehovet fram till 2030, mindre än industrimotorer, luftkonditionering eller elbilar.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Data centres account for around one-tenth of global electricity demand growth to 2030, less than the share from industrial motors, air conditioning in homes and offices, or electric vehicles.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I rika länder, där elbehovet länge har stått still, står datacenter däremot för mer än 20 procent av ökningen. Viktig nyans åt båda hållen.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-04: https://kanintespela.github.io/belagt/#ENE-04"
+  },
+  {
+   "id": "ENE-05",
+   "påstående": "IEA bedömer att USA i slutet av 2020-talet kommer att använda mer el till datacenter än till tillverkningen av aluminium, stål, cement, kemikalier och alla andra energiintensiva varor tillsammans.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "By the end of the decade, the country is set to consume more electricity for data centres than for the production of aluminium, steel, cement, chemicals and all other energy-intensive goods combined.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I USA står datacenter för nästan hälften av ökningen av elbehovet fram till 2030.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-05: https://kanintespela.github.io/belagt/#ENE-05"
+  },
+  {
+   "id": "ENE-06",
+   "påstående": "IEA uppskattar att omkring 20 procent av de planerade datacentren kan försenas om inte belastningen på elnäten hanteras.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "around 20% of planned data centre projects could be at risk of delays",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Nya kraftledningar tar fyra till åtta år att bygga i rika länder. IEA varnar för att elbehovet kan konkurrera med andra mål som elektrifiering och överkomliga elpriser.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-06: https://kanintespela.github.io/belagt/#ENE-06"
+  },
+  {
+   "id": "ENE-07",
+   "påstående": "Utsläppen från datacentrens elanvändning väntas öka från 180 miljoner ton i dag till 300 miljoner ton 2035 i IEA:s huvudscenario, och upp till 500 miljoner ton i scenariot med snabbast AI-utveckling.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Emissions from electricity use by data centres grows from 180 million tonnes (Mt) today to 300 Mt in the Base Case by 2035, and up to 500 Mt in the Lift-Off Case.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Det motsvarar mindre än 1,5 procent av energisektorns utsläpp, men datacenter hör till de snabbast växande utsläppskällorna.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-07: https://kanintespela.github.io/belagt/#ENE-07"
+  },
+  {
+   "id": "ENE-08",
+   "påstående": "IEA bedömer att farhågorna om att AI påskyndar klimatförändringarna verkar överdrivna, liksom förhoppningarna om att AI på egen hand ska lösa klimatfrågan.",
+   "typ": "bedömning",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö",
+    "nytta"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Concerns that AI could accelerate climate change appear overstated, as do expectations that AI alone will address the issue",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-08: https://kanintespela.github.io/belagt/#ENE-08"
+  },
+  {
+   "id": "ENE-09",
+   "påstående": "IEA uppskattar att en bred användning av befintliga AI-lösningar kan minska utsläppen med motsvarande omkring 5 procent av de energirelaterade utsläppen 2035, vilket är mycket mer än datacentrens utsläpp men långt ifrån vad som behövs för att lösa klimatfrågan.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö",
+    "nytta"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "We estimate that emissions reductions from the broad application of existing AI-led solutions to be equivalent to around 5% of energy-related emissions in 2035.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förutsätter att hinder för användningen övervinns. Rekyleffekter, till exempel att folk väljer självkörande bilar i stället för kollektivtrafik, kan äta upp en del av vinsten.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-09: https://kanintespela.github.io/belagt/#ENE-09"
+  },
+  {
+   "id": "ENE-10",
+   "påstående": "Beroende på scenario kan datacentrens elbehov 2035 ligga någonstans mellan 700 och 1 700 terawattimmar, enligt IEA.",
+   "typ": "prognos",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "By 2035, the range of data centre electricity demand across our cases spans from 700 to 1 700 TWh.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Spannet speglar osäkerhet om hur snabbt AI sprids, hur mycket effektivare hårdvaran blir och om flaskhalsar i energisektorn löses.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-10: https://kanintespela.github.io/belagt/#ENE-10"
+  },
+  {
+   "id": "ENE-11",
+   "påstående": "De globala investeringarna i datacenter har nästan fördubblats sedan 2022 och uppgick till en halv biljon dollar 2024.",
+   "typ": "mätning",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö",
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07 om AI-företagens aviserade investeringar.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-11: https://kanintespela.github.io/belagt/#ENE-11"
+  },
+  {
+   "id": "ENE-12",
+   "påstående": "Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.",
+   "typ": "mätning",
+   "vem": "IEA (Internationella energirådet), rapporten Energy and AI",
+   "datum": "2025-04",
+   "tema": [
+    "miljö",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://www.iea.org/reports/energy-and-ai/executive-summary",
+    "titel": "Executive summary – Energy and AI – Analysis - IEA",
+    "citat": "China currently accounts for around 99% of global refined gallium supply.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. IEA uppskattar att datacentrens behov av gallium 2030 kan motsvara mer än 10 procent av dagens utbud. Exempel på hur AI:s försörjningskedjor kopplas till geopolitik.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "IEA (Internationella energirådet), rapporten Energy and AI, 2025-04. Executive summary – Energy and AI – Analysis - IEA. https://www.iea.org/reports/energy-and-ai/executive-summary. Via Belagt ENE-12: https://kanintespela.github.io/belagt/#ENE-12"
   },
   {
    "id": "KIN-08",
@@ -1340,6 +1714,53 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu), 2025-08-02. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt SVE-10: https://kanintespela.github.io/belagt/#SVE-10"
+  },
+  {
+   "id": "ENE-14",
+   "påstående": "Google uppger att en typisk textfråga till Gemini drar 0,24 wattimmar och motsvarar fem droppar vatten, mindre än många publicerade uppskattningar.",
+   "typ": "mätning",
+   "vem": "Google (Elsworth m.fl., bland dem Jeff Dean)",
+   "datum": "2025-08-21",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2508.15734",
+    "titel": "Google: Measuring the environmental impact of delivering AI at Google scale (2025)",
+    "citat": "we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially lower than many public estimates",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Partsuppgift, men det är den första mätningen i en verklig driftsmiljö med hela infrastrukturen inräknad. Gäller medianfrågan i text, inte bilder, video eller långa resonemang. Jämför ENE-13.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Google (Elsworth m.fl., bland dem Jeff Dean), 2025-08-21. Google: Measuring the environmental impact of delivering AI at Google scale (2025). https://arxiv.org/abs/2508.15734. Via Belagt ENE-14: https://kanintespela.github.io/belagt/#ENE-14"
+  },
+  {
+   "id": "ENE-15",
+   "påstående": "Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.",
+   "typ": "mätning",
+   "vem": "Google (Elsworth m.fl., bland dem Jeff Dean)",
+   "datum": "2025-08-21",
+   "tema": [
+    "miljö",
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2508.15734",
+    "titel": "Google: Measuring the environmental impact of delivering AI at Google scale (2025)",
+    "citat": "Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser (ENE-02) tar hänsyn till.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Google (Elsworth m.fl., bland dem Jeff Dean), 2025-08-21. Google: Measuring the environmental impact of delivering AI at Google scale (2025). https://arxiv.org/abs/2508.15734. Via Belagt ENE-15: https://kanintespela.github.io/belagt/#ENE-15"
   },
   {
    "id": "SAM-08",

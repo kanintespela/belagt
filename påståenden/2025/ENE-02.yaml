@@ -1,0 +1,22 @@
+id: ENE-02
+påstående: IEA räknar med att datacentrens elförbrukning mer än fördubblas till omkring 945 terawattimmar
+  2030, något mer än hela Japans elförbrukning i dag. AI är den viktigaste drivkraften.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+- tempo
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This
+    is slightly more than Japan’s total electricity consumption today.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är
+  stor, se ENE-10.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: ENE-13
+påstående: Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar,
+  en tiondel av den ofta citerade siffran 3 wattimmar.
+typ: mätning
+vem: Epoch AI (oberoende forskningsinstitut)
+datum: 2025-02
+tema:
+- miljö
+källa:
+  url: https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use
+  titel: How much energy does ChatGPT use?
+  citat: We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which
+    is ten times less than the older estimate.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Uppskattningen gäller vanliga frågor. Långa texter, resonerande modeller och verktyg som Deep
+  Research drar betydligt mer, och träningen av framtida modeller kan kräva mycket mer energi. Publicerat
+  i februari 2025.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

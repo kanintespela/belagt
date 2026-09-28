@@ -1,0 +1,22 @@
+id: ENE-10
+påstående: Beroende på scenario kan datacentrens elbehov 2035 ligga någonstans mellan 700 och 1 700 terawattimmar,
+  enligt IEA.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: By 2035, the range of data centre electricity demand across our cases spans from 700 to 1 700
+    TWh.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Spannet speglar
+  osäkerhet om hur snabbt AI sprids, hur mycket effektivare hårdvaran blir och om flaskhalsar i energisektorn
+  löses.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

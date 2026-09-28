@@ -1,0 +1,22 @@
+id: ENE-11
+påstående: De globala investeringarna i datacenter har nästan fördubblats sedan 2022 och uppgick till
+  en halv biljon dollar 2024.
+typ: mätning
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+- tempo
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion
+    dollars in 2024.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07
+  om AI-företagens aviserade investeringar.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
