@@ -1,0 +1,23 @@
+id: BAL-08
+påstående: Forskarna Arvind Narayanan och Sayash Kapoor menar att AI är en ”normal teknik”, som elektricitet
+  eller internet, och att dess stora samhällseffekter kommer att ta årtionden snarare än år.
+typ: bedömning
+vem: Arvind Narayanan och Sayash Kapoor (datavetare, Princeton)
+datum: 2025-04
+tema:
+- tempo
+- röster
+källa:
+  url: https://knightcolumbia.org/content/ai-as-normal-technology
+  titel: AI as Normal Technology
+  citat: we explain why we think that transformative economic and societal impacts will be slow (on the
+    timescale of decades)
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Den mest genomarbetade akademiska motbilden till superintelligensperspektivet, och mycket spridd.
+  Deras huvudpoäng är att tekniken kan uppfinnas snabbt men att den sprids och införs långsamt. Texten
+  skrevs 2025, så fråga om 2026 års händelser ändrar deras bild.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

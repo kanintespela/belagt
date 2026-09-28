@@ -1,0 +1,20 @@
+id: PAI-01
+påstående: PauseAI föreslår en tillfällig, global paus i träningen av de mest kraftfulla AI-systemen för
+  allmänna ändamål, tills vi vet hur de kan byggas säkert och hållas under demokratisk kontroll.
+typ: förslag
+vem: PauseAI (internationellt)
+datum: '2026-04-05'
+tema:
+- styrning
+källa:
+  url: https://pauseai.info/proposal
+  titel: PauseAI Proposal
+  citat: Implement a temporary pause on the training of the most powerful general AI systems
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Pausen ska vara global, eftersom PauseAI inte tror att länder eller företag pausar ensamma.
+  Förslaget omfattar inte smala AI-system, till exempel bildigenkänning för cancerdiagnostik.
+vikt: 3
+bäst_före: '2027-04-05'
+kontrollerad: '2026-09-28'
+ersatt_av: null

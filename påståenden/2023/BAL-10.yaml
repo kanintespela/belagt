@@ -1,0 +1,24 @@
+id: BAL-10
+påstående: Riskkapitalisten Marc Andreessen skriver att varje inbromsning av AI kommer att kosta liv,
+  och kallar förhindrade dödsfall som AI hade kunnat förhindra för en form av mord.
+typ: bedömning
+vem: Marc Andreessen (riskkapitalist, Andreessen Horowitz)
+datum: 2023-10
+tema:
+- nytta
+- styrning
+- röster
+källa:
+  url: https://a16z.com/the-techno-optimist-manifesto/
+  titel: The Techno-Optimist Manifesto | Andreessen Horowitz
+  citat: We believe any deceleration of AI will cost lives. Deaths that were preventable by the AI that
+    was prevented from existing is a form of murder.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ur ”The Techno-Optimist Manifesto” (2023). Den renaste formen av hållningen ”full fart” i fyra
+  hörn-övningen. Manifestet pekar ut ”existentiell risk” och försiktighetsprincipen som fiender. Andreessen
+  Horowitz investerar i AI-företag.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

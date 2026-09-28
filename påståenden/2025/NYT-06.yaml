@@ -1,0 +1,24 @@
+id: NYT-06
+påstående: Google uppger att C2S-Scales upptäckt krävde ett slags villkorat resonemang som uppstod först
+  med modellens storlek, och att företagets mindre modeller inte klarade uppgiften.
+typ: bedömning
+vem: Google Research och Google DeepMind
+datum: 2025-10
+tema:
+- nytta
+- förmågor
+- tempo
+källa:
+  url: https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/
+  titel: How a Gemma model helped discover a new potential cancer therapy pathway
+  citat: This required a level of conditional reasoning that appeared to be an emergent capability of
+    scale; our smaller models could not resolve this context-dependent effect.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: 'Nyckelpåstående för balansen: det komplicerar den enkla gränsdragningen mellan ofarlig smal
+  AI och riskabel generell AI. C2S-Scale är byggd på Gemma, Googles familj av öppna generella modeller.
+  Just den upptäckten hängde alltså på skalan. Partsuppgift.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: NYT-08
+påstående: PauseAI menar att de farligaste modellerna är generella modeller som förstår språk och klarar
+  många olika slags uppgifter, och nämner språkmodeller och agentsystem byggda på dem som dagens mest
+  generella.
+typ: bedömning
+vem: PauseAI
+datum: 2026-09
+tema:
+- styrning
+källa:
+  url: https://pauseai.info/proposal
+  titel: PauseAI Proposal
+  citat: The most dangerous models will be *general* AI models that can understand language and complete
+    a wide range of tasks across many different domains.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Visar var PauseAI drar gränsen. Ställ mot NYT-06: C2S-Scale är byggd på en generell modell
+  och upptäckten hängde på skalan, så gränsen är inte skarp. Sidan uppdateras löpande, hämtad 2026-09-24.'
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

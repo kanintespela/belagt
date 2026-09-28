@@ -1,0 +1,21 @@
+id: TID-09
+påstående: I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan
+  den svarar, och som blev bättre ju längre den fick tänka.
+typ: händelse
+vem: OpenAI
+datum: '2024-09-12'
+tema:
+- förmågor
+- tempo
+källa:
+  url: https://openai.com/index/learning-to-reason-with-llms/
+  titel: Learning to reason with LLMs
+  citat: the performance of o1 consistently improves with more reinforcement learning (train-time compute)
+    and with more time spent thinking (test-time compute).
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se TID-03).'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

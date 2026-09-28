@@ -1,0 +1,21 @@
+id: BAL-12
+påstående: Enligt The Guardian avfärdade Donald Trump i september 2026 oron för att AI kan utrota mänskligheten
+  och sa att folk tar upp saker som inte kommer att hända.
+typ: händelse
+vem: The Guardian (om Donald Trump)
+datum: 2026-09
+tema:
+- geopolitik
+- styrning
+källa:
+  url: https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown
+  titel: '‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown'
+  citat: saying people were “bringing up things that won’t happen”
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Andrahandsuppgift via The Guardian. USA:s finansminister Scott Bessent citeras i samma artikel:
+  ”nothing else would matter” om Kina drar ifrån.'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

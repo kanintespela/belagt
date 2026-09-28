@@ -1,0 +1,23 @@
+id: SVE-06
+påstående: Enfrågepartiet RegleraAI.nu ställde upp i riksdagsvalet 2026 med kravet att Sverige genast
+  ska verka för en global paus i hänsynslös AI-utveckling. Partiet grundades av AI-säkerhetsingenjören
+  Axel Wennström, och Olle Häggström stod som nummer två på riksdagslistan.
+typ: händelse
+vem: Olle Häggström (blogginlägget ”Häggström hävdar”)
+datum: 2026-08
+tema:
+- styrning
+- röster
+källa:
+  url: https://haggstrom.blogspot.com/2026/08/det-nya-enfragepartiet-med-inriktning.html
+  titel: Det nya enfrågepartiet med inriktning på att avvärja AI-apokalypsen
+  citat: Sverige måste genast verka för en global paus på hänsynslös AI-utveckling.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Häggström rättar själv SvD och News55, som skrev att han grundat partiet. Det gjorde han inte.
+  Hämta partiets röstetal från Valmyndigheten, en kommentar på bloggen uppger 390 röster men det är inte
+  kontrollerat. PauseAI och RegleraAI.nu är olika organisationer.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

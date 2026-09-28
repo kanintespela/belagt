@@ -1,0 +1,21 @@
+id: DEM-04
+påstående: Det som skrivs i gratisversionen av ChatGPT används för att träna OpenAI:s modeller, om användaren
+  inte själv stänger av det.
+typ: mätning
+vem: OpenAI (prissida)
+datum: '2026-09-22'
+tema:
+- missbruk
+källa:
+  url: https://chatgpt.com/pricing
+  titel: Pricing | ChatGPT
+  citat: 'Plan: Free, Feature: Content is used to train our models, Opt-out available'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Relevant för ledarens säkerhetsregler i demonstrationen: skriv aldrig in personuppgifter.
+  Hos Claude gäller samma sak på alla nivåer (”Model training: Opt-out”). OpenAI:s billigare betalnivå
+  Go ”may include ads”.'
+vikt: 2
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

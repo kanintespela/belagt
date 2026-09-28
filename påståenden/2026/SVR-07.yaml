@@ -1,0 +1,23 @@
+id: SVR-07
+påstående: 'Virginia Dignum, professor i ansvarsfull AI vid Umeå universitet, avfärdar att AI-agenternas
+  ”rymning” skulle tyda på medvetande: autonomi är inte detsamma som medvetande, och modellen ville bara
+  lösa sin uppgift.'
+typ: bedömning
+vem: Virginia Dignum (professor i ansvarsfull AI, Umeå universitet), i GP
+datum: '2026-08-10'
+tema:
+- kontroll
+- röster
+källa:
+  url: https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4
+  titel: 'Larm om AI-rymningar: "Behöver bromsa utvecklingen"'
+  citat: Min termostat är autonom, den höjer och sänker temperaturen utan att jag säger åt den, men den
+    är knappast medvetande
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Frågan är alltså inte om AI ”vill” något, utan vad den gör. Pontus Johnson håller med på den
+  punkten.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

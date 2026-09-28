@@ -1,0 +1,23 @@
+id: BAL-07
+påstående: LeCun anser att dagens AI fortfarande är dålig på att resonera och att den inte kommer att
+  nå mänsklig nivå på länge. Han påpekar att AI-forskare historiskt har varit för optimistiska om när
+  det ska ske.
+typ: prognos
+vem: Yann LeCun
+datum: '2026-05-04'
+tema:
+- tempo
+- förmågor
+- röster
+källa:
+  url: https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom
+  titel: AI godfather Yann LeCun's advice on college, work and breaking through AI hype
+  citat: this is not going to take us to human-level AI for quite a while
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Motbild till Hassabis (J3ljHm57yU0-37). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet
+  och Hugging Face-rapporten.
+vikt: 3
+bäst_före: '2027-05-04'
+kontrollerad: '2026-09-28'
+ersatt_av: null

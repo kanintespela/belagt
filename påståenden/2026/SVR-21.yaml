@@ -1,0 +1,20 @@
+id: SVR-21
+påstående: I juni 2026 utsåg regeringen PTS, IMY, Finansinspektionen, Läkemedelsverket och Swedac till
+  nationella behöriga myndigheter enligt EU:s AI-förordning.
+typ: händelse
+vem: Regeringen (regeringsuppdrag)
+datum: 2026-06
+tema:
+- styrning
+källa:
+  url: https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/
+  titel: Sveriges AI-strategi
+  citat: i uppdrag att vara nationella behöriga myndigheter enligt AI-förordningen
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Visar hur AI-förordningen genomförs i Sverige. De mest avancerade modellerna tillsynas dock
+  av EU:s AI-byrå, inte av svenska myndigheter (SVE-11).
+vikt: 2
+bäst_före: '2027-06-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

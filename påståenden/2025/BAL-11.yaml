@@ -1,0 +1,21 @@
+id: BAL-11
+påstående: USA:s regering har som uttalat mål att vinna AI-kapplöpningen och uppnå global dominans, bland
+  annat genom att ta bort regler som anses hämma utvecklingen.
+typ: förslag
+vem: Vita huset (America's AI Action Plan)
+datum: 2025-07
+tema:
+- geopolitik
+- styrning
+källa:
+  url: https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf
+  titel: 'USA: America''s AI Action Plan (juli 2025)'
+  citat: The United States is in a race to achieve global dominance in artificial intelligence (AI).
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”.
+  Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
+vikt: 2
+bäst_före: '2027-01-20'
+kontrollerad: '2026-09-28'
+ersatt_av: null

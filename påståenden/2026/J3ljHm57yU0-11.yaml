@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-11
+påstående: OpenAI:s forskningschef säger att interna resultat får honom att starkt förvänta sig att den
+  nuvarande utvecklingstakten kan fortsätta in i rekursiv självförbättring, där AI allt mer driver sin
+  egen utveckling.
+typ: prognos
+vem: Jakub Pachocki (forskningschef, OpenAI)
+datum: '2026-09-06'
+tema:
+- självförbättring
+- röster
+källa:
+  url: https://openai.com/index/an-alien-mind/
+  titel: An Alien Mind
+  citat: Based on internal results, I have a strong expectation that this speed of progress could be sustained
+    into recursive self-improvement.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: null
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

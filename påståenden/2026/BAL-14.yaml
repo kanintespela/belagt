@@ -1,0 +1,21 @@
+id: BAL-14
+påstående: 'AI-forskaren Stuart Russell kallar Amodeis plan helt bakvänd: man ska först bestämma säkerhetskraven
+  och bara gå vidare när de är uppfyllda, som när läkemedel prövas.'
+typ: bedömning
+vem: Stuart Russell (professor i datavetenskap, UC Berkeley), enligt The Guardian
+datum: 2026-09
+tema:
+- styrning
+- röster
+källa:
+  url: https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown
+  titel: '‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown'
+  citat: We set the safety requirements and further progress occurs only when they are met.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Kritik från andra hållet: Amodeis förslag anses för svagt. Russell jämför med ett läkemedelsföretag
+  som lanserar ett nytt cancerläkemedel varje år och hoppas att prövningarna hinner med.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

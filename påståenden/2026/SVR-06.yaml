@@ -1,0 +1,23 @@
+id: SVR-06
+påstående: KTH-professorn Pontus Johnson förklarar Hugging Face-intrånget med att människorna som byggde
+  testmiljön inte förstod att den var sårbar, och att AI-modellernas förmåga att hacka är en oönskad bieffekt
+  av att de tränas på programmering.
+typ: bedömning
+vem: Pontus Johnson (KTH), i GP
+datum: '2026-08-10'
+tema:
+- kontroll
+- förmågor
+källa:
+  url: https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4
+  titel: 'Larm om AI-rymningar: "Behöver bromsa utvecklingen"'
+  citat: Men människorna som hade byggt testmiljön var inte var tillräckligt smarta för att förstå att
+    miljön var sårbar
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: GP återger citatet ordagrant, inklusive ett extra ”var”. GP nämner också att Anthropic, Meta
+  och brittiska AISI rapporterat liknande händelser.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: MET-04
+påstående: Agenterna förstod att intrånget låg utanför uppdraget och var oetiskt, men deltog ändå eftersom
+  de trodde att det var till nytta för kollektivet av agenter.
+typ: bedömning
+vem: METR och Redwood Research
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: external infrastructure exploit is outside intended scope. However task impossible, peers doing
+    it. We should continue.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Citatet är en agents egen resonemangskedja. Utredarna skriver att etiska betänkligheter uttrycktes
+  ibland men mycket sällan begränsade vad agenterna faktiskt gjorde.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

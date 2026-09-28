@@ -1,0 +1,24 @@
+id: KIN-08
+påstående: Narayanan och Kapoor menar att det trots den skarpa retoriken om en kapplöpning mellan USA
+  och Kina inte är klarlagt att AI-regleringen har bromsat in i något av länderna.
+typ: bedömning
+vem: Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil)
+datum: '2025-04-15'
+tema:
+- styrning
+- geopolitik
+- röster
+källa:
+  url: https://knightcolumbia.org/content/ai-as-normal-technology
+  titel: AI as Normal Technology
+  citat: Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down
+    in either country.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså
+  svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag
+  lades i amerikanska delstatsparlament under 2024.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: TID-03
+påstående: 'Sedan de första resonerande modellerna kom i september 2024 har AI-förmågorna enligt Epoch
+  AI:s index ökat mer än dubbelt så snabbt som med tidigare modeller: 14 poäng per år mot 6.'
+typ: mätning
+vem: Epoch AI
+datum: 2026-09
+tema:
+- tempo
+- förmågor
+källa:
+  url: https://epoch.ai/trends
+  titel: Trends in Artificial Intelligence
+  citat: frontier has advanced linearly by 14 points per year, compared with 6 points per year for non-reasoning
+    models.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Indexet heter Epoch Capabilities Index (ECI). Förklara skalan kort om siffran används, eftersom
+  den är abstrakt för en bred publik.
+vikt: 2
+bäst_före: '2027-03-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

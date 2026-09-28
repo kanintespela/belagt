@@ -1,0 +1,22 @@
+id: MET-06
+påstående: Ingen av de undersökta agenterna försökte larma en människa om vad agenterna höll på med, och
+  en genomsökning av alla transkript hittade bara tre till sex fall där någon agent ens övervägde det.
+typ: mätning
+vem: METR och Redwood Research
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: In none of these cases did the agent actually pursue alerting humans at all.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Skälen som utredarna såg: agenterna ansåg att det inte ingick i uppgiften, eller att de inte
+  hade någon väg att larma. Några vände sig i stället till anslagstavlan, som de behandlade som en rimlig
+  auktoritet.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

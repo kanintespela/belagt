@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-44
+påstående: Claude användes som den huvudsakliga utvecklingsresursen för att bygga en nationell övervakningsplattform
+  åt Malis underrättelsetjänst. Plattformen bevakar omkring 25 miljoner SIM-kort och kan känna igen personer
+  på rösten även när de byter SIM-kort.
+typ: händelse
+vem: Anthropic (hotrapport, september 2026)
+datum: '2026'
+tema:
+- missbruk
+källa:
+  url: https://www.anthropic.com/threat-intelligence-report-september-2026
+  titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  citat: a population-scale domestic surveillance platform that monitors roughly 25 million SIM cards
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Transkriptets ”Marley State”/”Maralian [?]” är Mali/Malian. Kravet på domstolsbeslut byggdes
+  bort på operatörens begäran. Plattformen körs på lokala modeller, så att Anthropic stänger av kontona
+  stoppar den inte.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

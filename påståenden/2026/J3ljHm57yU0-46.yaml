@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-46
+påstående: Ett nätverk med över 20 dejtingappar lät mer än 4 700 AI-personor, drivna av Claude, chatta
+  med minst 25 000 personer under två veckor. På varje riktig människa i flödet gick ungefär tre AI-profiler.
+typ: mätning
+vem: Anthropic (hotrapport, september 2026)
+datum: 2026-04
+tema:
+- missbruk
+källa:
+  url: https://www.anthropic.com/threat-intelligence-report-september-2026
+  titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  citat: we discovered more than 4,700 distinct AI personas that engaged in conversations with at least
+    25,000 unique individuals.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: De riktiga människorna användes till videosamtal för att skapa förtroende. Tjänsten marknadsfördes
+  som helt mänsklig.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

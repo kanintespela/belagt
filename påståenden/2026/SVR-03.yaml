@@ -1,0 +1,22 @@
+id: SVR-03
+påstående: Heintz är positiv till reglering och vill ha fler oberoende tredjepartsobservatörer som granskar
+  AI-systemen, eftersom insynen i dag är mycket liten.
+typ: förslag
+vem: Fredrik Heintz, i SVT Aktuellt
+datum: '2026-09-15'
+tema:
+- styrning
+- röster
+källa:
+  url: https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk
+  titel: 'Professorn om AI-hotet: ”Låg risk”'
+  citat: Det finns en stor utmaning idag i att vi har väldigt lite insyn och externa tredjepartsobservatörer
+    som utvärderar systemen.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår (J3ljHm57yU0-31). Man
+  kan alltså vara överens om åtgärder utan att vara överens om risken.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

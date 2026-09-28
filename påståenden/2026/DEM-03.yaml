@@ -1,0 +1,21 @@
+id: DEM-03
+påstående: Googles dyraste AI-abonnemang kostar 2 599 kronor i månaden i Sverige. Gratisnivån ger den
+  snabba modellen 3.6 Flash och bara varierande tillgång till den ledande modellen 3.1 Pro.
+typ: mätning
+vem: Google (Geminis prenumerationssida, svensk version)
+datum: '2026-09-22'
+tema:
+- förmågor
+- nytta
+källa:
+  url: https://gemini.google/subscriptions/
+  titel: Google AI Pro och Ultra — få åtkomst till Gemini 3.1 Pro med mera
+  citat: '2 599 SEK /månad: 20 gånger högre användningsgränser än med AI Pro'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Visar hur stor prisskillnaden är mellan gratisnivån och de dyraste abonnemangen. Priser och
+  villkor ändras ofta.
+vikt: 2
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

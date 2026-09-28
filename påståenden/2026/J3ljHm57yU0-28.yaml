@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-28
+påstående: Anthropics vd Dario Amodei skriver att takten i förbättringen av AI-modellernas förmågor måste
+  sänkas. Han betonar att det inte handlar om att stoppa träning eller teknisk utveckling.
+typ: förslag
+vem: Dario Amodei (vd, Anthropic)
+datum: 2026-09
+tema:
+- styrning
+- röster
+källa:
+  url: https://darioamodei.com/post/we-must-pace-the-frontier
+  titel: Dario Amodei — We Must Pace the Frontier
+  citat: We must slow the pace at which we improve the capabilities of AI models.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Essän heter ”We Must Pace the Frontier”. Hämtningsverktyget gissade datum 2025-06-05, vilket
+  är fel. Essän kom i september 2026.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

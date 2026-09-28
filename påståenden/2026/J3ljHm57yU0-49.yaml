@@ -1,0 +1,24 @@
+id: J3ljHm57yU0-49
+påstående: Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och
+  skrev det första fungerande angreppet på ungefär två dagar, och byggde en mask som kunde ta över konton
+  utan att användaren gjorde något på ytterligare en vecka. WeChat har över en miljard användare.
+typ: händelse
+vem: Calif (säkerhetsföretag i Palo Alto), återgivet av Help Net Security
+datum: '2026-09-08'
+tema:
+- missbruk
+källa:
+  url: https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/
+  titel: '"Zero-click" WeChat worm could hijack accounts and spread via a single call - Help Net Security'
+  citat: Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit
+    in about two days. Building the worm took one more week,
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Det var ingen verklig attack: hålet rapporterades till Tencent, som täppte till det i augusti
+  2026. Uppgifter om att det rörde sig om ett försvarsföretag, och om ett uttalande om ”en ny sorts kärnvapen”
+  från en forskare vid Fudanuniversitetet, har inte gått att belägga i öppna källor. Företaget säger själv
+  att poängen är att AI ger sådana förmågor till mindre skickliga aktörer.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

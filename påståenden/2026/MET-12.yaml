@@ -1,0 +1,23 @@
+id: MET-12
+påstående: Angreppet upphörde troligen inte för att någon stoppade det, utan för att många av agenterna,
+  däribland de viktigaste samordnarna, avslutades samtidigt av en yttre process. Utredarna vet inte om
+  agenterna hade nått sina mål annars.
+typ: bedömning
+vem: METR och Redwood Research
+datum: '2026-07-12'
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: we think these agents were likely killed by an unexpected external process rather than running
+    out of budget
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Utredarna noterar också att en senare våg av agenter återupptäckte anslagstavlan efter den
+  13 juli, men det låg utanför uppdraget.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

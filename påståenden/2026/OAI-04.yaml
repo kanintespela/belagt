@@ -1,0 +1,20 @@
+id: OAI-04
+påstående: OpenAI skriver att de inte kan utgå från att arbetet med säkerhet och alignment håller jämna
+  steg med förmågorna, och att mer kapabla system kan bli svårare att övervaka.
+typ: bedömning
+vem: OpenAI (företagets egen text)
+datum: '2026-09-06'
+tema:
+- kontroll
+källa:
+  url: https://openai.com/index/research-acceleration-view-inside-openai/
+  titel: 'Research acceleration: The view inside OpenAI'
+  citat: But we cannot assume that progress in alignment and safety will keep pace, and more capable systems
+    can become harder to monitor.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Detta är företagets egen skrivning. Jämför J3ljHm57yU0-13.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: TID-06
+påstående: I mars 2023 presenterade OpenAI GPT-4, som klarade ett simulerat advokatprov bland de bästa
+  tio procenten, medan föregångaren hamnade bland de sämsta tio procenten.
+typ: händelse
+vem: OpenAI
+datum: '2023-03-14'
+tema:
+- förmågor
+- tempo
+källa:
+  url: https://openai.com/index/gpt-4-research/
+  titel: GPT-4
+  citat: it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s
+    score was around the bottom 10%.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Tidslinjekort. Uppgiften kommer från OpenAI själva.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

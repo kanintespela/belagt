@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-22
+påstående: Efter intrånget pausade OpenAI förstärkningsinlärningen av sina senaste modeller, och företagets
+  största planerade träningskörning ligger på is tills säkerhetsåtgärderna har kontrollerats.
+typ: händelse
+vem: OpenAI
+datum: '2026-08-26'
+tema:
+- styrning
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: Our largest planned frontier RL run remains on hold while we conduct smaller-scale training and
+    evaluations
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon. Ett faktiskt exempel på en frivillig paus hos ett ledande labb, så det
+  är högaktuellt för PauseAI. Kontrollera om pausen fortfarande gäller.
+vikt: 3
+bäst_före: '2026-11-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

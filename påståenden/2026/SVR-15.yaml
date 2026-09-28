@@ -1,0 +1,20 @@
+id: SVR-15
+påstående: Samma undersökning visar att bara en av fyra svenskar känner hopp inför AI:s betydelse för
+  mänsklighetens framtid, och att oron är störst bland unga.
+typ: mätning
+vem: Futurion och Seismic Foundation, återgiven av IT&Telekomföretagen
+datum: '2026-06-24'
+tema:
+- röster
+källa:
+  url: https://itbranschen.com/sv/svenskar-vill-se-hardare-ai-reglering/
+  titel: Svenskar tror att AI kommer att förvärra nästan allt
+  citat: Bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens framtid.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler
+  ser möjligheter än risker.
+vikt: 3
+bäst_före: '2027-06-24'
+kontrollerad: '2026-09-28'
+ersatt_av: null

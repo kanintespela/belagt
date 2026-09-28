@@ -1,0 +1,22 @@
+id: NYT-03
+påstående: 'MASAI-studiens slutresultat visade 12 procent färre intervallcancrar med AI-stödd screening,
+  och de som ändå uppstod hade en gynnsammare profil: 27 procent färre aggressiva subtyper.'
+typ: mätning
+vem: Kristina Lång (docent i diagnostisk radiologi, Lunds universitet) och MASAI-studien
+datum: 2026-02
+tema:
+- nytta
+källa:
+  url: https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases
+  titel: 'AI support in breast cancer screening: Fewer missed cancer cases'
+  citat: Overall, there were 12 per cent fewer interval cancers with AI-supported screening compared to
+    standard screening (82 compared to 93).
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Intervallcancer är cancer som upptäcks mellan två screeningtillfällen och är typiskt mer aggressiv.
+  Lång kallar den frekvensen ett centralt mått på hur effektiv en screeningmetod är. Känsligheten ökade
+  utan fler falsklarm.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

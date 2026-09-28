@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-08
+påstående: OpenAI uppger att ett internt AI-system har löst Navier–Stokes-problemet, ett av matematikens
+  sju millennieproblem, med ett bevis som också är formaliserat och maskinkontrollerat i Lean.
+typ: händelse
+vem: OpenAI
+datum: '2026-09-08'
+tema:
+- förmågor
+källa:
+  url: https://openai.com/index/navier-stokes-solution/
+  titel: On the Navier–Stokes Millennium Prize Problem
+  citat: This resolves the Navier–Stokes Millennium Prize problem by establishing statement “C” (and also
+    “D”) in the
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Uppgiften kommer från OpenAI själva. Vid publiceringen fanns ingen oberoende granskning av
+  matematiker. OpenAI gör inte anspråk på priset. Kontrollera om matematiker har godtagit beviset.
+vikt: 3
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

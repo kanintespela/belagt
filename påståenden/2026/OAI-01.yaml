@@ -1,0 +1,23 @@
+id: OAI-01
+påstående: OpenAI skriver att allmänheten behöver förstå hur de mest kapabla systemen utvecklas inne i
+  de ledande AI-labben, och inte bara få veta vilka risker och incidenter som finns.
+typ: bedömning
+vem: OpenAI (företagets egen text)
+datum: '2026-09-06'
+tema:
+- styrning
+- röster
+källa:
+  url: https://openai.com/index/research-acceleration-view-inside-openai/
+  titel: 'Research acceleration: The view inside OpenAI'
+  citat: We believe the public also needs to understand how the most capable systems are developing, and
+    how they are driving research progress, inside of frontier labs.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: OpenAI motiverar med att AGI måste styras demokratiskt, vilket kräver en informerad allmänhet.
+  Det är företagets eget skäl till att publicera siffrorna nedan, och samtidigt ett erkännande av att
+  glappet mellan insidan och utsidan finns.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,23 @@
+id: PAI-02
+påstående: PauseAI vill att pausen regleras i ett internationellt avtal där USA och Kina ingår, med en
+  internationell AI-säkerhetsmyndighet efter förebild från IAEA som godkänner stora träningskörningar
+  och lanseringar.
+typ: förslag
+vem: PauseAI
+datum: '2026-04-05'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://pauseai.info/proposal
+  titel: PauseAI Proposal
+  citat: 'Inspired by the International Atomic Energy Agency (IAEA), this agency will be responsible for:'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Myndigheten ska kontrollera efterlevnaden, bland annat genom att spåra AI-chip, övervaka energiförbrukning
+  och inspektera datacenter. Mer kraftfull AI ska få byggas först när säkerhetsproblemen är tillräckligt
+  lösta.
+vikt: 3
+bäst_före: '2027-04-05'
+kontrollerad: '2026-09-28'
+ersatt_av: null

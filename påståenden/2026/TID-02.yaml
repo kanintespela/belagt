@@ -1,0 +1,20 @@
+id: TID-02
+påstående: 'Samtidigt blir algoritmerna effektivare: enligt Epoch AI krävs varje år ungefär en tredjedel
+  så mycket beräkningskraft för att nå samma prestanda.'
+typ: mätning
+vem: Epoch AI
+datum: 2026-09
+tema:
+- tempo
+källa:
+  url: https://epoch.ai/trends
+  titel: Trends in Artificial Intelligence
+  citat: each year, the same performance can be achieved with 3× less compute.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Epoch anger också att kostnaden för träning ökar ungefär 3,5 gånger per år och att den största
+  kända AI-datahallen motsvarar 1,1 miljoner H100-chip. Enligt Epoch ser trenderna ut att hålla till 2030.
+vikt: 2
+bäst_före: '2027-03-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

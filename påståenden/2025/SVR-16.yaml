@@ -1,0 +1,21 @@
+id: SVR-16
+påstående: Andelen svenskar 18–84 år som använder AI-verktyg har ökat från 29 procent 2023 till 39 procent
+  2025. Det betyder att mer än hälften av befolkningen ännu inte har använt dem.
+typ: mätning
+vem: Internetstiftelsen, Svenskarna och internet 2025
+datum: '2025'
+tema:
+- förmågor
+källa:
+  url: https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/
+  titel: AI – Artificiell intelligens | Svenskarna och internet
+  citat: från år 2023 (29%), 2024 (34%) till och med 2025 (39%).
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Många har alltså aldrig provat AI, och ännu färre har provat de betalda versionerna. Användningen
+  är ojämnt fördelad, till exempel 56 procent bland tjänstemän mot 30 procent bland arbetare och 11 procent
+  bland pensionärer.
+vikt: 2
+bäst_före: '2026-12-31'
+kontrollerad: '2026-09-28'
+ersatt_av: null

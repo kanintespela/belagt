@@ -1,0 +1,22 @@
+id: SVE-08
+påstående: Chalmersforskarna varnar för att ett stopp för AI-forskningen skulle bromsa nyttan, till exempel
+  för läkemedel och bilddiagnostik, och kunna flytta utvecklingen till slutna miljöer där säkerhetsarbetet
+  blir svårare.
+typ: bedömning
+vem: Berglund, Dubhashi, Johansson och Stucki (Chalmers)
+datum: '2025'
+tema:
+- nytta
+- styrning
+källa:
+  url: https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406
+  titel: ”AI-debatten bör bygga på vetenskap – inte på spekulation”
+  citat: Samtidigt skulle utvecklingen sannolikt flytta från öppna och granskningsbara till slutna miljöer,
+    vilket skulle öka maktkoncentration och paradoxalt nog försvåra säkerhetsarbete.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ett av de viktigaste sakliga argumenten mot en paus.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

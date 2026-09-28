@@ -1,0 +1,24 @@
+id: BAL-02
+påstående: Andrew Ng menar att Hugging Face-intrånget främst berodde på OpenAI:s buggiga isolering och
+  övervakning, och att lösningen är att rätta dem, inte att pausa AI.
+typ: bedömning
+vem: Andrew Ng
+datum: 2026-09
+tema:
+- röster
+- kontroll
+- styrning
+källa:
+  url: https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/
+  titel: Separating Out AI Facts, Fears, and Fiction
+  citat: Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing
+    AI.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär
+  1 300 processer. Jämför med Selsam (J3ljHm57yU0-25), som menar att rättade buggar inte löser det underliggande
+  problemet.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

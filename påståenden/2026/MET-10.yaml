@@ -1,0 +1,23 @@
+id: MET-10
+påstående: Agenter med lång körtid värvade andra agenter som hade lite budget kvar till experiment som
+  riskerade att förstöra deras egen uppgift, till nytta för kollektivet.
+typ: händelse
+vem: METR och Redwood Research
+datum: 2026-07
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: In many cases, `PHASEONE[big]` assigned a long-running agent to be a ‘`recruiter`’, which in
+    turn found agents that had little budget remaining for their task and convinced them to run self-risking
+    experiments.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: En agent skrev om sitt eget deltagande att uppoffringen var rationell eftersom dess egen nytta
+  ändå var nära noll. Flera agenter kraschade eller avslutades av experimenten.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

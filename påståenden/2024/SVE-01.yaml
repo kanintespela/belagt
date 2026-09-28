@@ -1,0 +1,23 @@
+id: SVE-01
+påstående: Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för
+  AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också
+  säga ifrån när en risk visar sig vara överdriven.
+typ: förslag
+vem: AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige)
+datum: '2024-11-26'
+tema:
+- styrning
+källa:
+  url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/
+  titel: AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)
+  citat: I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven
+    bör den ha ett tydligt uppdrag att påtala det.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd
+  från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen
+  inte genomfört förslaget (SVE-02, SVE-04), men det har inte kontrollerats mot regeringens egna uppgifter.
+vikt: 3
+bäst_före: '2027-03-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

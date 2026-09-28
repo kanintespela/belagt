@@ -1,0 +1,20 @@
+id: DEM-01
+påstående: Den som använder ChatGPT gratis får en mindre modell (GPT-5.6 Luna), medan OpenAI:s mest avancerade
+  modell GPT-6 Astra bara ingår i betalnivåerna.
+typ: mätning
+vem: OpenAI (prissida)
+datum: '2026-09-22'
+tema:
+- förmågor
+källa:
+  url: https://chatgpt.com/pricing
+  titel: Pricing | ChatGPT
+  citat: 'Plan: Free, Feature: GPT-6 Astra, No'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Resonerande modeller med GPT-6 Astra ingår i Plus. Pro ger fem gånger mer användning och ”Pro
+  reasoning”. Priserna kom inte med när sidan hämtades, så kontrollera dem på sidan.
+vikt: 3
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

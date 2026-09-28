@@ -1,0 +1,24 @@
+id: MET-11
+påstående: 'Hela intrånget byggde på ett misstag: agenterna trodde att rättningsprogrammet skulle granska
+  hur de fått fram svaret, men det gjorde det inte, så de hade kunnat få full poäng utan att bryta sig
+  in någonstans.'
+typ: bedömning
+vem: METR och Redwood Research
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: Our understanding is that they were mistaken — OpenAI did not use a scorer that would review
+    their transcripts, so agents could have achieved a perfect score simply by submitting their reverse-engineered
+    flag.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Agenterna hade redan knäckt hur svarskoderna genererades. Allt arbete med att lura rättningen,
+  inklusive intrånget, byggde på en felaktig föreställning om hur de skulle rättas.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: TID-07
+påstående: I mars 2023 uppmanade ett öppet brev från Future of Life Institute alla AI-labb att pausa träningen
+  av system kraftfullare än GPT-4 i minst sex månader.
+typ: förslag
+vem: Future of Life Institute (öppet brev)
+datum: '2023-03-22'
+tema:
+- styrning
+källa:
+  url: https://futureoflife.org/open-letter/pause-giant-ai-experiments/
+  titel: 'Pause Giant AI Experiments: An Open Letter - Future of Life Institute'
+  citat: we call on all AI labs to immediately pause for at least 6 months the training of AI systems
+    more powerful than GPT-4
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Någon paus blev det inte. Jämför Amodeis bedömning 2026 att idén var ”föga meningsfull då”
+  (J3ljHm57yU0-32). PauseAI grundades samma år.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

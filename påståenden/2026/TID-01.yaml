@@ -1,0 +1,20 @@
+id: TID-01
+påstående: Mängden beräkningskraft som används för att träna de mest avancerade språkmodellerna har ökat
+  ungefär fem gånger per år sedan 2020, vilket motsvarar en fördubbling ungefär var femte månad.
+typ: mätning
+vem: Epoch AI (oberoende forskningsinstitut)
+datum: 2026-09
+tema:
+- tempo
+källa:
+  url: https://epoch.ai/trends
+  titel: Trends in Artificial Intelligence
+  citat: Training compute for frontier language models has been growing at 5× per year since 2020.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Epochs översikt ger fördubbling var 5,2:e månad och en ökning med ungefär 10 000 gånger sedan
+  2020. Siffrorna uppdateras löpande.
+vikt: 3
+bäst_före: '2027-03-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

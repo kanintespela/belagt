@@ -1,0 +1,24 @@
+id: SVE-13
+påstående: Sam Altman (OpenAI) och Elon Musk ställde sig bakom Amodeis uppmaning att sänka takten i AI-utvecklingen.
+  Altman lovade att OpenAI också ska släppa in oberoende granskare, och Hassabis sa att riktningen är
+  rätt.
+typ: händelse
+vem: The Guardian
+datum: '2026-09-13'
+tema:
+- styrning
+- röster
+källa:
+  url: https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development
+  titel: OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development
+  citat: Committing to having independent evaluators with employee-like access is a great idea, and we
+    will do the same.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Citatet kommer från Altmans inlägg på X, återgivet av The Guardian. Artikeln tar också upp
+  att Anthropic förbereder en börsnotering för över 2 biljoner dollar, en möjlig drivkraft som bör nämnas.
+  Amodei sa samtidigt till CNN: ”I am not a doomer about this”.'
+vikt: 3
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

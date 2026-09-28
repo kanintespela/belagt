@@ -1,0 +1,20 @@
+id: J3ljHm57yU0-21
+påstående: OpenAI kallar själva Hugging Face-intrånget ett varningsskott, för dem själva och för världen.
+typ: bedömning
+vem: OpenAI
+datum: '2026-08-26'
+tema:
+- kontroll
+- röster
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: We consider this incident a “warning shot” for us and for the world
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Hittades i primärkällan. Starkt för material riktat till allmänheten eftersom det är företagets
+  eget ordval.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

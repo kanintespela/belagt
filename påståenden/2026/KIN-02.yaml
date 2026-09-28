@@ -1,0 +1,22 @@
+id: KIN-02
+påstående: Kina införde från juli 2026 bindande regler för AI-kompanjontjänster med krav på suicidprevention,
+  åtgärder mot beroende och skydd för minderåriga och äldre.
+typ: händelse
+vem: Kinas myndigheter, återgivet av Concordia AI
+datum: 2026-07
+tema:
+- styrning
+källa:
+  url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
+  titel: 'Concordia AI: State of AI Safety in China 2026'
+  citat: New Interim Measures on Anthropomorphic AI Interaction Services, effective July 2026, impose
+    obligations on AI companion services around suicide intervention, addiction pre- vention, and protection
+    of minors and the elderly.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Konkret exempel på reglering som svårligen kan avfärdas som informationskontroll. Jämför med
+  att motsvarande bindande krav saknas i EU och USA.
+vikt: 3
+bäst_före: '2027-07-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

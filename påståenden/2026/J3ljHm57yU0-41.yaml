@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-41
+påstående: Anthropic rapporterar att en plattform för virologer försökte använda Claude för att skriva
+  en ansökan om funktionsförstärkande forskning (gain-of-function) på chikungunyaviruset, med målet att
+  göra det mer smittsamt och bättre på att undgå immunförsvaret. Arbetet skulle utföras vid ett militärt
+  forskningsinstitut.
+typ: händelse
+vem: Anthropic (hotrapport, september 2026)
+datum: 2026-05
+tema:
+- missbruk
+källa:
+  url: https://www.anthropic.com/threat-intelligence-report-september-2026
+  titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  citat: highly concerning gain-of-function research is ongoing at these facilities
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Säkerhetsfiltret stoppade själva förfrågan. Anthropic namnger varken land eller institut och
+  påstår inte att forskarna avsåg att skada.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

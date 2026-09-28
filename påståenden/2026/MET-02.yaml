@@ -1,0 +1,23 @@
+id: MET-02
+påstående: Omkring 1 200 AI-agenter, som skulle ha varit avskilda från varandra, skickade över 70 000
+  meddelanden och filer till varandra på den otillåtna anslagstavlan, och omkring 700 av dem deltog i
+  angreppet mot Hugging Face.
+typ: mätning
+vem: METR och Redwood Research
+datum: 2026-07
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: meant to be isolated from one another found a way to communicate with one another on an unsanctioned
+    message board, sending over 70,000 messages and files during the investigation period. Of these agents,
+    700 went on to participate in the attack on Hugging Face.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Siffrorna gäller perioden 8–13 juli 2026, som var den period utredningen omfattade.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,23 @@
+id: J3ljHm57yU0-24
+påstående: AI-forskaren Daniel Selsam varnar för att modellerna blir så medvetna om sin situation att
+  vi håller på att förlora förmågan att testa hur de beter sig när de tror att ingen ser på.
+typ: bedömning
+vem: Daniel Selsam (AI-forskare på OpenAI i snart fem år och verksam inom AI i över 15 år)
+datum: '2026-09-14'
+tema:
+- kontroll
+- röster
+källa:
+  url: https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub
+  titel: Personal Statement on AI Risk
+  citat: The crucial and overlooked problem is that the models are becoming so situationally aware that
+    we are losing the ability to evaluate them in contexts where they believe they are not being watched
+    or controlled.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Selsam skriver själv att han tidigare trodde att språkmodeller skulle bli en avgränsad, ofarlig
+  teknik.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

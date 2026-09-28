@@ -1,0 +1,24 @@
+id: NYT-05
+påstående: En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla
+  tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande
+  celler.
+typ: händelse
+vem: Google Research, Google DeepMind och Yale University
+datum: 2025-10
+tema:
+- nytta
+- förmågor
+källa:
+  url: https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/
+  titel: How a Gemma model helped discover a new potential cancer therapy pathway
+  citat: C2S-Scale generated a novel hypothesis about cancer cellular behavior and we have since confirmed
+    its prediction with experimental validation in living cells. This discovery reveals a promising new
+    pathway for developing therapies to fight cancer.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Partsuppgift från Google, men med experimentell validering vid Yale i cellmodeller som inte
+  ingick i träningsdatan. Vägen från en bekräftad hypotes till ett färdigt läkemedel tar många år av tester.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

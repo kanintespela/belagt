@@ -1,0 +1,20 @@
+id: SVR-17
+påstående: Bara 7 procent av de förvärvsarbetande svenskarna var 2025 oroliga för att AI ska göra dem
+  arbetslösa. Oron är större bland unga, särskilt på landsbygden.
+typ: mätning
+vem: Internetstiftelsen, Svenskarna och internet 2025
+datum: '2025'
+tema:
+- röster
+källa:
+  url: https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/
+  titel: AI – Artificiell intelligens | Svenskarna och internet
+  citat: Bland de som förvärvsarbetar är 7 procent oroliga för att AI kommer att göra dem arbetslösa.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Jämför med att en tredjedel tror att AI leder till stor arbetslöshet i samhället: man oroar
+  sig mer för andra än för sig själv. Frågorna skiljer sig mellan undersökningarna, så jämför försiktigt.'
+vikt: 2
+bäst_före: '2026-12-31'
+kontrollerad: '2026-09-28'
+ersatt_av: null

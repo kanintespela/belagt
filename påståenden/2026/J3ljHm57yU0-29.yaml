@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-29
+påstående: Amodei skriver att AI sedan ungefär sommaren 2026 har utvecklats drastiskt snabbare, främst
+  för att AI allt mer kan bygga nästa generation AI, och att detta sker i hela branschen, inklusive på
+  Anthropic.
+typ: bedömning
+vem: Dario Amodei (vd, Anthropic)
+datum: 2026-09
+tema:
+- självförbättring
+- tempo
+källa:
+  url: https://darioamodei.com/post/we-must-pace-the-frontier
+  titel: Dario Amodei — We Must Pace the Frontier
+  citat: since roughly this summer, AI has been advancing drastically faster, driven primarily by AI’s
+    growing ability to build the next generation of AI.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: null
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

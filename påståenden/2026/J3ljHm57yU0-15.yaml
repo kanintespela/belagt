@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-15
+påstående: OpenAI uppger att AI hjälpte till att utveckla företagets första egna inferenschip, så att
+  det gick nio månader från första design till färdig konstruktion.
+typ: händelse
+vem: OpenAI
+datum: 2026-08
+tema:
+- självförbättring
+källa:
+  url: https://openai.com/index/jalapeno-first-results/
+  titel: Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+  citat: AI played a direct role in Jalapeño’s development, enabling the team to move from initial design
+    to tapeout in nine months
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Uppgiften kommer från OpenAI. Ett konkret exempel på det Pachocki kallar att AI förbättrar
+  sitt eget beräkningssubstrat. Chippet heter Jalapeño.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

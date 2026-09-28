@@ -1,0 +1,22 @@
+id: SVE-11
+påstående: Från den 2 augusti 2026 kan EU-kommissionens AI-byrå genomdriva AI-förordningens regler för
+  de mest avancerade AI-modellerna, bland annat med böter.
+typ: händelse
+vem: EU-kommissionen (AI Act Service Desk)
+datum: '2026-08-02'
+tema:
+- styrning
+källa:
+  url: https://ai-act-service-desk.ec.europa.eu/en/faq
+  titel: AI Act Service Desk - Frequently Asked Questions
+  citat: From that date, the provisions on prohibited AI practices, transparency requirements for certain
+    AI systems, and the rules for general-purpose AI (‘GPAI’) models will be enforceable.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Böterna uppges i andra källor vara upp till 3 procent av den globala omsättningen, men det
+  är inte kontrollerat. De stora företagen har skrivit under EU:s uppförandekod för AI-modeller för allmänna
+  ändamål.
+vikt: 2
+bäst_före: '2027-08-02'
+kontrollerad: '2026-09-28'
+ersatt_av: null

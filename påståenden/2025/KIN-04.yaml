@@ -1,0 +1,21 @@
+id: KIN-04
+påstående: Kina har infört stränga regler om märkning av AI-genererat innehåll, med standarder som anger
+  hur märkning och vattenstämpling ska gå till.
+typ: händelse
+vem: Kinas myndigheter, återgivet av Concordia AI
+datum: '2025'
+tema:
+- styrning
+- missbruk
+källa:
+  url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
+  titel: 'Concordia AI: State of AI Safety in China 2026'
+  citat: the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting
+    strict rules around labeling AI-generated content.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Kina har här gått längre än EU. Samtidigt är märkningskrav ett verktyg som också tjänar informationskontroll.
+vikt: 2
+bäst_före: '2027-07-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

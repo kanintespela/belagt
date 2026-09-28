@@ -1,0 +1,20 @@
+id: DEM-02
+påstående: Gratisversionen av Claude saknar Anthropics största modeller (Opus och Fable) och agentverktyget
+  Claude Code, som arbetar självständigt med uppgifter i flera steg.
+typ: mätning
+vem: Anthropic (prissida)
+datum: '2026-09-22'
+tema:
+- förmågor
+källa:
+  url: https://claude.com/pricing
+  titel: Pricing
+  citat: '| Claude Code | No | Yes | Yes | Yes |'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Gratisnivån har Sonnet och Haiku. Fable kräver en betalnivå och ingår delvis i Max. Priserna
+  kom inte med när sidan hämtades.
+vikt: 3
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

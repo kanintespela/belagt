@@ -1,0 +1,21 @@
+id: SVE-14
+påstående: Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att
+  påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ
+  AI har använts för att påverka val i Europa.
+typ: bedömning
+vem: Myndigheten för psykologiskt försvar (lägesbild inför valet 2026)
+datum: '2026-03-25'
+tema:
+- missbruk
+källa:
+  url: https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-
+  titel: MPF:s lägesbild inför valet
+  citat: den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: MPF påpekar också att en och samma aktör kan driva motstridiga budskap för att splittra. I
+  pressmeddelandet den 16 juni 2026 beskriver MPF AI-utvecklingen som ”ständigt accelererande”.
+vikt: 3
+bäst_före: '2027-03-25'
+kontrollerad: '2026-09-28'
+ersatt_av: null
