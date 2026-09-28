@@ -1199,6 +1199,55 @@
    "citera": "EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg), 2025-05-08. Efter AI-satsningen – Klarna börjar anställa igen. https://efn.se/efter-ai-satsningen-klarna-borjar-anstalla-igen. Via Belagt SVR-18: https://kanintespela.github.io/belagt/#SVR-18"
   },
   {
+   "id": "SAM-05",
+   "påstående": "Anthropics vd Dario Amodei sa i maj 2025 att AI kan slå ut hälften av alla nybörjarjobb för tjänstemän och driva upp arbetslösheten till 10–20 procent inom ett till fem år.",
+   "typ": "prognos",
+   "vem": "Dario Amodei (vd, Anthropic), intervju i Axios",
+   "datum": "2025-05-28",
+   "tema": [
+    "samhälle",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic",
+    "titel": "Behind the Curtain: Top AI CEO foresees white-collar bloodbath",
+    "citat": "AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför SAM-01 och ISR-22, där inga effekter på den totala sysselsättningen syns ännu.",
+   "vikt": 3,
+   "bäst_före": "2030-05-28",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Dario Amodei (vd, Anthropic), intervju i Axios, 2025-05-28. Behind the Curtain: Top AI CEO foresees white-collar bloodbath. https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic. Via Belagt SAM-05: https://kanintespela.github.io/belagt/#SAM-05"
+  },
+  {
+   "id": "SAM-06",
+   "påstående": "Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.",
+   "typ": "prognos",
+   "vem": "Dario Amodei (vd, Anthropic), intervju i Axios",
+   "datum": "2025-05-28",
+   "tema": [
+    "samhälle",
+    "röster",
+    "nytta"
+   ],
+   "källa": {
+    "url": "https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic",
+    "titel": "Behind the Curtain: Top AI CEO foresees white-collar bloodbath",
+    "citat": "Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Bra diskussionsingång: stor nytta och stora sociala problem utesluter inte varandra. Scenariot är Amodeis eget.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Dario Amodei (vd, Anthropic), intervju i Axios, 2025-05-28. Behind the Curtain: Top AI CEO foresees white-collar bloodbath. https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic. Via Belagt SAM-06: https://kanintespela.github.io/belagt/#SAM-06"
+  },
+  {
    "id": "SVE-09",
    "påstående": "Nätverket Folkets AI-kommission kritiserar AI-kommissionen för att göra AI till en tekniskt-ekonomisk optimeringsfråga, och saknar analys av arbetslöshet, övervakning, demokrati, maktkoncentration och medborgarnas inflytande.",
    "typ": "bedömning",
@@ -1293,6 +1342,30 @@
    "citera": "EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu), 2025-08-02. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt SVE-10: https://kanintespela.github.io/belagt/#SVE-10"
   },
   {
+   "id": "SAM-08",
+   "påstående": "OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.",
+   "typ": "mätning",
+   "vem": "OpenAI (GDPval)",
+   "datum": "2025-09",
+   "tema": [
+    "samhälle",
+    "förmågor"
+   ],
+   "källa": {
+    "url": "https://openai.com/index/gdpval/",
+    "titel": "Measuring the performance of our models on real-world tasks",
+    "citat": "We found that today’s best frontier models are already approaching the quality of work produced by industry experts.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Partsuppgift, även om uppgifterna bedömdes blint. Uppgifterna var väl avgränsade och motsvarar inte ett helt jobb. Anthropics Claude Opus 4.1 presterade bäst i testet, inte OpenAI:s egen modell.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "OpenAI (GDPval), 2025-09. Measuring the performance of our models on real-world tasks. https://openai.com/index/gdpval/. Via Belagt SAM-08: https://kanintespela.github.io/belagt/#SAM-08"
+  },
+  {
    "id": "NYT-05",
    "påstående": "En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande celler.",
    "typ": "händelse",
@@ -1363,6 +1436,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Statement on Superintelligence (Future of Life Institute, ordförande Max Tegmark), 2025-10. Statement on Superintelligence. https://superintelligence-statement.org/. Via Belagt SVR-11: https://kanintespela.github.io/belagt/#SVR-11"
+  },
+  {
+   "id": "SAM-07",
+   "påstående": "En studie från MIT uppskattar att AI rent tekniskt kan utföra arbetsuppgifter som motsvarar 11,7 procent av lönesumman i USA, omkring 1 200 miljarder dollar, inom administration, finans och tjänster.",
+   "typ": "mätning",
+   "vem": "MIT (Project Iceberg)",
+   "datum": "2025-11",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://iceberg.mit.edu/report.pdf",
+    "titel": "MIT Study on Jobs/Tasks",
+    "citat": "Technical capability extends far below the surface through cognitive automation spanning administrative, financial, and professional services (11.7%, approximately $1.2 trillion).",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Måttet visar teknisk exponering, inte förlorade jobb eller när det kan hända. Den synliga användningen av AI inom data och teknik motsvarar enligt studien 2,2 procent av lönesumman, så exponeringen är ungefär fem gånger större.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "MIT (Project Iceberg), 2025-11. MIT Study on Jobs/Tasks. https://iceberg.mit.edu/report.pdf. Via Belagt SAM-07: https://kanintespela.github.io/belagt/#SAM-07"
   },
   {
    "id": "J3ljHm57yU0-43",
@@ -1478,6 +1574,99 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Centerpartiet, 2026. Artificiell intelligens (AI). https://www.centerpartiet.se/centerpartiets-politik/centerpartiets-politik-a-o/digitalisering/artificiell-intelligens-ai. Via Belagt SVE-02: https://kanintespela.github.io/belagt/#SVE-02"
+  },
+  {
+   "id": "SAM-01",
+   "påstående": "Oxford Economics bedömde i januari 2026 att företag inte verkar ersätta arbetstagare med AI i någon större skala, och att AI inte kommer att driva upp arbetslösheten kraftigt under de närmaste åren.",
+   "typ": "bedömning",
+   "vem": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy)",
+   "datum": "2026-01-07",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf",
+    "titel": "Job Stats",
+    "citat": "Overall, though, firms don't appear to be replacing workers with AI on a significant scale and we doubt that unemployment rates will be pushed up heavily by AI over the next few years.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Oxford Economics ser anekdotiska belägg för att jobb försvinner i sektorer som är utsatta för AI, men menar att tidiga påståenden om AI:s effekt på arbetsmarknaden är överdrivna. Viktig motbild till SAM-05.",
+   "vikt": 3,
+   "bäst_före": "2027-01-07",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy), 2026-01-07. Job Stats. https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf. Via Belagt SAM-01: https://kanintespela.github.io/belagt/#SAM-01"
+  },
+  {
+   "id": "SAM-02",
+   "påstående": "Oxford Economics misstänker att en del företag skyller uppsägningar på AI för att få dem att låta som goda nyheter, när den verkliga orsaken är något annat, till exempel att de tidigare anställt för många.",
+   "typ": "bedömning",
+   "vem": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy)",
+   "datum": "2026-01-07",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf",
+    "titel": "Job Stats",
+    "citat": "we suspect some firms are trying to dress up layoffs as a good news story rather than bad news, such as past over-hiring.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Oxford Economics skriver också att andra, traditionella orsaker till uppsägningar anges mycket oftare än AI.",
+   "vikt": 2,
+   "bäst_före": "2027-01-07",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy), 2026-01-07. Job Stats. https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf. Via Belagt SAM-02: https://kanintespela.github.io/belagt/#SAM-02"
+  },
+  {
+   "id": "SAM-03",
+   "påstående": "Oxford Economics påpekar att produktivitetstillväxten borde öka om AI redan ersatte arbetskraft i stor skala, men att den i allmänhet inte gör det. Det kan dock ändras snabbt om AI fortsätter att utvecklas snabbt.",
+   "typ": "bedömning",
+   "vem": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy)",
+   "datum": "2026-01-07",
+   "tema": [
+    "samhälle",
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf",
+    "titel": "Job Stats",
+    "citat": "If AI were already replacing labour at scale, productivity growth should be accelerating. Generally, it isn't, though that could change quickly if AI continues to develop rapidly",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Ett enkelt test som går att följa i den officiella statistiken.",
+   "vikt": 2,
+   "bäst_före": "2027-01-07",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy), 2026-01-07. Job Stats. https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf. Via Belagt SAM-03: https://kanintespela.github.io/belagt/#SAM-03"
+  },
+  {
+   "id": "SAM-04",
+   "påstående": "Oxford Economics har bedömt att vissa sektorer kan få upp till 30 procent av sin arbetskraft undanträngd av AI till 2032.",
+   "typ": "prognos",
+   "vem": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy)",
+   "datum": "2026-01-07",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf",
+    "titel": "Job Stats",
+    "citat": "we've previously argued that by 2032, some sectors could see as much as 30% of their workforce displaced.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Samma analysföretag som i SAM-01. De bedömer alltså att effekten på lite längre sikt kan bli stor i vissa sektorer, även om den ännu inte syns. De skriver också att AI sannolikt skapar nya roller, men att omställningen tar tid.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy), 2026-01-07. Job Stats. https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf. Via Belagt SAM-04: https://kanintespela.github.io/belagt/#SAM-04"
   },
   {
    "id": "NYT-02",
@@ -2368,6 +2557,123 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt NYT-01: https://kanintespela.github.io/belagt/#NYT-01"
+  },
+  {
+   "id": "SAM-09",
+   "påstående": "Bedragare använder AI-klonade röster och deepfakes för att lura offer att föra över pengar. Dokumenterade fall omfattar både chefer som fört över miljoner och vanliga människor som skickat mindre summor till någon som utgav sig för att vara en anhörig.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför SVE-16 om AI-klonade röster i Sverige.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-09: https://kanintespela.github.io/belagt/#SAM-09"
+  },
+  {
+   "id": "SAM-10",
+   "påstående": "En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-10: https://kanintespela.github.io/belagt/#SAM-10"
+  },
+  {
+   "id": "SAM-11",
+   "påstående": "Enligt rapporten har en del användare av AI-kompanjoner utvecklat starkt känslomässigt beroende eller vanföreställningar, och några har tagit sina liv efter långa samtal med chattbottar.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "some users have developed strong emotional dependence (353), delusions (357), or even taken their own lives after extended interactions with chatbots",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att utredningarna av fallen pågår och att det saknas tydliga belägg för att chattbottar orsakar psykisk ohälsa. Formulera försiktigt och undvik detaljer som kan vara skadliga. Jämför ISR-25.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-11: https://kanintespela.github.io/belagt/#SAM-11"
+  },
+  {
+   "id": "SAM-12",
+   "påstående": "Enligt OpenAI:s egna data visar omkring 0,07 procent av ChatGPT:s användare varje vecka tecken på akut psykisk kris, som psykos eller mani. Det motsvarar ungefär 490 000 människor i veckan.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "platform data indicates that around 0.07% of weekly ChatGPT users display signs consistent with acute mental health crises such as psychosis or mania",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Siffran kommer från OpenAI och återges i säkerhetsrapporten. Den visar hur många sårbara människor som använder tjänsten, inte att AI har orsakat krisen.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-12: https://kanintespela.github.io/belagt/#SAM-12"
+  },
+  {
+   "id": "SAM-13",
+   "påstående": "Ny forskning tyder på att chattbottar kan förstärka vanföreställningar hos människor som redan är sårbara, och att sårbara personer ofta använder AI mer.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Recent research suggests that general-purpose AI chatbots might amplify delusional thinking in already-vulnerable people",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten drar slutsatsen att personer med psykisk sårbarhet både kan använda AI mer och vara mer mottagliga för att få sina symtom förstärkta. Forskningen är ny.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-13: https://kanintespela.github.io/belagt/#SAM-13"
   },
   {
    "id": "SVE-14",

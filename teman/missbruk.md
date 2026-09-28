@@ -4,7 +4,7 @@
 
 Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 
-26 påståenden, de viktigaste först inom varje år.
+28 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -32,6 +32,18 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
+- **Bedragare använder AI-klonade röster och deepfakes för att lura offer att föra över pengar. Dokumenterade fall omfattar både chefer som fört över miljoner och vanliga människor som skickat mindre summor till någon som utgav sig för att vara en anhörig.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · [SAM-09](../påståenden/2026/SAM-09.yaml)
+  > Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i Sverige.
+- **En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · [SAM-10](../påståenden/2026/SAM-10.yaml)
+  > One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.
 - **Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.**
   Myndigheten för psykologiskt försvar (lägesbild inför valet 2026) · 2026-03-25 · missbruk · [SVE-14](../påståenden/2026/SVE-14.yaml)
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.

@@ -1,0 +1,22 @@
+id: SAM-02
+påstående: Oxford Economics misstänker att en del företag skyller uppsägningar på AI för att få dem att
+  låta som goda nyheter, när den verkliga orsaken är något annat, till exempel att de tidigare anställt
+  för många.
+typ: bedömning
+vem: Oxford Economics (analysföretag, Ben May och Yasmine Badawy)
+datum: '2026-01-07'
+tema:
+- samhälle
+källa:
+  url: https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf
+  titel: Job Stats
+  citat: we suspect some firms are trying to dress up layoffs as a good news story rather than bad news,
+    such as past over-hiring.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Oxford Economics skriver också att andra, traditionella orsaker till uppsägningar anges mycket
+  oftare än AI.
+vikt: 2
+bäst_före: '2027-01-07'
+kontrollerad: '2026-09-28'
+ersatt_av: null

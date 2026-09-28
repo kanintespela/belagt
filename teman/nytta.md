@@ -4,7 +4,7 @@
 
 Vad AI redan gör för sjukvård, forskning och samhälle.
 
-17 påståenden, de viktigaste först inom varje år.
+18 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -87,6 +87,12 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
   > — [”AI-debatten bör bygga på vetenskap – inte på spekulation”](https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406)
 
   *Förbehåll:* Ett av de viktigaste sakliga argumenten mot en paus.
+- **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**
+  Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster, nytta · [SAM-06](../påståenden/2025/SAM-06.yaml)
+  > Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.
+  > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
+
+  *Förbehåll:* Bra diskussionsingång: stor nytta och stora sociala problem utesluter inte varandra. Scenariot är Amodeis eget.
 
 ## 2024
 

@@ -4,7 +4,7 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-72 påståenden, de viktigaste först inom varje år.
+74 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -299,6 +299,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.
+- **Anthropics vd Dario Amodei sa i maj 2025 att AI kan slå ut hälften av alla nybörjarjobb för tjänstemän och driva upp arbetslösheten till 10–20 procent inom ett till fem år.**
+  Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster · [SAM-05](../påståenden/2025/SAM-05.yaml)
+  > AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.
+  > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
+
+  *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför SAM-01 och ISR-22, där inga effekter på den totala sysselsättningen syns ännu.
 - **Bara 7 procent av de förvärvsarbetande svenskarna var 2025 oroliga för att AI ska göra dem arbetslösa. Oron är större bland unga, särskilt på landsbygden.**
   Internetstiftelsen, Svenskarna och internet 2025 · 2025 · röster · [SVR-17](../påståenden/2025/SVR-17.yaml)
   > Bland de som förvärvsarbetar är 7 procent oroliga för att AI kommer att göra dem arbetslösa.
@@ -317,6 +323,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla till del.
+- **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**
+  Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster, nytta · [SAM-06](../påståenden/2025/SAM-06.yaml)
+  > Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.
+  > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
+
+  *Förbehåll:* Bra diskussionsingång: stor nytta och stora sociala problem utesluter inte varandra. Scenariot är Amodeis eget.
 - **Nätverket Folkets AI-kommission kritiserar AI-kommissionen för att göra AI till en tekniskt-ekonomisk optimeringsfråga, och saknar analys av arbetslöshet, övervakning, demokrati, maktkoncentration och medborgarnas inflytande.**
   Folkets AI-kommission (nätverk grundat av bland andra Per Axbom och Jonna Steinrud) · 2025-06-04 · styrning, röster · [SVE-09](../påståenden/2025/SVE-09.yaml)
   > gör att AI-kommissionen förvandlar AI från en samhällsfråga till en teknisk-ekonomisk optimeringsfråga

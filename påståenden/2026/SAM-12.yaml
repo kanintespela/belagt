@@ -1,0 +1,22 @@
+id: SAM-12
+påstående: Enligt OpenAI:s egna data visar omkring 0,07 procent av ChatGPT:s användare varje vecka tecken
+  på akut psykisk kris, som psykos eller mani. Det motsvarar ungefär 490 000 människor i veckan.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: platform data indicates that around 0.07% of weekly ChatGPT users display signs consistent with
+    acute mental health crises such as psychosis or mania
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Siffran kommer från OpenAI och återges i säkerhetsrapporten. Den visar hur många sårbara människor
+  som använder tjänsten, inte att AI har orsakat krisen.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
