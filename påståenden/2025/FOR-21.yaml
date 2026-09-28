@@ -1,0 +1,24 @@
+id: FOR-21
+påstående: 82 procent av de tillfrågade i AAAI:s enkät anser att AGI-system bör ägas gemensamt av allmänheten
+  om de utvecklas av privata aktörer.
+typ: mätning
+vem: AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande)
+datum: 2025-03
+tema:
+- styrning
+- röster
+källa:
+  url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
+  titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  citat: A substantial majority of respondents (82%) believe that systems with AGI should be publicly
+    owned if developed by private entities
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom
+  akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten
+  tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla
+  till del.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: FOR-14
+påstående: 68 procent av AI-forskarna trodde att goda följder av övermänsklig AI är mer sannolika än dåliga,
+  men nästan hälften av dessa optimister angav ändå minst 5 procents risk för extremt dåliga följder som
+  att mänskligheten utrotas.
+typ: mätning
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: While 68.3% thought good outcomes from superhuman AI are more likely than bad, of these net optimists
+    48% gave at least a 5% chance of extremely bad outcomes such as human extinction
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Visar att oro och optimism ofta finns hos samma forskare. Omvänt gav 59 procent av pessimisterna
+  minst 5 procent till extremt goda följder.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

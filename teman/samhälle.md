@@ -4,7 +4,7 @@
 
 Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.
 
-6 påståenden, de viktigaste först inom varje år.
+8 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -44,3 +44,18 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
+
+## 2024
+
+- **Samma forskare bedömde att det är 50 procents chans att alla mänskliga yrken går att automatisera helt först år 2116.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · samhälle, röster · [FOR-12](../påståenden/2024/FOR-12.yaml)
+  > the chance of all human occupations becoming fully automatable was forecast to reach 10% by 2037, and 50% as late as 2116
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Den stora skillnaden mot FOR-11 (2047) mellan uppgifter och yrken är ett känt och oförklarat mönster i enkäten, och den visar hur mycket svaren beror på hur frågan ställs. I enkäten 2022 var årtalet 2164.
+- **Mer än hälften av AI-forskarna ansåg att det finns skäl till betydande eller extrem oro för sex olika scenarier, bland dem spridning av falsk information, auktoritär kontroll av befolkningen och ökad ojämlikhet.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · missbruk, samhälle, röster · [FOR-16](../påståenden/2024/FOR-16.yaml)
+  > More than half suggested that “substantial” or “extreme” concern is warranted about six different AI-related scenarios, including spread of false information, authoritarian population control, and worsened inequality.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Visar att forskarnas oro inte bara gäller utrotning utan också skador här och nu.

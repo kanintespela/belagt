@@ -1,0 +1,24 @@
+id: FOR-19
+påstående: 70 procent av de tillfrågade i AAAI:s enkät var emot att stoppa forskning som syftar till AGI
+  tills det finns fullständiga säkerhets- och kontrollmekanismer.
+typ: mätning
+vem: AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande)
+datum: 2025-03
+tema:
+- styrning
+- röster
+källa:
+  url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
+  titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  citat: most respondents (70%) oppose the proposition that we should halt research aimed at AGI until
+    full safety and control mechanisms are established
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom
+  akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan
+  gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen
+  (PAI-01), så svaret säger inte direkt vad forskarna tycker om det.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

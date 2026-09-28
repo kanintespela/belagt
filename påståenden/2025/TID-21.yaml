@@ -1,0 +1,22 @@
+id: TID-21
+påstående: I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera
+  kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.
+typ: händelse
+vem: DeepSeek
+datum: 2025-01
+tema:
+- förmågor
+- geopolitik
+källa:
+  url: https://arxiv.org/abs/2501.12948
+  titel: DeepSeek-R1 (januari 2025)
+  citat: Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement
+    learning (RL), obviating the need for human-labeled reasoning trajectories.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade
+  texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

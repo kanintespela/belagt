@@ -1,0 +1,21 @@
+id: FOR-17
+påstående: AI-forskarna var oense om huruvida snabbare eller långsammare AI-utveckling vore bäst för mänsklighetens
+  framtid.
+typ: mätning
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- styrning
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: There was disagreement about whether faster or slower AI progress would be better for the future
+    of humanity.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

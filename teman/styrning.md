@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-66 påståenden, de viktigaste först inom varje år.
+73 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -311,6 +311,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
 ## 2025
 
+- **70 procent av de tillfrågade i AAAI:s enkät var emot att stoppa forskning som syftar till AGI tills det finns fullständiga säkerhets- och kontrollmekanismer.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-19](../påståenden/2025/FOR-19.yaml)
+  > most respondents (70%) oppose the proposition that we should halt research aimed at AGI until full safety and control mechanisms are established
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen (PAI-01), så svaret säger inte direkt vad forskarna tycker om det.
 - **Narayanan och Kapoor menar att det trots den skarpa retoriken om en kapplöpning mellan USA och Kina inte är klarlagt att AI-regleringen har bromsat in i något av länderna.**
   Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil) · 2025-04-15 · styrning, geopolitik, röster · [KIN-08](../påståenden/2025/KIN-08.yaml)
   > Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down in either country.
@@ -341,6 +347,18 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
+- **77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel balans mellan risk och nytta än att man direkt jagar AGI.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-20](../påståenden/2025/FOR-20.yaml)
+  > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild.
+- **82 procent av de tillfrågade i AAAI:s enkät anser att AGI-system bör ägas gemensamt av allmänheten om de utvecklas av privata aktörer.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-21](../påståenden/2025/FOR-21.yaml)
+  > A substantial majority of respondents (82%) believe that systems with AGI should be publicly owned if developed by private entities
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla till del.
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
@@ -392,6 +410,18 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/)
 
   *Förbehåll:* Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget (SVE-02, SVE-04), men det har inte kontrollerats mot regeringens egna uppgifter.
+- **En stor majoritet av AI-forskarna ansåg att forskning om AI-säkerhet borde prioriteras mer än den gör i dag.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-15](../påståenden/2024/FOR-15.yaml)
+  > A large majority of respondents thought that AI safety research should be prioritized more than it currently is.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Andelen har ökat jämfört med tidigare enkäter, men bara lite sedan 2022.
+- **AI-forskarna var oense om huruvida snabbare eller långsammare AI-utveckling vore bäst för mänsklighetens framtid.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-17](../påståenden/2024/FOR-17.yaml)
+  > There was disagreement about whether faster or slower AI progress would be better for the future of humanity.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
 
 ## 2023
 
@@ -413,3 +443,15 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
+- **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
+  Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · [TID-19](../påståenden/2023/TID-19.yaml)
+  > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+
+  *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+- **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
+  OpenAI:s styrelse · 2023-11-17 · styrning · [TID-18](../påståenden/2023/TID-18.yaml)
+  > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.
+  > — [OpenAI announces leadership transition](https://openai.com/index/openai-announces-leadership-transition/)
+
+  *Förbehåll:* Altman återkom som vd några dagar senare och styrelsen byttes ut. Det står inte i den här källan, som bara är styrelsens första meddelande. Händelsen används ofta som exempel på hur svårt det är att styra ett AI-företag inifrån.

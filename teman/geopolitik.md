@@ -4,7 +4,7 @@
 
 Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
-11 påståenden, de viktigaste först inom varje år.
+13 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -71,9 +71,24 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.
+- **I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.**
+  DeepSeek · 2025-01 · förmågor, geopolitik · [TID-21](../påståenden/2025/TID-21.yaml)
+  > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
+  > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
+
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **USA:s regering har som uttalat mål att vinna AI-kapplöpningen och uppnå global dominans, bland annat genom att ta bort regler som anses hämma utvecklingen.**
   Vita huset (America's AI Action Plan) · 2025-07 · geopolitik, styrning · [BAL-11](../påståenden/2025/BAL-11.yaml)
   > The United States is in a race to achieve global dominance in artificial intelligence (AI).
   > — [USA: America's AI Action Plan (juli 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)
 
   *Förbehåll:* Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”. Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
+
+## 2023
+
+- **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
+  Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · [TID-19](../påståenden/2023/TID-19.yaml)
+  > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+
+  *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.

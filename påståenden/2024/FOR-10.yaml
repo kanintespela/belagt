@@ -1,0 +1,21 @@
+id: FOR-10
+påstående: 'AI Impacts gjorde hösten 2023 den största enkäten i sitt slag bland AI-forskare: 2 778 forskare
+  som hade publicerat sig i de ledande AI-konferenserna svarade på frågor om utvecklingens tempo och följder.'
+typ: händelse
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: In the largest survey of its kind, we surveyed 2,778 researchers who had published in top-tier
+    artificial intelligence (AI) venues
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Enkäten publicerades i januari 2024. Omkring 15 procent av dem som tillfrågades svarade, vilket
+  enligt författarna är normalt för stora expertenkäter. Forskarna är experter på AI, inte på prognoser.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,24 @@
+id: FOR-11
+påstående: AI-forskarna i AI Impacts enkät bedömde att det är 10 procents chans att maskiner utan hjälp
+  överträffar människor i alla tänkbara uppgifter till 2027, och 50 procents chans till 2047. Det är 13
+  år tidigare än i samma enkät ett år innan.
+typ: prognos
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- tempo
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: the chance of unaided machines outperforming humans in every possible task was estimated at 10%
+    by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey
+    we conducted only one year earlier
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Villkoret var att vetenskapen fortsätter ostört. Att bedömningen flyttades fram 13 år på ett
+  år visar hur snabbt forskarnas förväntningar ändrades efter ChatGPT.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

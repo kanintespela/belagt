@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-46 påståenden, de viktigaste först inom varje år.
+48 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -274,6 +274,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 
 ## 2024
 
+- **Medianbedömningen bland AI-forskarna var 5 procents sannolikhet för extremt dåliga följder av avancerad AI, som att mänskligheten utrotas. Över en tredjedel (38 procent) angav minst 10 procent.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · kontroll, röster · [FOR-13](../påståenden/2024/FOR-13.yaml)
+  > The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%). Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Medelvärdet var 9 procent, ned från 14 procent i enkäten 2022. Beroende på hur frågan formulerades angav mellan 38 och 51 procent minst 10 procent. Återge det som forskarnas bedömning, inte som ett mått på risken.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · [SVR-13](../påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
@@ -289,3 +295,9 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
 
   *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.
+- **Ämnesexperterna i turneringen bedömde risken för att AI utrotar mänskligheten som mycket högre än superprognosmakarna gjorde, och ingen av grupperna lät sig övertygas av den andra.**
+  Forecasting Research Institute (Existential Risk Persuasion Tournament) · 2023 · röster, kontroll · [FOR-23](../påståenden/2023/FOR-23.yaml)
+  > why were superforecasters so unmoved by experts’ much higher estimates of AI extinction risk, and why were experts so unmoved by the superforecasters’ lower estimates?
+  > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
+
+  *Förbehåll:* Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
