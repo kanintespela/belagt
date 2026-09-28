@@ -1,0 +1,22 @@
+id: ISR-23
+påstående: En studie som rapporten hänvisar till uppskattar att omkring 60 procent av jobben i avancerade
+  ekonomier och 40 procent i tillväxtekonomier är starkt exponerade för generell AI.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies
+    are highly exposed to generalpurpose AI
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Exponerad betyder att arbetsuppgifterna kan påverkas av AI, inte att jobben försvinner. En
+  del exponerade jobb kan i stället bli mer produktiva.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

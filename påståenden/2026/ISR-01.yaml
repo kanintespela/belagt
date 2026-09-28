@@ -1,0 +1,25 @@
+id: ISR-01
+påstående: Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende
+  experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade
+  full frihet över innehållet.
+typ: händelse
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- styrning
+- röster
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: It was written with guidance from over 100 independent experts, including nominees from more
+    than 30 countries and international organisations, such as the EU, OECD, and UN.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park
+  2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker.
+  Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

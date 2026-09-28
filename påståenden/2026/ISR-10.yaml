@@ -1,0 +1,24 @@
+id: ISR-10
+påstående: I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77
+  procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga
+  sårbarheter.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+- förmågor
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: One AI system autonomously identified 77% of the vulnerabilities introduced by the competition
+    organisers, as well as other, unintentional vulnerabilities
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma
+  förmåga kan användas både för att angripa och för att försvara.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

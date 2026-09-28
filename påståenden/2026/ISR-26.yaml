@@ -1,0 +1,22 @@
+id: ISR-26
+påstående: Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200
+  miljoner ett år tidigare.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- tempo
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket
+  ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: ISR-07
+påstående: AI-företagen har aviserat investeringar på hundratals miljarder dollar i datahallar, vilket
+  visar att de satsar på att beräkningskraft förblir avgörande för utvecklingen.
+typ: händelse
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- tempo
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: AI developers are betting that computing power will remain important, having announced hundreds
+    of billions of dollars in data centre investments.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

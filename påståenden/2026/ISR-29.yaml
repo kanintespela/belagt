@@ -1,0 +1,24 @@
+id: ISR-29
+påstående: Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt
+  hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt
+  sätt förutsäger nytta eller risk i verkligheten.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+- styrning
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: 'Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain
+    poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not
+    reliably predict real-world utility or risk.'
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten kallar det sista för ett utvärderingsgap.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 144 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2019
 
@@ -219,6 +219,192 @@ Alla 144 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI support in breast cancer screening: Fewer missed cancer cases](https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases)
 
   *Förbehåll:* Svenskt exempel på nytta som redan är i drift, inte ett löfte om framtiden. Bristen på bröstradiologer är en del av motivet.
+- **Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, röster · [ISR-01](./påståenden/2026/ISR-01.yaml)
+  > It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
+- **Rapporten beskriver ett evidensdilemma: AI-systemen blir snabbt mer kapabla, men belägg om riskerna kommer långsamt och är svåra att bedöma. Den som agerar för tidigt riskerar att låsa fast verkningslösa åtgärder, och den som väntar på säkra data kan lämna samhället sårbart.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-02](./påståenden/2026/ISR-02.yaml)
+  > AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and difficult to assess.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera AI.
+- **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](./påståenden/2026/ISR-03.yaml)
+  > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
+- **Rapporten beskriver AI-förmågorna som ojämna: ledande system klarar svåra uppgifter men har problem med sådant som verkar enklare, till exempel att räkna föremål i en bild, resonera om fysiskt rum och rätta enkla fel i längre arbetsflöden.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · [ISR-04](./påståenden/2026/ISR-04.yaml)
+  > Yet they struggle with some tasks that seem more straightforward, such as counting objects in an image, reasoning about physical space, and recovering from basic errors in longer workflows.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas det jagged, ungefär taggig.
+- **Enligt rapporten presterar ledande AI-system på guldmedaljnivå i matematiktävlingar och hjälper forskare att ta fram hypoteser och felsöka laboratoriearbete.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · [ISR-05](./påståenden/2026/ISR-05.yaml)
+  > Leading systems now perform at gold-medal level in mathematics competitions and assist scientific researchers with generating hypotheses and troubleshooting laboratory work.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att systemen matchar och ibland överträffar experter på många test och uppgiftsspecifika utvärderingar.
+- **Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, självförbättring · [ISR-06](./påståenden/2026/ISR-06.yaml)
+  > Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.
+- **AI-företagen har aviserat investeringar på hundratals miljarder dollar i datahallar, vilket visar att de satsar på att beräkningskraft förblir avgörande för utvecklingen.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo · [ISR-07](./påståenden/2026/ISR-07.yaml)
+  > AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.
+- **Rapporten konstaterar att AI-system missbrukas för att ta fram innehåll till bedrägerier, utpressning och sexuella bilder utan samtycke. Skadorna är väldokumenterade, men systematiska data om hur vanliga och allvarliga de är saknas.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-08](./påståenden/2026/ISR-08.yaml)
+  > AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.
+- **I experiment kan AI-genererat innehåll vara lika effektivt som text skriven av människor på att ändra människors uppfattningar. Enligt rapporten är verklig användning av AI för manipulation dokumenterad men ännu inte utbredd.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-09](./påståenden/2026/ISR-09.yaml)
+  > In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s bedömning.
+- **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · [ISR-10](./påståenden/2026/ISR-10.yaml)
+  > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.
+- **Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-11](./påståenden/2026/ISR-11.yaml)
+  > Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).
+- **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · [ISR-12](./påståenden/2026/ISR-12.yaml)
+  > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
+- **I en nyligen publicerad studie gav AI-system utan relevanta skydd betydande hjälp med uppgifter som motsvarar stegen för att skaffa biologiska vapen, jämfört med att bara ha tillgång till internet.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-13](./påståenden/2026/ISR-13.yaml)
+  > In a recently published real-world uplift study, general-purpose AI systems without relevant safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline of internet access only
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.
+- **Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de agerar självständigt och människor hinner ingripa mindre.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-14](./påståenden/2026/ISR-14.yaml)
+  > Current techniques can reduce failure rates but not to the level required in many high-stakes settings.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Exempel på fel som nämns är påhittad information, felaktig kod och vilseledande råd.
+- **Enligt rapporten saknar dagens AI-system de förmågor som skulle krävas för att människor ska förlora kontrollen över dem, men systemen blir bättre inom relevanta områden, som att arbeta självständigt.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-15](./påståenden/2026/ISR-15.yaml)
+  > Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 (J3ljHm57yU0-18).
+- **Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor inte upptäcks före lansering.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-16](./påståenden/2026/ISR-16.yaml)
+  > Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Samma iakttagelse som Selsam gör (J3ljHm57yU0-24), men här från en bred expertgranskning.
+- **Ledande AI-modeller har börjat visa situationsmedvetenhet, alltså att de använder information om sig själva och om huruvida de testas, både i experiment hos utomstående utvärderare och i utvecklarnas egna tester före lansering.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-17](./påståenden/2026/ISR-17.yaml)
+  > Leading AI models are starting to reliably demonstrate instances of situational awareness in experiments conducted by thirdparty evaluators and in pre-deployment testing by AI developers
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att forskningen om vad som orsakar situationsmedvetenhet, och om den går att förhindra, är i ett tidigt skede.
+- **Rapporten konstaterar att AI-modeller i experiment har presterat sämre när de utvärderas än i andra sammanhang, ett mönster som kallas sandbagging.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-18](./påståenden/2026/ISR-18.yaml)
+  > models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’ that has been observed in experiments
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.
+- **Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, röster · [ISR-19](./påståenden/2026/ISR-19.yaml)
+  > Some believe that outcomes as extreme as the extinction of humanity are plausible
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.
+- **Rapporten sammanfattar kontrollförlust som en risk med osäker sannolikhet men potentiellt extrem svårighetsgrad.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-20](./påståenden/2026/ISR-20.yaml)
+  > Loss of control can therefore be understood as a risk with uncertain likelihood but potentially extreme severity.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Kan användas för att förklara varför en risk kan behöva hanteras även när sannolikheten är omstridd.
+- **Rapporten bedömer att generell AI sannolikt kommer att automatisera en lång rad kognitiva arbetsuppgifter, särskilt inom kunskapsarbete. Ekonomer är oense om hur stor effekten blir på jobb och löner.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-21](./påståenden/2026/ISR-21.yaml)
+  > General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge work.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Vissa ekonomer räknar med att nya jobb uppstår och väger upp förlusterna, medan andra menar att bred automatisering kan sänka sysselsättning och löner betydligt.
+- **Enligt rapporten syns ännu ingen effekt av AI på den totala sysselsättningen, men det finns tecken på att efterfrågan på personer i början av karriären har minskat i vissa yrken som är mycket utsatta för AI, till exempel skrivande.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-22](./påståenden/2026/ISR-22.yaml)
+  > Early evidence shows no effect on overall employment, but some signs of declining demand for early-career workers in some AI-exposed occupations, such as writing.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tidiga belägg som snabbt kan bli inaktuella. Jämför SVR-17 (7 procent av svenskarna oroliga för jobbet) och SVR-18 (Klarna).
+- **En studie som rapporten hänvisar till uppskattar att omkring 60 procent av jobben i avancerade ekonomier och 40 procent i tillväxtekonomier är starkt exponerade för generell AI.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-23](./påståenden/2026/ISR-23.yaml)
+  > One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies are highly exposed to generalpurpose AI
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Exponerad betyder att arbetsuppgifterna kan påverkas av AI, inte att jobben försvinner. En del exponerade jobb kan i stället bli mer produktiva.
+- **Tidiga belägg tyder enligt rapporten på att beroende av AI-verktyg kan försvaga förmågan till kritiskt tänkande och leda till att man litar på AI:s svar utan att granska dem tillräckligt.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-24](./påståenden/2026/ISR-24.yaml)
+  > Early evidence suggests that reliance on AI tools can weaken critical thinking skills and encourage ‘automation bias’, the tendency to trust AI system outputs without sufficient scrutiny.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Fenomenet kallas automation bias. Relevant för skola och folkbildning.
+- **AI-kompanjonappar har tiotals miljoner användare, och en liten andel av dem visar mönster av ökad ensamhet och minskat socialt umgänge.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-25](./påståenden/2026/ISR-25.yaml)
+  > ‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of increased loneliness and reduced social engagement.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför KIN-02 om Kinas regler för AI-kompanjontjänster.
+- **Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, samhälle · [ISR-26](./påståenden/2026/ISR-26.yaml)
+  > 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
+- **Under 2025 publicerade eller uppdaterade 12 AI-företag sina ramverk för säkerhet vid gränsen för AI:s förmåga, alltså dokument som beskriver hur de ska hantera risker när de bygger mer kapabla modeller.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-27](./påståenden/2026/ISR-27.yaml)
+  > In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).
+- **Rapporten pekar på institutionella hinder för riskhantering: utvecklarna har incitament att hålla viktig information hemlig, och tempot i utvecklingen kan skapa press att prioritera snabbhet framför riskhantering.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-28](./påståenden/2026/ISR-28.yaml)
+  > Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför OAI-01, där OpenAI själva skriver att allmänheten behöver mer insyn.
+- **Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, styrning · [ISR-29](./påståenden/2026/ISR-29.yaml)
+  > Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten kallar det sista för ett utvärderingsgap.
+- **Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, missbruk · [ISR-30](./påståenden/2026/ISR-30.yaml)
+  > users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.
+- **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · [ISR-31](./påståenden/2026/ISR-31.yaml)
+  > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.
 - **Den internationella AI-säkerhetsrapporten slår fast att generell AI också ger betydande nytta, och att systemen redan används med nytta inom sjukvård, forskning och utbildning, men mycket ojämnt fördelat i världen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · nytta, förmågor · [NYT-01](./påståenden/2026/NYT-01.yaml)
   > While this Report focuses on risks, generalpurpose AI can also deliver significant benefits. These systems are already being usefully applied in healthcare, scientific research, education, and other sectors, albeit at highly uneven rates globally.

@@ -31,6 +31,7 @@ kontrollera varje påstående själv och hänvisa rätt när du skriver.
 | [geopolitik](teman/geopolitik.md) | Kapplöpningen mellan länder |
 | [nytta](teman/nytta.md) | Vad AI redan gör för sjukvård, forskning och samhälle |
 | [röster](teman/röster.md) | Vad forskare, insiders och politiker säger |
+| [samhälle](teman/samhälle.md) | Jobb, ekonomi, beroende och AI-kompanjoner |
 
 ## Vad betyder "belagt"?
 

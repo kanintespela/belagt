@@ -1,0 +1,22 @@
+id: ISR-20
+påstående: Rapporten sammanfattar kontrollförlust som en risk med osäker sannolikhet men potentiellt extrem
+  svårighetsgrad.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Loss of control can therefore be understood as a risk with uncertain likelihood but potentially
+    extreme severity.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Kan användas för att förklara varför en risk kan behöva hanteras även när sannolikheten är
+  omstridd.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

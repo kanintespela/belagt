@@ -1,0 +1,22 @@
+id: ISR-08
+påstående: Rapporten konstaterar att AI-system missbrukas för att ta fram innehåll till bedrägerier, utpressning
+  och sexuella bilder utan samtycke. Skadorna är väldokumenterade, men systematiska data om hur vanliga
+  och allvarliga de är saknas.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual
+    intimate imagery.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

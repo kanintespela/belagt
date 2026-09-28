@@ -1,0 +1,22 @@
+id: ISR-05
+påstående: Enligt rapporten presterar ledande AI-system på guldmedaljnivå i matematiktävlingar och hjälper
+  forskare att ta fram hypoteser och felsöka laboratoriearbete.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- förmågor
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Leading systems now perform at gold-medal level in mathematics competitions and assist scientific
+    researchers with generating hypotheses and troubleshooting laboratory work.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver också att systemen matchar och ibland överträffar experter på många test
+  och uppgiftsspecifika utvärderingar.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

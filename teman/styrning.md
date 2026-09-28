@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-54 påståenden, de viktigaste först inom varje år.
+61 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -14,6 +14,30 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [Artificiell intelligens (AI)](https://www.centerpartiet.se/centerpartiets-politik/centerpartiets-politik-a-o/digitalisering/artificiell-intelligens-ai)
 
   *Förbehåll:* Centerpartiet beskriver sig som teknikoptimister men inte naiva. Partiet vill också ha stöd till bibliotek och civilsamhälle för folkbildning om AI. Partiledningen skrev om AI-risk i Ny Teknik den 12 augusti 2026.
+- **Rapporten beskriver ett evidensdilemma: AI-systemen blir snabbt mer kapabla, men belägg om riskerna kommer långsamt och är svåra att bedöma. Den som agerar för tidigt riskerar att låsa fast verkningslösa åtgärder, och den som väntar på säkra data kan lämna samhället sårbart.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-02](../påståenden/2026/ISR-02.yaml)
+  > AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and difficult to assess.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera AI.
+- **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · [ISR-12](../påståenden/2026/ISR-12.yaml)
+  > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
+- **Rapporten pekar på institutionella hinder för riskhantering: utvecklarna har incitament att hålla viktig information hemlig, och tempot i utvecklingen kan skapa press att prioritera snabbhet framför riskhantering.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-28](../påståenden/2026/ISR-28.yaml)
+  > Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför OAI-01, där OpenAI själva skriver att allmänheten behöver mer insyn.
+- **Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, styrning · [ISR-29](../påståenden/2026/ISR-29.yaml)
+  > Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten kallar det sista för ett utvärderingsgap.
 - **PauseAI föreslår en tillfällig, global paus i träningen av de mest kraftfulla AI-systemen för allmänna ändamål, tills vi vet hur de kan byggas säkert och hållas under demokratisk kontroll.**
   PauseAI (internationellt) · 2026-04-05 · styrning · [PAI-01](../påståenden/2026/PAI-01.yaml)
   > Implement a temporary pause on the training of the most powerful general AI systems
@@ -164,6 +188,24 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Registret är grunden i kinesisk AI-reglering och saknar motsvarighet i väst. Att en tjänst måste anmälas före lansering är en betydligt hårdare ordning än EU:s AI-förordning på den här punkten.
+- **Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, röster · [ISR-01](../påståenden/2026/ISR-01.yaml)
+  > It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
+- **Under 2025 publicerade eller uppdaterade 12 AI-företag sina ramverk för säkerhet vid gränsen för AI:s förmåga, alltså dokument som beskriver hur de ska hantera risker när de bygger mer kapabla modeller.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-27](../påståenden/2026/ISR-27.yaml)
+  > In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).
+- **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · [ISR-31](../påståenden/2026/ISR-31.yaml)
+  > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.
 - **Kinesisk forskning om säkerhet hos de mest avancerade AI-modellerna växte kraftigt, med ungefär 60 procent högre månadsproduktion sedan juni 2025, och agentsäkerhet är nu det mest aktiva området.**
   Concordia AI, State of AI Safety in China (2026) · 2026-04 · styrning, kontroll · [KIN-06](../påståenden/2026/KIN-06.yaml)
   > Chinese frontier AI safety research output has grown substantially, with monthly output up roughly 60% since June 2025.

@@ -1,0 +1,23 @@
+id: ISR-03
+påstående: Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får
+  använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik,
+  programmering och naturvetenskap.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- förmågor
+- tempo
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: This technique has led to particularly large performance gains on more complex reasoning tasks
+    in mathematics, software engineering, and science.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

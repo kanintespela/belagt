@@ -1,0 +1,23 @@
+id: ISR-19
+påstående: Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen
+  över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser
+  att sådana katastrofer är osannolika.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+- röster
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Some believe that outcomes as extreme as the extinction of humanity are plausible
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller
+  att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

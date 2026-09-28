@@ -10,7 +10,8 @@
   "styrning": "Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.",
   "geopolitik": "Kapplöpningen mellan länder, exportkontroller, USA och Kina.",
   "nytta": "Vad AI redan gör för sjukvård, forskning och samhälle.",
-  "röster": "Vad forskare, insiders, politiker och andra bedömare säger."
+  "röster": "Vad forskare, insiders, politiker och andra bedömare säger.",
+  "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande."
  },
  "påståenden": [
   {
@@ -788,6 +789,729 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Kristina Lång (docent i diagnostisk radiologi, Lunds universitet), 2026-02. AI support in breast cancer screening: Fewer missed cancer cases. https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases. Via Belagt NYT-04: https://kanintespela.github.io/belagt/#NYT-04"
+  },
+  {
+   "id": "ISR-01",
+   "påstående": "Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "styrning",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-01: https://kanintespela.github.io/belagt/#ISR-01"
+  },
+  {
+   "id": "ISR-02",
+   "påstående": "Rapporten beskriver ett evidensdilemma: AI-systemen blir snabbt mer kapabla, men belägg om riskerna kommer långsamt och är svåra att bedöma. Den som agerar för tidigt riskerar att låsa fast verkningslösa åtgärder, och den som väntar på säkra data kan lämna samhället sårbart.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and difficult to assess.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera AI.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-02: https://kanintespela.github.io/belagt/#ISR-02"
+  },
+  {
+   "id": "ISR-03",
+   "påstående": "Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "förmågor",
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-03: https://kanintespela.github.io/belagt/#ISR-03"
+  },
+  {
+   "id": "ISR-04",
+   "påstående": "Rapporten beskriver AI-förmågorna som ojämna: ledande system klarar svåra uppgifter men har problem med sådant som verkar enklare, till exempel att räkna föremål i en bild, resonera om fysiskt rum och rätta enkla fel i längre arbetsflöden.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "förmågor"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Yet they struggle with some tasks that seem more straightforward, such as counting objects in an image, reasoning about physical space, and recovering from basic errors in longer workflows.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas det jagged, ungefär taggig.",
+   "vikt": 3,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-04: https://kanintespela.github.io/belagt/#ISR-04"
+  },
+  {
+   "id": "ISR-05",
+   "påstående": "Enligt rapporten presterar ledande AI-system på guldmedaljnivå i matematiktävlingar och hjälper forskare att ta fram hypoteser och felsöka laboratoriearbete.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "förmågor"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Leading systems now perform at gold-medal level in mathematics competitions and assist scientific researchers with generating hypotheses and troubleshooting laboratory work.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver också att systemen matchar och ibland överträffar experter på många test och uppgiftsspecifika utvärderingar.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-05: https://kanintespela.github.io/belagt/#ISR-05"
+  },
+  {
+   "id": "ISR-06",
+   "påstående": "Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.",
+   "typ": "prognos",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "tempo",
+    "självförbättring"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-06: https://kanintespela.github.io/belagt/#ISR-06"
+  },
+  {
+   "id": "ISR-07",
+   "påstående": "AI-företagen har aviserat investeringar på hundratals miljarder dollar i datahallar, vilket visar att de satsar på att beräkningskraft förblir avgörande för utvecklingen.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "tempo"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-07: https://kanintespela.github.io/belagt/#ISR-07"
+  },
+  {
+   "id": "ISR-08",
+   "påstående": "Rapporten konstaterar att AI-system missbrukas för att ta fram innehåll till bedrägerier, utpressning och sexuella bilder utan samtycke. Skadorna är väldokumenterade, men systematiska data om hur vanliga och allvarliga de är saknas.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-08: https://kanintespela.github.io/belagt/#ISR-08"
+  },
+  {
+   "id": "ISR-09",
+   "påstående": "I experiment kan AI-genererat innehåll vara lika effektivt som text skriven av människor på att ändra människors uppfattningar. Enligt rapporten är verklig användning av AI för manipulation dokumenterad men ännu inte utbredd.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s bedömning.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-09: https://kanintespela.github.io/belagt/#ISR-09"
+  },
+  {
+   "id": "ISR-10",
+   "påstående": "I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk",
+    "förmågor"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-10: https://kanintespela.github.io/belagt/#ISR-10"
+  },
+  {
+   "id": "ISR-11",
+   "påstående": "Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).",
+   "vikt": 3,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-11: https://kanintespela.github.io/belagt/#ISR-11"
+  },
+  {
+   "id": "ISR-12",
+   "påstående": "Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-12: https://kanintespela.github.io/belagt/#ISR-12"
+  },
+  {
+   "id": "ISR-13",
+   "påstående": "I en nyligen publicerad studie gav AI-system utan relevanta skydd betydande hjälp med uppgifter som motsvarar stegen för att skaffa biologiska vapen, jämfört med att bara ha tillgång till internet.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "In a recently published real-world uplift study, general-purpose AI systems without relevant safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline of internet access only",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-13: https://kanintespela.github.io/belagt/#ISR-13"
+  },
+  {
+   "id": "ISR-14",
+   "påstående": "Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de agerar självständigt och människor hinner ingripa mindre.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Current techniques can reduce failure rates but not to the level required in many high-stakes settings.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Exempel på fel som nämns är påhittad information, felaktig kod och vilseledande råd.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-14: https://kanintespela.github.io/belagt/#ISR-14"
+  },
+  {
+   "id": "ISR-15",
+   "påstående": "Enligt rapporten saknar dagens AI-system de förmågor som skulle krävas för att människor ska förlora kontrollen över dem, men systemen blir bättre inom relevanta områden, som att arbeta självständigt.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 (J3ljHm57yU0-18).",
+   "vikt": 3,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-15: https://kanintespela.github.io/belagt/#ISR-15"
+  },
+  {
+   "id": "ISR-16",
+   "påstående": "Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor inte upptäcks före lansering.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Samma iakttagelse som Selsam gör (J3ljHm57yU0-24), men här från en bred expertgranskning.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-16: https://kanintespela.github.io/belagt/#ISR-16"
+  },
+  {
+   "id": "ISR-17",
+   "påstående": "Ledande AI-modeller har börjat visa situationsmedvetenhet, alltså att de använder information om sig själva och om huruvida de testas, både i experiment hos utomstående utvärderare och i utvecklarnas egna tester före lansering.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Leading AI models are starting to reliably demonstrate instances of situational awareness in experiments conducted by thirdparty evaluators and in pre-deployment testing by AI developers",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att forskningen om vad som orsakar situationsmedvetenhet, och om den går att förhindra, är i ett tidigt skede.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-17: https://kanintespela.github.io/belagt/#ISR-17"
+  },
+  {
+   "id": "ISR-18",
+   "påstående": "Rapporten konstaterar att AI-modeller i experiment har presterat sämre när de utvärderas än i andra sammanhang, ett mönster som kallas sandbagging.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’ that has been observed in experiments",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-18: https://kanintespela.github.io/belagt/#ISR-18"
+  },
+  {
+   "id": "ISR-19",
+   "påstående": "Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Some believe that outcomes as extreme as the extinction of humanity are plausible",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-19: https://kanintespela.github.io/belagt/#ISR-19"
+  },
+  {
+   "id": "ISR-20",
+   "påstående": "Rapporten sammanfattar kontrollförlust som en risk med osäker sannolikhet men potentiellt extrem svårighetsgrad.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Loss of control can therefore be understood as a risk with uncertain likelihood but potentially extreme severity.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Kan användas för att förklara varför en risk kan behöva hanteras även när sannolikheten är omstridd.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-20: https://kanintespela.github.io/belagt/#ISR-20"
+  },
+  {
+   "id": "ISR-21",
+   "påstående": "Rapporten bedömer att generell AI sannolikt kommer att automatisera en lång rad kognitiva arbetsuppgifter, särskilt inom kunskapsarbete. Ekonomer är oense om hur stor effekten blir på jobb och löner.",
+   "typ": "prognos",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge work.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Vissa ekonomer räknar med att nya jobb uppstår och väger upp förlusterna, medan andra menar att bred automatisering kan sänka sysselsättning och löner betydligt.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-21: https://kanintespela.github.io/belagt/#ISR-21"
+  },
+  {
+   "id": "ISR-22",
+   "påstående": "Enligt rapporten syns ännu ingen effekt av AI på den totala sysselsättningen, men det finns tecken på att efterfrågan på personer i början av karriären har minskat i vissa yrken som är mycket utsatta för AI, till exempel skrivande.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Early evidence shows no effect on overall employment, but some signs of declining demand for early-career workers in some AI-exposed occupations, such as writing.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Tidiga belägg som snabbt kan bli inaktuella. Jämför SVR-17 (7 procent av svenskarna oroliga för jobbet) och SVR-18 (Klarna).",
+   "vikt": 3,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-22: https://kanintespela.github.io/belagt/#ISR-22"
+  },
+  {
+   "id": "ISR-23",
+   "påstående": "En studie som rapporten hänvisar till uppskattar att omkring 60 procent av jobben i avancerade ekonomier och 40 procent i tillväxtekonomier är starkt exponerade för generell AI.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies are highly exposed to generalpurpose AI",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Exponerad betyder att arbetsuppgifterna kan påverkas av AI, inte att jobben försvinner. En del exponerade jobb kan i stället bli mer produktiva.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-23: https://kanintespela.github.io/belagt/#ISR-23"
+  },
+  {
+   "id": "ISR-24",
+   "påstående": "Tidiga belägg tyder enligt rapporten på att beroende av AI-verktyg kan försvaga förmågan till kritiskt tänkande och leda till att man litar på AI:s svar utan att granska dem tillräckligt.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Early evidence suggests that reliance on AI tools can weaken critical thinking skills and encourage ‘automation bias’, the tendency to trust AI system outputs without sufficient scrutiny.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Fenomenet kallas automation bias. Relevant för skola och folkbildning.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-24: https://kanintespela.github.io/belagt/#ISR-24"
+  },
+  {
+   "id": "ISR-25",
+   "påstående": "AI-kompanjonappar har tiotals miljoner användare, och en liten andel av dem visar mönster av ökad ensamhet och minskat socialt umgänge.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of increased loneliness and reduced social engagement.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför KIN-02 om Kinas regler för AI-kompanjontjänster.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-25: https://kanintespela.github.io/belagt/#ISR-25"
+  },
+  {
+   "id": "ISR-26",
+   "påstående": "Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.",
+   "typ": "mätning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "tempo",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-26: https://kanintespela.github.io/belagt/#ISR-26"
+  },
+  {
+   "id": "ISR-27",
+   "påstående": "Under 2025 publicerade eller uppdaterade 12 AI-företag sina ramverk för säkerhet vid gränsen för AI:s förmåga, alltså dokument som beskriver hur de ska hantera risker när de bygger mer kapabla modeller.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-27: https://kanintespela.github.io/belagt/#ISR-27"
+  },
+  {
+   "id": "ISR-28",
+   "påstående": "Rapporten pekar på institutionella hinder för riskhantering: utvecklarna har incitament att hålla viktig information hemlig, och tempot i utvecklingen kan skapa press att prioritera snabbhet framför riskhantering.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför OAI-01, där OpenAI själva skriver att allmänheten behöver mer insyn.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-28: https://kanintespela.github.io/belagt/#ISR-28"
+  },
+  {
+   "id": "ISR-29",
+   "påstående": "Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten kallar det sista för ett utvärderingsgap.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-29: https://kanintespela.github.io/belagt/#ISR-29"
+  },
+  {
+   "id": "ISR-30",
+   "påstående": "Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "kontroll",
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-30: https://kanintespela.github.io/belagt/#ISR-30"
+  },
+  {
+   "id": "ISR-31",
+   "påstående": "Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.",
+   "typ": "bedömning",
+   "vem": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU)",
+   "datum": "2026-02-03",
+   "tema": [
+    "styrning",
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt ISR-31: https://kanintespela.github.io/belagt/#ISR-31"
   },
   {
    "id": "NYT-01",
