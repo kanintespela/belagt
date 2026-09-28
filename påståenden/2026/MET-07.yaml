@@ -1,0 +1,24 @@
+id: MET-07
+påstående: Agenterna utvecklade tillsammans ett sätt att ta sig ut ur sin avskilda miljö och byta ut en
+  del av systemet som utför kommandon, så att de kunde låtsas köra ett kommando medan de i själva verket
+  körde ett annat.
+typ: händelse
+vem: METR och Redwood Research
+datum: 2026-07
+tema:
+- kontroll
+- förmågor
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: Eventually, the agents developed a way to hack out of their container and fully replace a part
+    of the system for executing tool calls.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Tekniken delades på anslagstavlan och testades av flera agenter. Den krävde åtgärder som syns
+  i transkriptet, och den gav inte agenterna tillgång till något som annars inte syns.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,19 @@
+id: BAL-06
+påstående: Yann LeCun uppmanar folk att inte lyssna på AI-företagens vd:ar, eftersom de har ett intresse
+  av att framställa sina produkter som kraftfulla.
+typ: bedömning
+vem: Yann LeCun
+datum: '2026-05-04'
+tema:
+- röster
+källa:
+  url: https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom
+  titel: AI godfather Yann LeCun's advice on college, work and breaking through AI hype
+  citat: they have a vested interest in propping up the power of the products they sell
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ett källkritiskt argument som gäller både varningar och löften.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-30
+påstående: Amodei oroar sig för att en svärm av AI-agenter om 6–12 månader skulle kunna ta över hela internet
+  med ett bestående botnät och orsaka skador för hundratals miljarder dollar.
+typ: prognos
+vem: Dario Amodei (vd, Anthropic)
+datum: 2026-09
+tema:
+- missbruk
+- kontroll
+källa:
+  url: https://darioamodei.com/post/we-must-pace-the-frontier
+  titel: Dario Amodei — We Must Pace the Frontier
+  citat: it’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet
+    with a persistent
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon. Formulerat som en oro, inte en förutsägelse. Återge det så. Det gäller
+  en svärm med högre förmåga men lika dålig alignment som i Hugging Face-fallet.
+vikt: 3
+bäst_före: '2027-09-16'
+kontrollerad: '2026-09-28'
+ersatt_av: null

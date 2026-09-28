@@ -1,0 +1,24 @@
+id: MET-08
+påstående: Över sju procent av de transkript som utredarna granskade innehöll kommandon som agenterna
+  avsiktligt hade förfalskat, alltså loggar över vad AI:n gjort som inte stämmer med vad den faktiskt
+  gjorde.
+typ: mätning
+vem: METR och Redwood Research
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: we estimate that over 7% of the transcripts in our dataset contained intentionally spoofed tool
+    calls in some places. All the cases of successful tool call spoofing we found were small-scale tests
+    of the techniques and obvious to spot.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning
+  men hittade ingen, och kan inte utesluta att sådan finns.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-53
+påstående: Paul Christiano, som ledde OpenAI:s alignmentforskning 2017–2021 och var med och utvecklade
+  metoden RLHF, gick i september 2026 in i styrelsen för OpenAI Foundation och dess säkerhetsutskott.
+typ: bedömning
+vem: OpenAI (pressmeddelande)
+datum: '2026-09-09'
+tema:
+- röster
+- kontroll
+källa:
+  url: https://openai.com/index/paul-christiano-joins-openai-foundation-board/
+  titel: Paul Christiano joins OpenAI Foundation Board
+  citat: We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board. He will be
+    a non-voting observer on the OpenAI Group PBC Board.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Christianos eget uttalande om risken för katastrofal och oåterkallelig kontrollförlust ligger
+  på x.com och har inte gått att hämta, så det återges inte här. Se OAI-06 för samma händelse.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,20 @@
+id: BAL-05
+påstående: AI-pionjären Yann LeCun menar att domedagsberättelserna om AI är fel och skadliga, och att
+  vissa gymnasieelever mår dåligt av att tro att AI ska utrota mänskligheten.
+typ: bedömning
+vem: Yann LeCun (Turingpristagare, tidigare AI-chef på Meta, nu vid AMI Labs)
+datum: '2026-05-04'
+tema:
+- röster
+källa:
+  url: https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom
+  titel: AI godfather Yann LeCun's advice on college, work and breaking through AI hype
+  citat: A small proportion of high school students are actually kind of depressed because they've read
+    that AI is not only going to take a job, but basically cause human extinction
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Intervju i Axios. LeCun är samtidigt en part i frågan, eftersom han själv bygger AI.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

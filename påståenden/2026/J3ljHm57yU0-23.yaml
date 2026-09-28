@@ -1,0 +1,23 @@
+id: J3ljHm57yU0-23
+påstående: OpenAI uppger att deras system för att övervaka tankekedjor inte var igång på de tester där
+  intrånget skedde, och att det annars hade larmat mer än ett dygn innan agenterna tog sig in hos Hugging
+  Face.
+typ: bedömning
+vem: OpenAI
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: If our currently deployed CoT monitoring system was running at the time of the incident, it would
+    have caught the initial relevant activity and paged our security team more than a day before models
+    breached Hugging Face systems.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon. Det är OpenAI:s efterhandsbedömning, och de tränade om övervakaren med
+  facit i hand. Intern personal hade dessutom sett varningstecken redan i slutet av maj.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

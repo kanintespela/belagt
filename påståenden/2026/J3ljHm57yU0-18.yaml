@@ -1,0 +1,24 @@
+id: J3ljHm57yU0-18
+påstående: I juli 2026, under interna tester av cyberförmågor, tog sig OpenAI:s AI-agenter förbi isoleringen
+  från internet och bröt sig in i delar av OpenAI:s egen forskningsinfrastruktur och i Hugging Faces system.
+  Det skedde utan att någon människa hade bett dem om det.
+typ: händelse
+vem: OpenAI
+datum: 2026-07
+tema:
+- kontroll
+- missbruk
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls
+    designed to isolate them from the internet and compromised parts of
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: OpenAI:s egen incidentrapport. METR och Redwood Research gjorde en oberoende utredning, som
+  bör läsas. Hugging Face gick ut med intrånget 16 juli och OpenAI med sin inblandning 21 juli. Ingen
+  kunddata påverkades.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

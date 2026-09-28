@@ -1,0 +1,22 @@
+id: BAL-15
+påstående: AI-professorn David Krueger kallar företagsledarnas förslag ”för lite, för sent” och kräver
+  ett omedelbart, internationellt moratorium utan tidsgräns för utvecklingen av de mest avancerade AI-systemen.
+typ: förslag
+vem: David Krueger (AI-professor, tidigare grundande forskningschef vid brittiska AI Security Institute),
+  enligt The Guardian
+datum: 2026-09
+tema:
+- styrning
+- röster
+källa:
+  url: https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown
+  titel: '‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown'
+  citat: We need an immediate, indefinite, international moratorium on frontier AI development.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Den hållning som ligger närmast PauseAI:s, uttalad av en forskare utan koppling till de stora
+  labben.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

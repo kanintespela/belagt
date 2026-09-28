@@ -1,0 +1,24 @@
+id: J3ljHm57yU0-12
+påstående: OpenAI:s forskningschef skriver att inget AI-labb har löst alignment och övervakning tillräckligt
+  för att ansvarsfullt fortsätta skala upp i maxfart mycket längre. Han hoppas att frivilliga inbromsningar
+  blir vanliga och vill att regeringar gör internationell samordning till en topprioritet.
+typ: bedömning
+vem: Jakub Pachocki (forskningschef, OpenAI)
+datum: '2026-09-06'
+tema:
+- styrning
+- kontroll
+- röster
+källa:
+  url: https://openai.com/index/an-alien-mind/
+  titel: An Alien Mind
+  citat: Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to
+    continue responsibly scaling at maximum speed for much longer.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon, utan hittades i primärkällan. Mycket relevant för PauseAI eftersom det
+  kommer inifrån ett av de ledande labben.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

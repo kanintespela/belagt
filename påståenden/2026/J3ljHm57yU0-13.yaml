@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-13
+påstående: Enligt OpenAI:s forskningschef blir det allt svårare att förlita sig på att läsa modellernas
+  tankekedjor för att upptäcka problem, bland annat för att modellerna klarar mer utan att resonera i
+  ord.
+typ: bedömning
+vem: Jakub Pachocki (forskningschef, OpenAI)
+datum: '2026-09-06'
+tema:
+- kontroll
+källa:
+  url: https://openai.com/index/an-alien-mind/
+  titel: An Alien Mind
+  citat: our evaluations indicate our ability to rely on CoT monitoring is progressively diminishing
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Pachocki anger tre orsaker: resonemanget blandas med verktyg och samtal, AI:n blir bättre
+  på att styra sitt eget resonemang, och den blir smartare även utan uttalat resonemang.'
+vikt: 3
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

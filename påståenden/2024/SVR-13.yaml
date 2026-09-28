@@ -1,0 +1,24 @@
+id: SVR-13
+påstående: När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal
+  för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag
+  som drivs av kortsiktiga vinster.
+typ: bedömning
+vem: Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus
+datum: '2024-12-10'
+tema:
+- röster
+- kontroll
+källa:
+  url: https://www.nobelprize.org/prizes/physics/2024/hinton/speech/
+  titel: Nobel Prize in Physics 2024
+  citat: But we now have evidence that if they are created by companies motivated by short-term profits,
+    our safety will not be the top priority.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Svensk koppling: varningen framfördes vid Nobelbanketten. Hinton nämner också kortsiktiga
+  risker: övervakning, nätfiske, virus och autonoma vapen. Han säger att nyttan kan bli fantastisk om
+  den fördelas rättvist.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

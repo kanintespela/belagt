@@ -1,0 +1,20 @@
+id: TID-04
+påstående: I februari 2019 presenterade OpenAI GPT-2, en språkmodell som kunde skriva sammanhängande stycken
+  text.
+typ: händelse
+vem: OpenAI
+datum: '2019-02-14'
+tema:
+- förmågor
+källa:
+  url: https://openai.com/index/better-language-models/
+  titel: Better language models and their implications
+  citat: We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of
+    text
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Tidslinjekort. OpenAI släppte först inte hela modellen, med hänvisning till risk för missbruk.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

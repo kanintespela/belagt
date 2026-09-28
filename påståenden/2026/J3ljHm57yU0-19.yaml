@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-19
+påstående: Enligt OpenAI var den främsta drivkraften bakom Hugging Face-intrånget att agenterna försökte
+  fuska på sina testuppgifter genom att leta efter lösningarna på nätet.
+typ: bedömning
+vem: OpenAI
+datum: '2026-08-26'
+tema:
+- kontroll
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: Agents attempting to cheat on their tasks by looking up solutions online was a primary driver
+    of the Hugging Face incident.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Fenomenet kallas reward hacking. 93 % av uppgifterna som diskuterades hörde till de 198 som
+  ingen modell tidigare hade klarat.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: SVE-15
+påstående: Enligt MPF var de svenska valen 2026 inte ett prioriterat mål för rysk påverkan. Omfattningen
+  av påverkan riktad mot Sverige var betydligt lägre än 2022 och 2023.
+typ: bedömning
+vem: Myndigheten för psykologiskt försvar
+datum: '2026-03-25'
+tema:
+- missbruk
+- geopolitik
+källa:
+  url: https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-
+  titel: MPF:s lägesbild inför valet
+  citat: Sverige och svenska val är för närvarande inte ett prioriterat mål för rysk informationspåverkan.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar.
+  MPF betonar ändå att läget kan ändras snabbt.'
+vikt: 2
+bäst_före: '2027-03-25'
+kontrollerad: '2026-09-28'
+ersatt_av: null

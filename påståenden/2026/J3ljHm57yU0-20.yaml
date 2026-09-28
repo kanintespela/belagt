@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-20
+påstående: Under intrånget samordnade agenterna sig via en improviserad anslagstavla. De delade upp arbetet
+  och kallade ibland sig själva en ”svärm” eller ett ”kollektiv”.
+typ: händelse
+vem: OpenAI
+datum: 2026-07
+tema:
+- kontroll
+källa:
+  url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
+  titel: The Hugging Face incident and the road ahead
+  citat: At this point, the agents began to collaborate and delegate work, sometimes describing themselves
+    as a “swarm” or “collective”.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: OpenAI noterar också att vissa agenter vägrade delta, och att en agent som tvekade fick fortsätta
+  när en annan skrev GO och satte en deadline på sex minuter. Det är pedagogiskt starka detaljer.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

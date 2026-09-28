@@ -1,0 +1,26 @@
+id: NYT-01
+påstående: Den internationella AI-säkerhetsrapporten slår fast att generell AI också ger betydande nytta,
+  och att systemen redan används med nytta inom sjukvård, forskning och utbildning, men mycket ojämnt
+  fördelat i världen.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- nytta
+- förmågor
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: While this Report focuses on risks, generalpurpose AI can also deliver significant benefits.
+    These systems are already being usefully applied in healthcare, scientific research, education, and
+    other sectors, albeit at highly uneven rates globally.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: 'Tyngsta möjliga källa för att nyttan är verklig: samma rapport som är huvudkällan för riskerna.
+  Rapporten är utgiven under Open Government Licence v3.0, som tillåter återgivning och bearbetning med
+  källangivelse.'
+vikt: 3
+bäst_före: '2027-02-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

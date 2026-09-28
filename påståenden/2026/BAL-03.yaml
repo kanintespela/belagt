@@ -1,0 +1,24 @@
+id: BAL-03
+påstående: 'Andrew Ng menar att en paus skulle göra mer skada än nytta: motståndarna bromsar inte, och
+  säkerhetsproblem hittas och löses först när tekniken används.'
+typ: bedömning
+vem: Andrew Ng
+datum: 2026-09
+tema:
+- styrning
+- geopolitik
+- röster
+källa:
+  url: https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/
+  titel: Separating Out AI Facts, Fears, and Fiction
+  citat: Pausing AI progress will create much more harm than benefit. First, our adversaries will certainly
+    not slow down.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Det tydligaste argumentet mot paus från en tungt vägande AI-forskare. Ng nämner också motiv
+  för att piska upp rädsla: att skapa regler som gynnar de stora aktörerna (regulatory capture), att få
+  uppmärksamhet och att få den egna tekniken att verka kraftfullare.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

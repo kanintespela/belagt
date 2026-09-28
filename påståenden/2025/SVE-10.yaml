@@ -1,0 +1,24 @@
+id: SVE-10
+påstående: EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel
+  de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma
+  och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.
+typ: händelse
+vem: EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu)
+datum: '2025-08-02'
+tema:
+- styrning
+källa:
+  url: https://artificialintelligenceact.eu/high-level-summary/
+  titel: High-level summary of the AI Act
+  citat: All providers of GPAI models that present a systemic risk – open or closed – must also conduct
+    model evaluations and risk assessments and mitigations, track and report serious incidents and ensure
+    cybersecurity protections.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Kraven på modeller för allmänna ändamål (GPAI) gäller sedan 2 augusti 2025. Sammanfattningen
+  kommer från Future of Life Institute och inte från EU. Kontrollera formuleringarna mot förordningens
+  text innan de används i utskick. Förordningen innehåller ingen paus eller hastighetsgräns.
+vikt: 3
+bäst_före: '2027-08-02'
+kontrollerad: '2026-09-28'
+ersatt_av: null

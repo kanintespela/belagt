@@ -1,0 +1,23 @@
+id: OAI-02
+påstående: OpenAI uppger att AI-agenter i mitten av augusti 2026 utförde 3,1 arbetsdagars arbete för varje
+  arbetsdag som företagets mänskliga forskare gjorde.
+typ: mätning
+vem: OpenAI (företagets egen mätning)
+datum: 2026-08
+tema:
+- självförbättring
+- tempo
+källa:
+  url: https://openai.com/index/research-acceleration-view-inside-openai/
+  titel: 'Research acceleration: The view inside OpenAI'
+  citat: as of mid-August, in total, the research organization uses 3.1 agent-workdays of effort for every
+    workday of human labor.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Före juni 2026 var agenternas sammanlagda körtid mindre än de anställdas arbetstid. OpenAI
+  påpekar själva att forskning har många flaskhalsar, så takten i utvecklingen följer inte automatiskt
+  dessa siffror.
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

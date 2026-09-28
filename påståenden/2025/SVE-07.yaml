@@ -1,0 +1,24 @@
+id: SVE-07
+påstående: Fyra forskare vid Chalmers menar att argumenten för existentiell AI-risk bygger på spekulativa
+  tankeexperiment som mer liknar science fiction än vetenskap, och att reglering ska bygga på vetenskaplig
+  evidens.
+typ: bedömning
+vem: Henrik Berglund, Devdatt Dubhashi, Moa Johansson och Sandro Stucki (forskare vid Chalmers)
+datum: '2025'
+tema:
+- röster
+källa:
+  url: https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406
+  titel: ”AI-debatten bör bygga på vetenskap – inte på spekulation”
+  citat: Häggströms argument vilar primärt på abstrakta, spekulativa tankeexperiment och påminner mer
+    om science fiction än vetenskap.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Slutreplik i en debatt i Ny Teknik 2025, efter GPT-5 och före 2026 års incidenter. Den tydligaste
+  svenska skeptiska rösten från forskare. De vill ha öppna tester, oberoende granskning, reglering per
+  område och konkurrens som motverkar inlåsning, och förordar synen på AI som normal teknik (BAL-08).
+  Exakt datum är inte fastställt. Fråga gärna om de har ändrat uppfattning efter 2026.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

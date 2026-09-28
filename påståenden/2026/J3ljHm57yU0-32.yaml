@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-32
+påstående: Amodei skriver att idén att pausa eller bromsa AI, som lanserades 2023, var föga meningsfull
+  då, eftersom modellerna var för svaga att studera. Han menar att läget i dag är helt annorlunda.
+typ: bedömning
+vem: Dario Amodei (vd, Anthropic)
+datum: 2026-09
+tema:
+- styrning
+- röster
+källa:
+  url: https://darioamodei.com/post/we-must-pace-the-frontier
+  titel: Dario Amodei — We Must Pace the Frontier
+  citat: and I think it made little sense back then.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon. Han syftar på FLI:s öppna brev om paus från 2023. Viktigt för PauseAI
+  att känna till, både som ett erkännande att läget har ändrats och som en invändning mot att pausfrågan
+  var fel ställd 2023.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

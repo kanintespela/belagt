@@ -1,0 +1,22 @@
+id: BAL-09
+påstående: Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att
+  det inte kräver drastiska politiska ingrepp eller tekniska genombrott.
+typ: bedömning
+vem: Arvind Narayanan och Sayash Kapoor
+datum: 2025-04
+tema:
+- kontroll
+- styrning
+källa:
+  url: https://knightcolumbia.org/content/ai-as-normal-technology
+  titel: AI as Normal Technology
+  citat: We view AI as a tool that we can and should remain in control of, and we argue that this goal
+    does not require drastic policy interventions or technical breakthroughs.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska
+  ingrepp kan göra saken värre om AI visar sig vara en normal teknik.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

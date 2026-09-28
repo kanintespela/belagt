@@ -1,0 +1,23 @@
+id: SVE-16
+påstående: Polisen varnade redan i maj 2023 för att bedragare i Sverige använt AI-klonade röster, till
+  exempel för att utge sig för att vara en vd och begära en utlandsbetalning.
+typ: händelse
+vem: Polisens bedrägericentrum (Jan Olsson), i TV4
+datum: '2023-05-13'
+tema:
+- missbruk
+källa:
+  url: https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige
+  titel: Polisen varnar för AI-klonade röster hos bedragare
+  citat: I Sverige har polisen upptäckt flera fall där bedragare använder AI-klonade röster för att begå
+    brott.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Uppgiften är gammal (2023), så sök nyare statistik från Polisen eller Brå. Källkritiskt exempel:
+  SVT skrev den 31 mars 2023 att polisen inte sett några sådana ärenden i Sverige, och sex veckor senare
+  säger polisen i TV4 att flera fall upptäckts. Datum spelar roll. Polisens råd: lägg på och ring tillbaka
+  själv.'
+vikt: 2
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: BAL-17
+påstående: Andrew Ng tror att försvararna på sikt har övertaget i cybersäkerhet, eftersom de har mer information
+  för att hitta och rätta buggar. Han medger samtidigt att hotbilden har förändrats kraftigt av AI-agenter.
+typ: bedömning
+vem: Andrew Ng
+datum: 2026-09
+tema:
+- missbruk
+- röster
+källa:
+  url: https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/
+  titel: Separating Out AI Facts, Fears, and Fiction
+  citat: in the long term, I believe the advantage will lie with defenders
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ng tycker också att biovapenrisken är överdriven, eftersom flaskhalsen enligt honom är laboratoriearbete
+  och tillverkning, inte kunskap.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

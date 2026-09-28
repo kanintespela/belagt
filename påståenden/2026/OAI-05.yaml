@@ -1,0 +1,25 @@
+id: OAI-05
+påstående: OpenAI uppger att pausen efter Hugging Face-intrånget gällde förstärkningsinlärning av de senaste
+  modellerna som var avsedda att släppas, och att en del av arbetet därefter har återupptagits under starkare
+  kontroller medan annat fortfarande är pausat.
+typ: händelse
+vem: OpenAI (företagets egen text)
+datum: '2026-09-06'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://openai.com/index/research-acceleration-view-inside-openai/
+  titel: 'Research acceleration: The view inside OpenAI'
+  citat: 'pausing reinforcement learning (RL) training on our latest models intended for deployment while
+    we further hardened and red-teamed our research environments and expanded coverage of our monitoring
+    systems. This did not halt all research: some workloads resumed under stronger controls, while others
+    remained paused.'
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Viktig precisering: pausen är inte ett stopp för all utveckling, och den är delvis hävd. Ingen
+  utomstående kontrollerar vad som är pausat.'
+vikt: 3
+bäst_före: '2026-12-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

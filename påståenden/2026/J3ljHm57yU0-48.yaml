@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-48
+påstående: Inget av missbruksfallen i Anthropics hotrapport gällde företagets mest kapabla modeller, med
+  ett undantag som rörde otillåten destillering.
+typ: mätning
+vem: Anthropic (hotrapport, september 2026)
+datum: 2026-09
+tema:
+- missbruk
+- förmågor
+källa:
+  url: https://www.anthropic.com/threat-intelligence-report-september-2026
+  titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  citat: None of the misuse cases involved the use of Claude Fable or Mythos-class models, with the exception
+    of one illicit distillation case.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Missbruket skedde alltså med förhållandevis svaga modeller.
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

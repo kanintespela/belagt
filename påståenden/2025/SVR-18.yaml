@@ -1,0 +1,22 @@
+id: SVR-18
+påstående: Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten.
+  2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.
+typ: händelse
+vem: EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg)
+datum: '2025-05-08'
+tema:
+- nytta
+- förmågor
+källa:
+  url: https://efn.se/efter-ai-satsningen-klarna-borjar-anstalla-igen
+  titel: Efter AI-satsningen – Klarna börjar anställa igen
+  citat: När kostnad tyvärr varit det dominerande utvärderingskriteriet vid organisationen så får man
+    till slut lägre kvalitet
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Svenskt exempel på AI i arbetslivet, som visar både hur långt och hur kort det räckte. Siemiatkowski
+  räknade ändå med att personalstyrkan skulle krympa från 3 000 till 2 500 genom naturlig avgång.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

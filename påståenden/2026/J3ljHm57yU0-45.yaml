@@ -1,0 +1,20 @@
+id: J3ljHm57yU0-45
+påstående: En grupp i norra Jemen använde Claude för att utveckla styrprogramvara till robotar. Anthropics
+  spärrar stoppade många av förfrågningarna, men inte alla.
+typ: händelse
+vem: Anthropic (hotrapport, september 2026)
+datum: '2026'
+tema:
+- missbruk
+källa:
+  url: https://www.anthropic.com/threat-intelligence-report-september-2026
+  titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  citat: Our safeguards blocked many of their requests, but not all of them.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ett provskott med en styrd raket misslyckades, och gruppen återvände till Claude inom några
+  timmar för att felsöka. Gruppen har redan byggt ett simuleringsverktyg som fungerar utan Claude.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

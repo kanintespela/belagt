@@ -1,0 +1,23 @@
+id: SVE-09
+påstående: Nätverket Folkets AI-kommission kritiserar AI-kommissionen för att göra AI till en tekniskt-ekonomisk
+  optimeringsfråga, och saknar analys av arbetslöshet, övervakning, demokrati, maktkoncentration och medborgarnas
+  inflytande.
+typ: bedömning
+vem: Folkets AI-kommission (nätverk grundat av bland andra Per Axbom och Jonna Steinrud)
+datum: '2025-06-04'
+tema:
+- styrning
+- röster
+källa:
+  url: https://folketsai.se/remissvar/
+  titel: Remissvar över SOU 2025:12 AI-kommissionens Färdplan för Sverige
+  citat: gör att AI-kommissionen förvandlar AI från en samhällsfråga till en teknisk-ekonomisk optimeringsfråga
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: En svensk röst som fokuserar på demokrati och makt här och nu snarare än på frontierrisker.
+  Visar dessutom att medborgare kan lämna remissvar (jämför IDEAS.md). Kan vara en möjlig samarbetspart
+  för folkbildningen.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

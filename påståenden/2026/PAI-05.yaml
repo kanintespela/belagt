@@ -1,0 +1,20 @@
+id: PAI-05
+påstående: Som komplement till pausen föreslår PauseAI att AI-företagen ska hållas ansvariga för brott
+  som begås med deras system, och att träning på upphovsrättsskyddat material ska förbjudas.
+typ: förslag
+vem: PauseAI
+datum: '2026-04-05'
+tema:
+- styrning
+källa:
+  url: https://pauseai.info/proposal
+  titel: PauseAI Proposal
+  citat: Hold AI model creators liable
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Ansvarsfrågan lyfts även av Ng (BAL-04), men med motsatt slutsats: Ng lägger ansvaret på användaren.
+  Bra diskussionspar.'
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

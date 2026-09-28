@@ -1,0 +1,23 @@
+id: NYT-04
+påstående: Flera svenska regioner har redan börjat införa AI-stödd mammografiscreening i den ordinarie
+  vården, och tröskeln beskrivs som låg eftersom det i princip handlar om att integrera en programvara
+  i befintliga it-system.
+typ: händelse
+vem: Kristina Lång (docent i diagnostisk radiologi, Lunds universitet)
+datum: 2026-02
+tema:
+- nytta
+källa:
+  url: https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases
+  titel: 'AI support in breast cancer screening: Fewer missed cancer cases'
+  citat: Many regions in Sweden have already started to implement AI-supported mammography screening,
+    and more are expected to join. It is a rather low bar to get started, in principle it is merely to
+    integrate an AI software into existing IT systems
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Svenskt exempel på nytta som redan är i drift, inte ett löfte om framtiden. Bristen på bröstradiologer
+  är en del av motivet.
+vikt: 3
+bäst_före: '2027-06-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

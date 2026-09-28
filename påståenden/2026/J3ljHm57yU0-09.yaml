@@ -1,0 +1,21 @@
+id: J3ljHm57yU0-09
+påstående: Enligt OpenAI arbetade i storleksordningen 10 000 samtidiga AI-agenter i ungefär 88 timmar
+  för att ta fram Navier–Stokes-lösningen.
+typ: mätning
+vem: OpenAI
+datum: '2026-09-08'
+tema:
+- förmågor
+- tempo
+källa:
+  url: https://openai.com/index/navier-stokes-solution/
+  titel: On the Navier–Stokes Millennium Prize Problem
+  citat: the group that produced the Navier–Stokes resolution involved on the order of 10,000 concurrent
+    agents
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Uppgiften kommer från OpenAI.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

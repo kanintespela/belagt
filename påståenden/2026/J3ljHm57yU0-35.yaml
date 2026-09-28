@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-35
+påstående: En ingenjör på DeepSeek skriver att han inte litar på att Anthropic eller OpenAI gör den mest
+  avancerade AI:n öppen och billig för alla, och jämför att låta Anthropic behärska AGI med att låta Hitler
+  få atombomben före de allierade.
+typ: bedömning
+vem: Anonym kernelingenjör på DeepSeek (skrev huvud-attention-operatorn i DeepSeek v4.1)
+datum: 2026-09
+tema:
+- geopolitik
+- röster
+källa:
+  url: https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA
+  titel: 我不得不把才华埋葬在昨天
+  citat: 我不信任 Anthropic 或者 OpenAI 能这样做，特别是不希望 Anthropic 掌握最先进的人工智能或 AGI
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Kontrollerat mot den kinesiska originaltexten. Skribenten säger själv att han överdriver lite.
+  Essän handlar mest om sorgen över att AI tar över hantverket. Den publicerades i september 2026.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

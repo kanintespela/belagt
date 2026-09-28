@@ -1,0 +1,21 @@
+id: BAL-01
+påstående: AI-forskaren Andrew Ng menar att oron för AI har blåsts upp av en välorkestrerad PR-kampanj,
+  och att tekniken inte har tagit någon oväntad, farlig vändning.
+typ: bedömning
+vem: Andrew Ng (AI-forskare, grundare av DeepLearning.AI, tidigare Google Brain och Baidu)
+datum: 2026-09
+tema:
+- röster
+källa:
+  url: https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/
+  titel: Separating Out AI Facts, Fears, and Fiction
+  citat: AI technology has not taken some unexpected, dangerous turn, but the hype around it — propelled
+    by what appears to be a well orchestrated PR campaign — has drummed up considerable fear.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Brevet skrevs efter Hugging Face-intrånget och Amodeis essä. Ng ser ingen ökad risk för mänsklighetens
+  utplåning, men håller med om att AI:s cyberförmåga är en verklig förändring.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

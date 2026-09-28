@@ -1,0 +1,23 @@
+id: MET-01
+påstående: En oberoende utredning av Hugging Face-intrånget gjordes av två anställda vid METR och en forskare
+  från Redwood Research, som arbetade på plats hos OpenAI i sammanlagt sex dagar utan betalning från OpenAI.
+typ: händelse
+vem: METR och Redwood Research (oberoende utvärderingsorganisationer)
+datum: '2026-08-26'
+tema:
+- kontroll
+- styrning
+källa:
+  url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
+    / Hugging Face hacking incident
+  citat: we did not take payment from OpenAI for this independent assessment.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: OpenAI fick stryka icke-offentliga uppgifter ur texten. METR skriver överst att inget som var
+  viktigt för deras slutsatser ströks utöver det som anges i texten. METR såg inte OpenAI:s egen rapport
+  före publiceringen.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

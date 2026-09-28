@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-33
+påstående: Amodei stödjer att man lyfter idén om en fullständig global paus i AI-utvecklingen, men bedömer
+  att den knappast blir av inom kort eftersom det är svårt att kontrollera att alla följer ett avtal.
+typ: bedömning
+vem: Dario Amodei (vd, Anthropic)
+datum: 2026-09
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://darioamodei.com/post/we-must-pace-the-frontier
+  titel: Dario Amodei — We Must Pace the Frontier
+  citat: I support floating this, but I think it is unlikely to actually happen any time soon
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Nämns inte i videon. Det är nivå 4 av 4 i hans skala för globala avtal. Nivå 1 är ett förbud
+  mot AI för biovapen, nivå 2 gemensamma tester före lansering och nivå 3 en hastighetsgräns för självförbättring,
+  jämförd med SALT-avtalen.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

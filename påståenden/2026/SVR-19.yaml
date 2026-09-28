@@ -1,0 +1,23 @@
+id: SVR-19
+påstående: Stockholmsbolaget Lovable, som låter människor utan programmeringskunskaper bygga appar genom
+  att chatta med AI, värderades i augusti 2026 till 13,3 miljarder dollar, alltså 127 miljarder kronor.
+  Det är mer än börsvärdet för SKF, Skanska och Securitas.
+typ: händelse
+vem: Dagens PS
+datum: 2026-08
+tema:
+- nytta
+- tempo
+källa:
+  url: https://www.dagensps.se/bors-finans/lovable-dubblar-varderingen-eqt-bland-de-som-satsar-mer/
+  titel: Lovable dubblar värderingen – EQT bland de som satsar mer
+  citat: Svenska AI-bolaget Lovable tar in 400 miljoner dollar i nytt kapital och mer än fördubblar sin
+    värdering till 13,3 miljarder dollar, motsvarande 127 miljarder kronor.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Sverige är inte bara åskådare: svenska bolag och svenska investerare (EQT) är en del av AI-boomen.
+  Lovable bygger tjänster ovanpå andras modeller, inte egna frontiermodeller. Företaget grundades 2023.'
+vikt: 2
+bäst_före: '2027-03-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

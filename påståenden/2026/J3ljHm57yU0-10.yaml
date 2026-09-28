@@ -1,0 +1,22 @@
+id: J3ljHm57yU0-10
+påstående: OpenAI uppger att de sedan 28 augusti 2026 tränar en ny intern modell som presterar bättre
+  än någon tidigare på deras tester, och att den fortsätter att förbättras.
+typ: händelse
+vem: OpenAI
+datum: '2026-09-08'
+tema:
+- tempo
+- förmågor
+källa:
+  url: https://openai.com/index/navier-stokes-solution/
+  titel: On the Navier–Stokes Millennium Prize Problem
+  citat: Since August 28 we have been training a new internal model that has exhibited unprecedented performance
+    in our benchmarks, including mathematics.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Uppgiften kommer från OpenAI. Samma text beskriver modellen som ”betydligt mer kapabel än GPT-6
+  Astra”.
+vikt: 2
+bäst_före: '2026-12-22'
+kontrollerad: '2026-09-28'
+ersatt_av: null

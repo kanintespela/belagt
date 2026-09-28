@@ -1,0 +1,23 @@
+id: OAI-03
+påstående: OpenAI uppger att företaget har nått sitt mål att ha en automatiserad forskningspraktikant,
+  alltså ett AI-system som klarar avgränsade forskningsuppgifter under mänsklig ledning, och siktar på
+  en automatiserad AI-forskare i mars 2028.
+typ: prognos
+vem: OpenAI (företagets egen text)
+datum: '2026-09-06'
+tema:
+- självförbättring
+- tempo
+källa:
+  url: https://openai.com/index/research-acceleration-view-inside-openai/
+  titel: 'Research acceleration: The view inside OpenAI'
+  citat: We are making strong progress toward creating an automated AI researcher by March of 2028.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Med praktikant menar OpenAI ett system som klarar uppgifter som hade tagit en skicklig forskare
+  några dagar. Att bolaget säger sig ha nått ett eget mål är en partsuppgift som ingen utomstående har
+  kontrollerat.
+vikt: 3
+bäst_före: '2028-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null
