@@ -1,0 +1,19 @@
+id: TID-11
+påstående: EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.
+typ: händelse
+vem: EU, återgivet av artificialintelligenceact.eu
+datum: '2024-08-01'
+tema:
+- styrning
+källa:
+  url: https://artificialintelligenceact.eu/high-level-summary/
+  titel: High-level summary of the AI Act
+  citat: After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions
+    has been and is continued to be rolled out gradually.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.'
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,18 @@
+id: TID-13
+påstående: Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.
+typ: händelse
+vem: International AI Safety Report 2026
+datum: 2025-01
+tema:
+- styrning
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Since the publication of the last Report (January 2025)
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Den andra rapporten kom i februari 2026 (ISR-01).
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

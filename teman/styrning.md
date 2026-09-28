@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-61 påståenden, de viktigaste först inom varje år.
+66 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -335,6 +335,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [”AI-debatten bör bygga på vetenskap – inte på spekulation”](https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406)
 
   *Förbehåll:* Ett av de viktigaste sakliga argumenten mot en paus.
+- **De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.**
+  EU, återgivet av artificialintelligenceact.eu · 2025-02-02 · styrning · [TID-12](../påståenden/2025/TID-12.yaml)
+  > Most prohibitions of AI systems have been applicable since 2 February 2025
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
@@ -353,15 +359,33 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [USA: America's AI Action Plan (juli 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)
 
   *Förbehåll:* Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”. Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
+- **EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes av EU-kommissionen och AI-styrelsen den 1 augusti 2025.**
+  EU, återgivet av artificialintelligenceact.eu · 2025-07-10 · styrning · [TID-14](../påståenden/2025/TID-14.yaml)
+  > Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
 - **I oktober 2025 lanserades ett upprop, initierat av Future of Life Institute, med krav på förbud mot att utveckla superintelligens tills det finns bred vetenskaplig enighet om att det kan göras säkert och starkt stöd hos allmänheten. Uppropet har över 75 000 underskrifter.**
   Statement on Superintelligence (Future of Life Institute, ordförande Max Tegmark) · 2025-10 · styrning · [SVR-11](../påståenden/2025/SVR-11.yaml)
   > We call for a prohibition on the development of superintelligence, not lifted before there is
   > — [Statement on Superintelligence](https://superintelligence-statement.org/)
 
   *Förbehåll:* Antalet underskrifter (75 117) gällde när sidan hämtades den 22 september 2026. Hållningen ligger nära PauseAI:s. Kolla om kända svenskar har skrivit under.
+- **Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.**
+  International AI Safety Report 2026 · 2025-01 · styrning · [TID-13](../påståenden/2025/TID-13.yaml)
+  > Since the publication of the last Report (January 2025)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Den andra rapporten kom i februari 2026 (ISR-01).
 
 ## 2024
 
+- **EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.**
+  EU, återgivet av artificialintelligenceact.eu · 2024-08-01 · styrning · [TID-11](../påståenden/2024/TID-11.yaml)
+  > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.
 - **Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också säga ifrån när en risk visar sig vara överdriven.**
   AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige) · 2024-11-26 · styrning · [SVE-01](../påståenden/2024/SVE-01.yaml)
   > I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.
@@ -383,3 +407,9 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [The Techno-Optimist Manifesto | Andreessen Horowitz](https://a16z.com/the-techno-optimist-manifesto/)
 
   *Förbehåll:* Ur ”The Techno-Optimist Manifesto” (2023). Den renaste formen av hållningen ”full fart” i fyra hörn-övningen. Manifestet pekar ut ”existentiell risk” och försiktighetsprincipen som fiender. Andreessen Horowitz investerar i AI-företag.
+- **Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.**
+  Bletchley-deklarationen, återgiven i International AI Safety Report 2026 · 2023-11 · styrning · [TID-10](../påståenden/2023/TID-10.yaml)
+  > The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).

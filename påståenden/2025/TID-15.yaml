@@ -1,0 +1,24 @@
+id: TID-15
+påstående: METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna
+  klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.
+typ: mätning
+vem: METR (oberoende utvärderingsorganisation)
+datum: '2025-03-19'
+tema:
+- tempo
+- förmågor
+källa:
+  url: https://arxiv.org/pdf/2503.14499
+  titel: METR Time Horizon
+  citat: We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks,
+    with a doubling time of approximately seven months (Figure 1).
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: 'Måttet kallas tidshorisont: hur lång tid uppgiften tar för en kunnig människa. Studiens bästa
+  modell (o3) klarade uppgifter på omkring 110 minuter. Trenden kan ha accelererat sedan 2024. Om den
+  håller och gäller även verkliga uppgifter kan AI inom fem år automatisera många programmeringsuppgifter
+  som tar en månad, men det är en extrapolering. Mäts bara på programmering och liknande uppgifter.'
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

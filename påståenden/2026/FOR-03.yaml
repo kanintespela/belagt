@@ -1,0 +1,23 @@
+id: FOR-03
+påstående: Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar
+  bättre än mänskliga forskare på forskningsprojekt som tar en månad.
+typ: prognos
+vem: Forecasting Research Institute, återgivet i International AI Safety Report 2026
+datum: '2026-02-03'
+tema:
+- tempo
+- självförbättring
+- röster
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better
+    than human researchers on month-long research projects
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: 'Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar
+  på en automatiserad AI-forskare 2028.'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

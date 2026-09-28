@@ -1,0 +1,23 @@
+id: TID-10
+påstående: Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda
+  säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.
+typ: händelse
+vem: Bletchley-deklarationen, återgiven i International AI Safety Report 2026
+datum: 2023-11
+tema:
+- styrning
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular
+    safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity
+    risks.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav
+  upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024),
+  Paris (2025) och Indien (2026).
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

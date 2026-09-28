@@ -1,0 +1,23 @@
+id: FOR-01
+påstående: I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans
+  att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.
+typ: prognos
+vem: Forecasting Research Institute, återgivet i International AI Safety Report 2026
+datum: '2026-02-03'
+tema:
+- förmågor
+- röster
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy
+    by 2030 on undergraduate-level FrontierMath problems
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan.
+  Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering.
+  Prognosen går att följa upp 2027 och 2030.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

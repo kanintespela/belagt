@@ -1,0 +1,22 @@
+id: FOR-07
+påstående: Dario Amodei skrev i oktober 2024 att kraftfull AI skulle kunna komma redan 2026, men att det
+  också kan ta mycket längre tid.
+typ: prognos
+vem: Dario Amodei (vd, Anthropic)
+datum: 2024-10
+tema:
+- tempo
+- röster
+källa:
+  url: https://www.darioamodei.com/essay/machines-of-loving-grace
+  titel: Dario Amodei — Machines of Loving Grace
+  citat: I think it could come as early as 2026, though there are also ways it could take much longer.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet
+  AGI. Jämför J3ljHm57yU0-29, där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan
+  sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
