@@ -25,7 +25,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
   > — [Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet](https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf)
 
-  *Förbehåll:* Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför ENE-01: globalt står datacenter för omkring 1,5 procent av elanvändningen.
+  *Förbehåll:* Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför [ENE-01](https://kanintespela.github.io/belagt/#ENE-01): globalt står datacenter för omkring 1,5 procent av elanvändningen.
 - **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
   Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](../påståenden/2026/SVS-08.yaml)
   > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
@@ -64,7 +64,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
-  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se ENE-10.
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se [ENE-10](https://kanintespela.github.io/belagt/#ENE-10).
 - **Ett typiskt AI-datacenter drar lika mycket el som 100 000 hushåll, och de största som byggs i dag kommer att dra 20 gånger så mycket.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö · [ENE-03](../påståenden/2025/ENE-03.yaml)
   > A typical AI-focused data centre consumes as much electricity as 100 000 households, but the largest ones under construction today will consume 20 times as much.
@@ -88,7 +88,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > Concerns that AI could accelerate climate change appear overstated, as do expectations that AI alone will address the issue
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
-  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se [ENE-07](https://kanintespela.github.io/belagt/#ENE-07) och [ENE-09](https://kanintespela.github.io/belagt/#ENE-09) för siffrorna bakom.
 - **Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs snabbare än den nya elproduktionen.**
   Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · [SVS-05](../påståenden/2025/SVS-05.yaml)
   > Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
@@ -100,7 +100,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity demand, depending on AI growth scenarios
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Den bakomliggande prognosen, troligen från Lawrence Berkeley National Laboratory, har inte gått att hämta. Jämför ENE-05.
+  *Förbehåll:* Den bakomliggande prognosen, troligen från Lawrence Berkeley National Laboratory, har inte gått att hämta. Jämför [ENE-05](https://kanintespela.github.io/belagt/#ENE-05).
 - **IEA bedömer att USA i slutet av 2020-talet kommer att använda mer el till datacenter än till tillverkningen av aluminium, stål, cement, kemikalier och alla andra energiintensiva varor tillsammans.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö · [ENE-05](../påståenden/2025/ENE-05.yaml)
   > By the end of the decade, the country is set to consume more electricity for data centres than for the production of aluminium, steel, cement, chemicals and all other energy-intensive goods combined.
@@ -130,7 +130,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
-  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07 om AI-företagens aviserade investeringar.
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför [ISR-07](https://kanintespela.github.io/belagt/#ISR-07) om AI-företagens aviserade investeringar.
 - **Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, geopolitik · [ENE-12](../påståenden/2025/ENE-12.yaml)
   > China currently accounts for around 99% of global refined gallium supply.
@@ -142,13 +142,13 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially lower than many public estimates
   > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
 
-  *Förbehåll:* Partsuppgift, men det är den första mätningen i en verklig driftsmiljö med hela infrastrukturen inräknad. Gäller medianfrågan i text, inte bilder, video eller långa resonemang. Jämför ENE-13.
+  *Förbehåll:* Partsuppgift, men det är den första mätningen i en verklig driftsmiljö med hela infrastrukturen inräknad. Gäller medianfrågan i text, inte bilder, video eller långa resonemang. Jämför [ENE-13](https://kanintespela.github.io/belagt/#ENE-13).
 - **Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.**
   Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö, tempo · [ENE-15](../påståenden/2025/ENE-15.yaml)
   > Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.
   > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
 
-  *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser (ENE-02) tar hänsyn till.
+  *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser ([ENE-02](https://kanintespela.github.io/belagt/#ENE-02)) tar hänsyn till.
 
 ## 2023
 
@@ -157,10 +157,10 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > the global AI demand is projected to account for 4.2 – 6.6 billion cubic meters of water withdrawal in 2027, which is more than the total annual water withdrawal of 4 – 6 Denmark
   > — [Li m.fl.: Making AI Less Thirsty (2023)](https://arxiv.org/abs/2304.03271)
 
-  *Förbehåll:* Uttag är inte samma sak som förbrukning: det mesta vattnet återförs. Uppskattningen är osäker och bygger på antaganden om hur mycket AI växer. Jämför Googles mätning på 0,26 milliliter per fråga (ENE-14).
+  *Förbehåll:* Uttag är inte samma sak som förbrukning: det mesta vattnet återförs. Uppskattningen är osäker och bygger på antaganden om hur mycket AI växer. Jämför Googles mätning på 0,26 milliliter per fråga ([ENE-14](https://kanintespela.github.io/belagt/#ENE-14)).
 - **Generella generativa AI-modeller drar storleksordningar mer energi än modeller som är tränade för en enda uppgift, även när man tar hänsyn till modellernas storlek.**
   Luccioni och Jernite (Hugging Face) samt Strubell (Carnegie Mellon) · 2023-11 · miljö · [ENE-16](../påståenden/2023/ENE-16.yaml)
   > We find that multi-purpose, generative architectures are orders of magnitude more expensive than task-specific systems for a variety of tasks, even when controlling for the number of model parameters.
   > — [Luccioni m.fl.: Power Hungry Processing (2023)](https://arxiv.org/abs/2311.16863)
 
-  *Förbehåll:* Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför NYT-07 om att PauseAI:s förslag inte omfattar smal AI.
+  *Förbehåll:* Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför [NYT-07](https://kanintespela.github.io/belagt/#NYT-07) om att PauseAI:s förslag inte omfattar smal AI.

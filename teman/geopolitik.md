@@ -76,7 +76,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
 
-  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://kanintespela.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, geopolitik · [ENE-12](../påståenden/2025/ENE-12.yaml)
   > China currently accounts for around 99% of global refined gallium supply.
@@ -97,4 +97,4 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
-  *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+  *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.

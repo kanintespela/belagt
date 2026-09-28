@@ -152,7 +152,9 @@ def md_post(p, relativ=".."):
         f"  > — [{k['titel'] or k['url']}]({k['url']}){arkiv}",
     ]
     if p["förbehåll"]:
-        rader.append(f"\n  *Förbehåll:* {p['förbehåll']}")
+        # Id:n som pekar på andra poster blir länkar till posten på webbsidan.
+        förbehåll = REF_RE.sub(lambda m: f"[{m[0]}]({SIDA_URL}#{m[0]})" if m[0] in IDS else m[0], p["förbehåll"])
+        rader.append(f"\n  *Förbehåll:* {förbehåll}")
     return "\n".join(rader) + "\n"
 
 
@@ -205,7 +207,11 @@ def data_json(poster):
                       ensure_ascii=False, indent=1) + "\n"
 
 
+IDS = set()
+
+
 def generera(poster):
+    IDS.update(p["id"] for p in poster)
     ut = {
         "data/belagt.json": data_json(poster),
         "data/belagt.csv": data_csv(poster),
