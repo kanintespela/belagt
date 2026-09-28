@@ -1,0 +1,186 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Belagt – AI-utvecklingen med källor</title>
+<meta name="description" content="Verifierade påståenden om AI-utvecklingen, vart och ett med primärkälla och ordagrant citat. Fritt att använda med källhänvisning (CC BY 4.0).">
+<style>
+:root {
+  --bg: #faf9f6; --yta: #ffffff; --text: #1d1d1b; --dämpad: #5f5e5a; --linje: #e3e1db;
+  --accent: #1f5f8b; --accent-yta: #e8f0f6; --varning: #8a5a00;
+  --radie: 10px;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #161615; --yta: #1f1f1d; --text: #ecebe6; --dämpad: #a3a29c; --linje: #34332f;
+    --accent: #7fb6dd; --accent-yta: #1d2c37; --varning: #e0b050;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #161615; --yta: #1f1f1d; --text: #ecebe6; --dämpad: #a3a29c; --linje: #34332f;
+  --accent: #7fb6dd; --accent-yta: #1d2c37; --varning: #e0b050;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+.sida { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
+h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.01em; }
+.ingress { color: var(--dämpad); margin: 0 0 24px; max-width: 62ch; }
+.ingress a, .fot a { color: var(--accent); }
+.verktyg { position: sticky; top: 0; background: var(--bg); padding: 12px 0; z-index: 1;
+  border-bottom: 1px solid var(--linje); margin-bottom: 16px; }
+input[type=search] { width: 100%; padding: 10px 12px; font: inherit; color: var(--text);
+  background: var(--yta); border: 1px solid var(--linje); border-radius: var(--radie); }
+.rad { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; align-items: center; }
+.chip { font: inherit; font-size: 0.85rem; padding: 4px 10px; border-radius: 999px; cursor: pointer;
+  border: 1px solid var(--linje); background: var(--yta); color: var(--text); }
+.chip[aria-pressed="true"], .chip:has(input:checked) { background: var(--accent); border-color: var(--accent); color: var(--bg); }
+select { font: inherit; font-size: 0.85rem; padding: 4px 8px; border-radius: 8px;
+  border: 1px solid var(--linje); background: var(--yta); color: var(--text); }
+.antal { color: var(--dämpad); font-size: 0.85rem; margin-left: auto; }
+.temainfo { color: var(--dämpad); font-size: 0.9rem; margin: 8px 0 0; min-height: 1.4em; }
+article { background: var(--yta); border: 1px solid var(--linje); border-radius: var(--radie);
+  padding: 16px 18px; margin-bottom: 12px; }
+article:target { outline: 2px solid var(--accent); }
+.påst { font-weight: 600; margin: 0 0 6px; }
+.meta { color: var(--dämpad); font-size: 0.85rem; display: flex; flex-wrap: wrap; gap: 4px 12px; }
+.meta a { color: inherit; }
+blockquote { margin: 12px 0 0; padding: 8px 12px; border-left: 3px solid var(--accent);
+  background: var(--accent-yta); border-radius: 0 6px 6px 0; font-size: 0.92rem; overflow-wrap: anywhere; }
+blockquote a { color: var(--accent); }
+.förbehåll { font-size: 0.9rem; margin: 10px 0 0; }
+.förbehåll b { color: var(--varning); font-weight: 600; }
+.ersatt { font-size: 0.85rem; color: var(--varning); margin: 0 0 6px; }
+.knappar { margin-top: 10px; display: flex; gap: 8px; }
+.knapp { font: inherit; font-size: 0.8rem; padding: 3px 10px; border-radius: 6px; cursor: pointer;
+  border: 1px solid var(--linje); background: transparent; color: var(--dämpad); }
+.knapp:hover { color: var(--text); border-color: var(--dämpad); }
+.fot { color: var(--dämpad); font-size: 0.85rem; margin-top: 32px; border-top: 1px solid var(--linje); padding-top: 16px; }
+.tom { color: var(--dämpad); padding: 24px 0; }
+@media (max-width: 520px) { h1 { font-size: 1.6rem; } .antal { margin-left: 0; width: 100%; } .verktyg { position: static; } }
+</style>
+</head>
+<body>
+<div class="sida">
+  <h1>Belagt</h1>
+  <p class="ingress">Verifierade påståenden om AI-utvecklingen. Varje påstående har en primärkälla och ett
+    ordagrant citat därifrån, så att du kan kontrollera det själv och hänvisa rätt.
+    Fritt att använda med källhänvisning (CC BY 4.0).
+    <a href="https://github.com/kanintespela/belagt">Om arkivet, metod och data</a>.</p>
+
+  <div class="verktyg">
+    <input type="search" id="sök" placeholder="Sök, till exempel Kina, METR eller exportkontroll" aria-label="Sök">
+    <div class="rad" id="teman" role="group" aria-label="Tema"></div>
+    <div class="rad">
+      <select id="ordning" aria-label="Ordning">
+        <option value="nyast">Nyast först</option>
+        <option value="äldst">Äldst först</option>
+        <option value="vikt">Viktigast först</option>
+      </select>
+      <label class="chip"><input type="checkbox" id="kärna" hidden> Bara kärnpåståenden</label>
+      <span class="antal" id="antal"></span>
+    </div>
+    <p class="temainfo" id="temainfo"></p>
+  </div>
+
+  <main id="lista"><p class="tom">Laddar …</p></main>
+
+  <p class="fot">Arkivet växer löpande och varje ändring syns i
+    <a href="https://github.com/kanintespela/belagt/commits/main">historiken</a>.
+    Hela arkivet finns som <a href="belagt.json">JSON</a> och
+    <a href="https://github.com/kanintespela/belagt/blob/main/data/belagt.csv">CSV</a>.</p>
+</div>
+<script>
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const REPO = "https://github.com/kanintespela/belagt/blob/main/påståenden/";
+let data, valdTema = null;
+
+function läsLäge() {
+  const q = new URLSearchParams(location.search);
+  $("#sök").value = q.get("q") || "";
+  valdTema = q.get("tema");
+  $("#ordning").value = q.get("ordning") || "nyast";
+  $("#kärna").checked = q.get("kärna") === "1";
+}
+function sparaLäge() {
+  const q = new URLSearchParams();
+  if ($("#sök").value) q.set("q", $("#sök").value);
+  if (valdTema) q.set("tema", valdTema);
+  if ($("#ordning").value !== "nyast") q.set("ordning", $("#ordning").value);
+  if ($("#kärna").checked) q.set("kärna", "1");
+  const s = q.toString();
+  history.replaceState(null, "", (s ? "?" + s : location.pathname) + location.hash);
+}
+
+function temaknappar() {
+  const knappar = [["alla", null], ...Object.keys(data.teman).map(t => [t, t])];
+  $("#teman").innerHTML = knappar.map(([namn, t]) =>
+    `<button class="chip" data-tema="${t ?? ""}" aria-pressed="${valdTema === t}">${namn}</button>`).join("");
+  $("#teman").onclick = e => {
+    const b = e.target.closest("button"); if (!b) return;
+    valdTema = b.dataset.tema || null;
+    document.querySelectorAll("#teman .chip").forEach(x => x.setAttribute("aria-pressed", x === b));
+    visa();
+  };
+}
+
+function kort(p) {
+  const k = p.källa;
+  const arkiv = k.arkiv ? ` · <a href="${esc(k.arkiv)}">arkivkopia</a>` : "";
+  return `<article id="${esc(p.id)}">
+    ${p.ersatt_av ? `<p class="ersatt">Inaktuellt, ersatt av <a href="#${esc(p.ersatt_av)}">${esc(p.ersatt_av)}</a>.</p>` : ""}
+    <p class="påst">${esc(p.påstående)}</p>
+    <div class="meta"><span>${esc(p.vem)}</span><span>${esc(p.datum)}</span>
+      <span>${p.tema.map(esc).join(", ")}</span>
+      <a href="${REPO}${esc(p.datum.slice(0, 4))}/${esc(p.id)}.yaml">${esc(p.id)}</a></div>
+    <blockquote>”${esc(k.citat)}”<br>— <a href="${esc(k.url)}">${esc(k.titel || k.url)}</a>${arkiv}</blockquote>
+    ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${esc(p.förbehåll)}</p>` : ""}
+    <div class="knappar">
+      <button class="knapp" data-kopiera="${esc(p.citera)}">Kopiera källhänvisning</button>
+      <button class="knapp" data-länk="${esc(p.id)}">Kopiera länk</button>
+    </div>
+  </article>`;
+}
+
+function visa() {
+  sparaLäge();
+  const ord = $("#sök").value.toLowerCase().split(/\s+/).filter(Boolean);
+  let urval = data.påståenden.filter(p => {
+    if (valdTema && !p.tema.includes(valdTema)) return false;
+    if ($("#kärna").checked && p.vikt < 3) return false;
+    const text = [p.id, p.påstående, p.vem, p.datum, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, ...p.tema]
+      .join(" ").toLowerCase();
+    return ord.every(o => text.includes(o));
+  });
+  const o = $("#ordning").value;
+  urval.sort((a, b) => o === "äldst" ? a.datum.localeCompare(b.datum)
+    : o === "vikt" ? (b.vikt - a.vikt) || b.datum.localeCompare(a.datum)
+    : b.datum.localeCompare(a.datum));
+  $("#temainfo").textContent = valdTema ? data.teman[valdTema] : "";
+  $("#antal").textContent = `${urval.length} av ${data.påståenden.length} påståenden`;
+  $("#lista").innerHTML = urval.length ? urval.map(kort).join("")
+    : `<p class="tom">Inga påståenden matchar.</p>`;
+}
+
+async function kopiera(text, knapp) {
+  try { await navigator.clipboard.writeText(text); } catch { prompt("Kopiera:", text); return; }
+  const före = knapp.textContent; knapp.textContent = "Kopierat";
+  setTimeout(() => knapp.textContent = före, 1200);
+}
+
+$("#lista").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  if (b.dataset.kopiera) kopiera(b.dataset.kopiera, b);
+  if (b.dataset.länk) kopiera(location.origin + location.pathname + "#" + b.dataset.länk, b);
+});
+["input", "change"].forEach(h => ["#sök", "#ordning", "#kärna"].forEach(s => $(s).addEventListener(h, visa)));
+
+fetch("belagt.json").then(r => r.json()).then(d => {
+  data = d; läsLäge(); temaknappar(); visa();
+  if (location.hash) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();
+}).catch(() => { $("#lista").innerHTML = `<p class="tom">Kunde inte ladda arkivet.</p>`; });
+</script>
+</body>
+</html>

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Om du använder arkivet, hänvisa till det enskilda påståendets id och till arkivet."
+title: "Belagt: verifierade påståenden om AI-utvecklingen"
+type: dataset
+authors:
+  - name: "kanintespela"
+repository-code: "https://github.com/kanintespela/belagt"
+url: "https://kanintespela.github.io/belagt/"
+license: CC-BY-4.0
+keywords:
+  - AI
+  - AI-säkerhet
+  - källor
+  - faktagranskning

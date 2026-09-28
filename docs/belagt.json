@@ -1,0 +1,16 @@
+{
+ "källa": "https://github.com/kanintespela/belagt",
+ "licens": "CC BY 4.0",
+ "teman": {
+  "förmågor": "Vad AI-systemen kan göra och hur det mäts.",
+  "tempo": "Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.",
+  "självförbättring": "AI som används för att utveckla AI.",
+  "kontroll": "Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.",
+  "missbruk": "Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.",
+  "styrning": "Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.",
+  "geopolitik": "Kapplöpningen mellan länder, exportkontroller, USA och Kina.",
+  "nytta": "Vad AI redan gör för sjukvård, forskning och samhälle.",
+  "röster": "Vad forskare, insiders, politiker och andra bedömare säger."
+ },
+ "påståenden": []
+}
