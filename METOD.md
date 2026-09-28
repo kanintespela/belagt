@@ -53,6 +53,10 @@ ersatt_av: null            # id för en nyare post, om den här blivit inaktuell
   kunskapsläget har förändrats.
 - **Källorna arkiveras.** Varje vecka söker ett skript upp eller skapar en kopia av källan i
   Wayback Machine, så att citatet går att kontrollera även om sidan försvinner eller ändras.
+- **Poster kontrolleras igen.** Varje månad listar ett arbetsflöde de poster som har passerat
+  `bäst_före` i ärendet *Dags att kontrollera igen*, med de som går ut inom en månad. En post
+  som fortfarande stämmer får ny `kontrollerad` och ett nytt `bäst_före`. En post som inte
+  längre stämmer ersätts av en ny.
 - **Ändringar syns.** Varje ändring görs som en commit med förklaring, och historiken är öppen.
 
 ## Arbetsgång
@@ -62,12 +66,15 @@ pip install -r requirements.txt
 python tools/bygg.py            # validera och bygg tidslinje, teman, data och webbsidans data
 python tools/bygg.py --kontroll # det som körs i CI
 python tools/arkivera.py        # hämta arkivkopior (körs också varje vecka)
+python tools/bast_fore.py       # poster att kontrollera igen (körs också varje månad)
 ```
 
 Nya poster tas fram i ett separat arbetsrepo där källtexterna finns hämtade och citaten
-kontrolleras mot dem. De kommer in hit som pull requests. Du kan också föreslå en post direkt:
-skapa en fil enligt mallen ovan, kör `python tools/bygg.py` och öppna en pull request med länk
-till källan. Id:t får då prefixet `BID-` följt av nästa lediga nummer.
+kontrolleras mot dem. När något nytt har verifierats där öppnas automatiskt en pull request
+hit (grenar som heter `nya-ÅÅÅÅ-MM-DD`), och ingenting kommer in förrän den är granskad.
+
+Du kan också föreslå en post direkt: skapa en fil enligt mallen ovan, kör `python tools/bygg.py`
+och öppna en pull request med länk till källan. Id:t får då prefixet `BID-` följt av nästa lediga nummer.
 
 Allt i `tidslinje.md`, `teman/`, `data/` och `docs/belagt.json` genereras och redigeras aldrig
 för hand.

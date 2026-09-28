@@ -1,0 +1,41 @@
+name: Bäst före
+
+on:
+  schedule:
+    - cron: "23 5 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  bast-fore:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      ETIKETT: bäst-före
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python tools/bast_fore.py > lista.md
+      - name: Skapa eller uppdatera ärendet
+        run: |
+          nummer=$(gh issue list --label "$ETIKETT" --state open --json number --jq '.[0].number')
+          if [ ! -s lista.md ]; then
+            echo "Ingen post behöver kontrolleras."
+            if [ -n "$nummer" ]; then
+              gh issue close "$nummer" --comment "Alla poster är kontrollerade eller har inte gått ut än."
+            fi
+            exit 0
+          fi
+          if [ -n "$nummer" ]; then
+            gh issue edit "$nummer" --body-file lista.md
+          else
+            gh label create "$ETIKETT" --color D4A72C --description "Poster som ska kontrolleras mot källan igen" 2>/dev/null || true
+            gh issue create --title "Dags att kontrollera igen" --label "$ETIKETT" --body-file lista.md
+          fi
