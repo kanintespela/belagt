@@ -1,0 +1,21 @@
+id: SVS-08
+påstående: Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026
+  fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.
+typ: händelse
+vem: Ebba Busch (KD), energi- och näringsminister, svar i riksdagen
+datum: '2026-04-13'
+tema:
+- miljö
+- styrning
+källa:
+  url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/
+  titel: Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))
+  citat: Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden
+    av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

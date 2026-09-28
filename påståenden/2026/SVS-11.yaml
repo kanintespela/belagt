@@ -1,0 +1,22 @@
+id: SVS-11
+påstående: 'Olle Häggström beskriver en klyfta bland dem som varnar för AI: vissa ser tekniken som riskabel
+  för att den är ointelligent, andra för att den håller på att bli alltför intelligent.'
+typ: bedömning
+vem: Olle Häggström (professor, Chalmers), essä i Opulens
+datum: '2026'
+tema:
+- röster
+källa:
+  url: https://www.opulens.se/opinion/debatt/ai-%E2%80%92-den-skenande-utvecklingen-maste-hejdas/
+  titel: AI ‒ den skenande utvecklingen måste hejdas - Opulens
+  citat: Klyftan handlar om huruvida man primärt ser AI-tekniken som riskabel för att AI är ointelligent,
+    eller för att den är på väg att bli alltför intelligent.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Pedagogiskt användbart för att förklara varför kritiker av AI ibland är oense med varandra.
+  Det första lägret betonar bias, påhittade svar och liknande. Häggström räknar sig själv till det andra
+  lägret. Publiceringsdatumet står inte i den hämtade texten.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

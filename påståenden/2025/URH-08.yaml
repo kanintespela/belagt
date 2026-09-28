@@ -1,0 +1,20 @@
+id: URH-08
+påstående: Enligt Stim är AI-genererad musik och text inte upphovsrättsligt skyddad, eftersom skyddet
+  bara gäller verk skapade av en människa.
+typ: bedömning
+vem: Stim (svensk upphovsrättsorganisation för musik)
+datum: '2025'
+tema:
+- rättigheter
+källa:
+  url: https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai
+  titel: Stim och AI – därför skyddas inte AI-genererad musik | Stim.se
+  citat: Detta innebär att musik eller text till musik som är AI-genererad inte är upphovsrättsligt skyddat.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Om en människa använder AI som hjälpmedel men själv gör de fria och kreativa valen kan verket
+  fortfarande vara skyddat, skriver Stim.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

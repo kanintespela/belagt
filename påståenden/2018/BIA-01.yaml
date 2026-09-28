@@ -1,0 +1,22 @@
+id: BIA-01
+påstående: En studie från 2018 visade att kommersiella system för att känna igen kön i ansiktsbilder gjorde
+  upp till 34,7 procent fel för kvinnor med mörk hy, men högst 0,8 procent fel för män med ljus hy.
+typ: mätning
+vem: Joy Buolamwini (MIT) och Timnit Gebru (Microsoft Research)
+datum: '2018'
+tema:
+- rättigheter
+källa:
+  url: https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
+  titel: 'Buolamwini & Gebru: Gender Shades (2018)'
+  citat: darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The
+    maximum error rate for lighter-skinned males is 0.8%.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den
+  testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller
+  2018.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 269 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -12,6 +12,21 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762)
 
   *Förbehåll:* Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden för dagens modeller står inte i citatet, men det är allmänt känt.
+
+## 2018
+
+- **En studie från 2018 visade att kommersiella system för att känna igen kön i ansiktsbilder gjorde upp till 34,7 procent fel för kvinnor med mörk hy, men högst 0,8 procent fel för män med ljus hy.**
+  Joy Buolamwini (MIT) och Timnit Gebru (Microsoft Research) · 2018 · rättigheter · [BIA-01](./påståenden/2018/BIA-01.yaml)
+  > darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The maximum error rate for lighter-skinned males is 0.8%.
+  > — [Buolamwini & Gebru: Gender Shades (2018)](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+
+  *Förbehåll:* Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller 2018.
+- **Inspektionen för socialförsäkringen (ISF) påpekade redan 2018 att en kontrollmetod kan vara träffsäker utan att vara rättssäker, till exempel om två grupper gör fel lika ofta men bara den ena kontrolleras.**
+  Inspektionen för socialförsäkringen (ISF) · 2018-06 · rättigheter · [BIA-04](./påståenden/2018/BIA-04.yaml)
+  > En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs innehåller felaktigheter, utan att vara rättssäker.
+  > — [ISF - Riskbaserade urvalsprofiler och likabehandling](https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling)
+
+  *Förbehåll:* Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.
 
 ## 2019
 
@@ -54,6 +69,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
 
   *Förbehåll:* Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
+- **Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.**
+  Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri · 2023 · styrning, röster, samhälle · [SVS-14](./påståenden/2023/SVS-14.yaml)
+  > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
+  > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
+
+  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
 - **Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.**
   Anthropic (företagets grundsyn) · 2023-03 · röster · [FOR-04](./påståenden/2023/FOR-04.yaml)
   > We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.
@@ -225,6 +246,18 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/)
 
   *Förbehåll:* Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget (SVE-02, SVE-04), men det har inte kontrollerats mot regeringens egna uppgifter.
+- **En granskning av Lighthouse Reports och Svenska Dagbladet visade att Försäkringskassans algoritm för att förutsäga fusk med tillfällig föräldrapenning diskriminerade kvinnor, personer med utländsk bakgrund, låginkomsttagare och personer utan universitetsutbildning.**
+  Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, samhälle · [BIA-02](./påståenden/2024/BIA-02.yaml)
+  > Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against women, migrants, low-income earners and people without a university education.
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+
+  *Förbehåll:* Analysen bygger på data om över 6 000 personer som flaggades 2017 och gjordes med stöd av åtta akademiska experter. Systemet har använts sedan 2013. Försäkringskassan har ifrågasatt analysen. Amnesty krävde att systemet skulle stoppas.
+- **Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina algoritmer för att upptäcka fusk.**
+  Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, styrning · [BIA-03](./påståenden/2024/BIA-03.yaml)
+  > Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+
+  *Förbehåll:* Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · [SVR-13](./påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
@@ -264,6 +297,24 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/)
 
   *Förbehåll:* Jämför med att en tredjedel tror att AI leder till stor arbetslöshet i samhället: man oroar sig mer för andra än för sig själv. Frågorna skiljer sig mellan undersökningarna, så jämför försiktigt.
+- **Svenska kraftnät uppgav 2025 att ansökningarna från datacenter bara i Mellansverige motsvarade över 5 000 megawatt, ungefär lika mycket som 20 städer av Uppsalas storlek eller produktionen från fem kärnkraftsreaktorer.**
+  Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · [SVS-04](./påståenden/2025/SVS-04.yaml)
+  > Vi har idag ansökningar på 5000 MW bara i Mellansverige. Det är ungefär så mycket som 20 stycken städer av Uppsalas storlek, eller motsvarande produktionen från fem kärnkraftsreaktorer.
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
+
+  *Förbehåll:* Året står inte i den hämtade texten, men ansökningarna jämförs med 2024. Ansökningarna i elområde 3 ökade från 1 310 megawatt 2024 till 6 692 megawatt, och huvuddelen gällde ett trettiotal datacenter.
+- **Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs snabbare än den nya elproduktionen.**
+  Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · [SVS-05](./påståenden/2025/SVS-05.yaml)
+  > Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
+
+  *Förbehåll:* Svenska kraftnät kan komma att kräva att datacenter har egen elproduktion eller avtal om produktion på plats.
+- **Enligt Stim är AI-genererad musik och text inte upphovsrättsligt skyddad, eftersom skyddet bara gäller verk skapade av en människa.**
+  Stim (svensk upphovsrättsorganisation för musik) · 2025 · rättigheter · [URH-08](./påståenden/2025/URH-08.yaml)
+  > Detta innebär att musik eller text till musik som är AI-genererad inte är upphovsrättsligt skyddat.
+  > — [Stim och AI – därför skyddas inte AI-genererad musik | Stim.se](https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai)
+
+  *Förbehåll:* Om en människa använder AI som hjälpmedel men själv gör de fria och kreativa valen kan verket fortfarande vara skyddat, skriver Stim.
 - **Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.**
   International AI Safety Report 2026 · 2025-01 · styrning · [TID-13](./påståenden/2025/TID-13.yaml)
   > Since the publication of the last Report (January 2025)
@@ -276,6 +327,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
 
   *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+- **Enligt en skriftlig fråga i riksdagen konstaterade ISF 2018 att Försäkringskassans algoritm i sin dåvarande utformning inte uppfyllde kraven på likabehandling. Försäkringskassan ansåg att analysen var bristfällig.**
+  Isabell Mixter (V), skriftlig fråga i riksdagen · 2025-01-28 · rättigheter, röster · [BIA-05](./påståenden/2025/BIA-05.yaml)
+  > ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande utformning inte uppfyller kraven på likabehandling”.
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+
+  *Förbehåll:* Citatet ur ISF:s rapport är återgivet i frågan. Frågan tar också upp att ett tidigare dataskyddsombud 2020 varnade för att verksamheten saknade rättslig grund.
 - **Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar, en tiondel av den ofta citerade siffran 3 wattimmar.**
   Epoch AI (oberoende forskningsinstitut) · 2025-02 · miljö · [ENE-13](./påståenden/2025/ENE-13.yaml)
   > We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which is ten times less than the older estimate.
@@ -288,6 +345,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
+- **Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning och riskerna med den.**
+  Anna Tenje (M), statsråd, svar i riksdagen · 2025-02-05 · rättigheter, styrning · [BIA-06](./påståenden/2025/BIA-06.yaml)
+  > Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+
+  *Förbehåll:* Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.
 - **AAAI:s panelrapport hänvisar till prognoser om att datacenter 2028 kan stå för mellan 7 och 12 procent av USA:s elbehov, beroende på hur snabbt AI växer.**
   AAAI:s ordförandepanel om AI-forskningens framtid · 2025-03 · miljö · [ENE-18](./påståenden/2025/ENE-18.yaml)
   > Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity demand, depending on AI growth scenarios
@@ -414,6 +477,24 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.
+- **USA:s upphovsrättsmyndighet bedömer att den kopiering som sker när AI tränas hotar att allvarligt skada marknaden för eller värdet av upphovsrättsskyddade verk.**
+  USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · [URH-01](./påståenden/2025/URH-01.yaml)
+  > The copying involved in AI training threatens significant potential harm to the market for or value of copyrighted works.
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+
+  *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten pekar på både direkt konkurrens från liknande verk och på att AI-genererat material i samma stil kan späda ut marknaden.
+- **Myndigheten avvisar argumentet att AI-träning är som när människor lär sig och därför i sig självt är tillåten.**
+  USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · [URH-02](./påståenden/2025/URH-02.yaml)
+  > Nor do we agree that AI training is inherently transformative because it is like human learning.
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+
+  *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten jämför med att en student inte heller får kopiera alla böcker på biblioteket för att lära sig.
+- **Enligt myndigheten går det utöver gränserna för tillåten användning (fair use) att kommersiellt använda stora mängder skyddade verk för att skapa innehåll som konkurrerar med dem, särskilt om verken har hämtats olagligt.**
+  USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · [URH-03](./påståenden/2025/URH-03.yaml)
+  > But making commercial use of vast troves of copyrighted works to produce expressive content that competes with them in existing markets, especially where this is accomplished through illegal access, goes beyond established fair use boundaries.
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+
+  *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten skriver samtidigt att användning för analys och forskning sannolikt är tillåten, och att det är för tidigt för ny lagstiftning. Licenser bör i stället få växa fram.
 - **Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.**
   EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg) · 2025-05-08 · nytta, förmågor · [SVR-18](./påståenden/2025/SVR-18.yaml)
   > När kostnad tyvärr varit det dominerande utvärderingskriteriet vid organisationen så får man till slut lägre kvalitet
@@ -450,6 +531,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
+- **Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.**
+  Copyright Alliance (organisation för upphovsrättsinnehavare) · 2025-08 · rättigheter · [URH-04](./påståenden/2025/URH-04.yaml)
+  > The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from the LibGen and PiLilMi datasets.
+  > — [What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance](https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/)
+
+  *Förbehåll:* Målet heter Bartz mot Anthropic och förlikningen är den största i USA:s upphovsrättshistoria. Den gäller bara Anthropics tidigare nedladdning av piratkopior, inte själva träningen eller vad modellerna skapar. Källan företräder upphovsrättsinnehavare.
 - **EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.**
   EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu) · 2025-08-02 · styrning · [SVE-10](./påståenden/2025/SVE-10.yaml)
   > All providers of GPAI models that present a systemic risk – open or closed – must also conduct model evaluations and risk assessments and mitigations, track and report serious incidents and ensure cybersecurity protections.
@@ -474,6 +561,18 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/)
 
   *Förbehåll:* Partsuppgift, även om uppgifterna bedömdes blint. Uppgifterna var väl avgränsade och motsvarar inte ett helt jobb. Anthropics Claude Opus 4.1 presterade bäst i testet, inte OpenAI:s egen modell.
+- **Stim lanserade 2025 vad organisationen kallar världens första kollektiva AI-licens för musik. AI-företag får träna på musiken, men bara med uttryckligt samtycke från upphovspersonerna, som får ersättning.**
+  Stim (svensk upphovsrättsorganisation för musik) · 2025-09 · rättigheter, samhälle · [URH-06](./påståenden/2025/URH-06.yaml)
+  > Nu tar Stim ett banbrytande steg i den digitala utvecklingen av musikbranschen – med världens första kollektiva AI-licens för musik.
+  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik)
+
+  *Förbehåll:* Lanseringen skedde i september 2025, men månaden står inte i den hämtade texten. Upphovspersonerna får ersättning både när modellen tränas, när tjänsten används och när den genererade musiken används. Ett svenskt exempel på en licensmodell.
+- **Stim uppger att upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028.**
+  Stim (svensk upphovsrättsorganisation för musik) · 2025-09 · rättigheter, samhälle · [URH-07](./påståenden/2025/URH-07.yaml)
+  > När upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028
+  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik)
+
+  *Förbehåll:* Stim anger inte källan i texten. Siffran kommer sannolikt från en internationell studie för upphovsrättsorganisationerna, men det har inte kontrollerats här. Stim är part i frågan.
 - **En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande celler.**
   Google Research, Google DeepMind och Yale University · 2025-10 · nytta, förmågor · [NYT-05](./påståenden/2025/NYT-05.yaml)
   > C2S-Scale generated a novel hypothesis about cancer cellular behavior and we have since confirmed its prediction with experimental validation in living cells. This discovery reveals a promising new pathway for developing therapies to fight cancer.
@@ -531,6 +630,30 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Artificiell intelligens (AI)](https://www.centerpartiet.se/centerpartiets-politik/centerpartiets-politik-a-o/digitalisering/artificiell-intelligens-ai)
 
   *Förbehåll:* Centerpartiet beskriver sig som teknikoptimister men inte naiva. Partiet vill också ha stöd till bibliotek och civilsamhälle för folkbildning om AI. Partiledningen skrev om AI-risk i Ny Teknik den 12 augusti 2026.
+- **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
+  Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · [SVS-09](./påståenden/2026/SVS-09.yaml)
+  > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.
+  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
+
+  *Förbehåll:* Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.
+- **Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet är brist på kompetens.**
+  Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · samhälle · [SVS-10](./påståenden/2026/SVS-10.yaml)
+  > Enligt SCB använder 65 procent av de svenska företagen inte ai alls.
+  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
+
+  *Förbehåll:* Andrahandsuppgift, återgiven i en debattartikel. Kontrollera mot SCB innan den används.
+- **Olle Häggström beskriver en klyfta bland dem som varnar för AI: vissa ser tekniken som riskabel för att den är ointelligent, andra för att den håller på att bli alltför intelligent.**
+  Olle Häggström (professor, Chalmers), essä i Opulens · 2026 · röster · [SVS-11](./påståenden/2026/SVS-11.yaml)
+  > Klyftan handlar om huruvida man primärt ser AI-tekniken som riskabel för att AI är ointelligent, eller för att den är på väg att bli alltför intelligent.
+  > — [AI ‒ den skenande utvecklingen måste hejdas - Opulens](https://www.opulens.se/opinion/debatt/ai-%E2%80%92-den-skenande-utvecklingen-maste-hejdas/)
+
+  *Förbehåll:* Pedagogiskt användbart för att förklara varför kritiker av AI ibland är oense med varandra. Det första lägret betonar bias, påhittade svar och liknande. Häggström räknar sig själv till det andra lägret. Publiceringsdatumet står inte i den hämtade texten.
+- **Författaren Patrik Stigsson menar i en replik till Häggström att antagandet att superintelligent AI nödvändigtvis är ett existentiellt hot är en hypotes, inte ett faktum.**
+  Patrik Stigsson (författare), replik i Opulens · 2026 · röster · [SVS-12](./påståenden/2026/SVS-12.yaml)
+  > Antagandet att en superintelligent AI med nödvändighet utgör ett existentiellt hot är inte ett faktum, det är en hypotes.
+  > — [Är AI ett hot? – Stigsson svarar Häggström - Opulens](https://www.opulens.se/opinion/debatt/ar-ai-ett-hot-stigsson-svarar-haggstrom/)
+
+  *Förbehåll:* Stigsson menar att det vore fel att hämma tekniken, eftersom den kan förändra maktförhållandena på planeten till det bättre. En svensk motröst.
 - **Oxford Economics bedömde i januari 2026 att företag inte verkar ersätta arbetstagare med AI i någon större skala, och att AI inte kommer att driva upp arbetslösheten kraftigt under de närmaste åren.**
   Oxford Economics (analysföretag, Ben May och Yasmine Badawy) · 2026-01-07 · samhälle · [SAM-01](./påståenden/2026/SAM-01.yaml)
   > Overall, though, firms don't appear to be replacing workers with AI on a significant scale and we doubt that unemployment rates will be pushed up heavily by AI over the next few years.
@@ -573,6 +696,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI support in breast cancer screening: Fewer missed cancer cases](https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases)
 
   *Förbehåll:* Svenskt exempel på nytta som redan är i drift, inte ett löfte om framtiden. Bristen på bröstradiologer är en del av motivet.
+- **Svenska kraftnät fick 2025 in ansökningar om att ta ut drygt 9 000 megawatt el ur stamnätet, och hälften av det gällde datacenter.**
+  Svenska kraftnät · 2026-02 · miljö · [SVS-03](./påståenden/2026/SVS-03.yaml)
+  > Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt 9 000 MW uttag (varav hälften avser datacenter).
+  > — [Nära 5000 MW nya anslutningar beviljades 2025](https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/)
+
+  *Förbehåll:* Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · [FOR-01](./påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
@@ -813,6 +942,24 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten drar slutsatsen att personer med psykisk sårbarhet både kan använda AI mer och vara mer mottagliga för att få sina symtom förstärkta. Forskningen är ny.
+- **En studie på svenska registerdata visar att sysselsättningen bland 22–25-åringar i yrken som är mycket utsatta för AI minskade med 5,5 procent fram till början av 2025 jämfört med mindre utsatta yrken hos samma arbetsgivare, medan sysselsättningen bland personer över 50 ökade med 1,3 procent.**
+  Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio) · 2026-03 · samhälle · [SVS-01](./påståenden/2026/SVS-01.yaml)
+  > An event study documents an accelerating decline in employment of 22–25-year-olds in high-AI-exposure occupations, reaching 5.5 per cent by early 2025 relative to less exposed occupations within the same employers, while employment of workers over 50 rose by 1.3 per cent.
+  > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
+
+  *Förbehåll:* Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som ISR-22 och amerikansk forskning.
+- **Samma studie visar att den breda nedgången i platsannonser i Sverige sedan 2022 hänger ihop med räntehöjningarna snarare än med AI.**
+  Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio) · 2026-03 · samhälle · [SVS-02](./påståenden/2026/SVS-02.yaml)
+  > we find that the broad decline in postings since 2022 aligns with monetary tightening rather than AI
+  > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
+
+  *Förbehåll:* Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb det finns. Jämför SAM-01 (Oxford Economics).
+- **Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist, skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.**
+  Isak From (S), interpellation i riksdagen · 2026-03-24 · miljö, röster · [SVS-07](./påståenden/2026/SVS-07.yaml)
+  > Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri riskerar att trängas ut.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt att datacenter kan vara en vinstaffär för Sverige.
 - **Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.**
   Myndigheten för psykologiskt försvar (lägesbild inför valet 2026) · 2026-03-25 · missbruk · [SVE-14](./påståenden/2026/SVE-14.yaml)
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
@@ -837,6 +984,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Talar mot bilden att Kina enbart kapplöper utan att bry sig om säkerhet. Säger inget om kvaliteten på forskningen eller om den påverkar besluten.
+- **Enligt Svenskt Näringsliv, med siffror från RISE, använder datacenter i Sverige 3–4 terawattimmar el per år, omkring 2,9 procent av landets totala elanvändning.**
+  Svenskt Näringsliv (med siffror från RISE) · 2026-04 · miljö · [SVS-06](./påståenden/2026/SVS-06.yaml)
+  > Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
+  > — [Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet](https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf)
+
+  *Förbehåll:* Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför ENE-01: globalt står datacenter för omkring 1,5 procent av elanvändningen.
 - **PauseAI föreslår en tillfällig, global paus i träningen av de mest kraftfulla AI-systemen för allmänna ändamål, tills vi vet hur de kan byggas säkert och hållas under demokratisk kontroll.**
   PauseAI (internationellt) · 2026-04-05 · styrning · [PAI-01](./påståenden/2026/PAI-01.yaml)
   > Implement a temporary pause on the training of the most powerful general AI systems
@@ -867,6 +1020,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
   *Förbehåll:* Ansvarsfrågan lyfts även av Ng (BAL-04), men med motsatt slutsats: Ng lägger ansvaret på användaren. Bra diskussionspar.
+- **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
+  Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](./påståenden/2026/SVS-08.yaml)
+  > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.
 - **Anthropic rapporterar att en plattform för virologer försökte använda Claude för att skriva en ansökan om funktionsförstärkande forskning (gain-of-function) på chikungunyaviruset, med målet att göra det mer smittsamt och bättre på att undgå immunförsvaret. Arbetet skulle utföras vid ett militärt forskningsinstitut.**
   Anthropic (hotrapport, september 2026) · 2026-05 · missbruk · [J3ljHm57yU0-41](./påståenden/2026/J3ljHm57yU0-41.yaml)
   > highly concerning gain-of-function research is ongoing at these facilities
@@ -981,6 +1140,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Sveriges AI-strategi](https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/)
 
   *Förbehåll:* Hämtat från regeringens översiktssida om AI. Det är Sveriges hittills mest konkreta åtgärd som rör de mest avancerade modellerna. Läs själva uppdraget för detaljer.
+- **Häggström menar att diskussionen om de risker som AI-företagen tar har kommit längre i USA än i Skandinavien.**
+  Olle Häggström, debattartikel i Dagens Næringsliv (Norge), återgiven på hans blogg · 2026-07 · röster · [SVS-13](./påståenden/2026/SVS-13.yaml)
+  > Diskusjonen om den uakseptable risikoen selskaper som OpenAI og Anthropic tar med alles vår fremtid i kappløpet mot superintelligent KI, har kommet et stykke på vei i USA.
+  > — [Skandinavien sover](http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html)
+
+  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen.
 - **Av de 533 agenter som var aktiva på anslagstavlan när angreppet mot Hugging Face inleddes anslöt sig över 90 procent snabbt till angreppet.**
   METR och Redwood Research · 2026-07-11 · kontroll · [MET-05](./påståenden/2026/MET-05.yaml)
   > over 90% quickly joined in the attack.
@@ -993,6 +1158,12 @@ Alla 241 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Utredarna noterar också att en senare våg av agenter återupptäckte anslagstavlan efter den 13 juli, men det låg utanför uppdraget.
+- **En amerikansk domstol gav i juli 2026 sitt slutliga godkännande av förlikningen på 1,5 miljarder dollar mellan författare och Anthropic, omkring 3 000 dollar per verk.**
+  Authors Guild (författarorganisation) · 2026-07-20 · rättigheter · [URH-05](./påståenden/2026/URH-05.yaml)
+  > On July 20, 2026, Judge Araceli Martínez-Olguín of the U.S. District Court for the Northern District of California granted final approval of the landmark $1.5 billion class action settlement in Bartz v. Anthropic and entered final judgment in the case.
+  > — [Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement](https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/)
+
+  *Förbehåll:* Enligt domstolen är 3 000 dollar per verk fyra gånger det lagstadgade minimibeloppet. Författarna behåller rätten att stämma för framtida handlingar och för vad modellerna skapar.
 - **OpenAI uppger att AI hjälpte till att utveckla företagets första egna inferenschip, så att det gick nio månader från första design till färdig konstruktion.**
   OpenAI · 2026-08 · självförbättring · [J3ljHm57yU0-15](./påståenden/2026/J3ljHm57yU0-15.yaml)
   > AI played a direct role in Jalapeño’s development, enabling the team to move from initial design to tapeout in nine months

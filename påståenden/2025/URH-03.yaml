@@ -1,0 +1,24 @@
+id: URH-03
+påstående: Enligt myndigheten går det utöver gränserna för tillåten användning (fair use) att kommersiellt
+  använda stora mängder skyddade verk för att skapa innehåll som konkurrerar med dem, särskilt om verken
+  har hämtats olagligt.
+typ: bedömning
+vem: USA:s upphovsrättsmyndighet (U.S. Copyright Office)
+datum: 2025-05
+tema:
+- rättigheter
+källa:
+  url: https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf
+  titel: 'US Copyright Office: Generative AI Training (maj 2025)'
+  citat: But making commercial use of vast troves of copyrighted works to produce expressive content that
+    competes with them in existing markets, especially where this is accomplished through illegal access,
+    goes beyond established fair use boundaries.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten
+  skriver samtidigt att användning för analys och forskning sannolikt är tillåten, och att det är för
+  tidigt för ny lagstiftning. Licenser bör i stället få växa fram.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

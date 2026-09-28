@@ -1,0 +1,22 @@
+id: URH-05
+påstående: En amerikansk domstol gav i juli 2026 sitt slutliga godkännande av förlikningen på 1,5 miljarder
+  dollar mellan författare och Anthropic, omkring 3 000 dollar per verk.
+typ: händelse
+vem: Authors Guild (författarorganisation)
+datum: '2026-07-20'
+tema:
+- rättigheter
+källa:
+  url: https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/
+  titel: Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement
+  citat: On July 20, 2026, Judge Araceli Martínez-Olguín of the U.S. District Court for the Northern District
+    of California granted final approval of the landmark $1.5 billion class action settlement in Bartz
+    v. Anthropic and entered final judgment in the case.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Enligt domstolen är 3 000 dollar per verk fyra gånger det lagstadgade minimibeloppet. Författarna
+  behåller rätten att stämma för framtida handlingar och för vad modellerna skapar.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

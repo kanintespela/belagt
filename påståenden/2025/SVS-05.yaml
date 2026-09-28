@@ -1,0 +1,20 @@
+id: SVS-05
+påstående: Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs
+  snabbare än den nya elproduktionen.
+typ: prognos
+vem: Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot
+datum: '2025'
+tema:
+- miljö
+källa:
+  url: https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset
+  titel: 'Varningen: Stora datacenter kan höja elpriset | Sveriges Radio'
+  citat: Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Svenska kraftnät kan komma att kräva att datacenter har egen elproduktion eller avtal om produktion
+  på plats.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

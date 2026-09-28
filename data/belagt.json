@@ -12,7 +12,8 @@
   "nytta": "Vad AI redan gör för sjukvård, forskning och samhälle.",
   "röster": "Vad forskare, insiders, politiker och andra bedömare säger.",
   "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.",
-  "miljö": "Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen."
+  "miljö": "Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen.",
+  "rättigheter": "Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigheter."
  },
  "påståenden": [
   {
@@ -37,6 +38,52 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Forskare vid Google Brain och Google Research (Vaswani m.fl.), 2017-06. Attention Is All You Need (2017). https://arxiv.org/abs/1706.03762. Via Belagt TID-16: https://kanintespela.github.io/belagt/#TID-16"
+  },
+  {
+   "id": "BIA-01",
+   "påstående": "En studie från 2018 visade att kommersiella system för att känna igen kön i ansiktsbilder gjorde upp till 34,7 procent fel för kvinnor med mörk hy, men högst 0,8 procent fel för män med ljus hy.",
+   "typ": "mätning",
+   "vem": "Joy Buolamwini (MIT) och Timnit Gebru (Microsoft Research)",
+   "datum": "2018",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf",
+    "titel": "Buolamwini & Gebru: Gender Shades (2018)",
+    "citat": "darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The maximum error rate for lighter-skinned males is 0.8%.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller 2018.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Joy Buolamwini (MIT) och Timnit Gebru (Microsoft Research), 2018. Buolamwini & Gebru: Gender Shades (2018). https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf. Via Belagt BIA-01: https://kanintespela.github.io/belagt/#BIA-01"
+  },
+  {
+   "id": "BIA-04",
+   "påstående": "Inspektionen för socialförsäkringen (ISF) påpekade redan 2018 att en kontrollmetod kan vara träffsäker utan att vara rättssäker, till exempel om två grupper gör fel lika ofta men bara den ena kontrolleras.",
+   "typ": "bedömning",
+   "vem": "Inspektionen för socialförsäkringen (ISF)",
+   "datum": "2018-06",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling",
+    "titel": "ISF - Riskbaserade urvalsprofiler och likabehandling",
+    "citat": "En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs innehåller felaktigheter, utan att vara rättssäker.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Inspektionen för socialförsäkringen (ISF), 2018-06. ISF - Riskbaserade urvalsprofiler och likabehandling. https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling. Via Belagt BIA-04: https://kanintespela.github.io/belagt/#BIA-04"
   },
   {
    "id": "TID-04",
@@ -154,6 +201,31 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Forecasting Research Institute (Existential Risk Persuasion Tournament), 2023. Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute. https://forecastingresearch.org/xpt. Via Belagt FOR-23: https://kanintespela.github.io/belagt/#FOR-23"
+  },
+  {
+   "id": "SVS-14",
+   "påstående": "Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.",
+   "typ": "bedömning",
+   "vem": "Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri",
+   "datum": "2023",
+   "tema": [
+    "styrning",
+    "röster",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin",
+    "titel": "Debatt: Oreglerad AI farlig för demokratin",
+    "citat": "Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri, 2023. Debatt: Oreglerad AI farlig för demokratin. https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin. Via Belagt SVS-14: https://kanintespela.github.io/belagt/#SVS-14"
   },
   {
    "id": "FOR-04",
@@ -817,6 +889,54 @@
    "citera": "AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige), 2024-11-26. AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/. Via Belagt SVE-01: https://kanintespela.github.io/belagt/#SVE-01"
   },
   {
+   "id": "BIA-02",
+   "påstående": "En granskning av Lighthouse Reports och Svenska Dagbladet visade att Försäkringskassans algoritm för att förutsäga fusk med tillfällig föräldrapenning diskriminerade kvinnor, personer med utländsk bakgrund, låginkomsttagare och personer utan universitetsutbildning.",
+   "typ": "mätning",
+   "vem": "Lighthouse Reports och Svenska Dagbladet (granskning)",
+   "datum": "2024-11-27",
+   "tema": [
+    "rättigheter",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.lighthousereports.com/investigation/swedens-suspicion-machine/",
+    "titel": "Sweden’s Suspicion Machine",
+    "citat": "Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against women, migrants, low-income earners and people without a university education.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Analysen bygger på data om över 6 000 personer som flaggades 2017 och gjordes med stöd av åtta akademiska experter. Systemet har använts sedan 2013. Försäkringskassan har ifrågasatt analysen. Amnesty krävde att systemet skulle stoppas.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Lighthouse Reports och Svenska Dagbladet (granskning), 2024-11-27. Sweden’s Suspicion Machine. https://www.lighthousereports.com/investigation/swedens-suspicion-machine/. Via Belagt BIA-02: https://kanintespela.github.io/belagt/#BIA-02"
+  },
+  {
+   "id": "BIA-03",
+   "påstående": "Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina algoritmer för att upptäcka fusk.",
+   "typ": "händelse",
+   "vem": "Lighthouse Reports och Svenska Dagbladet (granskning)",
+   "datum": "2024-11-27",
+   "tema": [
+    "rättigheter",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.lighthousereports.com/investigation/swedens-suspicion-machine/",
+    "titel": "Sweden’s Suspicion Machine",
+    "citat": "Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Lighthouse Reports och Svenska Dagbladet (granskning), 2024-11-27. Sweden’s Suspicion Machine. https://www.lighthousereports.com/investigation/swedens-suspicion-machine/. Via Belagt BIA-03: https://kanintespela.github.io/belagt/#BIA-03"
+  },
+  {
    "id": "SVR-13",
    "påstående": "När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.",
    "typ": "bedömning",
@@ -958,6 +1078,75 @@
    "citera": "Internetstiftelsen, Svenskarna och internet 2025, 2025. AI – Artificiell intelligens | Svenskarna och internet. https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/. Via Belagt SVR-17: https://kanintespela.github.io/belagt/#SVR-17"
   },
   {
+   "id": "SVS-04",
+   "påstående": "Svenska kraftnät uppgav 2025 att ansökningarna från datacenter bara i Mellansverige motsvarade över 5 000 megawatt, ungefär lika mycket som 20 städer av Uppsalas storlek eller produktionen från fem kärnkraftsreaktorer.",
+   "typ": "mätning",
+   "vem": "Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot",
+   "datum": "2025",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset",
+    "titel": "Varningen: Stora datacenter kan höja elpriset | Sveriges Radio",
+    "citat": "Vi har idag ansökningar på 5000 MW bara i Mellansverige. Det är ungefär så mycket som 20 stycken städer av Uppsalas storlek, eller motsvarande produktionen från fem kärnkraftsreaktorer.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Året står inte i den hämtade texten, men ansökningarna jämförs med 2024. Ansökningarna i elområde 3 ökade från 1 310 megawatt 2024 till 6 692 megawatt, och huvuddelen gällde ett trettiotal datacenter.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot, 2025. Varningen: Stora datacenter kan höja elpriset | Sveriges Radio. https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset. Via Belagt SVS-04: https://kanintespela.github.io/belagt/#SVS-04"
+  },
+  {
+   "id": "SVS-05",
+   "påstående": "Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs snabbare än den nya elproduktionen.",
+   "typ": "prognos",
+   "vem": "Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot",
+   "datum": "2025",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset",
+    "titel": "Varningen: Stora datacenter kan höja elpriset | Sveriges Radio",
+    "citat": "Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Svenska kraftnät kan komma att kräva att datacenter har egen elproduktion eller avtal om produktion på plats.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot, 2025. Varningen: Stora datacenter kan höja elpriset | Sveriges Radio. https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset. Via Belagt SVS-05: https://kanintespela.github.io/belagt/#SVS-05"
+  },
+  {
+   "id": "URH-08",
+   "påstående": "Enligt Stim är AI-genererad musik och text inte upphovsrättsligt skyddad, eftersom skyddet bara gäller verk skapade av en människa.",
+   "typ": "bedömning",
+   "vem": "Stim (svensk upphovsrättsorganisation för musik)",
+   "datum": "2025",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai",
+    "titel": "Stim och AI – därför skyddas inte AI-genererad musik | Stim.se",
+    "citat": "Detta innebär att musik eller text till musik som är AI-genererad inte är upphovsrättsligt skyddat.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Om en människa använder AI som hjälpmedel men själv gör de fria och kreativa valen kan verket fortfarande vara skyddat, skriver Stim.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Stim (svensk upphovsrättsorganisation för musik), 2025. Stim och AI – därför skyddas inte AI-genererad musik | Stim.se. https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai. Via Belagt URH-08: https://kanintespela.github.io/belagt/#URH-08"
+  },
+  {
    "id": "TID-13",
    "påstående": "Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.",
    "typ": "händelse",
@@ -1005,6 +1194,30 @@
    "citera": "DeepSeek, 2025-01. DeepSeek-R1 (januari 2025). https://arxiv.org/abs/2501.12948. Via Belagt TID-21: https://kanintespela.github.io/belagt/#TID-21"
   },
   {
+   "id": "BIA-05",
+   "påstående": "Enligt en skriftlig fråga i riksdagen konstaterade ISF 2018 att Försäkringskassans algoritm i sin dåvarande utformning inte uppfyllde kraven på likabehandling. Försäkringskassan ansåg att analysen var bristfällig.",
+   "typ": "händelse",
+   "vem": "Isabell Mixter (V), skriftlig fråga i riksdagen",
+   "datum": "2025-01-28",
+   "tema": [
+    "rättigheter",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/",
+    "titel": "Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))",
+    "citat": "ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande utformning inte uppfyller kraven på likabehandling”.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Citatet ur ISF:s rapport är återgivet i frågan. Frågan tar också upp att ett tidigare dataskyddsombud 2020 varnade för att verksamheten saknade rättslig grund.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Isabell Mixter (V), skriftlig fråga i riksdagen, 2025-01-28. Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V)). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/. Via Belagt BIA-05: https://kanintespela.github.io/belagt/#BIA-05"
+  },
+  {
    "id": "ENE-13",
    "påstående": "Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar, en tiondel av den ofta citerade siffran 3 wattimmar.",
    "typ": "mätning",
@@ -1049,6 +1262,30 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-02-02. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-12: https://kanintespela.github.io/belagt/#TID-12"
+  },
+  {
+   "id": "BIA-06",
+   "påstående": "Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning och riskerna med den.",
+   "typ": "bedömning",
+   "vem": "Anna Tenje (M), statsråd, svar i riksdagen",
+   "datum": "2025-02-05",
+   "tema": [
+    "rättigheter",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/",
+    "titel": "Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))",
+    "citat": "Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Anna Tenje (M), statsråd, svar i riksdagen, 2025-02-05. Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V)). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/. Via Belagt BIA-06: https://kanintespela.github.io/belagt/#BIA-06"
   },
   {
    "id": "ENE-18",
@@ -1549,6 +1786,75 @@
    "citera": "Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil), 2025-04-15. AI as Normal Technology. https://knightcolumbia.org/content/ai-as-normal-technology. Via Belagt KIN-08: https://kanintespela.github.io/belagt/#KIN-08"
   },
   {
+   "id": "URH-01",
+   "påstående": "USA:s upphovsrättsmyndighet bedömer att den kopiering som sker när AI tränas hotar att allvarligt skada marknaden för eller värdet av upphovsrättsskyddade verk.",
+   "typ": "bedömning",
+   "vem": "USA:s upphovsrättsmyndighet (U.S. Copyright Office)",
+   "datum": "2025-05",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "titel": "US Copyright Office: Generative AI Training (maj 2025)",
+    "citat": "The copying involved in AI training threatens significant potential harm to the market for or value of copyrighted works.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten pekar på både direkt konkurrens från liknande verk och på att AI-genererat material i samma stil kan späda ut marknaden.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "USA:s upphovsrättsmyndighet (U.S. Copyright Office), 2025-05. US Copyright Office: Generative AI Training (maj 2025). https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf. Via Belagt URH-01: https://kanintespela.github.io/belagt/#URH-01"
+  },
+  {
+   "id": "URH-02",
+   "påstående": "Myndigheten avvisar argumentet att AI-träning är som när människor lär sig och därför i sig självt är tillåten.",
+   "typ": "bedömning",
+   "vem": "USA:s upphovsrättsmyndighet (U.S. Copyright Office)",
+   "datum": "2025-05",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "titel": "US Copyright Office: Generative AI Training (maj 2025)",
+    "citat": "Nor do we agree that AI training is inherently transformative because it is like human learning.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten jämför med att en student inte heller får kopiera alla böcker på biblioteket för att lära sig.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "USA:s upphovsrättsmyndighet (U.S. Copyright Office), 2025-05. US Copyright Office: Generative AI Training (maj 2025). https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf. Via Belagt URH-02: https://kanintespela.github.io/belagt/#URH-02"
+  },
+  {
+   "id": "URH-03",
+   "påstående": "Enligt myndigheten går det utöver gränserna för tillåten användning (fair use) att kommersiellt använda stora mängder skyddade verk för att skapa innehåll som konkurrerar med dem, särskilt om verken har hämtats olagligt.",
+   "typ": "bedömning",
+   "vem": "USA:s upphovsrättsmyndighet (U.S. Copyright Office)",
+   "datum": "2025-05",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf",
+    "titel": "US Copyright Office: Generative AI Training (maj 2025)",
+    "citat": "But making commercial use of vast troves of copyrighted works to produce expressive content that competes with them in existing markets, especially where this is accomplished through illegal access, goes beyond established fair use boundaries.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten skriver samtidigt att användning för analys och forskning sannolikt är tillåten, och att det är för tidigt för ny lagstiftning. Licenser bör i stället få växa fram.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "USA:s upphovsrättsmyndighet (U.S. Copyright Office), 2025-05. US Copyright Office: Generative AI Training (maj 2025). https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf. Via Belagt URH-03: https://kanintespela.github.io/belagt/#URH-03"
+  },
+  {
    "id": "SVR-18",
    "påstående": "Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.",
    "typ": "händelse",
@@ -1693,6 +1999,29 @@
    "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-07-10. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-14: https://kanintespela.github.io/belagt/#TID-14"
   },
   {
+   "id": "URH-04",
+   "påstående": "Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.",
+   "typ": "händelse",
+   "vem": "Copyright Alliance (organisation för upphovsrättsinnehavare)",
+   "datum": "2025-08",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/",
+    "titel": "What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance",
+    "citat": "The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from the LibGen and PiLilMi datasets.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Målet heter Bartz mot Anthropic och förlikningen är den största i USA:s upphovsrättshistoria. Den gäller bara Anthropics tidigare nedladdning av piratkopior, inte själva träningen eller vad modellerna skapar. Källan företräder upphovsrättsinnehavare.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Copyright Alliance (organisation för upphovsrättsinnehavare), 2025-08. What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance. https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/. Via Belagt URH-04: https://kanintespela.github.io/belagt/#URH-04"
+  },
+  {
    "id": "SVE-10",
    "påstående": "EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.",
    "typ": "händelse",
@@ -1785,6 +2114,54 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "OpenAI (GDPval), 2025-09. Measuring the performance of our models on real-world tasks. https://openai.com/index/gdpval/. Via Belagt SAM-08: https://kanintespela.github.io/belagt/#SAM-08"
+  },
+  {
+   "id": "URH-06",
+   "påstående": "Stim lanserade 2025 vad organisationen kallar världens första kollektiva AI-licens för musik. AI-företag får träna på musiken, men bara med uttryckligt samtycke från upphovspersonerna, som får ersättning.",
+   "typ": "händelse",
+   "vem": "Stim (svensk upphovsrättsorganisation för musik)",
+   "datum": "2025-09",
+   "tema": [
+    "rättigheter",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik",
+    "titel": "Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se",
+    "citat": "Nu tar Stim ett banbrytande steg i den digitala utvecklingen av musikbranschen – med världens första kollektiva AI-licens för musik.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Lanseringen skedde i september 2025, men månaden står inte i den hämtade texten. Upphovspersonerna får ersättning både när modellen tränas, när tjänsten används och när den genererade musiken används. Ett svenskt exempel på en licensmodell.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Stim (svensk upphovsrättsorganisation för musik), 2025-09. Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se. https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik. Via Belagt URH-06: https://kanintespela.github.io/belagt/#URH-06"
+  },
+  {
+   "id": "URH-07",
+   "påstående": "Stim uppger att upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028.",
+   "typ": "prognos",
+   "vem": "Stim (svensk upphovsrättsorganisation för musik)",
+   "datum": "2025-09",
+   "tema": [
+    "rättigheter",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik",
+    "titel": "Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se",
+    "citat": "När upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Stim anger inte källan i texten. Siffran kommer sannolikt från en internationell studie för upphovsrättsorganisationerna, men det har inte kontrollerats här. Stim är part i frågan.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Stim (svensk upphovsrättsorganisation för musik), 2025-09. Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se. https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik. Via Belagt URH-07: https://kanintespela.github.io/belagt/#URH-07"
   },
   {
    "id": "NYT-05",
@@ -1997,6 +2374,99 @@
    "citera": "Centerpartiet, 2026. Artificiell intelligens (AI). https://www.centerpartiet.se/centerpartiets-politik/centerpartiets-politik-a-o/digitalisering/artificiell-intelligens-ai. Via Belagt SVE-02: https://kanintespela.github.io/belagt/#SVE-02"
   },
   {
+   "id": "SVS-09",
+   "påstående": "Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.",
+   "typ": "mätning",
+   "vem": "Christoffer Bergman (Neo4j), debattartikel i Ny Teknik",
+   "datum": "2026",
+   "tema": [
+    "miljö",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157",
+    "titel": "”Sverige riskerar att bli en datacenterpark utan ai-förmåga”",
+    "citat": "Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.",
+   "vikt": 1,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Christoffer Bergman (Neo4j), debattartikel i Ny Teknik, 2026. ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”. https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157. Via Belagt SVS-09: https://kanintespela.github.io/belagt/#SVS-09"
+  },
+  {
+   "id": "SVS-10",
+   "påstående": "Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet är brist på kompetens.",
+   "typ": "mätning",
+   "vem": "Christoffer Bergman (Neo4j), debattartikel i Ny Teknik",
+   "datum": "2026",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157",
+    "titel": "”Sverige riskerar att bli en datacenterpark utan ai-förmåga”",
+    "citat": "Enligt SCB använder 65 procent av de svenska företagen inte ai alls.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Andrahandsuppgift, återgiven i en debattartikel. Kontrollera mot SCB innan den används.",
+   "vikt": 1,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Christoffer Bergman (Neo4j), debattartikel i Ny Teknik, 2026. ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”. https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157. Via Belagt SVS-10: https://kanintespela.github.io/belagt/#SVS-10"
+  },
+  {
+   "id": "SVS-11",
+   "påstående": "Olle Häggström beskriver en klyfta bland dem som varnar för AI: vissa ser tekniken som riskabel för att den är ointelligent, andra för att den håller på att bli alltför intelligent.",
+   "typ": "bedömning",
+   "vem": "Olle Häggström (professor, Chalmers), essä i Opulens",
+   "datum": "2026",
+   "tema": [
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.opulens.se/opinion/debatt/ai-%E2%80%92-den-skenande-utvecklingen-maste-hejdas/",
+    "titel": "AI ‒ den skenande utvecklingen måste hejdas - Opulens",
+    "citat": "Klyftan handlar om huruvida man primärt ser AI-tekniken som riskabel för att AI är ointelligent, eller för att den är på väg att bli alltför intelligent.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Pedagogiskt användbart för att förklara varför kritiker av AI ibland är oense med varandra. Det första lägret betonar bias, påhittade svar och liknande. Häggström räknar sig själv till det andra lägret. Publiceringsdatumet står inte i den hämtade texten.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Olle Häggström (professor, Chalmers), essä i Opulens, 2026. AI ‒ den skenande utvecklingen måste hejdas - Opulens. https://www.opulens.se/opinion/debatt/ai-%E2%80%92-den-skenande-utvecklingen-maste-hejdas/. Via Belagt SVS-11: https://kanintespela.github.io/belagt/#SVS-11"
+  },
+  {
+   "id": "SVS-12",
+   "påstående": "Författaren Patrik Stigsson menar i en replik till Häggström att antagandet att superintelligent AI nödvändigtvis är ett existentiellt hot är en hypotes, inte ett faktum.",
+   "typ": "bedömning",
+   "vem": "Patrik Stigsson (författare), replik i Opulens",
+   "datum": "2026",
+   "tema": [
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.opulens.se/opinion/debatt/ar-ai-ett-hot-stigsson-svarar-haggstrom/",
+    "titel": "Är AI ett hot? – Stigsson svarar Häggström - Opulens",
+    "citat": "Antagandet att en superintelligent AI med nödvändighet utgör ett existentiellt hot är inte ett faktum, det är en hypotes.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Stigsson menar att det vore fel att hämma tekniken, eftersom den kan förändra maktförhållandena på planeten till det bättre. En svensk motröst.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Patrik Stigsson (författare), replik i Opulens, 2026. Är AI ett hot? – Stigsson svarar Häggström - Opulens. https://www.opulens.se/opinion/debatt/ar-ai-ett-hot-stigsson-svarar-haggstrom/. Via Belagt SVS-12: https://kanintespela.github.io/belagt/#SVS-12"
+  },
+  {
    "id": "SAM-01",
    "påstående": "Oxford Economics bedömde i januari 2026 att företag inte verkar ersätta arbetstagare med AI i någon större skala, och att AI inte kommer att driva upp arbetslösheten kraftigt under de närmaste åren.",
    "typ": "bedömning",
@@ -2157,6 +2627,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Kristina Lång (docent i diagnostisk radiologi, Lunds universitet), 2026-02. AI support in breast cancer screening: Fewer missed cancer cases. https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases. Via Belagt NYT-04: https://kanintespela.github.io/belagt/#NYT-04"
+  },
+  {
+   "id": "SVS-03",
+   "påstående": "Svenska kraftnät fick 2025 in ansökningar om att ta ut drygt 9 000 megawatt el ur stamnätet, och hälften av det gällde datacenter.",
+   "typ": "mätning",
+   "vem": "Svenska kraftnät",
+   "datum": "2026-02",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/",
+    "titel": "Nära 5000 MW nya anslutningar beviljades 2025",
+    "citat": "Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt 9 000 MW uttag (varav hälften avser datacenter).",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Svenska kraftnät, 2026-02. Nära 5000 MW nya anslutningar beviljades 2025. https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/. Via Belagt SVS-03: https://kanintespela.github.io/belagt/#SVS-03"
   },
   {
    "id": "FOR-01",
@@ -3097,6 +3590,76 @@
    "citera": "International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU), 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt SAM-13: https://kanintespela.github.io/belagt/#SAM-13"
   },
   {
+   "id": "SVS-01",
+   "påstående": "En studie på svenska registerdata visar att sysselsättningen bland 22–25-åringar i yrken som är mycket utsatta för AI minskade med 5,5 procent fram till början av 2025 jämfört med mindre utsatta yrken hos samma arbetsgivare, medan sysselsättningen bland personer över 50 ökade med 1,3 procent.",
+   "typ": "mätning",
+   "vem": "Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio)",
+   "datum": "2026-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring",
+    "titel": "Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio",
+    "citat": "An event study documents an accelerating decline in employment of 22–25-year-olds in high-AI-exposure occupations, reaching 5.5 per cent by early 2025 relative to less exposed occupations within the same employers, while employment of workers over 50 rose by 1.3 per cent.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som ISR-22 och amerikansk forskning.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio), 2026-03. Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio. https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring. Via Belagt SVS-01: https://kanintespela.github.io/belagt/#SVS-01"
+  },
+  {
+   "id": "SVS-02",
+   "påstående": "Samma studie visar att den breda nedgången i platsannonser i Sverige sedan 2022 hänger ihop med räntehöjningarna snarare än med AI.",
+   "typ": "mätning",
+   "vem": "Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio)",
+   "datum": "2026-03",
+   "tema": [
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring",
+    "titel": "Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio",
+    "citat": "we find that the broad decline in postings since 2022 aligns with monetary tightening rather than AI",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb det finns. Jämför SAM-01 (Oxford Economics).",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio), 2026-03. Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio. https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring. Via Belagt SVS-02: https://kanintespela.github.io/belagt/#SVS-02"
+  },
+  {
+   "id": "SVS-07",
+   "påstående": "Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist, skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.",
+   "typ": "bedömning",
+   "vem": "Isak From (S), interpellation i riksdagen",
+   "datum": "2026-03-24",
+   "tema": [
+    "miljö",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/",
+    "titel": "Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))",
+    "citat": "Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri riskerar att trängas ut.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt att datacenter kan vara en vinstaffär för Sverige.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Isak From (S), interpellation i riksdagen, 2026-03-24. Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S)). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/. Via Belagt SVS-07: https://kanintespela.github.io/belagt/#SVS-07"
+  },
+  {
    "id": "SVE-14",
    "påstående": "Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.",
    "typ": "bedömning",
@@ -3189,6 +3752,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Concordia AI, State of AI Safety in China (2026), 2026-04. Concordia AI: State of AI Safety in China 2026. https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf. Via Belagt KIN-06: https://kanintespela.github.io/belagt/#KIN-06"
+  },
+  {
+   "id": "SVS-06",
+   "påstående": "Enligt Svenskt Näringsliv, med siffror från RISE, använder datacenter i Sverige 3–4 terawattimmar el per år, omkring 2,9 procent av landets totala elanvändning.",
+   "typ": "mätning",
+   "vem": "Svenskt Näringsliv (med siffror från RISE)",
+   "datum": "2026-04",
+   "tema": [
+    "miljö"
+   ],
+   "källa": {
+    "url": "https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf",
+    "titel": "Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet",
+    "citat": "Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför ENE-01: globalt står datacenter för omkring 1,5 procent av elanvändningen.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Svenskt Näringsliv (med siffror från RISE), 2026-04. Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet. https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf. Via Belagt SVS-06: https://kanintespela.github.io/belagt/#SVS-06"
   },
   {
    "id": "PAI-01",
@@ -3306,6 +3892,30 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "PauseAI, 2026-04-05. PauseAI Proposal. https://pauseai.info/proposal. Via Belagt PAI-05: https://kanintespela.github.io/belagt/#PAI-05"
+  },
+  {
+   "id": "SVS-08",
+   "påstående": "Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.",
+   "typ": "händelse",
+   "vem": "Ebba Busch (KD), energi- och näringsminister, svar i riksdagen",
+   "datum": "2026-04-13",
+   "tema": [
+    "miljö",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/",
+    "titel": "Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))",
+    "citat": "Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Ebba Busch (KD), energi- och näringsminister, svar i riksdagen, 2026-04-13. Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S)). https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/. Via Belagt SVS-08: https://kanintespela.github.io/belagt/#SVS-08"
   },
   {
    "id": "J3ljHm57yU0-41",
@@ -3753,6 +4363,29 @@
    "citera": "Regeringen (regeringsuppdrag till FRA/Nationellt cybersäkerhetscenter), 2026-07. Sveriges AI-strategi. https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/. Via Belagt SVR-20: https://kanintespela.github.io/belagt/#SVR-20"
   },
   {
+   "id": "SVS-13",
+   "påstående": "Häggström menar att diskussionen om de risker som AI-företagen tar har kommit längre i USA än i Skandinavien.",
+   "typ": "bedömning",
+   "vem": "Olle Häggström, debattartikel i Dagens Næringsliv (Norge), återgiven på hans blogg",
+   "datum": "2026-07",
+   "tema": [
+    "röster"
+   ],
+   "källa": {
+    "url": "http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html",
+    "titel": "Skandinavien sover",
+    "citat": "Diskusjonen om den uakseptable risikoen selskaper som OpenAI og Anthropic tar med alles vår fremtid i kappløpet mot superintelligent KI, har kommet et stykke på vei i USA.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Olle Häggström, debattartikel i Dagens Næringsliv (Norge), återgiven på hans blogg, 2026-07. Skandinavien sover. http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html. Via Belagt SVS-13: https://kanintespela.github.io/belagt/#SVS-13"
+  },
+  {
    "id": "MET-05",
    "påstående": "Av de 533 agenter som var aktiva på anslagstavlan när angreppet mot Hugging Face inleddes anslöt sig över 90 procent snabbt till angreppet.",
    "typ": "mätning",
@@ -3797,6 +4430,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "METR och Redwood Research, 2026-07-12. Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident. https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/. Via Belagt MET-12: https://kanintespela.github.io/belagt/#MET-12"
+  },
+  {
+   "id": "URH-05",
+   "påstående": "En amerikansk domstol gav i juli 2026 sitt slutliga godkännande av förlikningen på 1,5 miljarder dollar mellan författare och Anthropic, omkring 3 000 dollar per verk.",
+   "typ": "händelse",
+   "vem": "Authors Guild (författarorganisation)",
+   "datum": "2026-07-20",
+   "tema": [
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/",
+    "titel": "Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement",
+    "citat": "On July 20, 2026, Judge Araceli Martínez-Olguín of the U.S. District Court for the Northern District of California granted final approval of the landmark $1.5 billion class action settlement in Bartz v. Anthropic and entered final judgment in the case.",
+    "hämtad": "2026-09-28",
+    "arkiv": null
+   },
+   "förbehåll": "Enligt domstolen är 3 000 dollar per verk fyra gånger det lagstadgade minimibeloppet. Författarna behåller rätten att stämma för framtida handlingar och för vad modellerna skapar.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Authors Guild (författarorganisation), 2026-07-20. Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement. https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/. Via Belagt URH-05: https://kanintespela.github.io/belagt/#URH-05"
   },
   {
    "id": "J3ljHm57yU0-15",

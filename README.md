@@ -33,6 +33,7 @@ kontrollera varje påstående själv och hänvisa rätt när du skriver.
 | [röster](teman/röster.md) | Vad forskare, insiders och politiker säger |
 | [samhälle](teman/samhälle.md) | Jobb, ekonomi, beroende och AI-kompanjoner |
 | [miljö](teman/miljö.md) | Energi, klimat och vatten |
+| [rättigheter](teman/rättigheter.md) | Upphovsrätt, diskriminering och integritet |
 
 ## Vad betyder "belagt"?
 

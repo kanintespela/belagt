@@ -1,0 +1,24 @@
+id: BIA-02
+påstående: En granskning av Lighthouse Reports och Svenska Dagbladet visade att Försäkringskassans algoritm
+  för att förutsäga fusk med tillfällig föräldrapenning diskriminerade kvinnor, personer med utländsk
+  bakgrund, låginkomsttagare och personer utan universitetsutbildning.
+typ: mätning
+vem: Lighthouse Reports och Svenska Dagbladet (granskning)
+datum: '2024-11-27'
+tema:
+- rättigheter
+- samhälle
+källa:
+  url: https://www.lighthousereports.com/investigation/swedens-suspicion-machine/
+  titel: Sweden’s Suspicion Machine
+  citat: Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against
+    women, migrants, low-income earners and people without a university education.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Analysen bygger på data om över 6 000 personer som flaggades 2017 och gjordes med stöd av åtta
+  akademiska experter. Systemet har använts sedan 2013. Försäkringskassan har ifrågasatt analysen. Amnesty
+  krävde att systemet skulle stoppas.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

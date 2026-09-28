@@ -1,0 +1,25 @@
+id: SVS-01
+påstående: En studie på svenska registerdata visar att sysselsättningen bland 22–25-åringar i yrken som
+  är mycket utsatta för AI minskade med 5,5 procent fram till början av 2025 jämfört med mindre utsatta
+  yrken hos samma arbetsgivare, medan sysselsättningen bland personer över 50 ökade med 1,3 procent.
+typ: mätning
+vem: Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio)
+datum: 2026-03
+tema:
+- samhälle
+källa:
+  url: https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring
+  titel: 'Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient
+    in Hiring - Ratio'
+  citat: An event study documents an accelerating decline in employment of 22–25-year-olds in high-AI-exposure
+    occupations, reaching 5.5 per cent by early 2025 relative to less exposed occupations within the same
+    employers, while employment of workers over 50 rose by 1.3 per cent.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna
+  kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången
+  för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som ISR-22 och amerikansk forskning.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

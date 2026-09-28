@@ -1,0 +1,20 @@
+id: SVS-06
+påstående: Enligt Svenskt Näringsliv, med siffror från RISE, använder datacenter i Sverige 3–4 terawattimmar
+  el per år, omkring 2,9 procent av landets totala elanvändning.
+typ: mätning
+vem: Svenskt Näringsliv (med siffror från RISE)
+datum: 2026-04
+tema:
+- miljö
+källa:
+  url: https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf
+  titel: 'Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet'
+  citat: Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: 'Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför
+  ENE-01: globalt står datacenter för omkring 1,5 procent av elanvändningen.'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -4,10 +4,16 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-74 påståenden, de viktigaste först inom varje år.
+80 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Olle Häggström beskriver en klyfta bland dem som varnar för AI: vissa ser tekniken som riskabel för att den är ointelligent, andra för att den håller på att bli alltför intelligent.**
+  Olle Häggström (professor, Chalmers), essä i Opulens · 2026 · röster · [SVS-11](../påståenden/2026/SVS-11.yaml)
+  > Klyftan handlar om huruvida man primärt ser AI-tekniken som riskabel för att AI är ointelligent, eller för att den är på väg att bli alltför intelligent.
+  > — [AI ‒ den skenande utvecklingen måste hejdas - Opulens](https://www.opulens.se/opinion/debatt/ai-%E2%80%92-den-skenande-utvecklingen-maste-hejdas/)
+
+  *Förbehåll:* Pedagogiskt användbart för att förklara varför kritiker av AI ibland är oense med varandra. Det första lägret betonar bias, påhittade svar och liknande. Häggström räknar sig själv till det andra lägret. Publiceringsdatumet står inte i den hämtade texten.
 - **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-02](../påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
@@ -176,6 +182,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Varnar: Räcker inte att bromsa – AI måste stoppas](https://www.gp.se/nyheter/sverige/varnar-racker-inte-att-bromsa-ai-maste-stoppas.b2b188b5-1155-5546-9e38-a4021113042d)
 
   *Förbehåll:* TT-artikel, publicerad i GP med flera tidningar. Häggström menar att det är ett olöst grundproblem hur kraftfull AI ska fås att verka i människans intresse.
+- **Författaren Patrik Stigsson menar i en replik till Häggström att antagandet att superintelligent AI nödvändigtvis är ett existentiellt hot är en hypotes, inte ett faktum.**
+  Patrik Stigsson (författare), replik i Opulens · 2026 · röster · [SVS-12](../påståenden/2026/SVS-12.yaml)
+  > Antagandet att en superintelligent AI med nödvändighet utgör ett existentiellt hot är inte ett faktum, det är en hypotes.
+  > — [Är AI ett hot? – Stigsson svarar Häggström - Opulens](https://www.opulens.se/opinion/debatt/ar-ai-ett-hot-stigsson-svarar-haggstrom/)
+
+  *Förbehåll:* Stigsson menar att det vore fel att hämma tekniken, eftersom den kan förändra maktförhållandena på planeten till det bättre. En svensk motröst.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · [FOR-01](../påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
@@ -194,12 +206,24 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
+- **Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist, skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.**
+  Isak From (S), interpellation i riksdagen · 2026-03-24 · miljö, röster · [SVS-07](../påståenden/2026/SVS-07.yaml)
+  > Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri riskerar att trängas ut.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt att datacenter kan vara en vinstaffär för Sverige.
 - **Yann LeCun uppmanar folk att inte lyssna på AI-företagens vd:ar, eftersom de har ett intresse av att framställa sina produkter som kraftfulla.**
   Yann LeCun · 2026-05-04 · röster · [BAL-06](../påståenden/2026/BAL-06.yaml)
   > they have a vested interest in propping up the power of the products they sell
   > — [AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)
 
   *Förbehåll:* Ett källkritiskt argument som gäller både varningar och löften.
+- **Häggström menar att diskussionen om de risker som AI-företagen tar har kommit längre i USA än i Skandinavien.**
+  Olle Häggström, debattartikel i Dagens Næringsliv (Norge), återgiven på hans blogg · 2026-07 · röster · [SVS-13](../påståenden/2026/SVS-13.yaml)
+  > Diskusjonen om den uakseptable risikoen selskaper som OpenAI og Anthropic tar med alles vår fremtid i kappløpet mot superintelligent KI, har kommet et stykke på vei i USA.
+  > — [Skandinavien sover](http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html)
+
+  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen.
 - **Enfrågepartiet RegleraAI.nu ställde upp i riksdagsvalet 2026 med kravet att Sverige genast ska verka för en global paus i hänsynslös AI-utveckling. Partiet grundades av AI-säkerhetsingenjören Axel Wennström, och Olle Häggström stod som nummer två på riksdagslistan.**
   Olle Häggström (blogginlägget ”Häggström hävdar”) · 2026-08 · styrning, röster · [SVE-06](../påståenden/2026/SVE-06.yaml)
   > Sverige måste genast verka för en global paus på hänsynslös AI-utveckling.
@@ -311,6 +335,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/)
 
   *Förbehåll:* Jämför med att en tredjedel tror att AI leder till stor arbetslöshet i samhället: man oroar sig mer för andra än för sig själv. Frågorna skiljer sig mellan undersökningarna, så jämför försiktigt.
+- **Enligt en skriftlig fråga i riksdagen konstaterade ISF 2018 att Försäkringskassans algoritm i sin dåvarande utformning inte uppfyllde kraven på likabehandling. Försäkringskassan ansåg att analysen var bristfällig.**
+  Isabell Mixter (V), skriftlig fråga i riksdagen · 2025-01-28 · rättigheter, röster · [BIA-05](../påståenden/2025/BIA-05.yaml)
+  > ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande utformning inte uppfyller kraven på likabehandling”.
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+
+  *Förbehåll:* Citatet ur ISF:s rapport är återgivet i frågan. Frågan tar också upp att ett tidigare dataskyddsombud 2020 varnade för att verksamheten saknade rättslig grund.
 - **77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel balans mellan risk och nytta än att man direkt jagar AGI.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-20](../påståenden/2025/FOR-20.yaml)
   > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
@@ -443,6 +473,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
 
   *Förbehåll:* Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
+- **Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.**
+  Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri · 2023 · styrning, röster, samhälle · [SVS-14](../påståenden/2023/SVS-14.yaml)
+  > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
+  > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
+
+  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
 - **Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.**
   Anthropic (företagets grundsyn) · 2023-03 · röster · [FOR-04](../påståenden/2023/FOR-04.yaml)
   > We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.

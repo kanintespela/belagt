@@ -1,0 +1,23 @@
+id: URH-06
+påstående: Stim lanserade 2025 vad organisationen kallar världens första kollektiva AI-licens för musik.
+  AI-företag får träna på musiken, men bara med uttryckligt samtycke från upphovspersonerna, som får ersättning.
+typ: händelse
+vem: Stim (svensk upphovsrättsorganisation för musik)
+datum: 2025-09
+tema:
+- rättigheter
+- samhälle
+källa:
+  url: https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik
+  titel: Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se
+  citat: Nu tar Stim ett banbrytande steg i den digitala utvecklingen av musikbranschen – med världens
+    första kollektiva AI-licens för musik.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Lanseringen skedde i september 2025, men månaden står inte i den hämtade texten. Upphovspersonerna
+  får ersättning både när modellen tränas, när tjänsten används och när den genererade musiken används.
+  Ett svenskt exempel på en licensmodell.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
