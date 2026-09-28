@@ -1,0 +1,22 @@
+id: TID-17
+påstående: I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger
+  fler än någon tidigare språkmodell av samma slag.
+typ: händelse
+vem: OpenAI (Brown m.fl.)
+datum: 2020-05
+tema:
+- förmågor
+- tempo
+källa:
+  url: https://arxiv.org/abs/2005.14165
+  titel: 'GPT-3: Language Models are Few-Shot Learners (2020)'
+  citat: we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any
+    previous non-sparse language model
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT
+  (TID-05) byggde på en vidareutveckling.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

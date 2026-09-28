@@ -4,7 +4,7 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-26 påståenden, de viktigaste först inom varje år.
+29 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -123,6 +123,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 
 ## 2025
 
+- **76 procent av de tillfrågade AI-forskarna i AAAI:s enkät bedömde att det är osannolikt eller mycket osannolikt att man når AGI genom att skala upp dagens AI-metoder.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · förmågor, tempo, röster · [FOR-18](../påståenden/2025/FOR-18.yaml)
+  > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](../påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
@@ -144,6 +150,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 
 ## 2024
 
+- **AI-forskarna i AI Impacts enkät bedömde att det är 10 procents chans att maskiner utan hjälp överträffar människor i alla tänkbara uppgifter till 2027, och 50 procents chans till 2047. Det är 13 år tidigare än i samma enkät ett år innan.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · tempo, röster · [FOR-11](../påståenden/2024/FOR-11.yaml)
+  > the chance of unaided machines outperforming humans in every possible task was estimated at 10% by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey we conducted only one year earlier
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Villkoret var att vetenskapen fortsätter ostört. Att bedömningen flyttades fram 13 år på ett år visar hur snabbt forskarnas förväntningar ändrades efter ChatGPT.
 - **Dario Amodei skrev i oktober 2024 att kraftfull AI skulle kunna komma redan 2026, men att det också kan ta mycket längre tid.**
   Dario Amodei (vd, Anthropic) · 2024-10 · tempo, röster · [FOR-07](../påståenden/2024/FOR-07.yaml)
   > I think it could come as early as 2026, though there are also ways it could take much longer.
@@ -165,3 +177,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [GPT-4](https://openai.com/index/gpt-4-research/)
 
   *Förbehåll:* Tidslinjekort. Uppgiften kommer från OpenAI själva.
+
+## 2020
+
+- **I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger fler än någon tidigare språkmodell av samma slag.**
+  OpenAI (Brown m.fl.) · 2020-05 · förmågor, tempo · [TID-17](../påståenden/2020/TID-17.yaml)
+  > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
+  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165)
+
+  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT (TID-05) byggde på en vidareutveckling.

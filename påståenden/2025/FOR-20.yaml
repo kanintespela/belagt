@@ -1,0 +1,22 @@
+id: FOR-20
+påstående: 77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel
+  balans mellan risk och nytta än att man direkt jagar AGI.
+typ: mätning
+vem: AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande)
+datum: 2025-03
+tema:
+- styrning
+- röster
+källa:
+  url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
+  titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  citat: majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit
+    profile over the direct pursuit of AGI (23%)
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom
+  akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

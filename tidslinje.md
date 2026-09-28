@@ -2,7 +2,16 @@
 
 # Tidslinje
 
-Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 210 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+
+## 2017
+
+- **I juni 2017 presenterade forskare vid Google transformern, en ny arkitektur för neurala nätverk som bygger helt på så kallad uppmärksamhet. Den blev grunden för dagens språkmodeller.**
+  Forskare vid Google Brain och Google Research (Vaswani m.fl.) · 2017-06 · förmågor · [TID-16](./påståenden/2017/TID-16.yaml)
+  > We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
+  > — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762)
+
+  *Förbehåll:* Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden för dagens modeller står inte i citatet, men det är allmänt känt.
 
 ## 2019
 
@@ -12,6 +21,15 @@ Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Better language models and their implications](https://openai.com/index/better-language-models/)
 
   *Förbehåll:* Tidslinjekort. OpenAI släppte först inte hela modellen, med hänvisning till risk för missbruk.
+
+## 2020
+
+- **I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger fler än någon tidigare språkmodell av samma slag.**
+  OpenAI (Brown m.fl.) · 2020-05 · förmågor, tempo · [TID-17](./påståenden/2020/TID-17.yaml)
+  > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
+  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165)
+
+  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT (TID-05) byggde på en vidareutveckling.
 
 ## 2022
 
@@ -24,6 +42,18 @@ Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
 ## 2023
 
+- **I en prognosturnering där superprognosmakare och ämnesexperter debatterade i flera månader var oenigheten störst om riskerna från AI, och deras bedömningar närmade sig knappt varandra.**
+  Forecasting Research Institute (Existential Risk Persuasion Tournament) · 2023 · röster · [FOR-22](./påståenden/2023/FOR-22.yaml)
+  > We document large-scale disagreement and minimal convergence of beliefs over the course of the XPT, with the largest disagreement about risks from artificial intelligence.
+  > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
+
+  *Förbehåll:* 169 prognosmakare deltog. Rapporten publicerades 2023. De exakta sannolikheterna står i rapporten men inte i den hämtade sammanfattningen.
+- **Ämnesexperterna i turneringen bedömde risken för att AI utrotar mänskligheten som mycket högre än superprognosmakarna gjorde, och ingen av grupperna lät sig övertygas av den andra.**
+  Forecasting Research Institute (Existential Risk Persuasion Tournament) · 2023 · röster, kontroll · [FOR-23](./påståenden/2023/FOR-23.yaml)
+  > why were superforecasters so unmoved by experts’ much higher estimates of AI extinction risk, and why were experts so unmoved by the superforecasters’ lower estimates?
+  > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
+
+  *Förbehåll:* Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
 - **Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.**
   Anthropic (företagets grundsyn) · 2023-03 · röster · [FOR-04](./påståenden/2023/FOR-04.yaml)
   > We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.
@@ -78,9 +108,69 @@ Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
+- **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
+  Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · [TID-19](./påståenden/2023/TID-19.yaml)
+  > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+
+  *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+- **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
+  OpenAI:s styrelse · 2023-11-17 · styrning · [TID-18](./påståenden/2023/TID-18.yaml)
+  > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.
+  > — [OpenAI announces leadership transition](https://openai.com/index/openai-announces-leadership-transition/)
+
+  *Förbehåll:* Altman återkom som vd några dagar senare och styrelsen byttes ut. Det står inte i den här källan, som bara är styrelsens första meddelande. Händelsen används ofta som exempel på hur svårt det är att styra ett AI-företag inifrån.
 
 ## 2024
 
+- **AI Impacts gjorde hösten 2023 den största enkäten i sitt slag bland AI-forskare: 2 778 forskare som hade publicerat sig i de ledande AI-konferenserna svarade på frågor om utvecklingens tempo och följder.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · röster · [FOR-10](./påståenden/2024/FOR-10.yaml)
+  > In the largest survey of its kind, we surveyed 2,778 researchers who had published in top-tier artificial intelligence (AI) venues
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Enkäten publicerades i januari 2024. Omkring 15 procent av dem som tillfrågades svarade, vilket enligt författarna är normalt för stora expertenkäter. Forskarna är experter på AI, inte på prognoser.
+- **AI-forskarna i AI Impacts enkät bedömde att det är 10 procents chans att maskiner utan hjälp överträffar människor i alla tänkbara uppgifter till 2027, och 50 procents chans till 2047. Det är 13 år tidigare än i samma enkät ett år innan.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · tempo, röster · [FOR-11](./påståenden/2024/FOR-11.yaml)
+  > the chance of unaided machines outperforming humans in every possible task was estimated at 10% by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey we conducted only one year earlier
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Villkoret var att vetenskapen fortsätter ostört. Att bedömningen flyttades fram 13 år på ett år visar hur snabbt forskarnas förväntningar ändrades efter ChatGPT.
+- **Samma forskare bedömde att det är 50 procents chans att alla mänskliga yrken går att automatisera helt först år 2116.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · samhälle, röster · [FOR-12](./påståenden/2024/FOR-12.yaml)
+  > the chance of all human occupations becoming fully automatable was forecast to reach 10% by 2037, and 50% as late as 2116
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Den stora skillnaden mot FOR-11 (2047) mellan uppgifter och yrken är ett känt och oförklarat mönster i enkäten, och den visar hur mycket svaren beror på hur frågan ställs. I enkäten 2022 var årtalet 2164.
+- **Medianbedömningen bland AI-forskarna var 5 procents sannolikhet för extremt dåliga följder av avancerad AI, som att mänskligheten utrotas. Över en tredjedel (38 procent) angav minst 10 procent.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · kontroll, röster · [FOR-13](./påståenden/2024/FOR-13.yaml)
+  > The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%). Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Medelvärdet var 9 procent, ned från 14 procent i enkäten 2022. Beroende på hur frågan formulerades angav mellan 38 och 51 procent minst 10 procent. Återge det som forskarnas bedömning, inte som ett mått på risken.
+- **68 procent av AI-forskarna trodde att goda följder av övermänsklig AI är mer sannolika än dåliga, men nästan hälften av dessa optimister angav ändå minst 5 procents risk för extremt dåliga följder som att mänskligheten utrotas.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · röster · [FOR-14](./påståenden/2024/FOR-14.yaml)
+  > While 68.3% thought good outcomes from superhuman AI are more likely than bad, of these net optimists 48% gave at least a 5% chance of extremely bad outcomes such as human extinction
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Visar att oro och optimism ofta finns hos samma forskare. Omvänt gav 59 procent av pessimisterna minst 5 procent till extremt goda följder.
+- **En stor majoritet av AI-forskarna ansåg att forskning om AI-säkerhet borde prioriteras mer än den gör i dag.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-15](./påståenden/2024/FOR-15.yaml)
+  > A large majority of respondents thought that AI safety research should be prioritized more than it currently is.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Andelen har ökat jämfört med tidigare enkäter, men bara lite sedan 2022.
+- **Mer än hälften av AI-forskarna ansåg att det finns skäl till betydande eller extrem oro för sex olika scenarier, bland dem spridning av falsk information, auktoritär kontroll av befolkningen och ökad ojämlikhet.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · missbruk, samhälle, röster · [FOR-16](./påståenden/2024/FOR-16.yaml)
+  > More than half suggested that “substantial” or “extreme” concern is warranted about six different AI-related scenarios, including spread of false information, authoritarian population control, and worsened inequality.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Visar att forskarnas oro inte bara gäller utrotning utan också skador här och nu.
+- **AI-forskarna var oense om huruvida snabbare eller långsammare AI-utveckling vore bäst för mänsklighetens framtid.**
+  AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-17](./påståenden/2024/FOR-17.yaml)
+  > There was disagreement about whether faster or slower AI progress would be better for the future of humanity.
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+
+  *Förbehåll:* Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
 - **EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.**
   EU, återgivet av artificialintelligenceact.eu · 2024-08-01 · styrning · [TID-11](./påståenden/2024/TID-11.yaml)
   > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
@@ -111,6 +201,12 @@ Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
   *Förbehåll:* Förklarar varför en del AI-ledare varnar för risker och samtidigt bygger tekniken: de ser både stor nytta och stor risk.
+- **Nobelpriset i kemi 2024 gick till hälften till Demis Hassabis och John Jumper på Google DeepMind, som utvecklat en AI-modell som löste ett 50 år gammalt problem: att förutsäga proteiners struktur.**
+  Kungliga Vetenskapsakademien · 2024-10-09 · nytta, förmågor · [TID-20](./påståenden/2024/TID-20.yaml)
+  > Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting proteins’ complex structures.
+  > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+
+  *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset (SVR-13).
 - **Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också säga ifrån när en risk visar sig vara överdriven.**
   AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige) · 2024-11-26 · styrning · [SVE-01](./påståenden/2024/SVE-01.yaml)
   > I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.
@@ -162,12 +258,42 @@ Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Den andra rapporten kom i februari 2026 (ISR-01).
+- **I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.**
+  DeepSeek · 2025-01 · förmågor, geopolitik · [TID-21](./påståenden/2025/TID-21.yaml)
+  > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
+  > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
+
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.**
   EU, återgivet av artificialintelligenceact.eu · 2025-02-02 · styrning · [TID-12](./påståenden/2025/TID-12.yaml)
   > Most prohibitions of AI systems have been applicable since 2 February 2025
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
+- **76 procent av de tillfrågade AI-forskarna i AAAI:s enkät bedömde att det är osannolikt eller mycket osannolikt att man når AGI genom att skala upp dagens AI-metoder.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · förmågor, tempo, röster · [FOR-18](./påståenden/2025/FOR-18.yaml)
+  > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
+- **70 procent av de tillfrågade i AAAI:s enkät var emot att stoppa forskning som syftar till AGI tills det finns fullständiga säkerhets- och kontrollmekanismer.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-19](./påståenden/2025/FOR-19.yaml)
+  > most respondents (70%) oppose the proposition that we should halt research aimed at AGI until full safety and control mechanisms are established
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen (PAI-01), så svaret säger inte direkt vad forskarna tycker om det.
+- **77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel balans mellan risk och nytta än att man direkt jagar AGI.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-20](./påståenden/2025/FOR-20.yaml)
+  > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild.
+- **82 procent av de tillfrågade i AAAI:s enkät anser att AGI-system bör ägas gemensamt av allmänheten om de utvecklas av privata aktörer.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-21](./påståenden/2025/FOR-21.yaml)
+  > A substantial majority of respondents (82%) believe that systems with AGI should be publicly owned if developed by private entities
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla till del.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](./påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).

@@ -1,0 +1,21 @@
+id: TID-16
+påstående: I juni 2017 presenterade forskare vid Google transformern, en ny arkitektur för neurala nätverk
+  som bygger helt på så kallad uppmärksamhet. Den blev grunden för dagens språkmodeller.
+typ: händelse
+vem: Forskare vid Google Brain och Google Research (Vaswani m.fl.)
+datum: 2017-06
+tema:
+- förmågor
+källa:
+  url: https://arxiv.org/abs/1706.03762
+  titel: Attention Is All You Need (2017)
+  citat: We propose a new simple network architecture, the Transformer, based solely on attention mechanisms,
+    dispensing with recurrence and convolutions entirely.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden
+  för dagens modeller står inte i citatet, men det är allmänt känt.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

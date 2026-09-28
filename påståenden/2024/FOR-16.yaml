@@ -1,0 +1,24 @@
+id: FOR-16
+påstående: Mer än hälften av AI-forskarna ansåg att det finns skäl till betydande eller extrem oro för
+  sex olika scenarier, bland dem spridning av falsk information, auktoritär kontroll av befolkningen och
+  ökad ojämlikhet.
+typ: mätning
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- missbruk
+- samhälle
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: More than half suggested that “substantial” or “extreme” concern is warranted about six different
+    AI-related scenarios, including spread of false information, authoritarian population control, and
+    worsened inequality.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Visar att forskarnas oro inte bara gäller utrotning utan också skador här och nu.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

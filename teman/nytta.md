@@ -4,7 +4,7 @@
 
 Vad AI redan gör för sjukvård, forskning och samhälle.
 
-16 påståenden, de viktigaste först inom varje år.
+17 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -90,6 +90,12 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 
 ## 2024
 
+- **Nobelpriset i kemi 2024 gick till hälften till Demis Hassabis och John Jumper på Google DeepMind, som utvecklat en AI-modell som löste ett 50 år gammalt problem: att förutsäga proteiners struktur.**
+  Kungliga Vetenskapsakademien · 2024-10-09 · nytta, förmågor · [TID-20](../påståenden/2024/TID-20.yaml)
+  > Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting proteins’ complex structures.
+  > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+
+  *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset (SVR-13).
 - **Amodei förutspår att AI-driven biologi och medicin kan pressa ihop de framsteg som biologer annars hade gjort under 50–100 år till 5–10 år.**
   Dario Amodei (vd, Anthropic) · 2024-10 · nytta, röster · [FOR-08](../påståenden/2024/FOR-08.yaml)
   > my basic prediction is that AI-enabled biology and medicine will allow us to compress the progress that human biologists would have achieved over the next 50-100 years into 5-10 years.

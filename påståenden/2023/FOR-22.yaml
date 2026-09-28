@@ -1,0 +1,22 @@
+id: FOR-22
+påstående: I en prognosturnering där superprognosmakare och ämnesexperter debatterade i flera månader
+  var oenigheten störst om riskerna från AI, och deras bedömningar närmade sig knappt varandra.
+typ: mätning
+vem: Forecasting Research Institute (Existential Risk Persuasion Tournament)
+datum: '2023'
+tema:
+- röster
+källa:
+  url: https://forecastingresearch.org/xpt
+  titel: 'Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting
+    Research Institute'
+  citat: We document large-scale disagreement and minimal convergence of beliefs over the course of the
+    XPT, with the largest disagreement about risks from artificial intelligence.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: 169 prognosmakare deltog. Rapporten publicerades 2023. De exakta sannolikheterna står i rapporten
+  men inte i den hämtade sammanfattningen.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

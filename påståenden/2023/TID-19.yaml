@@ -1,0 +1,23 @@
+id: TID-19
+påstående: I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under,
+  konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal,
+  skada, avsiktligt eller oavsiktligt.
+typ: händelse
+vem: Länderna vid toppmötet om AI-säkerhet i Bletchley Park
+datum: '2023-11-01'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023
+  titel: The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023
+  citat: There is potential for serious, even catastrophic, harm, either deliberate or unintentional,
+    stemming from the most significant capabilities of these AI models.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är
+  ett av få exempel på en gemensam hållning mellan de två länderna.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

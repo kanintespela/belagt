@@ -4,7 +4,7 @@
 
 Vad AI-systemen kan göra och hur det mäts.
 
-27 påståenden, de viktigaste först inom varje år.
+32 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -119,6 +119,12 @@ Vad AI-systemen kan göra och hur det mäts.
 
 ## 2025
 
+- **76 procent av de tillfrågade AI-forskarna i AAAI:s enkät bedömde att det är osannolikt eller mycket osannolikt att man når AGI genom att skala upp dagens AI-metoder.**
+  AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · förmågor, tempo, röster · [FOR-18](../påståenden/2025/FOR-18.yaml)
+  > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](../påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
@@ -149,9 +155,21 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/)
 
   *Förbehåll:* Många har alltså aldrig provat AI, och ännu färre har provat de betalda versionerna. Användningen är ojämnt fördelad, till exempel 56 procent bland tjänstemän mot 30 procent bland arbetare och 11 procent bland pensionärer.
+- **I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.**
+  DeepSeek · 2025-01 · förmågor, geopolitik · [TID-21](../påståenden/2025/TID-21.yaml)
+  > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
+  > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
+
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 
 ## 2024
 
+- **Nobelpriset i kemi 2024 gick till hälften till Demis Hassabis och John Jumper på Google DeepMind, som utvecklat en AI-modell som löste ett 50 år gammalt problem: att förutsäga proteiners struktur.**
+  Kungliga Vetenskapsakademien · 2024-10-09 · nytta, förmågor · [TID-20](../påståenden/2024/TID-20.yaml)
+  > Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting proteins’ complex structures.
+  > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
+
+  *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset (SVR-13).
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · [TID-09](../påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
@@ -177,6 +195,15 @@ Vad AI-systemen kan göra och hur det mäts.
 
   *Förbehåll:* Tidslinjekort. Datumet kommer från sidans metadata.
 
+## 2020
+
+- **I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger fler än någon tidigare språkmodell av samma slag.**
+  OpenAI (Brown m.fl.) · 2020-05 · förmågor, tempo · [TID-17](../påståenden/2020/TID-17.yaml)
+  > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
+  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165)
+
+  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT (TID-05) byggde på en vidareutveckling.
+
 ## 2019
 
 - **I februari 2019 presenterade OpenAI GPT-2, en språkmodell som kunde skriva sammanhängande stycken text.**
@@ -185,3 +212,12 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Better language models and their implications](https://openai.com/index/better-language-models/)
 
   *Förbehåll:* Tidslinjekort. OpenAI släppte först inte hela modellen, med hänvisning till risk för missbruk.
+
+## 2017
+
+- **I juni 2017 presenterade forskare vid Google transformern, en ny arkitektur för neurala nätverk som bygger helt på så kallad uppmärksamhet. Den blev grunden för dagens språkmodeller.**
+  Forskare vid Google Brain och Google Research (Vaswani m.fl.) · 2017-06 · förmågor · [TID-16](../påståenden/2017/TID-16.yaml)
+  > We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
+  > — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762)
+
+  *Förbehåll:* Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden för dagens modeller står inte i citatet, men det är allmänt känt.

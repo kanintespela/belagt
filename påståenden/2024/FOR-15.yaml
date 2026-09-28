@@ -1,0 +1,21 @@
+id: FOR-15
+påstående: En stor majoritet av AI-forskarna ansåg att forskning om AI-säkerhet borde prioriteras mer
+  än den gör i dag.
+typ: mätning
+vem: AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare
+datum: 2024-01
+tema:
+- styrning
+- röster
+källa:
+  url: https://arxiv.org/abs/2401.02843
+  titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  citat: A large majority of respondents thought that AI safety research should be prioritized more than
+    it currently is.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Andelen har ökat jämfört med tidigare enkäter, men bara lite sedan 2022.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

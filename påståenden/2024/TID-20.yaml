@@ -1,0 +1,22 @@
+id: TID-20
+påstående: 'Nobelpriset i kemi 2024 gick till hälften till Demis Hassabis och John Jumper på Google DeepMind,
+  som utvecklat en AI-modell som löste ett 50 år gammalt problem: att förutsäga proteiners struktur.'
+typ: händelse
+vem: Kungliga Vetenskapsakademien
+datum: '2024-10-09'
+tema:
+- nytta
+- förmågor
+källa:
+  url: https://www.nobelprize.org/prizes/chemistry/2024/press-release/
+  titel: Nobel Prize in Chemistry 2024
+  citat: 'Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting
+    proteins’ complex structures.'
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya
+  proteiner. Samma år fick Geoffrey Hinton fysikpriset (SVR-13).
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

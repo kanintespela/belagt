@@ -1,0 +1,23 @@
+id: TID-18
+påstående: I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent
+  varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.
+typ: händelse
+vem: OpenAI:s styrelse
+datum: '2023-11-17'
+tema:
+- styrning
+källa:
+  url: https://openai.com/index/openai-announces-leadership-transition/
+  titel: OpenAI announces leadership transition
+  citat: Mr. Altman’s departure follows a deliberative review process by the board, which concluded that
+    he was not consistently candid in his communications with the board, hindering its ability to exercise
+    its responsibilities.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Altman återkom som vd några dagar senare och styrelsen byttes ut. Det står inte i den här källan,
+  som bara är styrelsens första meddelande. Händelsen används ofta som exempel på hur svårt det är att
+  styra ett AI-företag inifrån.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
