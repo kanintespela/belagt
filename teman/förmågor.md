@@ -4,7 +4,7 @@
 
 Vad AI-systemen kan göra och hur det mäts.
 
-32 påståenden, de viktigaste först inom varje år.
+33 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -161,6 +161,12 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
 
   *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+- **OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.**
+  OpenAI (GDPval) · 2025-09 · samhälle, förmågor · [SAM-08](../påståenden/2025/SAM-08.yaml)
+  > We found that today’s best frontier models are already approaching the quality of work produced by industry experts.
+  > — [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/)
+
+  *Förbehåll:* Partsuppgift, även om uppgifterna bedömdes blint. Uppgifterna var väl avgränsade och motsvarar inte ett helt jobb. Anthropics Claude Opus 4.1 presterade bäst i testet, inte OpenAI:s egen modell.
 
 ## 2024
 

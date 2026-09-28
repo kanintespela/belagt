@@ -4,7 +4,7 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-29 påståenden, de viktigaste först inom varje år.
+30 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -62,6 +62,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
   *Förbehåll:* Den tydligaste svenska rösten för att risken är låg, just nu. Heintz oroas mer av att människor använder AI för brott, till exempel terrorhandlingar (enligt TT i GP).
+- **Oxford Economics påpekar att produktivitetstillväxten borde öka om AI redan ersatte arbetskraft i stor skala, men att den i allmänhet inte gör det. Det kan dock ändras snabbt om AI fortsätter att utvecklas snabbt.**
+  Oxford Economics (analysföretag, Ben May och Yasmine Badawy) · 2026-01-07 · samhälle, tempo · [SAM-03](../påståenden/2026/SAM-03.yaml)
+  > If AI were already replacing labour at scale, productivity growth should be accelerating. Generally, it isn't, though that could change quickly if AI continues to develop rapidly
+  > — [Job Stats](https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf)
+
+  *Förbehåll:* Ett enkelt test som går att följa i den officiella statistiken.
 - **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-03](../påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects

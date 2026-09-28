@@ -1,0 +1,22 @@
+id: SAM-13
+påstående: Ny forskning tyder på att chattbottar kan förstärka vanföreställningar hos människor som redan
+  är sårbara, och att sårbara personer ofta använder AI mer.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Recent research suggests that general-purpose AI chatbots might amplify delusional thinking in
+    already-vulnerable people
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten drar slutsatsen att personer med psykisk sårbarhet både kan använda AI mer och vara
+  mer mottagliga för att få sina symtom förstärkta. Forskningen är ny.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

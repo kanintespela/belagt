@@ -1,0 +1,23 @@
+id: SAM-09
+påstående: Bedragare använder AI-klonade röster och deepfakes för att lura offer att föra över pengar.
+  Dokumenterade fall omfattar både chefer som fört över miljoner och vanliga människor som skickat mindre
+  summor till någon som utgav sig för att vara en anhörig.
+typ: händelse
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Documented incidents include executives authorising transfers of millions to fraudsters, as well
+    as ordinary people sending smaller amounts to impostors posing as a loved one
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Jämför SVE-16 om AI-klonade röster i Sverige.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

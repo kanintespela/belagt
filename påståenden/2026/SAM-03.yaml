@@ -1,0 +1,22 @@
+id: SAM-03
+påstående: Oxford Economics påpekar att produktivitetstillväxten borde öka om AI redan ersatte arbetskraft
+  i stor skala, men att den i allmänhet inte gör det. Det kan dock ändras snabbt om AI fortsätter att
+  utvecklas snabbt.
+typ: bedömning
+vem: Oxford Economics (analysföretag, Ben May och Yasmine Badawy)
+datum: '2026-01-07'
+tema:
+- samhälle
+- tempo
+källa:
+  url: https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf
+  titel: Job Stats
+  citat: If AI were already replacing labour at scale, productivity growth should be accelerating. Generally,
+    it isn't, though that could change quickly if AI continues to develop rapidly
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Ett enkelt test som går att följa i den officiella statistiken.
+vikt: 2
+bäst_före: '2027-01-07'
+kontrollerad: '2026-09-28'
+ersatt_av: null

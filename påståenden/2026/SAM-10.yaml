@@ -1,0 +1,23 @@
+id: SAM-10
+påstående: En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent
+  av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults
+    report having seen deepfake pornographic images
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt.
+  Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

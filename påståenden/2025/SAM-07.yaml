@@ -1,0 +1,22 @@
+id: SAM-07
+påstående: En studie från MIT uppskattar att AI rent tekniskt kan utföra arbetsuppgifter som motsvarar
+  11,7 procent av lönesumman i USA, omkring 1 200 miljarder dollar, inom administration, finans och tjänster.
+typ: mätning
+vem: MIT (Project Iceberg)
+datum: 2025-11
+tema:
+- samhälle
+källa:
+  url: https://iceberg.mit.edu/report.pdf
+  titel: MIT Study on Jobs/Tasks
+  citat: Technical capability extends far below the surface through cognitive automation spanning administrative,
+    financial, and professional services (11.7%, approximately $1.2 trillion).
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Måttet visar teknisk exponering, inte förlorade jobb eller när det kan hända. Den synliga användningen
+  av AI inom data och teknik motsvarar enligt studien 2,2 procent av lönesumman, så exponeringen är ungefär
+  fem gånger större.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

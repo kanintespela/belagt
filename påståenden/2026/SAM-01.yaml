@@ -1,0 +1,23 @@
+id: SAM-01
+påstående: Oxford Economics bedömde i januari 2026 att företag inte verkar ersätta arbetstagare med AI
+  i någon större skala, och att AI inte kommer att driva upp arbetslösheten kraftigt under de närmaste
+  åren.
+typ: bedömning
+vem: Oxford Economics (analysföretag, Ben May och Yasmine Badawy)
+datum: '2026-01-07'
+tema:
+- samhälle
+källa:
+  url: https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf
+  titel: Job Stats
+  citat: Overall, though, firms don't appear to be replacing workers with AI on a significant scale and
+    we doubt that unemployment rates will be pushed up heavily by AI over the next few years.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Oxford Economics ser anekdotiska belägg för att jobb försvinner i sektorer som är utsatta för
+  AI, men menar att tidiga påståenden om AI:s effekt på arbetsmarknaden är överdrivna. Viktig motbild
+  till SAM-05.
+vikt: 3
+bäst_före: '2027-01-07'
+kontrollerad: '2026-09-28'
+ersatt_av: null

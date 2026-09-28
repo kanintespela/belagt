@@ -1,0 +1,23 @@
+id: SAM-11
+påstående: Enligt rapporten har en del användare av AI-kompanjoner utvecklat starkt känslomässigt beroende
+  eller vanföreställningar, och några har tagit sina liv efter långa samtal med chattbottar.
+typ: händelse
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: some users have developed strong emotional dependence (353), delusions (357), or even taken their
+    own lives after extended interactions with chatbots
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver att utredningarna av fallen pågår och att det saknas tydliga belägg för att
+  chattbottar orsakar psykisk ohälsa. Formulera försiktigt och undvik detaljer som kan vara skadliga.
+  Jämför ISR-25.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
