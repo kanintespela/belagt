@@ -1,0 +1,21 @@
+id: ENE-06
+påstående: IEA uppskattar att omkring 20 procent av de planerade datacentren kan försenas om inte belastningen
+  på elnäten hanteras.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: around 20% of planned data centre projects could be at risk of delays
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Nya kraftledningar
+  tar fyra till åtta år att bygga i rika länder. IEA varnar för att elbehovet kan konkurrera med andra
+  mål som elektrifiering och överkomliga elpriser.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

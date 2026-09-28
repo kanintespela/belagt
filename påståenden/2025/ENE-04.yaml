@@ -1,0 +1,22 @@
+id: ENE-04
+påstående: Datacenter står enligt IEA för omkring en tiondel av den globala ökningen av elbehovet fram
+  till 2030, mindre än industrimotorer, luftkonditionering eller elbilar.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: Data centres account for around one-tenth of global electricity demand growth to 2030, less than
+    the share from industrial motors, air conditioning in homes and offices, or electric vehicles.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I rika länder,
+  där elbehovet länge har stått still, står datacenter däremot för mer än 20 procent av ökningen. Viktig
+  nyans åt båda hållen.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

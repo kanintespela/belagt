@@ -1,0 +1,21 @@
+id: ENE-18
+påstående: AAAI:s panelrapport hänvisar till prognoser om att datacenter 2028 kan stå för mellan 7 och
+  12 procent av USA:s elbehov, beroende på hur snabbt AI växer.
+typ: prognos
+vem: AAAI:s ordförandepanel om AI-forskningens framtid
+datum: 2025-03
+tema:
+- miljö
+källa:
+  url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
+  titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  citat: Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity
+    demand, depending on AI growth scenarios
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Den bakomliggande prognosen, troligen från Lawrence Berkeley National Laboratory, har inte
+  gått att hämta. Jämför ENE-05.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: ENE-17
+påstående: Forskare vid University of California uppskattar att AI globalt kan ta ut 4,2–6,6 miljarder
+  kubikmeter vatten 2027, mer än vad 4–6 Danmark tar ut på ett år.
+typ: prognos
+vem: Li, Yang, Islam och Ren (UC Riverside och UT Arlington)
+datum: 2023-04
+tema:
+- miljö
+källa:
+  url: https://arxiv.org/abs/2304.03271
+  titel: 'Li m.fl.: Making AI Less Thirsty (2023)'
+  citat: the global AI demand is projected to account for 4.2 – 6.6 billion cubic meters of water withdrawal
+    in 2027, which is more than the total annual water withdrawal of 4 – 6 Denmark
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: 'Uttag är inte samma sak som förbrukning: det mesta vattnet återförs. Uppskattningen är osäker
+  och bygger på antaganden om hur mycket AI växer. Jämför Googles mätning på 0,26 milliliter per fråga
+  (ENE-14).'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

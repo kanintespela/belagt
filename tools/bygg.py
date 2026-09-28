@@ -37,6 +37,7 @@ TEMAN = {
     "nytta": "Vad AI redan gör för sjukvård, forskning och samhälle.",
     "röster": "Vad forskare, insiders, politiker och andra bedömare säger.",
     "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.",
+    "miljö": "Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen.",
 }
 FÄLT = ["id", "påstående", "typ", "vem", "datum", "tema", "källa", "förbehåll", "vikt",
         "bäst_före", "kontrollerad", "ersatt_av"]

@@ -1,0 +1,21 @@
+id: ENE-05
+påstående: IEA bedömer att USA i slutet av 2020-talet kommer att använda mer el till datacenter än till
+  tillverkningen av aluminium, stål, cement, kemikalier och alla andra energiintensiva varor tillsammans.
+typ: prognos
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: By the end of the decade, the country is set to consume more electricity for data centres than
+    for the production of aluminium, steel, cement, chemicals and all other energy-intensive goods combined.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I USA står datacenter
+  för nästan hälften av ökningen av elbehovet fram till 2030.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -4,7 +4,7 @@
 
 Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
-13 påståenden, de viktigaste först inom varje år.
+14 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -77,6 +77,12 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948)
 
   *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+- **Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.**
+  IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, geopolitik · [ENE-12](../påståenden/2025/ENE-12.yaml)
+  > China currently accounts for around 99% of global refined gallium supply.
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. IEA uppskattar att datacentrens behov av gallium 2030 kan motsvara mer än 10 procent av dagens utbud. Exempel på hur AI:s försörjningskedjor kopplas till geopolitik.
 - **USA:s regering har som uttalat mål att vinna AI-kapplöpningen och uppnå global dominans, bland annat genom att ta bort regler som anses hämma utvecklingen.**
   Vita huset (America's AI Action Plan) · 2025-07 · geopolitik, styrning · [BAL-11](../påståenden/2025/BAL-11.yaml)
   > The United States is in a race to achieve global dominance in artificial intelligence (AI).

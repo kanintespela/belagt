@@ -1,0 +1,22 @@
+id: ENE-03
+påstående: Ett typiskt AI-datacenter drar lika mycket el som 100 000 hushåll, och de största som byggs
+  i dag kommer att dra 20 gånger så mycket.
+typ: mätning
+vem: IEA (Internationella energirådet), rapporten Energy and AI
+datum: 2025-04
+tema:
+- miljö
+källa:
+  url: https://www.iea.org/reports/energy-and-ai/executive-summary
+  titel: Executive summary – Energy and AI – Analysis - IEA
+  citat: A typical AI-focused data centre consumes as much electricity as 100 000 households, but the
+    largest ones under construction today will consume 20 times as much.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förbrukningen
+  är också geografiskt koncentrerad, vilket gör den lokala påverkan på elnätet mycket större än den globala
+  andelen antyder.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
