@@ -38,6 +38,7 @@ TEMAN = {
     "röster": "Vad forskare, insiders, politiker och andra bedömare säger.",
     "samhälle": "Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.",
     "miljö": "Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen.",
+    "rättigheter": "Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigheter.",
 }
 FÄLT = ["id", "påstående", "typ", "vem", "datum", "tema", "källa", "förbehåll", "vikt",
         "bäst_före", "kontrollerad", "ersatt_av"]

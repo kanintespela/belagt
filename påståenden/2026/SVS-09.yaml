@@ -1,0 +1,22 @@
+id: SVS-09
+påstående: Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen
+  satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.
+typ: mätning
+vem: Christoffer Bergman (Neo4j), debattartikel i Ny Teknik
+datum: '2026'
+tema:
+- miljö
+- styrning
+källa:
+  url: https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157
+  titel: ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”
+  citat: Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar
+    479 miljoner på ai.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte
+  beräkningskraft. Siffrorna är hans egna sammanställningar.
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

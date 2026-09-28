@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-73 påståenden, de viktigaste först inom varje år.
+78 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -224,6 +224,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
   *Förbehåll:* Knyter an till oron för maktkoncentration hos DeepSeek-ingenjören (J3ljHm57yU0-35) och Folkets AI-kommission (SVE-09).
+- **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
+  Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](../påståenden/2026/SVS-08.yaml)
+  > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.
 - **I juni 2026 utsåg regeringen PTS, IMY, Finansinspektionen, Läkemedelsverket och Swedac till nationella behöriga myndigheter enligt EU:s AI-förordning.**
   Regeringen (regeringsuppdrag) · 2026-06 · styrning · [SVR-21](../påståenden/2026/SVR-21.yaml)
   > i uppdrag att vara nationella behöriga myndigheter enligt AI-förordningen
@@ -296,6 +302,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
   *Förbehåll:* Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår (J3ljHm57yU0-31). Man kan alltså vara överens om åtgärder utan att vara överens om risken.
+- **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
+  Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · [SVS-09](../påståenden/2026/SVS-09.yaml)
+  > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.
+  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
+
+  *Förbehåll:* Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.
 - **Som komplement till pausen föreslår PauseAI att AI-företagen ska hållas ansvariga för brott som begås med deras system, och att träning på upphovsrättsskyddat material ska förbjudas.**
   PauseAI · 2026-04-05 · styrning · [PAI-05](../påståenden/2026/PAI-05.yaml)
   > Hold AI model creators liable
@@ -347,6 +359,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
+- **Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning och riskerna med den.**
+  Anna Tenje (M), statsråd, svar i riksdagen · 2025-02-05 · rättigheter, styrning · [BIA-06](../påståenden/2025/BIA-06.yaml)
+  > Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+
+  *Förbehåll:* Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.
 - **77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel balans mellan risk och nytta än att man direkt jagar AGI.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-20](../påståenden/2025/FOR-20.yaml)
   > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
@@ -422,6 +440,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
+- **Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina algoritmer för att upptäcka fusk.**
+  Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, styrning · [BIA-03](../påståenden/2024/BIA-03.yaml)
+  > Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+
+  *Förbehåll:* Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.
 
 ## 2023
 
@@ -449,6 +473,12 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
   *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+- **Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.**
+  Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri · 2023 · styrning, röster, samhälle · [SVS-14](../påståenden/2023/SVS-14.yaml)
+  > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
+  > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
+
+  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
 - **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
   OpenAI:s styrelse · 2023-11-17 · styrning · [TID-18](../påståenden/2023/TID-18.yaml)
   > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.

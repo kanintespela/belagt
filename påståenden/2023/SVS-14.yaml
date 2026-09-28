@@ -1,0 +1,22 @@
+id: SVS-14
+påstående: Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga
+  förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.
+typ: bedömning
+vem: Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri
+datum: '2023'
+tema:
+- styrning
+- röster
+- samhälle
+källa:
+  url: https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin
+  titel: 'Debatt: Oreglerad AI farlig för demokratin'
+  citat: Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd,
+  domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

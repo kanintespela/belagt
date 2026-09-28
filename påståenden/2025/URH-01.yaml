@@ -1,0 +1,22 @@
+id: URH-01
+påstående: USA:s upphovsrättsmyndighet bedömer att den kopiering som sker när AI tränas hotar att allvarligt
+  skada marknaden för eller värdet av upphovsrättsskyddade verk.
+typ: bedömning
+vem: USA:s upphovsrättsmyndighet (U.S. Copyright Office)
+datum: 2025-05
+tema:
+- rättigheter
+källa:
+  url: https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf
+  titel: 'US Copyright Office: Generative AI Training (maj 2025)'
+  citat: The copying involved in AI training threatens significant potential harm to the market for or
+    value of copyrighted works.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten
+  pekar på både direkt konkurrens från liknande verk och på att AI-genererat material i samma stil kan
+  späda ut marknaden.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

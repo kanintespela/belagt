@@ -1,0 +1,22 @@
+id: SVS-02
+påstående: Samma studie visar att den breda nedgången i platsannonser i Sverige sedan 2022 hänger ihop
+  med räntehöjningarna snarare än med AI.
+typ: mätning
+vem: Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio)
+datum: 2026-03
+tema:
+- samhälle
+källa:
+  url: https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring
+  titel: 'Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient
+    in Hiring - Ratio'
+  citat: we find that the broad decline in postings since 2022 aligns with monetary tightening rather
+    than AI
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb
+  det finns. Jämför SAM-01 (Oxford Economics).
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

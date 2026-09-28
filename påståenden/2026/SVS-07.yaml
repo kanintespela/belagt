@@ -1,0 +1,22 @@
+id: SVS-07
+påstående: Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist,
+  skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.
+typ: bedömning
+vem: Isak From (S), interpellation i riksdagen
+datum: '2026-03-24'
+tema:
+- miljö
+- röster
+källa:
+  url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/
+  titel: Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))
+  citat: Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri
+    riskerar att trängas ut.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt
+  att datacenter kan vara en vinstaffär för Sverige.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

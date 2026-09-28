@@ -1,0 +1,22 @@
+id: BIA-06
+påstående: Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras
+  manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning
+  och riskerna med den.
+typ: bedömning
+vem: Anna Tenje (M), statsråd, svar i riksdagen
+datum: '2025-02-05'
+tema:
+- rättigheter
+- styrning
+källa:
+  url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/
+  titel: Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))
+  citat: Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen.
+  Svaret tar inte ställning till kritiken om diskriminering.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,21 @@
+id: SVS-03
+påstående: Svenska kraftnät fick 2025 in ansökningar om att ta ut drygt 9 000 megawatt el ur stamnätet,
+  och hälften av det gällde datacenter.
+typ: mätning
+vem: Svenska kraftnät
+datum: 2026-02
+tema:
+- miljö
+källa:
+  url: https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/
+  titel: Nära 5000 MW nya anslutningar beviljades 2025
+  citat: Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt
+    9 000 MW uttag (varav hälften avser datacenter).
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: 'Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar
+  leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

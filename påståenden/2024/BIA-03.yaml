@@ -1,0 +1,22 @@
+id: BIA-03
+påstående: Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina
+  algoritmer för att upptäcka fusk.
+typ: händelse
+vem: Lighthouse Reports och Svenska Dagbladet (granskning)
+datum: '2024-11-27'
+tema:
+- rättigheter
+- styrning
+källa:
+  url: https://www.lighthousereports.com/investigation/swedens-suspicion-machine/
+  titel: Sweden’s Suspicion Machine
+  citat: Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information
+    requests, nearly all of which were rejected.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen
+  om insyn i myndigheters AI-användning.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

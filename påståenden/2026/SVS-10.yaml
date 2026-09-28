@@ -1,0 +1,19 @@
+id: SVS-10
+påstående: Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet
+  är brist på kompetens.
+typ: mätning
+vem: Christoffer Bergman (Neo4j), debattartikel i Ny Teknik
+datum: '2026'
+tema:
+- samhälle
+källa:
+  url: https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157
+  titel: ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”
+  citat: Enligt SCB använder 65 procent av de svenska företagen inte ai alls.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Andrahandsuppgift, återgiven i en debattartikel. Kontrollera mot SCB innan den används.
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

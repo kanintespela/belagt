@@ -4,10 +4,49 @@
 
 Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyder för utsläppen.
 
-18 påståenden, de viktigaste först inom varje år.
+25 påståenden, de viktigaste först inom varje år.
+
+## 2026
+
+- **Svenska kraftnät fick 2025 in ansökningar om att ta ut drygt 9 000 megawatt el ur stamnätet, och hälften av det gällde datacenter.**
+  Svenska kraftnät · 2026-02 · miljö · [SVS-03](../påståenden/2026/SVS-03.yaml)
+  > Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt 9 000 MW uttag (varav hälften avser datacenter).
+  > — [Nära 5000 MW nya anslutningar beviljades 2025](https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/)
+
+  *Förbehåll:* Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.
+- **Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist, skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.**
+  Isak From (S), interpellation i riksdagen · 2026-03-24 · miljö, röster · [SVS-07](../påståenden/2026/SVS-07.yaml)
+  > Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri riskerar att trängas ut.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt att datacenter kan vara en vinstaffär för Sverige.
+- **Enligt Svenskt Näringsliv, med siffror från RISE, använder datacenter i Sverige 3–4 terawattimmar el per år, omkring 2,9 procent av landets totala elanvändning.**
+  Svenskt Näringsliv (med siffror från RISE) · 2026-04 · miljö · [SVS-06](../påståenden/2026/SVS-06.yaml)
+  > Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
+  > — [Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet](https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf)
+
+  *Förbehåll:* Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför ENE-01: globalt står datacenter för omkring 1,5 procent av elanvändningen.
+- **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
+  Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](../påståenden/2026/SVS-08.yaml)
+  > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
+
+  *Förbehåll:* Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.
+- **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
+  Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · [SVS-09](../påståenden/2026/SVS-09.yaml)
+  > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.
+  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
+
+  *Förbehåll:* Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.
 
 ## 2025
 
+- **Svenska kraftnät uppgav 2025 att ansökningarna från datacenter bara i Mellansverige motsvarade över 5 000 megawatt, ungefär lika mycket som 20 städer av Uppsalas storlek eller produktionen från fem kärnkraftsreaktorer.**
+  Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · [SVS-04](../påståenden/2025/SVS-04.yaml)
+  > Vi har idag ansökningar på 5000 MW bara i Mellansverige. Det är ungefär så mycket som 20 stycken städer av Uppsalas storlek, eller motsvarande produktionen från fem kärnkraftsreaktorer.
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
+
+  *Förbehåll:* Året står inte i den hämtade texten, men ansökningarna jämförs med 2024. Ansökningarna i elområde 3 ökade från 1 310 megawatt 2024 till 6 692 megawatt, och huvuddelen gällde ett trettiotal datacenter.
 - **Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar, en tiondel av den ofta citerade siffran 3 wattimmar.**
   Epoch AI (oberoende forskningsinstitut) · 2025-02 · miljö · [ENE-13](../påståenden/2025/ENE-13.yaml)
   > We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which is ten times less than the older estimate.
@@ -50,6 +89,12 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.
+- **Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs snabbare än den nya elproduktionen.**
+  Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · [SVS-05](../påståenden/2025/SVS-05.yaml)
+  > Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
+
+  *Förbehåll:* Svenska kraftnät kan komma att kräva att datacenter har egen elproduktion eller avtal om produktion på plats.
 - **AAAI:s panelrapport hänvisar till prognoser om att datacenter 2028 kan stå för mellan 7 och 12 procent av USA:s elbehov, beroende på hur snabbt AI växer.**
   AAAI:s ordförandepanel om AI-forskningens framtid · 2025-03 · miljö · [ENE-18](../påståenden/2025/ENE-18.yaml)
   > Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity demand, depending on AI growth scenarios

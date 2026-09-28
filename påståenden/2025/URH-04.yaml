@@ -1,0 +1,22 @@
+id: URH-04
+påstående: Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare.
+  Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.
+typ: händelse
+vem: Copyright Alliance (organisation för upphovsrättsinnehavare)
+datum: 2025-08
+tema:
+- rättigheter
+källa:
+  url: https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/
+  titel: What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance
+  citat: The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from
+    the LibGen and PiLilMi datasets.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Målet heter Bartz mot Anthropic och förlikningen är den största i USA:s upphovsrättshistoria.
+  Den gäller bara Anthropics tidigare nedladdning av piratkopior, inte själva träningen eller vad modellerna
+  skapar. Källan företräder upphovsrättsinnehavare.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: BIA-04
+påstående: Inspektionen för socialförsäkringen (ISF) påpekade redan 2018 att en kontrollmetod kan vara
+  träffsäker utan att vara rättssäker, till exempel om två grupper gör fel lika ofta men bara den ena
+  kontrolleras.
+typ: bedömning
+vem: Inspektionen för socialförsäkringen (ISF)
+datum: 2018-06
+tema:
+- rättigheter
+källa:
+  url: https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling
+  titel: ISF - Riskbaserade urvalsprofiler och likabehandling
+  citat: En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs
+    innehåller felaktigheter, utan att vara rättssäker.
+  hämtad: '2026-09-28'
+  arkiv: null
+förbehåll: Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar
+  på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null
