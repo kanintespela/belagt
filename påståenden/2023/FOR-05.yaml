@@ -1,0 +1,22 @@
+id: FOR-05
+påstående: Anthropic skrev 2023 att ingen vet hur man tränar mycket kraftfulla AI-system så att de på
+  ett robust sätt blir hjälpsamma, ärliga och ofarliga.
+typ: bedömning
+vem: Anthropic (företagets grundsyn)
+datum: 2023-03
+tema:
+- kontroll
+- röster
+källa:
+  url: https://www.anthropic.com/news/core-views-on-ai-safety
+  titel: 'Core views on AI safety: When, why, what, and how'
+  citat: So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and
+    harmless.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet
+  inte har lösts på tre år.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

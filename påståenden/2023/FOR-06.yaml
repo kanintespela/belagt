@@ -1,0 +1,21 @@
+id: FOR-06
+påstående: Anthropic medgav 2023 att det finns goda skäl till skepsis, eftersom nästan alla som har sagt
+  att det de arbetar med kan bli en av de största händelserna i historien har haft fel.
+typ: bedömning
+vem: Anthropic (företagets grundsyn)
+datum: 2023-03
+tema:
+- röster
+källa:
+  url: https://www.anthropic.com/news/core-views-on-ai-safety
+  titel: 'Core views on AI safety: When, why, what, and how'
+  citat: almost everyone who has said “the thing we’re working on might be one of the biggest developments
+    in history” has been wrong, often laughably so.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Bra exempel på en insider som själv lyfter fram motargumentet. Anthropic skriver ändå att det
+  finns tillräckligt med belägg för att förbereda sig.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -4,7 +4,7 @@
 
 Vad AI redan gör för sjukvård, forskning och samhälle.
 
-14 påståenden, de viktigaste först inom varje år.
+16 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -87,6 +87,21 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
   > — [”AI-debatten bör bygga på vetenskap – inte på spekulation”](https://www.nyteknik.se/debatt/ai-debatten-bor-bygga-pa-vetenskap-inte-pa-spekulation/4384406)
 
   *Förbehåll:* Ett av de viktigaste sakliga argumenten mot en paus.
+
+## 2024
+
+- **Amodei förutspår att AI-driven biologi och medicin kan pressa ihop de framsteg som biologer annars hade gjort under 50–100 år till 5–10 år.**
+  Dario Amodei (vd, Anthropic) · 2024-10 · nytta, röster · [FOR-08](../påståenden/2024/FOR-08.yaml)
+  > my basic prediction is that AI-enabled biology and medicine will allow us to compress the progress that human biologists would have achieved over the next 50-100 years into 5-10 years.
+  > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+
+  *Förbehåll:* Essän heter Machines of Loving Grace och beskriver vad som kan hända om allt går bra. Amodei skriver själv att han inte vet om den världen är realistisk. Han är vd för ett AI-företag och därmed part.
+- **Amodei menar att de flesta underskattar både hur radikal nyttan av AI kan bli och hur allvarliga riskerna kan vara.**
+  Dario Amodei (vd, Anthropic) · 2024-10 · röster, nytta · [FOR-09](../påståenden/2024/FOR-09.yaml)
+  > I think that most people are underestimating just how radical the upside of AI could be, just as I think most people are underestimating how bad the risks could be.
+  > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+
+  *Förbehåll:* Förklarar varför en del AI-ledare varnar för risker och samtidigt bygger tekniken: de ser både stor nytta och stor risk.
 
 ## 2023
 

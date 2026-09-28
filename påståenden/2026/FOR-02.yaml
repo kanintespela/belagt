@@ -1,0 +1,24 @@
+id: FOR-02
+påstående: I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att
+  de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare,
+  skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.
+typ: prognos
+vem: Forecasting Research Institute, återgivet i International AI Safety Report 2026
+datum: '2026-02-03'
+tema:
+- tempo
+- självförbättring
+- röster
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist
+    forecasters) estimated only 8%.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt.
+  Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

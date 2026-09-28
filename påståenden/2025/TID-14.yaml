@@ -1,0 +1,21 @@
+id: TID-14
+påstående: EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes
+  av EU-kommissionen och AI-styrelsen den 1 augusti 2025.
+typ: händelse
+vem: EU, återgivet av artificialintelligenceact.eu
+datum: '2025-07-10'
+tema:
+- styrning
+källa:
+  url: https://artificialintelligenceact.eu/high-level-summary/
+  titel: High-level summary of the AI Act
+  citat: Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on
+    1 August 2025.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens
+  krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -61,6 +61,76 @@
    "citera": "OpenAI, 2022-11-30. Introducing ChatGPT. https://openai.com/index/chatgpt/. Via Belagt TID-05: https://kanintespela.github.io/belagt/#TID-05"
   },
   {
+   "id": "FOR-04",
+   "påstående": "Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.",
+   "typ": "bedömning",
+   "vem": "Anthropic (företagets grundsyn)",
+   "datum": "2023-03",
+   "tema": [
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "titel": "Core views on AI safety: When, why, what, and how",
+    "citat": "We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Texten Core Views on AI Safety publicerades i mars 2023. Den visar att oron fanns hos AI-företagen redan före ChatGPT-vågen, och inte bara hos utomstående kritiker.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Anthropic (företagets grundsyn), 2023-03. Core views on AI safety: When, why, what, and how. https://www.anthropic.com/news/core-views-on-ai-safety. Via Belagt FOR-04: https://kanintespela.github.io/belagt/#FOR-04"
+  },
+  {
+   "id": "FOR-05",
+   "påstående": "Anthropic skrev 2023 att ingen vet hur man tränar mycket kraftfulla AI-system så att de på ett robust sätt blir hjälpsamma, ärliga och ofarliga.",
+   "typ": "bedömning",
+   "vem": "Anthropic (företagets grundsyn)",
+   "datum": "2023-03",
+   "tema": [
+    "kontroll",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "titel": "Core views on AI safety: When, why, what, and how",
+    "citat": "So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Anthropic (företagets grundsyn), 2023-03. Core views on AI safety: When, why, what, and how. https://www.anthropic.com/news/core-views-on-ai-safety. Via Belagt FOR-05: https://kanintespela.github.io/belagt/#FOR-05"
+  },
+  {
+   "id": "FOR-06",
+   "påstående": "Anthropic medgav 2023 att det finns goda skäl till skepsis, eftersom nästan alla som har sagt att det de arbetar med kan bli en av de största händelserna i historien har haft fel.",
+   "typ": "bedömning",
+   "vem": "Anthropic (företagets grundsyn)",
+   "datum": "2023-03",
+   "tema": [
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.anthropic.com/news/core-views-on-ai-safety",
+    "titel": "Core views on AI safety: When, why, what, and how",
+    "citat": "almost everyone who has said “the thing we’re working on might be one of the biggest developments in history” has been wrong, often laughably so.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Bra exempel på en insider som själv lyfter fram motargumentet. Anthropic skriver ändå att det finns tillräckligt med belägg för att förbereda sig.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Anthropic (företagets grundsyn), 2023-03. Core views on AI safety: When, why, what, and how. https://www.anthropic.com/news/core-views-on-ai-safety. Via Belagt FOR-06: https://kanintespela.github.io/belagt/#FOR-06"
+  },
+  {
    "id": "TID-06",
    "påstående": "I mars 2023 presenterade OpenAI GPT-4, som klarade ett simulerat advokatprov bland de bästa tio procenten, medan föregångaren hamnade bland de sämsta tio procenten.",
    "typ": "händelse",
@@ -179,6 +249,52 @@
    "citera": "Marc Andreessen (riskkapitalist, Andreessen Horowitz), 2023-10. The Techno-Optimist Manifesto | Andreessen Horowitz. https://a16z.com/the-techno-optimist-manifesto/. Via Belagt BAL-10: https://kanintespela.github.io/belagt/#BAL-10"
   },
   {
+   "id": "TID-10",
+   "påstående": "Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.",
+   "typ": "händelse",
+   "vem": "Bletchley-deklarationen, återgiven i International AI Safety Report 2026",
+   "datum": "2023-11",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Bletchley-deklarationen, återgiven i International AI Safety Report 2026, 2023-11. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt TID-10: https://kanintespela.github.io/belagt/#TID-10"
+  },
+  {
+   "id": "TID-11",
+   "påstående": "EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.",
+   "typ": "händelse",
+   "vem": "EU, återgivet av artificialintelligenceact.eu",
+   "datum": "2024-08-01",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://artificialintelligenceact.eu/high-level-summary/",
+    "titel": "High-level summary of the AI Act",
+    "citat": "After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "EU, återgivet av artificialintelligenceact.eu, 2024-08-01. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-11: https://kanintespela.github.io/belagt/#TID-11"
+  },
+  {
    "id": "TID-09",
    "påstående": "I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.",
    "typ": "händelse",
@@ -201,6 +317,78 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "OpenAI, 2024-09-12. Learning to reason with LLMs. https://openai.com/index/learning-to-reason-with-llms/. Via Belagt TID-09: https://kanintespela.github.io/belagt/#TID-09"
+  },
+  {
+   "id": "FOR-07",
+   "påstående": "Dario Amodei skrev i oktober 2024 att kraftfull AI skulle kunna komma redan 2026, men att det också kan ta mycket längre tid.",
+   "typ": "prognos",
+   "vem": "Dario Amodei (vd, Anthropic)",
+   "datum": "2024-10",
+   "tema": [
+    "tempo",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+    "titel": "Dario Amodei — Machines of Loving Grace",
+    "citat": "I think it could come as early as 2026, though there are also ways it could take much longer.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet AGI. Jämför J3ljHm57yU0-29, där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Dario Amodei (vd, Anthropic), 2024-10. Dario Amodei — Machines of Loving Grace. https://www.darioamodei.com/essay/machines-of-loving-grace. Via Belagt FOR-07: https://kanintespela.github.io/belagt/#FOR-07"
+  },
+  {
+   "id": "FOR-08",
+   "påstående": "Amodei förutspår att AI-driven biologi och medicin kan pressa ihop de framsteg som biologer annars hade gjort under 50–100 år till 5–10 år.",
+   "typ": "prognos",
+   "vem": "Dario Amodei (vd, Anthropic)",
+   "datum": "2024-10",
+   "tema": [
+    "nytta",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+    "titel": "Dario Amodei — Machines of Loving Grace",
+    "citat": "my basic prediction is that AI-enabled biology and medicine will allow us to compress the progress that human biologists would have achieved over the next 50-100 years into 5-10 years.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Essän heter Machines of Loving Grace och beskriver vad som kan hända om allt går bra. Amodei skriver själv att han inte vet om den världen är realistisk. Han är vd för ett AI-företag och därmed part.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Dario Amodei (vd, Anthropic), 2024-10. Dario Amodei — Machines of Loving Grace. https://www.darioamodei.com/essay/machines-of-loving-grace. Via Belagt FOR-08: https://kanintespela.github.io/belagt/#FOR-08"
+  },
+  {
+   "id": "FOR-09",
+   "påstående": "Amodei menar att de flesta underskattar både hur radikal nyttan av AI kan bli och hur allvarliga riskerna kan vara.",
+   "typ": "bedömning",
+   "vem": "Dario Amodei (vd, Anthropic)",
+   "datum": "2024-10",
+   "tema": [
+    "röster",
+    "nytta"
+   ],
+   "källa": {
+    "url": "https://www.darioamodei.com/essay/machines-of-loving-grace",
+    "titel": "Dario Amodei — Machines of Loving Grace",
+    "citat": "I think that most people are underestimating just how radical the upside of AI could be, just as I think most people are underestimating how bad the risks could be.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Förklarar varför en del AI-ledare varnar för risker och samtidigt bygger tekniken: de ser både stor nytta och stor risk.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Dario Amodei (vd, Anthropic), 2024-10. Dario Amodei — Machines of Loving Grace. https://www.darioamodei.com/essay/machines-of-loving-grace. Via Belagt FOR-09: https://kanintespela.github.io/belagt/#FOR-09"
   },
   {
    "id": "SVE-01",
@@ -367,6 +555,76 @@
    "citera": "Internetstiftelsen, Svenskarna och internet 2025, 2025. AI – Artificiell intelligens | Svenskarna och internet. https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/. Via Belagt SVR-17: https://kanintespela.github.io/belagt/#SVR-17"
   },
   {
+   "id": "TID-13",
+   "påstående": "Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.",
+   "typ": "händelse",
+   "vem": "International AI Safety Report 2026",
+   "datum": "2025-01",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "Since the publication of the last Report (January 2025)",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Den andra rapporten kom i februari 2026 (ISR-01).",
+   "vikt": 1,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "International AI Safety Report 2026, 2025-01. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt TID-13: https://kanintespela.github.io/belagt/#TID-13"
+  },
+  {
+   "id": "TID-12",
+   "påstående": "De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.",
+   "typ": "händelse",
+   "vem": "EU, återgivet av artificialintelligenceact.eu",
+   "datum": "2025-02-02",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://artificialintelligenceact.eu/high-level-summary/",
+    "titel": "High-level summary of the AI Act",
+    "citat": "Most prohibitions of AI systems have been applicable since 2 February 2025",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-02-02. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-12: https://kanintespela.github.io/belagt/#TID-12"
+  },
+  {
+   "id": "TID-15",
+   "påstående": "METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.",
+   "typ": "mätning",
+   "vem": "METR (oberoende utvärderingsorganisation)",
+   "datum": "2025-03-19",
+   "tema": [
+    "tempo",
+    "förmågor"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/pdf/2503.14499",
+    "titel": "METR Time Horizon",
+    "citat": "We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Måttet kallas tidshorisont: hur lång tid uppgiften tar för en kunnig människa. Studiens bästa modell (o3) klarade uppgifter på omkring 110 minuter. Trenden kan ha accelererat sedan 2024. Om den håller och gäller även verkliga uppgifter kan AI inom fem år automatisera många programmeringsuppgifter som tar en månad, men det är en extrapolering. Mäts bara på programmering och liknande uppgifter.",
+   "vikt": 3,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "METR (oberoende utvärderingsorganisation), 2025-03-19. METR Time Horizon. https://arxiv.org/pdf/2503.14499. Via Belagt TID-15: https://kanintespela.github.io/belagt/#TID-15"
+  },
+  {
    "id": "BAL-08",
    "påstående": "Forskarna Arvind Narayanan och Sayash Kapoor menar att AI är en ”normal teknik”, som elektricitet eller internet, och att dess stora samhällseffekter kommer att ta årtionden snarare än år.",
    "typ": "bedömning",
@@ -510,6 +768,29 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Vita huset (America's AI Action Plan), 2025-07. USA: America's AI Action Plan (juli 2025). https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf. Via Belagt BAL-11: https://kanintespela.github.io/belagt/#BAL-11"
+  },
+  {
+   "id": "TID-14",
+   "påstående": "EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes av EU-kommissionen och AI-styrelsen den 1 augusti 2025.",
+   "typ": "händelse",
+   "vem": "EU, återgivet av artificialintelligenceact.eu",
+   "datum": "2025-07-10",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://artificialintelligenceact.eu/high-level-summary/",
+    "titel": "High-level summary of the AI Act",
+    "citat": "Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.",
+    "hämtad": "2026-09-22",
+    "arkiv": null
+   },
+   "förbehåll": "Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-07-10. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-14: https://kanintespela.github.io/belagt/#TID-14"
   },
   {
    "id": "SVE-10",
@@ -789,6 +1070,80 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Kristina Lång (docent i diagnostisk radiologi, Lunds universitet), 2026-02. AI support in breast cancer screening: Fewer missed cancer cases. https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases. Via Belagt NYT-04: https://kanintespela.github.io/belagt/#NYT-04"
+  },
+  {
+   "id": "FOR-01",
+   "påstående": "I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.",
+   "typ": "prognos",
+   "vem": "Forecasting Research Institute, återgivet i International AI Safety Report 2026",
+   "datum": "2026-02-03",
+   "tema": [
+    "förmågor",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Forecasting Research Institute, återgivet i International AI Safety Report 2026, 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt FOR-01: https://kanintespela.github.io/belagt/#FOR-01"
+  },
+  {
+   "id": "FOR-02",
+   "påstående": "I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.",
+   "typ": "prognos",
+   "vem": "Forecasting Research Institute, återgivet i International AI Safety Report 2026",
+   "datum": "2026-02-03",
+   "tema": [
+    "tempo",
+    "självförbättring",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.",
+   "vikt": 3,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Forecasting Research Institute, återgivet i International AI Safety Report 2026, 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt FOR-02: https://kanintespela.github.io/belagt/#FOR-02"
+  },
+  {
+   "id": "FOR-03",
+   "påstående": "Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.",
+   "typ": "prognos",
+   "vem": "Forecasting Research Institute, återgivet i International AI Safety Report 2026",
+   "datum": "2026-02-03",
+   "tema": [
+    "tempo",
+    "självförbättring",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2602.21012",
+    "titel": "International AI Safety Report 2026",
+    "citat": "However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects",
+    "hämtad": "2026-09-24",
+    "arkiv": null
+   },
+   "förbehåll": "Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-09-28",
+   "ersatt_av": null,
+   "citera": "Forecasting Research Institute, återgivet i International AI Safety Report 2026, 2026-02-03. International AI Safety Report 2026. https://arxiv.org/abs/2602.21012. Via Belagt FOR-03: https://kanintespela.github.io/belagt/#FOR-03"
   },
   {
    "id": "ISR-01",

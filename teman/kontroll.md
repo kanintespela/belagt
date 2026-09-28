@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-45 påståenden, de viktigaste först inom varje år.
+46 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -280,3 +280,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Nobel Prize in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/speech/)
 
   *Förbehåll:* Svensk koppling: varningen framfördes vid Nobelbanketten. Hinton nämner också kortsiktiga risker: övervakning, nätfiske, virus och autonoma vapen. Han säger att nyttan kan bli fantastisk om den fördelas rättvist.
+
+## 2023
+
+- **Anthropic skrev 2023 att ingen vet hur man tränar mycket kraftfulla AI-system så att de på ett robust sätt blir hjälpsamma, ärliga och ofarliga.**
+  Anthropic (företagets grundsyn) · 2023-03 · kontroll, röster · [FOR-05](../påståenden/2023/FOR-05.yaml)
+  > So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.
+  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
+
+  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.

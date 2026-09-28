@@ -4,7 +4,7 @@
 
 Vad AI-systemen kan göra och hur det mäts.
 
-25 påståenden, de viktigaste först inom varje år.
+27 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -50,6 +50,12 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Pricing](https://claude.com/pricing)
 
   *Förbehåll:* Gratisnivån har Sonnet och Haiku. Fable kräver en betalnivå och ingår delvis i Max. Priserna kom inte med när sidan hämtades.
+- **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
+  Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · [FOR-01](../påståenden/2026/FOR-01.yaml)
+  > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.
 - **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](../påståenden/2026/ISR-03.yaml)
   > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
@@ -113,6 +119,12 @@ Vad AI-systemen kan göra och hur det mäts.
 
 ## 2025
 
+- **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
+  METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](../påståenden/2025/TID-15.yaml)
+  > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
+  > — [METR Time Horizon](https://arxiv.org/pdf/2503.14499)
+
+  *Förbehåll:* Måttet kallas tidshorisont: hur lång tid uppgiften tar för en kunnig människa. Studiens bästa modell (o3) klarade uppgifter på omkring 110 minuter. Trenden kan ha accelererat sedan 2024. Om den håller och gäller även verkliga uppgifter kan AI inom fem år automatisera många programmeringsuppgifter som tar en månad, men det är en extrapolering. Mäts bara på programmering och liknande uppgifter.
 - **Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.**
   EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg) · 2025-05-08 · nytta, förmågor · [SVR-18](../påståenden/2025/SVR-18.yaml)
   > När kostnad tyvärr varit det dominerande utvärderingskriteriet vid organisationen så får man till slut lägre kvalitet

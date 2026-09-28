@@ -1,0 +1,21 @@
+id: FOR-04
+påstående: Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med
+  den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.
+typ: bedömning
+vem: Anthropic (företagets grundsyn)
+datum: 2023-03
+tema:
+- röster
+källa:
+  url: https://www.anthropic.com/news/core-views-on-ai-safety
+  titel: 'Core views on AI safety: When, why, what, and how'
+  citat: We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial
+    and scientific revolutions, but we aren’t confident it will go well.
+  hämtad: '2026-09-22'
+  arkiv: null
+förbehåll: Texten Core Views on AI Safety publicerades i mars 2023. Den visar att oron fanns hos AI-företagen
+  redan före ChatGPT-vågen, och inte bara hos utomstående kritiker.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

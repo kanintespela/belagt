@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 190 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2019
 
@@ -24,6 +24,24 @@ Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
 ## 2023
 
+- **Anthropic skrev 2023 att företaget grundades för att AI:s genomslag kan bli jämförbart med den industriella och den vetenskapliga revolutionen, men att de inte är säkra på att det går bra.**
+  Anthropic (företagets grundsyn) · 2023-03 · röster · [FOR-04](./påståenden/2023/FOR-04.yaml)
+  > We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.
+  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
+
+  *Förbehåll:* Texten Core Views on AI Safety publicerades i mars 2023. Den visar att oron fanns hos AI-företagen redan före ChatGPT-vågen, och inte bara hos utomstående kritiker.
+- **Anthropic skrev 2023 att ingen vet hur man tränar mycket kraftfulla AI-system så att de på ett robust sätt blir hjälpsamma, ärliga och ofarliga.**
+  Anthropic (företagets grundsyn) · 2023-03 · kontroll, röster · [FOR-05](./påståenden/2023/FOR-05.yaml)
+  > So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.
+  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
+
+  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.
+- **Anthropic medgav 2023 att det finns goda skäl till skepsis, eftersom nästan alla som har sagt att det de arbetar med kan bli en av de största händelserna i historien har haft fel.**
+  Anthropic (företagets grundsyn) · 2023-03 · röster · [FOR-06](./påståenden/2023/FOR-06.yaml)
+  > almost everyone who has said “the thing we’re working on might be one of the biggest developments in history” has been wrong, often laughably so.
+  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
+
+  *Förbehåll:* Bra exempel på en insider som själv lyfter fram motargumentet. Anthropic skriver ändå att det finns tillräckligt med belägg för att förbereda sig.
 - **I mars 2023 presenterade OpenAI GPT-4, som klarade ett simulerat advokatprov bland de bästa tio procenten, medan föregångaren hamnade bland de sämsta tio procenten.**
   OpenAI · 2023-03-14 · förmågor, tempo · [TID-06](./påståenden/2023/TID-06.yaml)
   > it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s score was around the bottom 10%.
@@ -54,15 +72,45 @@ Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [The Techno-Optimist Manifesto | Andreessen Horowitz](https://a16z.com/the-techno-optimist-manifesto/)
 
   *Förbehåll:* Ur ”The Techno-Optimist Manifesto” (2023). Den renaste formen av hållningen ”full fart” i fyra hörn-övningen. Manifestet pekar ut ”existentiell risk” och försiktighetsprincipen som fiender. Andreessen Horowitz investerar i AI-företag.
+- **Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.**
+  Bletchley-deklarationen, återgiven i International AI Safety Report 2026 · 2023-11 · styrning · [TID-10](./påståenden/2023/TID-10.yaml)
+  > The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
 
 ## 2024
 
+- **EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.**
+  EU, återgivet av artificialintelligenceact.eu · 2024-08-01 · styrning · [TID-11](./påståenden/2024/TID-11.yaml)
+  > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · [TID-09](./påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
   > — [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 
   *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se TID-03).
+- **Dario Amodei skrev i oktober 2024 att kraftfull AI skulle kunna komma redan 2026, men att det också kan ta mycket längre tid.**
+  Dario Amodei (vd, Anthropic) · 2024-10 · tempo, röster · [FOR-07](./påståenden/2024/FOR-07.yaml)
+  > I think it could come as early as 2026, though there are also ways it could take much longer.
+  > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+
+  *Förbehåll:* Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet AGI. Jämför J3ljHm57yU0-29, där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.
+- **Amodei förutspår att AI-driven biologi och medicin kan pressa ihop de framsteg som biologer annars hade gjort under 50–100 år till 5–10 år.**
+  Dario Amodei (vd, Anthropic) · 2024-10 · nytta, röster · [FOR-08](./påståenden/2024/FOR-08.yaml)
+  > my basic prediction is that AI-enabled biology and medicine will allow us to compress the progress that human biologists would have achieved over the next 50-100 years into 5-10 years.
+  > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+
+  *Förbehåll:* Essän heter Machines of Loving Grace och beskriver vad som kan hända om allt går bra. Amodei skriver själv att han inte vet om den världen är realistisk. Han är vd för ett AI-företag och därmed part.
+- **Amodei menar att de flesta underskattar både hur radikal nyttan av AI kan bli och hur allvarliga riskerna kan vara.**
+  Dario Amodei (vd, Anthropic) · 2024-10 · röster, nytta · [FOR-09](./påståenden/2024/FOR-09.yaml)
+  > I think that most people are underestimating just how radical the upside of AI could be, just as I think most people are underestimating how bad the risks could be.
+  > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
+
+  *Förbehåll:* Förklarar varför en del AI-ledare varnar för risker och samtidigt bygger tekniken: de ser både stor nytta och stor risk.
 - **Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också säga ifrån när en risk visar sig vara överdriven.**
   AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige) · 2024-11-26 · styrning · [SVE-01](./påståenden/2024/SVE-01.yaml)
   > I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.
@@ -108,6 +156,24 @@ Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/)
 
   *Förbehåll:* Jämför med att en tredjedel tror att AI leder till stor arbetslöshet i samhället: man oroar sig mer för andra än för sig själv. Frågorna skiljer sig mellan undersökningarna, så jämför försiktigt.
+- **Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.**
+  International AI Safety Report 2026 · 2025-01 · styrning · [TID-13](./påståenden/2025/TID-13.yaml)
+  > Since the publication of the last Report (January 2025)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Den andra rapporten kom i februari 2026 (ISR-01).
+- **De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.**
+  EU, återgivet av artificialintelligenceact.eu · 2025-02-02 · styrning · [TID-12](./påståenden/2025/TID-12.yaml)
+  > Most prohibitions of AI systems have been applicable since 2 February 2025
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
+- **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
+  METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](./påståenden/2025/TID-15.yaml)
+  > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
+  > — [METR Time Horizon](https://arxiv.org/pdf/2503.14499)
+
+  *Förbehåll:* Måttet kallas tidshorisont: hur lång tid uppgiften tar för en kunnig människa. Studiens bästa modell (o3) klarade uppgifter på omkring 110 minuter. Trenden kan ha accelererat sedan 2024. Om den håller och gäller även verkliga uppgifter kan AI inom fem år automatisera många programmeringsuppgifter som tar en månad, men det är en extrapolering. Mäts bara på programmering och liknande uppgifter.
 - **Forskarna Arvind Narayanan och Sayash Kapoor menar att AI är en ”normal teknik”, som elektricitet eller internet, och att dess stora samhällseffekter kommer att ta årtionden snarare än år.**
   Arvind Narayanan och Sayash Kapoor (datavetare, Princeton) · 2025-04 · tempo, röster · [BAL-08](./påståenden/2025/BAL-08.yaml)
   > we explain why we think that transformative economic and societal impacts will be slow (on the timescale of decades)
@@ -144,6 +210,12 @@ Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [USA: America's AI Action Plan (juli 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)
 
   *Förbehåll:* Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”. Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
+- **EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes av EU-kommissionen och AI-styrelsen den 1 augusti 2025.**
+  EU, återgivet av artificialintelligenceact.eu · 2025-07-10 · styrning · [TID-14](./påståenden/2025/TID-14.yaml)
+  > Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+
+  *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
 - **EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.**
   EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu) · 2025-08-02 · styrning · [SVE-10](./påståenden/2025/SVE-10.yaml)
   > All providers of GPAI models that present a systemic risk – open or closed – must also conduct model evaluations and risk assessments and mitigations, track and report serious incidents and ensure cybersecurity protections.
@@ -219,6 +291,24 @@ Alla 175 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI support in breast cancer screening: Fewer missed cancer cases](https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases)
 
   *Förbehåll:* Svenskt exempel på nytta som redan är i drift, inte ett löfte om framtiden. Bristen på bröstradiologer är en del av motivet.
+- **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
+  Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · [FOR-01](./påståenden/2026/FOR-01.yaml)
+  > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.
+- **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
+  Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-02](./påståenden/2026/FOR-02.yaml)
+  > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.
+- **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
+  Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-03](./påståenden/2026/FOR-03.yaml)
+  > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, röster · [ISR-01](./påståenden/2026/ISR-01.yaml)
   > It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.
