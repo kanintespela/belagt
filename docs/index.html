@@ -588,7 +588,8 @@ document.addEventListener("keydown", e => {
 });
 
 // Start
-fetch("belagt.json").then(r => r.json()).then(d => {
+// no-cache: fråga alltid servern om filen har ändrats (Pages låter annars webbläsaren återanvända den i tio minuter)
+fetch("belagt.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   teman = d.teman;
   data = d.påståenden.map(p => ({ ...p, år: p.datum.slice(0, 4), domän: domän(p.källa.url),
     sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, ...p.tema].join(" ").toLowerCase() }));
