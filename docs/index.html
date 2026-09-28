@@ -4,183 +4,610 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Belagt – AI-utvecklingen med källor</title>
-<meta name="description" content="Verifierade påståenden om AI-utvecklingen, vart och ett med primärkälla och ordagrant citat. Fritt att använda med källhänvisning (CC BY 4.0).">
+<meta name="description" content="Verifierade påståenden om AI-utvecklingen, vart och ett med primärkälla och ordagrant citat. Sök, filtrera och plocka ihop en färdig källförteckning. Fritt att använda med källhänvisning (CC BY 4.0).">
 <style>
 :root {
-  --bg: #faf9f6; --yta: #ffffff; --text: #1d1d1b; --dämpad: #5f5e5a; --linje: #e3e1db;
-  --accent: #1f5f8b; --accent-yta: #e8f0f6; --varning: #8a5a00;
+  --bg: #f7f6f2; --yta: #ffffff; --yta2: #f0eee8; --text: #1c1c1a; --dämpad: #62615b; --svag: #8b8a83;
+  --linje: #e2dfd7; --accent: #1f5f8b; --accent-text: #ffffff; --accent-yta: #e6eef5; --markering: #fbe7a1;
+  --varning: #8a5a00; --ok: #2e7d4f; --skugga: 0 1px 2px rgba(0,0,0,.05), 0 4px 16px rgba(0,0,0,.06);
   --radie: 10px;
 }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]) {
-    --bg: #161615; --yta: #1f1f1d; --text: #ecebe6; --dämpad: #a3a29c; --linje: #34332f;
-    --accent: #7fb6dd; --accent-yta: #1d2c37; --varning: #e0b050;
+    --bg: #151514; --yta: #1e1e1c; --yta2: #272724; --text: #ecebe6; --dämpad: #a6a59e; --svag: #7d7c76;
+    --linje: #34332f; --accent: #82b8de; --accent-text: #0f1b24; --accent-yta: #1c2a35; --markering: #5c4b12;
+    --varning: #e3b458; --ok: #6fcf97; --skugga: 0 1px 2px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.35);
   }
 }
 :root[data-theme="dark"] {
-  --bg: #161615; --yta: #1f1f1d; --text: #ecebe6; --dämpad: #a3a29c; --linje: #34332f;
-  --accent: #7fb6dd; --accent-yta: #1d2c37; --varning: #e0b050;
+  --bg: #151514; --yta: #1e1e1c; --yta2: #272724; --text: #ecebe6; --dämpad: #a6a59e; --svag: #7d7c76;
+  --linje: #34332f; --accent: #82b8de; --accent-text: #0f1b24; --accent-yta: #1c2a35; --markering: #5c4b12;
+  --varning: #e3b458; --ok: #6fcf97; --skugga: 0 1px 2px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.35);
 }
 * { box-sizing: border-box; }
+html { scroll-padding-top: 90px; }
 body { margin: 0; background: var(--bg); color: var(--text);
-  font: 16px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
-.sida { max-width: 860px; margin: 0 auto; padding: 32px 16px 64px; }
-h1 { font-size: 2rem; margin: 0 0 4px; letter-spacing: -0.01em; }
-.ingress { color: var(--dämpad); margin: 0 0 24px; max-width: 62ch; }
-.ingress a, .fot a { color: var(--accent); }
-.verktyg { position: sticky; top: 0; background: var(--bg); padding: 12px 0; z-index: 1;
-  border-bottom: 1px solid var(--linje); margin-bottom: 16px; }
-input[type=search] { width: 100%; padding: 10px 12px; font: inherit; color: var(--text);
+  font: 15.5px/1.55 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+a { color: var(--accent); }
+button { font: inherit; color: inherit; }
+[hidden] { display: none !important; }
+.visuellt-dold { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+
+/* Huvud */
+.topp { border-bottom: 1px solid var(--linje); background: var(--yta); }
+.topp-inre { max-width: 1180px; margin: 0 auto; padding: 18px 16px; display: flex; gap: 12px 24px;
+  align-items: baseline; flex-wrap: wrap; }
+.logga { font-size: 1.45rem; font-weight: 750; letter-spacing: -0.02em; margin: 0; }
+.logga span { color: var(--accent); }
+.slogan { color: var(--dämpad); margin: 0; flex: 1 1 320px; }
+.topplänkar { display: flex; gap: 16px; font-size: 0.9rem; }
+
+/* Sökrad */
+.sökrad { position: sticky; top: 0; z-index: 5; background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(6px); border-bottom: 1px solid var(--linje); }
+.sökrad-inre { max-width: 1180px; margin: 0 auto; padding: 12px 16px; display: flex; gap: 8px; align-items: center; }
+.sökfält { position: relative; flex: 1; }
+.sökfält svg { position: absolute; left: 12px; top: 50%; transform: translateY(-50%); color: var(--svag); }
+.sökfält input { width: 100%; padding: 10px 40px 10px 38px; font: inherit; color: var(--text);
   background: var(--yta); border: 1px solid var(--linje); border-radius: var(--radie); }
-.rad { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 10px; align-items: center; }
-.chip { font: inherit; font-size: 0.85rem; padding: 4px 10px; border-radius: 999px; cursor: pointer;
+.sökfält input:focus { outline: 2px solid var(--accent); outline-offset: -1px; border-color: transparent; }
+.sökfält kbd { position: absolute; right: 10px; top: 50%; transform: translateY(-50%); }
+kbd { font: 0.75rem ui-monospace, monospace; border: 1px solid var(--linje); border-bottom-width: 2px;
+  border-radius: 4px; padding: 1px 5px; color: var(--dämpad); background: var(--yta2); }
+select, .knapp { font-size: 0.9rem; padding: 9px 12px; border-radius: var(--radie); cursor: pointer;
   border: 1px solid var(--linje); background: var(--yta); color: var(--text); }
-.chip[aria-pressed="true"], .chip:has(input:checked) { background: var(--accent); border-color: var(--accent); color: var(--bg); }
-select { font: inherit; font-size: 0.85rem; padding: 4px 8px; border-radius: 8px;
-  border: 1px solid var(--linje); background: var(--yta); color: var(--text); }
-.antal { color: var(--dämpad); font-size: 0.85rem; margin-left: auto; }
-.temainfo { color: var(--dämpad); font-size: 0.9rem; margin: 8px 0 0; min-height: 1.4em; }
-article { background: var(--yta); border: 1px solid var(--linje); border-radius: var(--radie);
-  padding: 16px 18px; margin-bottom: 12px; }
-article:target { outline: 2px solid var(--accent); }
-.påst { font-weight: 600; margin: 0 0 6px; }
-.meta { color: var(--dämpad); font-size: 0.85rem; display: flex; flex-wrap: wrap; gap: 4px 12px; }
-.meta a { color: inherit; }
-blockquote { margin: 12px 0 0; padding: 8px 12px; border-left: 3px solid var(--accent);
-  background: var(--accent-yta); border-radius: 0 6px 6px 0; font-size: 0.92rem; overflow-wrap: anywhere; }
-blockquote a { color: var(--accent); }
+.knapp:hover, select:hover { border-color: var(--svag); }
+.knapp.primär { background: var(--accent); border-color: var(--accent); color: var(--accent-text); font-weight: 600; }
+.knapp.liten { font-size: 0.8rem; padding: 4px 10px; border-radius: 7px; }
+.filterknapp { display: none; }
+.märke { display: inline-block; min-width: 1.4em; padding: 0 5px; border-radius: 999px; font-size: 0.75rem;
+  background: var(--accent); color: var(--accent-text); text-align: center; margin-left: 4px; }
+
+/* Layout */
+.layout { max-width: 1180px; margin: 0 auto; padding: 16px 16px 120px; display: grid;
+  grid-template-columns: 250px minmax(0, 1fr); gap: 28px; }
+.filter { position: sticky; top: 76px; align-self: start; max-height: calc(100vh - 92px); overflow: auto;
+  padding-right: 4px; }
+.filter-huvud { display: none; }
+.grupp { margin-bottom: 22px; }
+.grupp h2 { font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.06em; color: var(--dämpad);
+  margin: 0 0 8px; font-weight: 650; }
+.val { display: flex; align-items: center; gap: 8px; width: 100%; padding: 5px 8px; border: 0; border-radius: 7px;
+  background: none; cursor: pointer; text-align: left; font-size: 0.92rem; }
+.val:hover { background: var(--yta2); }
+.val .ruta { width: 16px; height: 16px; border: 1.5px solid var(--svag); border-radius: 4px; flex: none;
+  display: grid; place-items: center; }
+.val[aria-pressed="true"] .ruta { background: var(--accent); border-color: var(--accent); }
+.val[aria-pressed="true"] .ruta::after { content: ""; width: 8px; height: 4px; border: 2px solid var(--accent-text);
+  border-top: 0; border-right: 0; transform: rotate(-45deg) translate(1px, -1px); }
+.val .namn { flex: 1; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.val .antal { color: var(--svag); font-size: 0.8rem; font-variant-numeric: tabular-nums; }
+.val[data-noll] { opacity: 0.45; }
+.visa-fler { border: 0; background: none; color: var(--accent); cursor: pointer; font-size: 0.85rem; padding: 4px 8px; }
+.växel { display: flex; align-items: center; gap: 10px; cursor: pointer; font-size: 0.92rem; padding: 5px 8px; }
+.växel input { width: 16px; height: 16px; accent-color: var(--accent); }
+.år { display: flex; align-items: flex-end; gap: 4px; height: 76px; padding: 0 4px; }
+.år button { flex: 1; display: flex; flex-direction: column; justify-content: flex-end; align-items: center;
+  height: 100%; border: 0; background: none; cursor: pointer; padding: 0; gap: 3px; }
+.år .stapel { width: 100%; min-height: 3px; border-radius: 4px 4px 0 0; background: var(--linje); }
+.år button:hover .stapel { background: var(--svag); }
+.år button[aria-pressed="true"] .stapel { background: var(--accent); }
+.år .etikett { font-size: 0.68rem; color: var(--dämpad); font-variant-numeric: tabular-nums; }
+
+/* Resultat */
+.resultathuvud { display: flex; align-items: center; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; min-height: 32px; }
+.resultathuvud .antal { font-weight: 600; margin-right: 4px; }
+.chip { display: inline-flex; align-items: center; gap: 6px; font-size: 0.82rem; padding: 3px 6px 3px 10px;
+  border-radius: 999px; background: var(--accent-yta); border: 1px solid transparent; cursor: pointer; }
+.chip:hover { border-color: var(--accent); }
+.chip::after { content: "×"; font-size: 1rem; line-height: 1; color: var(--dämpad); }
+.rensa { border: 0; background: none; color: var(--accent); cursor: pointer; font-size: 0.85rem; }
+.ordning { margin-left: auto; }
+
+.intro { background: var(--accent-yta); border-radius: var(--radie); padding: 14px 16px; margin-bottom: 16px;
+  display: flex; gap: 16px; align-items: flex-start; }
+.intro ol { margin: 0; padding-left: 20px; flex: 1; }
+.intro li { margin: 2px 0; }
+.intro .stäng { border: 0; background: none; cursor: pointer; color: var(--dämpad); font-size: 1.2rem; line-height: 1; }
+.delat { background: var(--yta2); border-radius: var(--radie); padding: 10px 14px; margin-bottom: 16px; font-size: 0.92rem; }
+
+.årsrubrik { position: sticky; top: 64px; z-index: 1; font-size: 0.85rem; font-weight: 700; color: var(--dämpad);
+  background: var(--bg); padding: 10px 0 6px; margin: 0; display: flex; gap: 8px; align-items: baseline; }
+.årsrubrik small { font-weight: 400; color: var(--svag); }
+.lista { display: flex; flex-direction: column; gap: 8px; margin-bottom: 8px; }
+.post { background: var(--yta); border: 1px solid var(--linje); border-radius: var(--radie);
+  display: flex; gap: 4px; transition: border-color .15s, box-shadow .15s; }
+.post:hover { border-color: color-mix(in srgb, var(--svag) 60%, var(--linje)); }
+.post.öppen { box-shadow: var(--skugga); border-color: var(--svag); }
+.post.vald { border-left: 3px solid var(--accent); }
+.välj { flex: none; width: 40px; border: 0; background: none; cursor: pointer; display: grid;
+  place-items: start center; padding-top: 14px; color: var(--svag); }
+.välj span { width: 22px; height: 22px; border-radius: 6px; border: 1.5px solid var(--linje); display: grid;
+  place-items: center; font-size: 15px; line-height: 1; }
+.välj:hover span { border-color: var(--accent); color: var(--accent); }
+.välj[aria-pressed="true"] span { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.kropp { flex: 1; min-width: 0; padding: 12px 16px 12px 0; }
+.rubrik { display: block; width: 100%; text-align: left; border: 0; background: none; cursor: pointer;
+  padding: 0; font-weight: 600; line-height: 1.45; }
+.rubrik:hover { color: var(--accent); }
+.meta { color: var(--dämpad); font-size: 0.82rem; margin-top: 5px; display: flex; flex-wrap: wrap; gap: 3px 10px;
+  align-items: center; }
+.meta .vem { max-width: 100%; }
+.tagg { border: 0; background: var(--yta2); border-radius: 5px; padding: 0 6px; font-size: 0.76rem; cursor: pointer;
+  color: var(--dämpad); }
+.tagg:hover { color: var(--text); }
+.kärna { color: var(--varning); font-size: 0.76rem; font-weight: 600; }
+mark { background: var(--markering); color: inherit; border-radius: 2px; padding: 0 1px; }
+.detalj { margin-top: 12px; }
+blockquote { margin: 0; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--accent-yta);
+  border-radius: 0 8px 8px 0; font-size: 0.92rem; overflow-wrap: anywhere; }
+.källrad { font-size: 0.85rem; margin-top: 8px; overflow-wrap: anywhere; }
+.källrad .svag { color: var(--svag); }
 .förbehåll { font-size: 0.9rem; margin: 10px 0 0; }
-.förbehåll b { color: var(--varning); font-weight: 600; }
-.ersatt { font-size: 0.85rem; color: var(--varning); margin: 0 0 6px; }
-.knappar { margin-top: 10px; display: flex; gap: 8px; }
-.knapp { font: inherit; font-size: 0.8rem; padding: 3px 10px; border-radius: 6px; cursor: pointer;
-  border: 1px solid var(--linje); background: transparent; color: var(--dämpad); }
-.knapp:hover { color: var(--text); border-color: var(--dämpad); }
-.fot { color: var(--dämpad); font-size: 0.85rem; margin-top: 32px; border-top: 1px solid var(--linje); padding-top: 16px; }
-.tom { color: var(--dämpad); padding: 24px 0; }
-@media (max-width: 520px) { h1 { font-size: 1.6rem; } .antal { margin-left: 0; width: 100%; } .verktyg { position: static; } }
+.förbehåll b { color: var(--varning); }
+.åtgärder { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
+.fler { display: block; margin: 16px auto 0; }
+.tom { text-align: center; color: var(--dämpad); padding: 48px 16px; }
+
+/* Urval */
+.urvalsfält { position: fixed; left: 50%; bottom: 16px; transform: translateX(-50%); z-index: 6;
+  background: var(--text); color: var(--bg); border-radius: 999px; padding: 6px 6px 6px 18px; display: flex;
+  align-items: center; gap: 12px; box-shadow: var(--skugga); max-width: calc(100% - 32px); }
+.urvalsfält .knapp { border-radius: 999px; padding: 7px 14px; }
+dialog { border: 1px solid var(--linje); border-radius: 14px; padding: 0; width: min(720px, calc(100% - 24px));
+  max-height: calc(100vh - 48px); background: var(--yta); color: var(--text); box-shadow: var(--skugga); }
+dialog::backdrop { background: rgba(0,0,0,.35); }
+.dialoginre { display: flex; flex-direction: column; max-height: calc(100vh - 48px); }
+.dialoghuvud { display: flex; align-items: center; gap: 12px; padding: 16px 18px; border-bottom: 1px solid var(--linje); }
+.dialoghuvud h2 { margin: 0; font-size: 1.1rem; flex: 1; }
+.flikar { display: flex; gap: 4px; padding: 12px 18px 0; flex-wrap: wrap; }
+.flik { border: 1px solid var(--linje); background: none; border-radius: 999px; padding: 4px 12px; cursor: pointer;
+  font-size: 0.85rem; }
+.flik[aria-selected="true"] { background: var(--accent); border-color: var(--accent); color: var(--accent-text); }
+.förhandsvisning { margin: 12px 18px; padding: 12px; background: var(--yta2); border-radius: 8px;
+  white-space: pre-wrap; font: 0.82rem/1.5 ui-monospace, SFMono-Regular, Menlo, monospace; overflow: auto;
+  flex: 1; min-height: 120px; }
+.urvalslista { padding: 0 18px; overflow: auto; max-height: 30vh; }
+.urvalslista li { font-size: 0.88rem; margin: 4px 0; display: flex; gap: 8px; align-items: baseline; }
+.urvalslista li span { flex: 1; }
+.urvalslista button { border: 0; background: none; color: var(--svag); cursor: pointer; }
+.dialogfot { display: flex; gap: 8px; flex-wrap: wrap; padding: 14px 18px; border-top: 1px solid var(--linje); }
+.dialogfot .mellanrum { flex: 1; }
+.notis { position: fixed; top: 16px; left: 50%; transform: translateX(-50%); background: var(--text); color: var(--bg);
+  padding: 8px 16px; border-radius: 999px; font-size: 0.9rem; z-index: 20; box-shadow: var(--skugga); }
+
+.fot { max-width: 1180px; margin: 0 auto; padding: 0 16px 40px; color: var(--dämpad); font-size: 0.85rem; }
+
+/* Mobil */
+@media (max-width: 860px) {
+  .layout { grid-template-columns: 1fr; }
+  .filterknapp { display: inline-block; }
+  .filter { position: fixed; inset: 0 0 0 auto; width: min(340px, 88vw); max-height: none; top: 0; z-index: 10;
+    background: var(--yta); padding: 0 16px 24px; transform: translateX(100%); transition: transform .2s;
+    box-shadow: var(--skugga); }
+  .filter.öppen { transform: none; }
+  .filter-huvud { display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0;
+    background: var(--yta); padding: 14px 0; margin-bottom: 8px; border-bottom: 1px solid var(--linje); }
+  .filter-huvud h2 { margin: 0; font-size: 1rem; }
+  .skymning { position: fixed; inset: 0; background: rgba(0,0,0,.35); z-index: 9; }
+  .sökfält kbd { display: none; }
+  .sökrad-inre { flex-wrap: wrap; }
+  .årsrubrik { top: 110px; }
+  html { scroll-padding-top: 130px; }
+}
+@media (max-width: 520px) {
+  .ordning { margin-left: 0; width: 100%; }
+  .välj { width: 36px; }
+  .intro { font-size: 0.9rem; }
+}
 </style>
 </head>
 <body>
-<div class="sida">
-  <h1>Belagt</h1>
-  <p class="ingress">Verifierade påståenden om AI-utvecklingen. Varje påstående har en primärkälla och ett
-    ordagrant citat därifrån, så att du kan kontrollera det själv och hänvisa rätt.
-    Fritt att använda med källhänvisning (CC BY 4.0).
-    <a href="https://github.com/kanintespela/belagt">Om arkivet, metod och data</a>.</p>
+<header class="topp">
+  <div class="topp-inre">
+    <p class="logga">Belagt<span>.</span></p>
+    <p class="slogan" id="slogan">Verifierade påståenden om AI-utvecklingen, med primärkällor.</p>
+    <nav class="topplänkar">
+      <a href="https://github.com/kanintespela/belagt#readme">Om arkivet</a>
+      <a href="https://github.com/kanintespela/belagt/blob/main/METOD.md">Metod</a>
+      <a href="belagt.json">Data</a>
+    </nav>
+  </div>
+</header>
 
-  <div class="verktyg">
-    <input type="search" id="sök" placeholder="Sök, till exempel Kina, METR eller exportkontroll" aria-label="Sök">
-    <div class="rad" id="teman" role="group" aria-label="Tema"></div>
-    <div class="rad">
-      <select id="ordning" aria-label="Ordning">
+<div class="sökrad">
+  <div class="sökrad-inre">
+    <label class="sökfält">
+      <span class="visuellt-dold">Sök</span>
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+      <input type="search" id="sök" placeholder="Sök på namn, företag, händelse …" autocomplete="off">
+      <kbd>/</kbd>
+    </label>
+    <button class="knapp filterknapp" id="filterknapp" aria-controls="filter">Filter<span class="märke" id="filtermärke" hidden></span></button>
+  </div>
+</div>
+
+<div class="layout">
+  <aside class="filter" id="filter" aria-label="Filter">
+    <div class="filter-huvud"><h2>Filter</h2><button class="knapp liten" id="stängfilter">Klar</button></div>
+    <div class="grupp"><h2>Tema</h2><div id="f-tema"></div></div>
+    <div class="grupp"><h2>År</h2><div class="år" id="f-år"></div></div>
+    <div class="grupp"><h2>Typ</h2><div id="f-typ"></div></div>
+    <div class="grupp"><h2>Källa</h2><div id="f-källa"></div></div>
+    <div class="grupp"><h2>Urval</h2>
+      <label class="växel"><input type="checkbox" id="kärna"> Bara kärnpåståenden</label>
+    </div>
+  </aside>
+  <div class="skymning" id="skymning" hidden></div>
+
+  <main>
+    <div class="intro" id="intro" hidden>
+      <ol>
+        <li><b>Sök och filtrera</b> fram det du behöver.</li>
+        <li><b>Klicka på ett påstående</b> för att se citatet ur källan och förbehållen.</li>
+        <li><b>Bocka för</b> de påståenden du vill använda. Under <i>Urval</i> får du en färdig källförteckning att kopiera.</li>
+      </ol>
+      <button class="stäng" id="stängintro" aria-label="Dölj introduktionen">×</button>
+    </div>
+    <div class="delat" id="delat" hidden></div>
+    <div class="resultathuvud">
+      <span class="antal" id="antal" aria-live="polite"></span>
+      <span id="aktiva"></span>
+      <select class="ordning" id="ordning" aria-label="Ordning">
         <option value="nyast">Nyast först</option>
         <option value="äldst">Äldst först</option>
         <option value="vikt">Viktigast först</option>
       </select>
-      <label class="chip"><input type="checkbox" id="kärna" hidden> Bara kärnpåståenden</label>
-      <span class="antal" id="antal"></span>
     </div>
-    <p class="temainfo" id="temainfo"></p>
-  </div>
-
-  <main id="lista"><p class="tom">Laddar …</p></main>
-
-  <p class="fot">Arkivet växer löpande och varje ändring syns i
-    <a href="https://github.com/kanintespela/belagt/commits/main">historiken</a>.
-    Hela arkivet finns som <a href="belagt.json">JSON</a> och
-    <a href="https://github.com/kanintespela/belagt/blob/main/data/belagt.csv">CSV</a>.</p>
+    <div id="lista"><p class="tom">Laddar arkivet …</p></div>
+  </main>
 </div>
+
+<p class="fot">Innehållet får användas fritt med källhänvisning (CC BY 4.0). Arkivet växer löpande och varje ändring syns i
+  <a href="https://github.com/kanintespela/belagt/commits/main">historiken</a>. Hittat ett fel?
+  <a href="https://github.com/kanintespela/belagt/issues">Skriv ett ärende</a>.</p>
+
+<div class="urvalsfält" id="urvalsfält" hidden>
+  <span id="urvalsantal"></span>
+  <button class="knapp primär" id="visaurval">Visa urval</button>
+</div>
+
+<dialog id="urval" aria-labelledby="urvalsrubrik">
+  <div class="dialoginre">
+    <div class="dialoghuvud">
+      <h2 id="urvalsrubrik">Ditt urval</h2>
+      <button class="knapp liten" id="stängurval">Stäng</button>
+    </div>
+    <ol class="urvalslista" id="urvalslista"></ol>
+    <div class="flikar" role="tablist" aria-label="Format">
+      <button class="flik" role="tab" data-format="källor">Källförteckning</button>
+      <button class="flik" role="tab" data-format="text">Påståenden med källor</button>
+      <button class="flik" role="tab" data-format="md">Markdown</button>
+      <button class="flik" role="tab" data-format="csv">CSV</button>
+    </div>
+    <pre class="förhandsvisning" id="förhandsvisning" tabindex="0"></pre>
+    <div class="dialogfot">
+      <button class="knapp primär" id="kopieraurval">Kopiera</button>
+      <button class="knapp" id="laddaurval">Ladda ned</button>
+      <button class="knapp" id="delaurval">Kopiera länk till urvalet</button>
+      <span class="mellanrum"></span>
+      <button class="knapp" id="tömurval">Töm urvalet</button>
+    </div>
+  </div>
+</dialog>
+
+<div class="notis" id="notis" role="status" hidden></div>
+
 <script>
 const $ = s => document.querySelector(s);
-const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const SIDA = 50;
 const REPO = "https://github.com/kanintespela/belagt/blob/main/påståenden/";
-let data, valdTema = null;
+const TYPNAMN = { händelse: "Händelse", mätning: "Mätning", bedömning: "Bedömning", prognos: "Prognos", förslag: "Förslag" };
+const FORMAT = { källor: "källförteckning.txt", text: "påståenden.txt", md: "påståenden.md", csv: "påståenden.csv" };
 
-function läsLäge() {
-  const q = new URLSearchParams(location.search);
-  $("#sök").value = q.get("q") || "";
-  valdTema = q.get("tema");
-  $("#ordning").value = q.get("ordning") || "nyast";
-  $("#kärna").checked = q.get("kärna") === "1";
+const lagring = {
+  hämta(n, standard) { try { const v = localStorage.getItem("belagt:" + n); return v === null ? standard : JSON.parse(v); } catch { return standard; } },
+  spara(n, v) { try { localStorage.setItem("belagt:" + n, JSON.stringify(v)); } catch {} },
+};
+
+let data = [], teman = {}, perId = new Map();
+const läge = { q: "", tema: new Set(), typ: new Set(), år: new Set(), källa: new Set(), kärna: false, ordning: "nyast", delat: null };
+let öppna = new Set(), visade = SIDA, allaKällor = false, format = "källor";
+let urval = lagring.hämta("urval", []);
+
+const domän = url => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return url; } };
+const ord = () => läge.q.toLowerCase().split(/\s+/).filter(Boolean);
+
+// Filtrering. utan = det filter som ska räknas bort, så att antalen per val blir rätt.
+function matchar(p, utan) {
+  if (läge.delat && !läge.delat.has(p.id)) return false;
+  if (utan !== "tema" && läge.tema.size && !p.tema.some(t => läge.tema.has(t))) return false;
+  if (utan !== "typ" && läge.typ.size && !läge.typ.has(p.typ)) return false;
+  if (utan !== "år" && läge.år.size && !läge.år.has(p.år)) return false;
+  if (utan !== "källa" && läge.källa.size && !läge.källa.has(p.domän)) return false;
+  if (läge.kärna && p.vikt < 3) return false;
+  const o = ord();
+  return !o.length || o.every(w => p.sökbar.includes(w));
 }
-function sparaLäge() {
+
+function räkna(fält, egenskap = fält) {
+  const n = new Map();
+  for (const p of data) if (matchar(p, fält)) for (const v of [].concat(p[egenskap])) n.set(v, (n.get(v) || 0) + 1);
+  return n;
+}
+
+function valknapp(fält, värde, namn, antal) {
+  const på = läge[fält].has(värde);
+  return `<button class="val" data-fält="${fält}" data-värde="${esc(värde)}" aria-pressed="${på}" ${!antal && !på ? "data-noll" : ""}
+    ${fält === "tema" ? `title="${esc(teman[värde])}"` : ""}>
+    <span class="ruta"></span><span class="namn">${esc(namn)}</span><span class="antal">${antal || 0}</span></button>`;
+}
+
+function ritaFilter() {
+  const nt = räkna("tema");
+  $("#f-tema").innerHTML = Object.keys(teman).map(t => valknapp("tema", t, t[0].toUpperCase() + t.slice(1), nt.get(t))).join("");
+  const ny = räkna("typ");
+  $("#f-typ").innerHTML = Object.keys(TYPNAMN).map(t => valknapp("typ", t, TYPNAMN[t], ny.get(t))).join("");
+  const nk = räkna("källa", "domän"), allaDomäner = [...new Set(data.map(p => p.domän))];
+  allaDomäner.sort((a, b) => (nk.get(b) || 0) - (nk.get(a) || 0) || a.localeCompare(b));
+  const synliga = allaKällor ? allaDomäner : allaDomäner.filter((d, i) => i < 8 || läge.källa.has(d));
+  $("#f-källa").innerHTML = synliga.map(d => valknapp("källa", d, d, nk.get(d))).join("") +
+    (allaDomäner.length > 8 ? `<button class="visa-fler" id="allakällor">${allaKällor ? "Visa färre" : `Visa alla ${allaDomäner.length}`}</button>` : "");
+  const nå = räkna("år"), åren = [...new Set(data.map(p => p.år))].sort();
+  const max = Math.max(1, ...åren.map(å => nå.get(å) || 0));
+  $("#f-år").innerHTML = åren.map(å => {
+    const n = nå.get(å) || 0;
+    return `<button data-fält="år" data-värde="${å}" aria-pressed="${läge.år.has(å)}" title="${å}: ${n} påståenden">
+      <span class="stapel" style="height:${Math.max(4, n / max * 56)}px"></span><span class="etikett">${å}</span></button>`;
+  }).join("");
+  $("#kärna").checked = läge.kärna;
+  const aktiva = läge.tema.size + läge.typ.size + läge.år.size + läge.källa.size + (läge.kärna ? 1 : 0);
+  $("#filtermärke").hidden = !aktiva;
+  $("#filtermärke").textContent = aktiva;
+}
+
+function markera(text) {
+  let h = esc(text);
+  const o = ord().filter(w => w.length > 1).map(w => esc(w).replace(/[.*+?^${}()|[\]\\]/g, "\\$&"));
+  return o.length ? h.replace(new RegExp(`(${o.join("|")})`, "gi"), "<mark>$1</mark>") : h;
+}
+
+function postHtml(p) {
+  const öppen = öppna.has(p.id), vald = urval.includes(p.id), k = p.källa;
+  return `<article class="post${öppen ? " öppen" : ""}${vald ? " vald" : ""}" id="${esc(p.id)}">
+    <button class="välj" data-välj="${esc(p.id)}" aria-pressed="${vald}" title="${vald ? "Ta bort ur urvalet" : "Lägg i urvalet"}"><span>${vald ? "✓" : "+"}</span></button>
+    <div class="kropp">
+      <button class="rubrik" data-växla="${esc(p.id)}" aria-expanded="${öppen}">${markera(p.påstående)}</button>
+      <div class="meta">
+        <span class="vem">${markera(p.vem)}</span><span>${esc(p.datum)}</span><span>${TYPNAMN[p.typ]}</span>
+        ${p.tema.map(t => `<button class="tagg" data-fält="tema" data-värde="${esc(t)}">${esc(t)}</button>`).join("")}
+        ${p.vikt === 3 ? `<span class="kärna" title="Kärnpåstående">★ kärna</span>` : ""}
+        ${p.ersatt_av ? `<span class="kärna">Ersatt av ${esc(p.ersatt_av)}</span>` : ""}
+      </div>
+      ${öppen ? `<div class="detalj">
+        <blockquote>”${markera(k.citat)}”</blockquote>
+        <div class="källrad">Källa: <a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel || k.url)}</a>
+          <span class="svag">· ${esc(p.domän)}${k.hämtad ? ` · hämtad ${esc(k.hämtad)}` : ""}</span>
+          ${k.arkiv ? ` · <a href="${esc(k.arkiv)}" target="_blank" rel="noopener">arkivkopia</a>` : ""}</div>
+        ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${markera(p.förbehåll)}</p>` : ""}
+        <div class="åtgärder">
+          <button class="knapp liten" data-kopiera="${esc(p.id)}">Kopiera källhänvisning</button>
+          <button class="knapp liten" data-länk="${esc(p.id)}">Kopiera länk</button>
+          <a class="knapp liten" href="${REPO}${esc(p.år)}/${esc(p.id)}.yaml" target="_blank" rel="noopener">Visa post (${esc(p.id)})</a>
+        </div></div>` : ""}
+    </div></article>`;
+}
+
+function sorterade() {
+  const u = data.filter(p => matchar(p));
+  const o = läge.ordning;
+  u.sort((a, b) => o === "äldst" ? a.datum.localeCompare(b.datum) || a.id.localeCompare(b.id)
+    : o === "vikt" ? b.vikt - a.vikt || b.datum.localeCompare(a.datum)
+    : b.datum.localeCompare(a.datum) || a.id.localeCompare(b.id));
+  return u;
+}
+
+function ritaLista() {
+  const u = sorterade(), del = u.slice(0, visade);
+  $("#antal").textContent = `${u.length} ${u.length === 1 ? "påstående" : "påståenden"}`;
+  if (!u.length) {
+    $("#lista").innerHTML = `<div class="tom"><p>Inga påståenden matchar.</p><button class="knapp" data-rensa>Rensa sökning och filter</button></div>`;
+    return;
+  }
+  let html = "", grupp = null;
+  const perÅr = läge.ordning !== "vikt";
+  const antalPerÅr = perÅr ? u.reduce((m, p) => m.set(p.år, (m.get(p.år) || 0) + 1), new Map()) : null;
+  for (const p of del) {
+    if (perÅr && p.år !== grupp) {
+      if (grupp !== null) html += "</div>";
+      grupp = p.år;
+      html += `<h3 class="årsrubrik">${p.år} <small>${antalPerÅr.get(p.år)} st</small></h3><div class="lista">`;
+    } else if (!perÅr && grupp === null) { grupp = ""; html += `<div class="lista">`; }
+    html += postHtml(p);
+  }
+  html += "</div>";
+  if (u.length > del.length) html += `<button class="knapp fler" id="visafler">Visa fler (${u.length - del.length} kvar)</button>`;
+  $("#lista").innerHTML = html;
+}
+
+function ritaAktiva() {
+  const c = [];
+  if (läge.q) c.push(["q", "", `”${läge.q}”`]);
+  for (const f of ["tema", "år", "typ", "källa"]) for (const v of läge[f]) c.push([f, v, f === "typ" ? TYPNAMN[v] : v]);
+  if (läge.kärna) c.push(["kärna", "", "Kärnpåståenden"]);
+  $("#aktiva").innerHTML = c.map(([f, v, n]) => `<button class="chip" data-ta-bort="${f}" data-värde="${esc(v)}" title="Ta bort filtret">${esc(n)}</button>`).join(" ") +
+    (c.length > 1 ? ` <button class="rensa" data-rensa>Rensa alla</button>` : "");
+  const d = $("#delat");
+  d.hidden = !läge.delat;
+  if (läge.delat) d.innerHTML = `Du tittar på ett delat urval med ${läge.delat.size} påståenden. <button class="rensa" id="visaalla">Visa hela arkivet</button> · <button class="rensa" id="sparadelat">Lägg dem i mitt urval</button>`;
+}
+
+function ritaUrval() {
+  urval = urval.filter(id => perId.has(id));
+  lagring.spara("urval", urval);
+  $("#urvalsfält").hidden = !urval.length;
+  $("#urvalsantal").textContent = `${urval.length} ${urval.length === 1 ? "påstående valt" : "påståenden valda"}`;
+  if ($("#urval").open) ritaUrvalsdialog();
+}
+
+function rita({ filter = true } = {}) {
+  sparaUrl();
+  if (filter) ritaFilter();
+  ritaAktiva();
+  ritaLista();
+  ritaUrval();
+}
+
+// URL: ?q=&tema=a,b&år=&typ=&källa=&kärna=1&ordning=&id=A,B (delat urval) #ID (öppen post)
+function sparaUrl() {
   const q = new URLSearchParams();
-  if ($("#sök").value) q.set("q", $("#sök").value);
-  if (valdTema) q.set("tema", valdTema);
-  if ($("#ordning").value !== "nyast") q.set("ordning", $("#ordning").value);
-  if ($("#kärna").checked) q.set("kärna", "1");
+  if (läge.q) q.set("q", läge.q);
+  for (const f of ["tema", "år", "typ", "källa"]) if (läge[f].size) q.set(f, [...läge[f]].join(","));
+  if (läge.kärna) q.set("karna", "1");
+  if (läge.ordning !== "nyast") q.set("ordning", läge.ordning);
+  if (läge.delat) q.set("id", [...läge.delat].join(","));
   const s = q.toString();
   history.replaceState(null, "", (s ? "?" + s : location.pathname) + location.hash);
 }
-
-function temaknappar() {
-  const knappar = [["alla", null], ...Object.keys(data.teman).map(t => [t, t])];
-  $("#teman").innerHTML = knappar.map(([namn, t]) =>
-    `<button class="chip" data-tema="${t ?? ""}" aria-pressed="${valdTema === t}">${namn}</button>`).join("");
-  $("#teman").onclick = e => {
-    const b = e.target.closest("button"); if (!b) return;
-    valdTema = b.dataset.tema || null;
-    document.querySelectorAll("#teman .chip").forEach(x => x.setAttribute("aria-pressed", x === b));
-    visa();
-  };
+function läsUrl() {
+  const q = new URLSearchParams(location.search);
+  läge.q = q.get("q") || "";
+  for (const f of ["tema", "år", "typ", "källa"]) läge[f] = new Set((q.get(f) || "").split(",").filter(Boolean));
+  läge.kärna = q.get("karna") === "1";
+  läge.ordning = ["nyast", "äldst", "vikt"].includes(q.get("ordning")) ? q.get("ordning") : "nyast";
+  läge.delat = q.get("id") ? new Set(q.get("id").split(",").filter(id => perId.has(id))) : null;
+  $("#sök").value = läge.q;
+  $("#ordning").value = läge.ordning;
 }
 
-function kort(p) {
-  const k = p.källa;
-  const arkiv = k.arkiv ? ` · <a href="${esc(k.arkiv)}">arkivkopia</a>` : "";
-  return `<article id="${esc(p.id)}">
-    ${p.ersatt_av ? `<p class="ersatt">Inaktuellt, ersatt av <a href="#${esc(p.ersatt_av)}">${esc(p.ersatt_av)}</a>.</p>` : ""}
-    <p class="påst">${esc(p.påstående)}</p>
-    <div class="meta"><span>${esc(p.vem)}</span><span>${esc(p.datum)}</span>
-      <span>${p.tema.map(esc).join(", ")}</span>
-      <a href="${REPO}${esc(p.datum.slice(0, 4))}/${esc(p.id)}.yaml">${esc(p.id)}</a></div>
-    <blockquote>”${esc(k.citat)}”<br>— <a href="${esc(k.url)}">${esc(k.titel || k.url)}</a>${arkiv}</blockquote>
-    ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${esc(p.förbehåll)}</p>` : ""}
-    <div class="knappar">
-      <button class="knapp" data-kopiera="${esc(p.citera)}">Kopiera källhänvisning</button>
-      <button class="knapp" data-länk="${esc(p.id)}">Kopiera länk</button>
-    </div>
-  </article>`;
+// Export av urvalet
+function urvalsposter() { return urval.map(id => perId.get(id)).filter(Boolean); }
+function exportText(f) {
+  const u = urvalsposter();
+  if (f === "källor") return u.map((p, i) => `${i + 1}. ${p.citera}`).join("\n");
+  if (f === "text") return u.map((p, i) => `${i + 1}. ${p.påstående}\n   Källa: ${p.citera}${p.förbehåll ? `\n   Förbehåll: ${p.förbehåll}` : ""}`).join("\n\n");
+  if (f === "md") return u.map((p, i) => `${p.påstående}[^${i + 1}]`).join("\n\n") + "\n\n" +
+    u.map((p, i) => `[^${i + 1}]: ${p.vem}, ${p.datum}. [${p.källa.titel || domän(p.källa.url)}](${p.källa.url}). Citat: ”${p.källa.citat}” Via [Belagt ${p.id}](${location.origin + location.pathname}#${p.id}).`).join("\n");
+  const cell = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
+  return ["id,datum,påstående,vem,källa,citat,förbehåll,källhänvisning"].concat(
+    u.map(p => [p.id, p.datum, p.påstående, p.vem, p.källa.url, p.källa.citat, p.förbehåll, p.citera].map(cell).join(","))).join("\n");
+}
+function ritaUrvalsdialog() {
+  const u = urvalsposter();
+  $("#urvalsrubrik").textContent = `Ditt urval (${u.length})`;
+  $("#urvalslista").innerHTML = u.map(p => `<li><span>${esc(p.påstående)}</span><button data-välj="${esc(p.id)}" title="Ta bort">×</button></li>`).join("")
+    || `<li><span>Urvalet är tomt. Bocka för påståenden i listan.</span></li>`;
+  document.querySelectorAll(".flik").forEach(f => f.setAttribute("aria-selected", f.dataset.format === format));
+  $("#förhandsvisning").textContent = u.length ? exportText(format) : "";
 }
 
-function visa() {
-  sparaLäge();
-  const ord = $("#sök").value.toLowerCase().split(/\s+/).filter(Boolean);
-  let urval = data.påståenden.filter(p => {
-    if (valdTema && !p.tema.includes(valdTema)) return false;
-    if ($("#kärna").checked && p.vikt < 3) return false;
-    const text = [p.id, p.påstående, p.vem, p.datum, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, ...p.tema]
-      .join(" ").toLowerCase();
-    return ord.every(o => text.includes(o));
-  });
-  const o = $("#ordning").value;
-  urval.sort((a, b) => o === "äldst" ? a.datum.localeCompare(b.datum)
-    : o === "vikt" ? (b.vikt - a.vikt) || b.datum.localeCompare(a.datum)
-    : b.datum.localeCompare(a.datum));
-  $("#temainfo").textContent = valdTema ? data.teman[valdTema] : "";
-  $("#antal").textContent = `${urval.length} av ${data.påståenden.length} påståenden`;
-  $("#lista").innerHTML = urval.length ? urval.map(kort).join("")
-    : `<p class="tom">Inga påståenden matchar.</p>`;
+// Hjälpfunktioner
+let notisTimer;
+function notis(text) {
+  const n = $("#notis"); n.textContent = text; n.hidden = false;
+  clearTimeout(notisTimer); notisTimer = setTimeout(() => n.hidden = true, 1800);
+}
+async function kopiera(text, bekräftelse = "Kopierat") {
+  try { await navigator.clipboard.writeText(text); notis(bekräftelse); }
+  catch { window.prompt("Kopiera texten:", text); }
+}
+function laddaNed(namn, text) {
+  const a = document.createElement("a");
+  a.href = URL.createObjectURL(new Blob([text], { type: "text/plain;charset=utf-8" }));
+  a.download = namn; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000);
+}
+function växlaUrval(id) {
+  urval = urval.includes(id) ? urval.filter(x => x !== id) : [...urval, id];
+  rita({ filter: false });
+}
+function rensa() {
+  läge.q = ""; $("#sök").value = "";
+  for (const f of ["tema", "år", "typ", "källa"]) läge[f].clear();
+  läge.kärna = false; läge.delat = null; visade = SIDA; rita();
+}
+function filterPanel(öppen) {
+  $("#filter").classList.toggle("öppen", öppen);
+  $("#skymning").hidden = !öppen;
 }
 
-async function kopiera(text, knapp) {
-  try { await navigator.clipboard.writeText(text); } catch { prompt("Kopiera:", text); return; }
-  const före = knapp.textContent; knapp.textContent = "Kopierat";
-  setTimeout(() => knapp.textContent = före, 1200);
-}
-
-$("#lista").addEventListener("click", e => {
-  const b = e.target.closest("button"); if (!b) return;
-  if (b.dataset.kopiera) kopiera(b.dataset.kopiera, b);
-  if (b.dataset.länk) kopiera(location.origin + location.pathname + "#" + b.dataset.länk, b);
+// Händelser
+document.addEventListener("click", e => {
+  const t = e.target.closest("button, a");
+  if (!t) return;
+  const d = t.dataset;
+  if (d.fält) {
+    const s = läge[d.fält]; s.has(d.värde) ? s.delete(d.värde) : s.add(d.värde);
+    visade = SIDA; rita();
+  } else if (d.växla) {
+    öppna.has(d.växla) ? öppna.delete(d.växla) : öppna.add(d.växla);
+    const post = document.getElementById(d.växla);
+    post.outerHTML = postHtml(perId.get(d.växla));
+    history.replaceState(null, "", location.search + (öppna.has(d.växla) ? "#" + d.växla : ""));
+  } else if (d.välj) växlaUrval(d.välj);
+  else if (d.kopiera) kopiera(perId.get(d.kopiera).citera, "Källhänvisningen är kopierad");
+  else if (d.länk) kopiera(location.origin + location.pathname + "#" + d.länk, "Länken är kopierad");
+  else if ("taBort" in d) {
+    if (d.taBort === "q") { läge.q = ""; $("#sök").value = ""; }
+    else if (d.taBort === "kärna") läge.kärna = false;
+    else läge[d.taBort].delete(d.värde);
+    visade = SIDA; rita();
+  } else if ("rensa" in d) rensa();
+  else if (t.id === "visafler") { visade += SIDA; ritaLista(); }
+  else if (t.id === "allakällor") { allaKällor = !allaKällor; ritaFilter(); }
+  else if (t.id === "visaalla") { läge.delat = null; rita(); }
+  else if (t.id === "sparadelat") { urval = [...new Set([...urval, ...läge.delat])]; rita({ filter: false }); notis("Lagt i ditt urval"); }
+  else if (t.id === "filterknapp") filterPanel(true);
+  else if (t.id === "stängfilter") filterPanel(false);
+  else if (t.id === "visaurval") { ritaUrvalsdialog(); $("#urval").showModal(); }
+  else if (t.id === "stängurval") $("#urval").close();
+  else if (t.classList.contains("flik")) { format = t.dataset.format; ritaUrvalsdialog(); }
+  else if (t.id === "kopieraurval") kopiera(exportText(format), "Urvalet är kopierat");
+  else if (t.id === "laddaurval") laddaNed(FORMAT[format], exportText(format));
+  else if (t.id === "delaurval") kopiera(`${location.origin}${location.pathname}?id=${urval.join(",")}`, "Länken till urvalet är kopierad");
+  else if (t.id === "tömurval") { if (confirm("Ta bort alla påståenden ur urvalet?")) { urval = []; rita({ filter: false }); $("#urval").close(); } }
+  else if (t.id === "stängintro") { $("#intro").hidden = true; lagring.spara("intro", false); }
 });
-["input", "change"].forEach(h => ["#sök", "#ordning", "#kärna"].forEach(s => $(s).addEventListener(h, visa)));
+$("#skymning").addEventListener("click", () => filterPanel(false));
+$("#urval").addEventListener("click", e => { if (e.target === $("#urval")) $("#urval").close(); });
 
+let sökTimer;
+$("#sök").addEventListener("input", e => {
+  clearTimeout(sökTimer);
+  sökTimer = setTimeout(() => { läge.q = e.target.value.trim(); visade = SIDA; rita(); }, 120);
+});
+$("#ordning").addEventListener("change", e => { läge.ordning = e.target.value; rita({ filter: false }); });
+$("#kärna").addEventListener("change", e => { läge.kärna = e.target.checked; visade = SIDA; rita(); });
+document.addEventListener("keydown", e => {
+  const iFält = /INPUT|TEXTAREA|SELECT/.test(document.activeElement.tagName);
+  if (e.key === "/" && !iFält) { e.preventDefault(); $("#sök").focus(); $("#sök").select(); }
+  if (e.key === "Escape") {
+    if ($("#filter").classList.contains("öppen")) filterPanel(false);
+    else if (document.activeElement === $("#sök") && $("#sök").value) { $("#sök").value = ""; läge.q = ""; rita(); }
+  }
+});
+
+// Start
 fetch("belagt.json").then(r => r.json()).then(d => {
-  data = d; läsLäge(); temaknappar(); visa();
-  if (location.hash) document.getElementById(decodeURIComponent(location.hash.slice(1)))?.scrollIntoView();
-}).catch(() => { $("#lista").innerHTML = `<p class="tom">Kunde inte ladda arkivet.</p>`; });
+  teman = d.teman;
+  data = d.påståenden.map(p => ({ ...p, år: p.datum.slice(0, 4), domän: domän(p.källa.url),
+    sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, ...p.tema].join(" ").toLowerCase() }));
+  perId = new Map(data.map(p => [p.id, p]));
+  const källor = new Set(data.map(p => p.källa.url)).size;
+  const senast = data.map(p => p.kontrollerad).sort().pop();
+  $("#slogan").textContent = `${data.length} verifierade påståenden om AI-utvecklingen ur ${källor} primärkällor. Senast kontrollerat ${senast}.`;
+  läsUrl();
+  const mål = decodeURIComponent(location.hash.slice(1));
+  if (perId.has(mål)) {
+    öppna.add(mål);
+    if (!matchar(perId.get(mål))) rensa();
+    const i = sorterade().findIndex(p => p.id === mål);
+    visade = Math.max(SIDA, Math.ceil((i + 1) / SIDA) * SIDA);
+  }
+  $("#intro").hidden = lagring.hämta("intro", true) === false || !!läge.delat;
+  rita();
+  if (perId.has(mål)) document.getElementById(mål)?.scrollIntoView({ block: "start" });
+}).catch(() => { $("#lista").innerHTML = `<p class="tom">Kunde inte ladda arkivet. Försök igen om en stund.</p>`; });
 </script>
 </body>
 </html>
