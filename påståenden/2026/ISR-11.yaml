@@ -1,0 +1,21 @@
+id: ISR-11
+påstående: Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI
+  i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Criminal groups and state-associated attackers are actively using general-purpose AI in their
+    operations.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

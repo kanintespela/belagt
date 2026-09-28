@@ -1,0 +1,23 @@
+id: ISR-02
+påstående: 'Rapporten beskriver ett evidensdilemma: AI-systemen blir snabbt mer kapabla, men belägg om
+  riskerna kommer långsamt och är svåra att bedöma. Den som agerar för tidigt riskerar att låsa fast verkningslösa
+  åtgärder, och den som väntar på säkra data kan lämna samhället sårbart.'
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- styrning
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and
+    difficult to assess.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera
+  AI.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

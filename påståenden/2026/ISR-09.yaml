@@ -1,0 +1,23 @@
+id: ISR-09
+påstående: I experiment kan AI-genererat innehåll vara lika effektivt som text skriven av människor på
+  att ändra människors uppfattningar. Enligt rapporten är verklig användning av AI för manipulation dokumenterad
+  men ännu inte utbredd.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: In experimental settings, AI-generated content can be as effective as human-written content at
+    changing people’s beliefs.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s
+  bedömning.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

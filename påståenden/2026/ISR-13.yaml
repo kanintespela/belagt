@@ -1,0 +1,23 @@
+id: ISR-13
+påstående: I en nyligen publicerad studie gav AI-system utan relevanta skydd betydande hjälp med uppgifter
+  som motsvarar stegen för att skaffa biologiska vapen, jämfört med att bara ha tillgång till internet.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: In a recently published real-world uplift study, general-purpose AI systems without relevant
+    safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline
+    of internet access only
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa
+  urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

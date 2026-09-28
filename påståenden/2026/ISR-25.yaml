@@ -1,0 +1,21 @@
+id: ISR-25
+påstående: AI-kompanjonappar har tiotals miljoner användare, och en liten andel av dem visar mönster av
+  ökad ensamhet och minskat socialt umgänge.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: ‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of
+    increased loneliness and reduced social engagement.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Jämför KIN-02 om Kinas regler för AI-kompanjontjänster.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

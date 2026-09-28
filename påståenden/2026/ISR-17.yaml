@@ -1,0 +1,23 @@
+id: ISR-17
+påstående: Ledande AI-modeller har börjat visa situationsmedvetenhet, alltså att de använder information
+  om sig själva och om huruvida de testas, både i experiment hos utomstående utvärderare och i utvecklarnas
+  egna tester före lansering.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Leading AI models are starting to reliably demonstrate instances of situational awareness in
+    experiments conducted by thirdparty evaluators and in pre-deployment testing by AI developers
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver att forskningen om vad som orsakar situationsmedvetenhet, och om den går
+  att förhindra, är i ett tidigt skede.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

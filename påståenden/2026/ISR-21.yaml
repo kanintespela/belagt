@@ -1,0 +1,22 @@
+id: ISR-21
+påstående: Rapporten bedömer att generell AI sannolikt kommer att automatisera en lång rad kognitiva arbetsuppgifter,
+  särskilt inom kunskapsarbete. Ekonomer är oense om hur stor effekten blir på jobb och löner.
+typ: prognos
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge
+    work.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Vissa ekonomer räknar med att nya jobb uppstår och väger upp förlusterna, medan andra menar
+  att bred automatisering kan sänka sysselsättning och löner betydligt.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

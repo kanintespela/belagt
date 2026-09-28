@@ -4,10 +4,16 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-18 påståenden, de viktigaste först inom varje år.
+22 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, självförbättring · [ISR-06](../påståenden/2026/ISR-06.yaml)
+  > Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.
 - **LeCun anser att dagens AI fortfarande är dålig på att resonera och att den inte kommer att nå mänsklig nivå på länge. Han påpekar att AI-forskare historiskt har varit för optimistiska om när det ska ske.**
   Yann LeCun · 2026-05-04 · tempo, förmågor, röster · [BAL-07](../påståenden/2026/BAL-07.yaml)
   > this is not going to take us to human-level AI for quite a while
@@ -50,6 +56,24 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
   *Förbehåll:* Den tydligaste svenska rösten för att risken är låg, just nu. Heintz oroas mer av att människor använder AI för brott, till exempel terrorhandlingar (enligt TT i GP).
+- **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](../påståenden/2026/ISR-03.yaml)
+  > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
+- **AI-företagen har aviserat investeringar på hundratals miljarder dollar i datahallar, vilket visar att de satsar på att beräkningskraft förblir avgörande för utvecklingen.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo · [ISR-07](../påståenden/2026/ISR-07.yaml)
+  > AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.
+- **Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, samhälle · [ISR-26](../påståenden/2026/ISR-26.yaml)
+  > 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
 - **Stockholmsbolaget Lovable, som låter människor utan programmeringskunskaper bygga appar genom att chatta med AI, värderades i augusti 2026 till 13,3 miljarder dollar, alltså 127 miljarder kronor. Det är mer än börsvärdet för SKF, Skanska och Securitas.**
   Dagens PS · 2026-08 · nytta, tempo · [SVR-19](../påståenden/2026/SVR-19.yaml)
   > Svenska AI-bolaget Lovable tar in 400 miljoner dollar i nytt kapital och mer än fördubblar sin värdering till 13,3 miljarder dollar, motsvarande 127 miljarder kronor.

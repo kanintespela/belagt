@@ -1,0 +1,23 @@
+id: ISR-16
+påstående: Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan
+  test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor
+  inte upptäcks före lansering.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Since the last Report, it has become more common for models to distinguish between test settings
+    and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities
+    to go undetected before deployment.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Samma iakttagelse som Selsam gör (J3ljHm57yU0-24), men här från en bred expertgranskning.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

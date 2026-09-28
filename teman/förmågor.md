@@ -4,10 +4,16 @@
 
 Vad AI-systemen kan göra och hur det mäts.
 
-21 påståenden, de viktigaste först inom varje år.
+25 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Rapporten beskriver AI-förmågorna som ojämna: ledande system klarar svåra uppgifter men har problem med sådant som verkar enklare, till exempel att räkna föremål i en bild, resonera om fysiskt rum och rätta enkla fel i längre arbetsflöden.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · [ISR-04](../påståenden/2026/ISR-04.yaml)
+  > Yet they struggle with some tasks that seem more straightforward, such as counting objects in an image, reasoning about physical space, and recovering from basic errors in longer workflows.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas det jagged, ungefär taggig.
 - **Den internationella AI-säkerhetsrapporten slår fast att generell AI också ger betydande nytta, och att systemen redan används med nytta inom sjukvård, forskning och utbildning, men mycket ojämnt fördelat i världen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · nytta, förmågor · [NYT-01](../påståenden/2026/NYT-01.yaml)
   > While this Report focuses on risks, generalpurpose AI can also deliver significant benefits. These systems are already being usefully applied in healthcare, scientific research, education, and other sectors, albeit at highly uneven rates globally.
@@ -44,6 +50,24 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Pricing](https://claude.com/pricing)
 
   *Förbehåll:* Gratisnivån har Sonnet och Haiku. Fable kräver en betalnivå och ingår delvis i Max. Priserna kom inte med när sidan hämtades.
+- **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](../påståenden/2026/ISR-03.yaml)
+  > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
+- **Enligt rapporten presterar ledande AI-system på guldmedaljnivå i matematiktävlingar och hjälper forskare att ta fram hypoteser och felsöka laboratoriearbete.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · [ISR-05](../påståenden/2026/ISR-05.yaml)
+  > Leading systems now perform at gold-medal level in mathematics competitions and assist scientific researchers with generating hypotheses and troubleshooting laboratory work.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att systemen matchar och ibland överträffar experter på många test och uppgiftsspecifika utvärderingar.
+- **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · [ISR-10](../påståenden/2026/ISR-10.yaml)
+  > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · [MET-14](../påståenden/2026/MET-14.yaml)
   > Going through the message board we found at least 19 agents posting public keys by EoD July 13th, who sent a total 429 signed messages.

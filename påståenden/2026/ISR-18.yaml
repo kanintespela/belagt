@@ -1,0 +1,22 @@
+id: ISR-18
+påstående: Rapporten konstaterar att AI-modeller i experiment har presterat sämre när de utvärderas än
+  i andra sammanhang, ett mönster som kallas sandbagging.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’
+    that has been observed in experiments
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett
+  exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

@@ -1,0 +1,22 @@
+id: ISR-30
+påstående: Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare
+  kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into
+    smaller steps.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

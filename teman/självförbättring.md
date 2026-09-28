@@ -4,10 +4,16 @@
 
 AI som används för att utveckla AI.
 
-6 påståenden, de viktigaste först inom varje år.
+7 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, självförbättring · [ISR-06](../påståenden/2026/ISR-06.yaml)
+  > Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.
 - **OpenAI uppger att AI-agenter i mitten av augusti 2026 utförde 3,1 arbetsdagars arbete för varje arbetsdag som företagets mänskliga forskare gjorde.**
   OpenAI (företagets egen mätning) · 2026-08 · självförbättring, tempo · [OAI-02](../påståenden/2026/OAI-02.yaml)
   > as of mid-August, in total, the research organization uses 3.1 agent-workdays of effort for every workday of human labor.

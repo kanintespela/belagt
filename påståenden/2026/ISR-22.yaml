@@ -1,0 +1,23 @@
+id: ISR-22
+påstående: Enligt rapporten syns ännu ingen effekt av AI på den totala sysselsättningen, men det finns
+  tecken på att efterfrågan på personer i början av karriären har minskat i vissa yrken som är mycket
+  utsatta för AI, till exempel skrivande.
+typ: mätning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Early evidence shows no effect on overall employment, but some signs of declining demand for
+    early-career workers in some AI-exposed occupations, such as writing.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Tidiga belägg som snabbt kan bli inaktuella. Jämför SVR-17 (7 procent av svenskarna oroliga
+  för jobbet) och SVR-18 (Klarna).
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

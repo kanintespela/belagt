@@ -1,0 +1,23 @@
+id: ISR-31
+påstående: Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts,
+  att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- styrning
+- missbruk
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: However, they cannot be recalled once released, their safeguards are easier to remove, and actors
+    can use them outside of monitored environments
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt
+  för aktörer med mindre resurser. Båda sidorna bör återges.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-09-28'
+ersatt_av: null

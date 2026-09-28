@@ -1,0 +1,23 @@
+id: ISR-04
+påstående: 'Rapporten beskriver AI-förmågorna som ojämna: ledande system klarar svåra uppgifter men har
+  problem med sådant som verkar enklare, till exempel att räkna föremål i en bild, resonera om fysiskt
+  rum och rätta enkla fel i längre arbetsflöden.'
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- förmågor
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Yet they struggle with some tasks that seem more straightforward, such as counting objects in
+    an image, reasoning about physical space, and recovering from basic errors in longer workflows.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas
+  det jagged, ungefär taggig.
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

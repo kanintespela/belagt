@@ -4,7 +4,7 @@
 
 Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 
-17 påståenden, de viktigaste först inom varje år.
+25 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -14,6 +14,24 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [Countering misuse of AI: September 2026 / Anthropic](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
   *Förbehåll:* Transkriptets ”Marley State”/”Maralian [?]” är Mali/Malian. Kravet på domstolsbeslut byggdes bort på operatörens begäran. Plattformen körs på lokala modeller, så att Anthropic stänger av kontona stoppar den inte.
+- **Rapporten konstaterar att AI-system missbrukas för att ta fram innehåll till bedrägerier, utpressning och sexuella bilder utan samtycke. Skadorna är väldokumenterade, men systematiska data om hur vanliga och allvarliga de är saknas.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-08](../påståenden/2026/ISR-08.yaml)
+  > AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.
+- **Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-11](../påståenden/2026/ISR-11.yaml)
+  > Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).
+- **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · [ISR-12](../påståenden/2026/ISR-12.yaml)
+  > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
 - **Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.**
   Myndigheten för psykologiskt försvar (lägesbild inför valet 2026) · 2026-03-25 · missbruk · [SVE-14](../påståenden/2026/SVE-14.yaml)
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
@@ -68,6 +86,36 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [Countering misuse of AI: September 2026 / Anthropic](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
   *Förbehåll:* Ett provskott med en styrd raket misslyckades, och gruppen återvände till Claude inom några timmar för att felsöka. Gruppen har redan byggt ett simuleringsverktyg som fungerar utan Claude.
+- **I experiment kan AI-genererat innehåll vara lika effektivt som text skriven av människor på att ändra människors uppfattningar. Enligt rapporten är verklig användning av AI för manipulation dokumenterad men ännu inte utbredd.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-09](../påståenden/2026/ISR-09.yaml)
+  > In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s bedömning.
+- **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · [ISR-10](../påståenden/2026/ISR-10.yaml)
+  > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.
+- **I en nyligen publicerad studie gav AI-system utan relevanta skydd betydande hjälp med uppgifter som motsvarar stegen för att skaffa biologiska vapen, jämfört med att bara ha tillgång till internet.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-13](../påståenden/2026/ISR-13.yaml)
+  > In a recently published real-world uplift study, general-purpose AI systems without relevant safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline of internet access only
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.
+- **Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, missbruk · [ISR-30](../påståenden/2026/ISR-30.yaml)
+  > users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.
+- **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · [ISR-31](../påståenden/2026/ISR-31.yaml)
+  > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.
 - **Enligt MPF var de svenska valen 2026 inte ett prioriterat mål för rysk påverkan. Omfattningen av påverkan riktad mot Sverige var betydligt lägre än 2022 och 2023.**
   Myndigheten för psykologiskt försvar · 2026-03-25 · missbruk, geopolitik · [SVE-15](../påståenden/2026/SVE-15.yaml)
   > Sverige och svenska val är för närvarande inte ett prioriterat mål för rysk informationspåverkan.

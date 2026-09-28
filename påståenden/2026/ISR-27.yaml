@@ -1,0 +1,23 @@
+id: ISR-27
+påstående: Under 2025 publicerade eller uppdaterade 12 AI-företag sina ramverk för säkerhet vid gränsen
+  för AI:s förmåga, alltså dokument som beskriver hur de ska hantera risker när de bygger mer kapabla
+  modeller.
+typ: händelse
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- styrning
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that
+    describe how they plan to manage risks as they build more capable models.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk
+  har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

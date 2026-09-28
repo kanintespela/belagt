@@ -4,10 +4,16 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-47 påståenden, de viktigaste först inom varje år.
+49 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, röster · [ISR-19](../påståenden/2026/ISR-19.yaml)
+  > Some believe that outcomes as extreme as the extinction of humanity are plausible
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.
 - **AI-pionjären Yann LeCun menar att domedagsberättelserna om AI är fel och skadliga, och att vissa gymnasieelever mår dåligt av att tro att AI ska utrota mänskligheten.**
   Yann LeCun (Turingpristagare, tidigare AI-chef på Meta, nu vid AMI Labs) · 2026-05-04 · röster · [BAL-05](../påståenden/2026/BAL-05.yaml)
   > A small proportion of high school students are actually kind of depressed because they've read that AI is not only going to take a job, but basically cause human extinction
@@ -164,6 +170,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Varnar: Räcker inte att bromsa – AI måste stoppas](https://www.gp.se/nyheter/sverige/varnar-racker-inte-att-bromsa-ai-maste-stoppas.b2b188b5-1155-5546-9e38-a4021113042d)
 
   *Förbehåll:* TT-artikel, publicerad i GP med flera tidningar. Häggström menar att det är ett olöst grundproblem hur kraftfull AI ska fås att verka i människans intresse.
+- **Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.**
+  International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, röster · [ISR-01](../påståenden/2026/ISR-01.yaml)
+  > It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+
+  *Förbehåll:* Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
 - **Yann LeCun uppmanar folk att inte lyssna på AI-företagens vd:ar, eftersom de har ett intresse av att framställa sina produkter som kraftfulla.**
   Yann LeCun · 2026-05-04 · röster · [BAL-06](../påståenden/2026/BAL-06.yaml)
   > they have a vested interest in propping up the power of the products they sell

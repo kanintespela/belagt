@@ -1,0 +1,22 @@
+id: ISR-14
+påstående: Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till
+  den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de
+  agerar självständigt och människor hinner ingripa mindre.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Current techniques can reduce failure rates but not to the level required in many high-stakes
+    settings.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Exempel på fel som nämns är påhittad information, felaktig kod och vilseledande råd.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

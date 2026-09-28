@@ -1,0 +1,21 @@
+id: ISR-24
+påstående: Tidiga belägg tyder enligt rapporten på att beroende av AI-verktyg kan försvaga förmågan till
+  kritiskt tänkande och leda till att man litar på AI:s svar utan att granska dem tillräckligt.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- samhälle
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Early evidence suggests that reliance on AI tools can weaken critical thinking skills and encourage
+    ‘automation bias’, the tendency to trust AI system outputs without sufficient scrutiny.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Fenomenet kallas automation bias. Relevant för skola och folkbildning.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null

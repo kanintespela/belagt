@@ -1,0 +1,23 @@
+id: ISR-15
+påstående: Enligt rapporten saknar dagens AI-system de förmågor som skulle krävas för att människor ska
+  förlora kontrollen över dem, men systemen blir bättre inom relevanta områden, som att arbeta självständigt.
+typ: bedömning
+vem: International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och
+  EU)
+datum: '2026-02-03'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2602.21012
+  titel: International AI Safety Report 2026
+  citat: Current systems lack the capabilities to pose such risks, but they are improving in relevant
+    areas such as autonomous operation.
+  hämtad: '2026-09-24'
+  arkiv: null
+förbehåll: Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll
+  utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget
+  i juli 2026 (J3ljHm57yU0-18).
+vikt: 3
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-28'
+ersatt_av: null
