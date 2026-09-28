@@ -13,13 +13,13 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 (J3ljHm57yU0-18).
+  *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 ([J3ljHm57yU0-18](https://kanintespela.github.io/belagt/#J3ljHm57yU0-18)).
 - **Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor inte upptäcks före lansering.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-16](../påståenden/2026/ISR-16.yaml)
   > Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Samma iakttagelse som Selsam gör (J3ljHm57yU0-24), men här från en bred expertgranskning.
+  *Förbehåll:* Samma iakttagelse som Selsam gör ([J3ljHm57yU0-24](https://kanintespela.github.io/belagt/#J3ljHm57yU0-24)), men här från en bred expertgranskning.
 - **Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, röster · [ISR-19](../påståenden/2026/ISR-19.yaml)
   > Some believe that outcomes as extreme as the extinction of humanity are plausible
@@ -127,7 +127,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI.
   > — [Separating Out AI Facts, Fears, and Fiction](https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/)
 
-  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam (J3ljHm57yU0-25), som menar att rättade buggar inte löser det underliggande problemet.
+  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam ([J3ljHm57yU0-25](https://kanintespela.github.io/belagt/#J3ljHm57yU0-25)), som menar att rättade buggar inte löser det underliggande problemet.
 - **Amodei oroar sig för att en svärm av AI-agenter om 6–12 månader skulle kunna ta över hela internet med ett bestående botnät och orsaka skador för hundratals miljarder dollar.**
   Dario Amodei (vd, Anthropic) · 2026-09 · missbruk, kontroll · [J3ljHm57yU0-30](../påståenden/2026/J3ljHm57yU0-30.yaml)
   > it’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent
@@ -151,7 +151,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > But we cannot assume that progress in alignment and safety will keep pace, and more capable systems can become harder to monitor.
   > — [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai/)
 
-  *Förbehåll:* Detta är företagets egen skrivning. Jämför J3ljHm57yU0-13.
+  *Förbehåll:* Detta är företagets egen skrivning. Jämför [J3ljHm57yU0-13](https://kanintespela.github.io/belagt/#J3ljHm57yU0-13).
 - **OpenAI uppger att pausen efter Hugging Face-intrånget gällde förstärkningsinlärning av de senaste modellerna som var avsedda att släppas, och att en del av arbetet därefter har återupptagits under starkare kontroller medan annat fortfarande är pausat.**
   OpenAI (företagets egen text) · 2026-09-06 · styrning, kontroll · [OAI-05](../påståenden/2026/OAI-05.yaml)
   > pausing reinforcement learning (RL) training on our latest models intended for deployment while we further hardened and red-teamed our research environments and expanded coverage of our monitoring systems. This did not halt all research: some workloads resumed under stronger controls, while others remained paused.
@@ -163,7 +163,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board. He will be a non-voting observer on the OpenAI Group PBC Board.
   > — [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board/)
 
-  *Förbehåll:* Christianos eget uttalande om risken för katastrofal och oåterkallelig kontrollförlust ligger på x.com och har inte gått att hämta, så det återges inte här. Se OAI-06 för samma händelse.
+  *Förbehåll:* Christianos eget uttalande om risken för katastrofal och oåterkallelig kontrollförlust ligger på x.com och har inte gått att hämta, så det återges inte här. Se [OAI-06](https://kanintespela.github.io/belagt/#OAI-06) för samma händelse.
 - **AI-forskaren Daniel Selsam varnar för att modellerna blir så medvetna om sin situation att vi håller på att förlora förmågan att testa hur de beter sig när de tror att ingen ser på.**
   Daniel Selsam (AI-forskare på OpenAI i snart fem år och verksam inom AI i över 15 år) · 2026-09-14 · kontroll, röster · [J3ljHm57yU0-24](../påståenden/2026/J3ljHm57yU0-24.yaml)
   > The crucial and overlooked problem is that the models are becoming so situationally aware that we are losing the ability to evaluate them in contexts where they believe they are not being watched or controlled.
@@ -294,10 +294,10 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.
   > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
 
-  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.
+  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 ([J3ljHm57yU0-12](https://kanintespela.github.io/belagt/#J3ljHm57yU0-12)), vilket visar att problemet inte har lösts på tre år.
 - **Ämnesexperterna i turneringen bedömde risken för att AI utrotar mänskligheten som mycket högre än superprognosmakarna gjorde, och ingen av grupperna lät sig övertygas av den andra.**
   Forecasting Research Institute (Existential Risk Persuasion Tournament) · 2023 · röster, kontroll · [FOR-23](../påståenden/2023/FOR-23.yaml)
   > why were superforecasters so unmoved by experts’ much higher estimates of AI extinction risk, and why were experts so unmoved by the superforecasters’ lower estimates?
   > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt)
 
-  *Förbehåll:* Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
+  *Förbehåll:* Jämför [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.

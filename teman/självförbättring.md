@@ -31,7 +31,7 @@ AI som används för att utveckla AI.
   > that he had quit his job because Anthropic and his previous employer, OpenAI, were ignoring or mishandling their response to the threat AI posed.
   > — [OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development](https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development)
 
-  *Förbehåll:* Originalinlägget ligger på x.com och går inte att hämta, så The Guardians återgivning används. Coxons eget citat om vad de som bygger AI tror finns i J3ljHm57yU0-02.
+  *Förbehåll:* Originalinlägget ligger på x.com och går inte att hämta, så The Guardians återgivning används. Coxons eget citat om vad de som bygger AI tror finns i [J3ljHm57yU0-02](https://kanintespela.github.io/belagt/#J3ljHm57yU0-02).
 - **Amodei skriver att AI sedan ungefär sommaren 2026 har utvecklats drastiskt snabbare, främst för att AI allt mer kan bygga nästa generation AI, och att detta sker i hela branschen, inklusive på Anthropic.**
   Dario Amodei (vd, Anthropic) · 2026-09 · självförbättring, tempo · [J3ljHm57yU0-29](../påståenden/2026/J3ljHm57yU0-29.yaml)
   > since roughly this summer, AI has been advancing drastically faster, driven primarily by AI’s growing ability to build the next generation of AI.
@@ -51,7 +51,7 @@ AI som används för att utveckla AI.
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
+  *Förbehåll:* Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **OpenAI uppger att AI hjälpte till att utveckla företagets första egna inferenschip, så att det gick nio månader från första design till färdig konstruktion.**
   OpenAI · 2026-08 · självförbättring · [J3ljHm57yU0-15](../påståenden/2026/J3ljHm57yU0-15.yaml)
   > AI played a direct role in Jalapeño’s development, enabling the team to move from initial design to tapeout in nine months

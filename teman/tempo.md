@@ -25,7 +25,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > this is not going to take us to human-level AI for quite a while
   > — [AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)
 
-  *Förbehåll:* Motbild till Hassabis (J3ljHm57yU0-37). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet och Hugging Face-rapporten.
+  *Förbehåll:* Motbild till Hassabis ([J3ljHm57yU0-37](https://kanintespela.github.io/belagt/#J3ljHm57yU0-37)). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet och Hugging Face-rapporten.
 - **OpenAI uppger att AI-agenter i mitten av augusti 2026 utförde 3,1 arbetsdagars arbete för varje arbetsdag som företagets mänskliga forskare gjorde.**
   OpenAI (företagets egen mätning) · 2026-08 · självförbättring, tempo · [OAI-02](../påståenden/2026/OAI-02.yaml)
   > as of mid-August, in total, the research organization uses 3.1 agent-workdays of effort for every workday of human labor.
@@ -73,7 +73,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
+  *Förbehåll:* Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](../påståenden/2026/ISR-03.yaml)
   > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
@@ -85,13 +85,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.
+  *Förbehåll:* Jämför [TID-01](https://kanintespela.github.io/belagt/#TID-01) om hur snabbt beräkningskraften för träning har ökat.
 - **Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, samhälle · [ISR-26](../påståenden/2026/ISR-26.yaml)
   > 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
+  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför [SVR-16](https://kanintespela.github.io/belagt/#SVR-16) om användningen i Sverige.
 - **Stockholmsbolaget Lovable, som låter människor utan programmeringskunskaper bygga appar genom att chatta med AI, värderades i augusti 2026 till 13,3 miljarder dollar, alltså 127 miljarder kronor. Det är mer än börsvärdet för SKF, Skanska och Securitas.**
   Dagens PS · 2026-08 · nytta, tempo · [SVR-19](../påståenden/2026/SVR-19.yaml)
   > Svenska AI-bolaget Lovable tar in 400 miljoner dollar i nytt kapital och mer än fördubblar sin värdering till 13,3 miljarder dollar, motsvarande 127 miljarder kronor.
@@ -134,7 +134,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · [TID-15](../påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
@@ -152,7 +152,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
-  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se ENE-10.
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se [ENE-10](https://kanintespela.github.io/belagt/#ENE-10).
 - **Google uppger att C2S-Scales upptäckt krävde ett slags villkorat resonemang som uppstod först med modellens storlek, och att företagets mindre modeller inte klarade uppgiften.**
   Google Research och Google DeepMind · 2025-10 · nytta, förmågor, tempo · [NYT-06](../påståenden/2025/NYT-06.yaml)
   > This required a level of conditional reasoning that appeared to be an emergent capability of scale; our smaller models could not resolve this context-dependent effect.
@@ -164,13 +164,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
-  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07 om AI-företagens aviserade investeringar.
+  *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför [ISR-07](https://kanintespela.github.io/belagt/#ISR-07) om AI-företagens aviserade investeringar.
 - **Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.**
   Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö, tempo · [ENE-15](../påståenden/2025/ENE-15.yaml)
   > Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.
   > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
 
-  *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser (ENE-02) tar hänsyn till.
+  *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser ([ENE-02](https://kanintespela.github.io/belagt/#ENE-02)) tar hänsyn till.
 
 ## 2024
 
@@ -185,13 +185,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > I think it could come as early as 2026, though there are also ways it could take much longer.
   > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace)
 
-  *Förbehåll:* Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet AGI. Jämför J3ljHm57yU0-29, där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.
+  *Förbehåll:* Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet AGI. Jämför [J3ljHm57yU0-29](https://kanintespela.github.io/belagt/#J3ljHm57yU0-29), där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · [TID-09](../påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
   > — [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/)
 
-  *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se TID-03).
+  *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se [TID-03](https://kanintespela.github.io/belagt/#TID-03)).
 
 ## 2023
 
@@ -209,4 +209,4 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
   > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165)
 
-  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT (TID-05) byggde på en vidareutveckling.
+  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT ([TID-05](https://kanintespela.github.io/belagt/#TID-05)) byggde på en vidareutveckling.

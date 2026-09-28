@@ -31,7 +31,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför OAI-01, där OpenAI själva skriver att allmänheten behöver mer insyn.
+  *Förbehåll:* Jämför [OAI-01](https://kanintespela.github.io/belagt/#OAI-01), där OpenAI själva skriver att allmänheten behöver mer insyn.
 - **Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, styrning · [ISR-29](../påståenden/2026/ISR-29.yaml)
   > Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.
@@ -103,7 +103,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI.
   > — [Separating Out AI Facts, Fears, and Fiction](https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/)
 
-  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam (J3ljHm57yU0-25), som menar att rättade buggar inte löser det underliggande problemet.
+  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam ([J3ljHm57yU0-25](https://kanintespela.github.io/belagt/#J3ljHm57yU0-25)), som menar att rättade buggar inte löser det underliggande problemet.
 - **Andrew Ng menar att en paus skulle göra mer skada än nytta: motståndarna bromsar inte, och säkerhetsproblem hittas och löses först när tekniken används.**
   Andrew Ng · 2026-09 · styrning, geopolitik, röster · [BAL-03](../påståenden/2026/BAL-03.yaml)
   > Pausing AI progress will create much more harm than benefit. First, our adversaries will certainly not slow down.
@@ -151,7 +151,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > The most dangerous models will be *general* AI models that can understand language and complete a wide range of tasks across many different domains.
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
-  *Förbehåll:* Visar var PauseAI drar gränsen. Ställ mot NYT-06: C2S-Scale är byggd på en generell modell och upptäckten hängde på skalan, så gränsen är inte skarp. Sidan uppdateras löpande, hämtad 2026-09-24.
+  *Förbehåll:* Visar var PauseAI drar gränsen. Ställ mot [NYT-06](https://kanintespela.github.io/belagt/#NYT-06): C2S-Scale är byggd på en generell modell och upptäckten hängde på skalan, så gränsen är inte skarp. Sidan uppdateras löpande, hämtad 2026-09-24.
 - **OpenAI:s forskningschef skriver att inget AI-labb har löst alignment och övervakning tillräckligt för att ansvarsfullt fortsätta skala upp i maxfart mycket längre. Han hoppas att frivilliga inbromsningar blir vanliga och vill att regeringar gör internationell samordning till en topprioritet.**
   Jakub Pachocki (forskningschef, OpenAI) · 2026-09-06 · styrning, kontroll, röster · [J3ljHm57yU0-12](../påståenden/2026/J3ljHm57yU0-12.yaml)
   > Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to continue responsibly scaling at maximum speed for much longer.
@@ -199,7 +199,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).
+  *Förbehåll:* Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning ([SVE-10](https://kanintespela.github.io/belagt/#SVE-10)).
 - **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · [ISR-31](../påståenden/2026/ISR-31.yaml)
   > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
@@ -217,13 +217,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Implementing a pause *can* backfire if it is not done properly
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
-  *Förbehåll:* Bra att ha med för ärlighetens skull. Jämför med motargumenten från Ng (BAL-03) och Chalmersforskarna (SVE-08). PauseAI:s svar finns på pauseai.info/mitigating-pause-failures, som ännu inte är hämtad.
+  *Förbehåll:* Bra att ha med för ärlighetens skull. Jämför med motargumenten från Ng ([BAL-03](https://kanintespela.github.io/belagt/#BAL-03)) och Chalmersforskarna ([SVE-08](https://kanintespela.github.io/belagt/#SVE-08)). PauseAI:s svar finns på pauseai.info/mitigating-pause-failures, som ännu inte är hämtad.
 - **PauseAI vill att nyttan av eventuell säker övermänsklig AI ska komma hela mänskligheten till del, och att inget enskilt företag eller land ska få ta hela vinsten.**
   PauseAI · 2026-04-05 · styrning, nytta · [PAI-04](../påståenden/2026/PAI-04.yaml)
   > No single company or country should be allowed to collect all of the surplus generated by AI.
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
-  *Förbehåll:* Knyter an till oron för maktkoncentration hos DeepSeek-ingenjören (J3ljHm57yU0-35) och Folkets AI-kommission (SVE-09).
+  *Förbehåll:* Knyter an till oron för maktkoncentration hos DeepSeek-ingenjören ([J3ljHm57yU0-35](https://kanintespela.github.io/belagt/#J3ljHm57yU0-35)) och Folkets AI-kommission ([SVE-09](https://kanintespela.github.io/belagt/#SVE-09)).
 - **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
   Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](../påståenden/2026/SVS-08.yaml)
   > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
@@ -235,7 +235,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > i uppdrag att vara nationella behöriga myndigheter enligt AI-förordningen
   > — [Sveriges AI-strategi](https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/)
 
-  *Förbehåll:* Visar hur AI-förordningen genomförs i Sverige. De mest avancerade modellerna tillsynas dock av EU:s AI-byrå, inte av svenska myndigheter (SVE-11).
+  *Förbehåll:* Visar hur AI-förordningen genomförs i Sverige. De mest avancerade modellerna tillsynas dock av EU:s AI-byrå, inte av svenska myndigheter ([SVE-11](https://kanintespela.github.io/belagt/#SVE-11)).
 - **Enfrågepartiet RegleraAI.nu ställde upp i riksdagsvalet 2026 med kravet att Sverige genast ska verka för en global paus i hänsynslös AI-utveckling. Partiet grundades av AI-säkerhetsingenjören Axel Wennström, och Olle Häggström stod som nummer två på riksdagslistan.**
   Olle Häggström (blogginlägget ”Häggström hävdar”) · 2026-08 · styrning, röster · [SVE-06](../påståenden/2026/SVE-06.yaml)
   > Sverige måste genast verka för en global paus på hänsynslös AI-utveckling.
@@ -253,7 +253,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Vi skulle behöva bromsa utvecklingen och omfördela resurser till säkerhetsforskning.
   > — [Larm om AI-rymningar: "Behöver bromsa utvecklingen"](https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4)
 
-  *Förbehåll:* Johnson tror inte att AI-företagens varningar är ett PR-trick: ”De här bolagen vill inte bli reglerade.” Jämför med Dignum (SVR-08) i samma artikel.
+  *Förbehåll:* Johnson tror inte att AI-företagens varningar är ett PR-trick: ”De här bolagen vill inte bli reglerade.” Jämför med Dignum ([SVR-08](https://kanintespela.github.io/belagt/#SVR-08)) i samma artikel.
 - **Dignum menar att det inte är tekniken som har tappat kontrollen utan företagen som agerar oansvarigt, och att problemet är för lite politisk styrning och översyn.**
   Virginia Dignum, i GP · 2026-08-10 · styrning, röster · [SVR-09](../påståenden/2026/SVR-09.yaml)
   > Det är inte tekniken som tappat kontrollen, det är företagen som agerar oansvarigt.
@@ -265,7 +265,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > måste bevisa att dessa är säkra och inte riskerar orsaka global katastrof.
   > — [”Ja – Sverige bör inrätta ett institut för ai-säkerhet”](https://www.nyteknik.se/debatt/ja-sverige-boer-inraetta-ett-institut-foer-ai-saekerhet/4485946)
 
-  *Förbehåll:* Samma princip som Stuart Russell (BAL-14): säkerhetskraven först, fortsatt utveckling sedan.
+  *Förbehåll:* Samma princip som Stuart Russell ([BAL-14](https://kanintespela.github.io/belagt/#BAL-14)): säkerhetskraven först, fortsatt utveckling sedan.
 - **Enligt The Guardian avfärdade Donald Trump i september 2026 oron för att AI kan utrota mänskligheten och sa att folk tar upp saker som inte kommer att hända.**
   The Guardian (om Donald Trump) · 2026-09 · geopolitik, styrning · [BAL-12](../påståenden/2026/BAL-12.yaml)
   > saying people were “bringing up things that won’t happen”
@@ -301,7 +301,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Det finns en stor utmaning idag i att vi har väldigt lite insyn och externa tredjepartsobservatörer som utvärderar systemen.
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
-  *Förbehåll:* Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår (J3ljHm57yU0-31). Man kan alltså vara överens om åtgärder utan att vara överens om risken.
+  *Förbehåll:* Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår ([J3ljHm57yU0-31](https://kanintespela.github.io/belagt/#J3ljHm57yU0-31)). Man kan alltså vara överens om åtgärder utan att vara överens om risken.
 - **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · [SVS-09](../påståenden/2026/SVS-09.yaml)
   > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.
@@ -313,13 +313,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Hold AI model creators liable
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
-  *Förbehåll:* Ansvarsfrågan lyfts även av Ng (BAL-04), men med motsatt slutsats: Ng lägger ansvaret på användaren. Bra diskussionspar.
+  *Förbehåll:* Ansvarsfrågan lyfts även av Ng ([BAL-04](https://kanintespela.github.io/belagt/#BAL-04)), men med motsatt slutsats: Ng lägger ansvaret på användaren. Bra diskussionspar.
 - **En kritisk granskning av Amodeis essä påpekar att förslaget saknar en faktisk hastighetsgräns: det finns varken mätbara trösklar eller påföljder för den som går för fort.**
   StartupHub.ai (Daniel Singer, redaktör) · 2026-09 · styrning · [BAL-16](../påståenden/2026/BAL-16.yaml)
   > The skeptic case is not that pacing is wrong. It is that the proposal has no pacing mechanism.
   > — [Dario Amodei We Must Pace the Frontier Is Vague](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/dario-amodei-we-must-pace-the-frontier-is-vague)
 
-  *Förbehåll:* Liten källa med mindre tyngd. Poängen är ändå saklig och kan kontrolleras mot Amodeis egen text (J3ljHm57yU0-28, J3ljHm57yU0-31). Samma källa uppger att oberoende granskningar räknade till cirka 1 200 respektive cirka 700 agenter i Hugging Face-intrånget. Det är andrahandsuppgifter.
+  *Förbehåll:* Liten källa med mindre tyngd. Poängen är ändå saklig och kan kontrolleras mot Amodeis egen text ([J3ljHm57yU0-28](https://kanintespela.github.io/belagt/#J3ljHm57yU0-28), [J3ljHm57yU0-31](https://kanintespela.github.io/belagt/#J3ljHm57yU0-31)). Samma källa uppger att oberoende granskningar räknade till cirka 1 200 respektive cirka 700 agenter i Hugging Face-intrånget. Det är andrahandsuppgifter.
 
 ## 2025
 
@@ -328,7 +328,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > most respondents (70%) oppose the proposition that we should halt research aimed at AGI until full safety and control mechanisms are established
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen (PAI-01), så svaret säger inte direkt vad forskarna tycker om det.
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen ([PAI-01](https://kanintespela.github.io/belagt/#PAI-01)), så svaret säger inte direkt vad forskarna tycker om det.
 - **Narayanan och Kapoor menar att det trots den skarpa retoriken om en kapplöpning mellan USA och Kina inte är klarlagt att AI-regleringen har bromsat in i något av länderna.**
   Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil) · 2025-04-15 · styrning, geopolitik, röster · [KIN-08](../påståenden/2025/KIN-08.yaml)
   > Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down in either country.
@@ -370,13 +370,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild.
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild.
 - **82 procent av de tillfrågade i AAAI:s enkät anser att AGI-system bör ägas gemensamt av allmänheten om de utvecklas av privata aktörer.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-21](../påståenden/2025/FOR-21.yaml)
   > A substantial majority of respondents (82%) believe that systems with AGI should be publicly owned if developed by private entities
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla till del.
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför [PAI-04](https://kanintespela.github.io/belagt/#PAI-04) om att nyttan ska komma alla till del.
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
@@ -412,7 +412,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > Since the publication of the last Report (January 2025)
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Den andra rapporten kom i februari 2026 (ISR-01).
+  *Förbehåll:* Den andra rapporten kom i februari 2026 ([ISR-01](https://kanintespela.github.io/belagt/#ISR-01)).
 
 ## 2024
 
@@ -421,13 +421,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
-  *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.
+  *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: [SVE-10](https://kanintespela.github.io/belagt/#SVE-10) och [SVE-11](https://kanintespela.github.io/belagt/#SVE-11).
 - **Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också säga ifrån när en risk visar sig vara överdriven.**
   AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige) · 2024-11-26 · styrning · [SVE-01](../påståenden/2024/SVE-01.yaml)
   > I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.
   > — [AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/)
 
-  *Förbehåll:* Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget (SVE-02, SVE-04), men det har inte kontrollerats mot regeringens egna uppgifter.
+  *Förbehåll:* Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget ([SVE-02](https://kanintespela.github.io/belagt/#SVE-02), [SVE-04](https://kanintespela.github.io/belagt/#SVE-04)), men det har inte kontrollerats mot regeringens egna uppgifter.
 - **En stor majoritet av AI-forskarna ansåg att forskning om AI-säkerhet borde prioriteras mer än den gör i dag.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-15](../påståenden/2024/FOR-15.yaml)
   > A large majority of respondents thought that AI safety research should be prioritized more than it currently is.
@@ -454,7 +454,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > we call on all AI labs to immediately pause for at least 6 months the training of AI systems more powerful than GPT-4
   > — [Pause Giant AI Experiments: An Open Letter - Future of Life Institute](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 
-  *Förbehåll:* Någon paus blev det inte. Jämför Amodeis bedömning 2026 att idén var ”föga meningsfull då” (J3ljHm57yU0-32). PauseAI grundades samma år.
+  *Förbehåll:* Någon paus blev det inte. Jämför Amodeis bedömning 2026 att idén var ”föga meningsfull då” ([J3ljHm57yU0-32](https://kanintespela.github.io/belagt/#J3ljHm57yU0-32)). PauseAI grundades samma år.
 - **Riskkapitalisten Marc Andreessen skriver att varje inbromsning av AI kommer att kosta liv, och kallar förhindrade dödsfall som AI hade kunnat förhindra för en form av mord.**
   Marc Andreessen (riskkapitalist, Andreessen Horowitz) · 2023-10 · nytta, styrning, röster · [BAL-10](../påståenden/2023/BAL-10.yaml)
   > We believe any deceleration of AI will cost lives. Deaths that were preventable by the AI that was prevented from existing is a form of murder.
@@ -466,19 +466,19 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
+  *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten ([ISR-01](https://kanintespela.github.io/belagt/#ISR-01)) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
 - **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
   Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · [TID-19](../påståenden/2023/TID-19.yaml)
   > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
-  *Förbehåll:* Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+  *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
 - **Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.**
   Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri · 2023 · styrning, röster, samhälle · [SVS-14](../påståenden/2023/SVS-14.yaml)
   > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
   > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
 
-  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
+  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus ([TID-07](https://kanintespela.github.io/belagt/#TID-07)). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan ([BIA-02](https://kanintespela.github.io/belagt/#BIA-02)).
 - **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
   OpenAI:s styrelse · 2023-11-17 · styrning · [TID-18](../påståenden/2023/TID-18.yaml)
   > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.

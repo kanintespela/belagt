@@ -13,7 +13,7 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > Overall, though, firms don't appear to be replacing workers with AI on a significant scale and we doubt that unemployment rates will be pushed up heavily by AI over the next few years.
   > — [Job Stats](https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf)
 
-  *Förbehåll:* Oxford Economics ser anekdotiska belägg för att jobb försvinner i sektorer som är utsatta för AI, men menar att tidiga påståenden om AI:s effekt på arbetsmarknaden är överdrivna. Viktig motbild till SAM-05.
+  *Förbehåll:* Oxford Economics ser anekdotiska belägg för att jobb försvinner i sektorer som är utsatta för AI, men menar att tidiga påståenden om AI:s effekt på arbetsmarknaden är överdrivna. Viktig motbild till [SAM-05](https://kanintespela.github.io/belagt/#SAM-05).
 - **Rapporten bedömer att generell AI sannolikt kommer att automatisera en lång rad kognitiva arbetsuppgifter, särskilt inom kunskapsarbete. Ekonomer är oense om hur stor effekten blir på jobb och löner.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-21](../påståenden/2026/ISR-21.yaml)
   > General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge work.
@@ -25,31 +25,31 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > Early evidence shows no effect on overall employment, but some signs of declining demand for early-career workers in some AI-exposed occupations, such as writing.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Tidiga belägg som snabbt kan bli inaktuella. Jämför SVR-17 (7 procent av svenskarna oroliga för jobbet) och SVR-18 (Klarna).
+  *Förbehåll:* Tidiga belägg som snabbt kan bli inaktuella. Jämför [SVR-17](https://kanintespela.github.io/belagt/#SVR-17) (7 procent av svenskarna oroliga för jobbet) och [SVR-18](https://kanintespela.github.io/belagt/#SVR-18) (Klarna).
 - **Bedragare använder AI-klonade röster och deepfakes för att lura offer att föra över pengar. Dokumenterade fall omfattar både chefer som fört över miljoner och vanliga människor som skickat mindre summor till någon som utgav sig för att vara en anhörig.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · [SAM-09](../påståenden/2026/SAM-09.yaml)
   > Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i Sverige.
+  *Förbehåll:* Jämför [SVE-16](https://kanintespela.github.io/belagt/#SVE-16) om AI-klonade röster i Sverige.
 - **En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · [SAM-10](../påståenden/2026/SAM-10.yaml)
   > One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.
+  *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför [TID-12](https://kanintespela.github.io/belagt/#TID-12) om EU:s förbud och [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) om Kinas regler.
 - **Enligt rapporten har en del användare av AI-kompanjoner utvecklat starkt känslomässigt beroende eller vanföreställningar, och några har tagit sina liv efter långa samtal med chattbottar.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [SAM-11](../påståenden/2026/SAM-11.yaml)
   > some users have developed strong emotional dependence (353), delusions (357), or even taken their own lives after extended interactions with chatbots
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Rapporten skriver att utredningarna av fallen pågår och att det saknas tydliga belägg för att chattbottar orsakar psykisk ohälsa. Formulera försiktigt och undvik detaljer som kan vara skadliga. Jämför ISR-25.
+  *Förbehåll:* Rapporten skriver att utredningarna av fallen pågår och att det saknas tydliga belägg för att chattbottar orsakar psykisk ohälsa. Formulera försiktigt och undvik detaljer som kan vara skadliga. Jämför [ISR-25](https://kanintespela.github.io/belagt/#ISR-25).
 - **En studie på svenska registerdata visar att sysselsättningen bland 22–25-åringar i yrken som är mycket utsatta för AI minskade med 5,5 procent fram till början av 2025 jämfört med mindre utsatta yrken hos samma arbetsgivare, medan sysselsättningen bland personer över 50 ökade med 1,3 procent.**
   Lodefalk, Löthman, Koch och Engberg (Örebro universitet och Ratio) · 2026-03 · samhälle · [SVS-01](../påståenden/2026/SVS-01.yaml)
   > An event study documents an accelerating decline in employment of 22–25-year-olds in high-AI-exposure occupations, reaching 5.5 per cent by early 2025 relative to less exposed occupations within the same employers, while employment of workers over 50 rose by 1.3 per cent.
   > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
 
-  *Förbehåll:* Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som ISR-22 och amerikansk forskning.
+  *Förbehåll:* Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som [ISR-22](https://kanintespela.github.io/belagt/#ISR-22) och amerikansk forskning.
 - **Oxford Economics misstänker att en del företag skyller uppsägningar på AI för att få dem att låta som goda nyheter, när den verkliga orsaken är något annat, till exempel att de tidigare anställt för många.**
   Oxford Economics (analysföretag, Ben May och Yasmine Badawy) · 2026-01-07 · samhälle · [SAM-02](../påståenden/2026/SAM-02.yaml)
   > we suspect some firms are trying to dress up layoffs as a good news story rather than bad news, such as past over-hiring.
@@ -67,7 +67,7 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > we've previously argued that by 2032, some sectors could see as much as 30% of their workforce displaced.
   > — [Job Stats](https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf)
 
-  *Förbehåll:* Samma analysföretag som i SAM-01. De bedömer alltså att effekten på lite längre sikt kan bli stor i vissa sektorer, även om den ännu inte syns. De skriver också att AI sannolikt skapar nya roller, men att omställningen tar tid.
+  *Förbehåll:* Samma analysföretag som i [SAM-01](https://kanintespela.github.io/belagt/#SAM-01). De bedömer alltså att effekten på lite längre sikt kan bli stor i vissa sektorer, även om den ännu inte syns. De skriver också att AI sannolikt skapar nya roller, men att omställningen tar tid.
 - **En studie som rapporten hänvisar till uppskattar att omkring 60 procent av jobben i avancerade ekonomier och 40 procent i tillväxtekonomier är starkt exponerade för generell AI.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [ISR-23](../påståenden/2026/ISR-23.yaml)
   > One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies are highly exposed to generalpurpose AI
@@ -85,13 +85,13 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > ‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of increased loneliness and reduced social engagement.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför KIN-02 om Kinas regler för AI-kompanjontjänster.
+  *Förbehåll:* Jämför [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) om Kinas regler för AI-kompanjontjänster.
 - **Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, samhälle · [ISR-26](../påståenden/2026/ISR-26.yaml)
   > 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.
+  *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför [SVR-16](https://kanintespela.github.io/belagt/#SVR-16) om användningen i Sverige.
 - **Enligt OpenAI:s egna data visar omkring 0,07 procent av ChatGPT:s användare varje vecka tecken på akut psykisk kris, som psykos eller mani. Det motsvarar ungefär 490 000 människor i veckan.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · samhälle · [SAM-12](../påståenden/2026/SAM-12.yaml)
   > platform data indicates that around 0.07% of weekly ChatGPT users display signs consistent with acute mental health crises such as psychosis or mania
@@ -109,7 +109,7 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > we find that the broad decline in postings since 2022 aligns with monetary tightening rather than AI
   > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
 
-  *Förbehåll:* Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb det finns. Jämför SAM-01 (Oxford Economics).
+  *Förbehåll:* Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb det finns. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) (Oxford Economics).
 - **Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet är brist på kompetens.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · samhälle · [SVS-10](../påståenden/2026/SVS-10.yaml)
   > Enligt SCB använder 65 procent av de svenska företagen inte ai alls.
@@ -124,7 +124,7 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > AI could wipe out half of all entry-level white-collar jobs — and spike unemployment to 10-20% in the next one to five years, Amodei told us in an interview from his San Francisco office.
   > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
 
-  *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför SAM-01 och ISR-22, där inga effekter på den totala sysselsättningen syns ännu.
+  *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) och [ISR-22](https://kanintespela.github.io/belagt/#ISR-22), där inga effekter på den totala sysselsättningen syns ännu.
 - **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**
   Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster, nytta · [SAM-06](../påståenden/2025/SAM-06.yaml)
   > Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.
@@ -169,7 +169,7 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > the chance of all human occupations becoming fully automatable was forecast to reach 10% by 2037, and 50% as late as 2116
   > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
 
-  *Förbehåll:* Den stora skillnaden mot FOR-11 (2047) mellan uppgifter och yrken är ett känt och oförklarat mönster i enkäten, och den visar hur mycket svaren beror på hur frågan ställs. I enkäten 2022 var årtalet 2164.
+  *Förbehåll:* Den stora skillnaden mot [FOR-11](https://kanintespela.github.io/belagt/#FOR-11) (2047) mellan uppgifter och yrken är ett känt och oförklarat mönster i enkäten, och den visar hur mycket svaren beror på hur frågan ställs. I enkäten 2022 var årtalet 2164.
 - **Mer än hälften av AI-forskarna ansåg att det finns skäl till betydande eller extrem oro för sex olika scenarier, bland dem spridning av falsk information, auktoritär kontroll av befolkningen och ökad ojämlikhet.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · missbruk, samhälle, röster · [FOR-16](../påståenden/2024/FOR-16.yaml)
   > More than half suggested that “substantial” or “extreme” concern is warranted about six different AI-related scenarios, including spread of false information, authoritarian population control, and worsened inequality.
@@ -184,4 +184,4 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
   > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
 
-  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).
+  *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus ([TID-07](https://kanintespela.github.io/belagt/#TID-07)). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan ([BIA-02](https://kanintespela.github.io/belagt/#BIA-02)).

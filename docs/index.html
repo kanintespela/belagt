@@ -145,6 +145,9 @@ blockquote { margin: 0; padding: 10px 14px; border-left: 3px solid var(--accent)
 .källrad .svag { color: var(--svag); }
 .förbehåll { font-size: 0.9rem; margin: 10px 0 0; }
 .förbehåll b { color: var(--varning); }
+.ref { color: var(--accent); text-decoration: underline dotted; text-underline-offset: 2px; cursor: pointer; white-space: nowrap; }
+@keyframes blink { from { box-shadow: 0 0 0 3px var(--accent); } to { box-shadow: none; } }
+.post.blink { animation: blink 1.6s ease-out; }
 .åtgärder { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 12px; }
 .fler { display: block; margin: 16px auto 0; }
 .tom { text-align: center; color: var(--dämpad); padding: 48px 16px; }
@@ -373,6 +376,26 @@ function markera(text) {
   return o.length ? h.replace(new RegExp(`(${o.join("|")})`, "gi"), "<mark>$1</mark>") : h;
 }
 
+// Id:n i förbehållen (till exempel ENE-13) blir länkar som visar och öppnar posten de pekar på.
+function länkaId(html, egen) {
+  return html.replace(/\b([A-Za-z0-9_]{3,}-\d{2,3})\b/g, (m, id) => perId.has(id) && id !== egen
+    ? `<a class="ref" href="#${id}" data-ga="${id}" title="${esc(perId.get(id).påstående)}">${id}</a>` : m);
+}
+
+function gåTill(id) {
+  const p = perId.get(id);
+  if (!matchar(p)) rensa();
+  öppna.add(id);
+  const i = sorterade().findIndex(x => x.id === id);
+  visade = Math.max(visade, Math.ceil((i + 1) / SIDA) * SIDA);
+  ritaLista();
+  history.replaceState(null, "", location.search + "#" + id);
+  const el = document.getElementById(id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: "smooth", block: "start" });
+  el.classList.remove("blink"); void el.offsetWidth; el.classList.add("blink");
+}
+
 function postHtml(p) {
   const öppen = öppna.has(p.id), vald = urval.includes(p.id), k = p.källa;
   return `<article class="post${öppen ? " öppen" : ""}${vald ? " vald" : ""}" id="${esc(p.id)}">
@@ -390,7 +413,7 @@ function postHtml(p) {
         <div class="källrad">Källa: <a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel || k.url)}</a>
           <span class="svag">· ${esc(p.domän)}${k.hämtad ? ` · hämtad ${esc(k.hämtad)}` : ""}</span>
           ${k.arkiv ? ` · <a href="${esc(k.arkiv)}" target="_blank" rel="noopener">arkivkopia</a>` : ""}</div>
-        ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${markera(p.förbehåll)}</p>` : ""}
+        ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${länkaId(markera(p.förbehåll), p.id)}</p>` : ""}
         <div class="åtgärder">
           <button class="knapp liten" data-kopiera="${esc(p.id)}">Kopiera källhänvisning</button>
           <button class="knapp liten" data-länk="${esc(p.id)}">Kopiera länk</button>
@@ -536,6 +559,7 @@ document.addEventListener("click", e => {
   const t = e.target.closest("button, a");
   if (!t) return;
   const d = t.dataset;
+  if (d.ga) { e.preventDefault(); gåTill(d.ga); return; }
   if (d.fält) {
     const s = läge[d.fält]; s.has(d.värde) ? s.delete(d.värde) : s.add(d.värde);
     visade = SIDA; rita();
@@ -567,6 +591,10 @@ document.addEventListener("click", e => {
   else if (t.id === "delaurval") kopiera(`${location.origin}${location.pathname}?id=${urval.join(",")}`, "Länken till urvalet är kopierad");
   else if (t.id === "tömurval") { if (confirm("Ta bort alla påståenden ur urvalet?")) { urval = []; rita({ filter: false }); $("#urval").close(); } }
   else if (t.id === "stängintro") { $("#intro").hidden = true; lagring.spara("intro", false); }
+});
+window.addEventListener("hashchange", () => {
+  const id = decodeURIComponent(location.hash.slice(1));
+  if (perId.has(id) && !document.querySelector(`#${CSS.escape(id)} .detalj`)) gåTill(id);
 });
 $("#skymning").addEventListener("click", () => filterPanel(false));
 $("#urval").addEventListener("click", e => { if (e.target === $("#urval")) $("#urval").close(); });

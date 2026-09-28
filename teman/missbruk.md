@@ -19,13 +19,13 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.
+  *Förbehåll:* Jämför [SVE-16](https://kanintespela.github.io/belagt/#SVE-16) om AI-klonade röster i bedrägerier i Sverige.
 - **Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · [ISR-11](../påståenden/2026/ISR-11.yaml)
   > Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).
+  *Förbehåll:* Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget ([BAL-17](https://kanintespela.github.io/belagt/#BAL-17)).
 - **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · [ISR-12](../påståenden/2026/ISR-12.yaml)
   > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
@@ -37,13 +37,13 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför SVE-16 om AI-klonade röster i Sverige.
+  *Förbehåll:* Jämför [SVE-16](https://kanintespela.github.io/belagt/#SVE-16) om AI-klonade röster i Sverige.
 - **En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · [SAM-10](../påståenden/2026/SAM-10.yaml)
   > One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.
+  *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför [TID-12](https://kanintespela.github.io/belagt/#TID-12) om EU:s förbud och [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) om Kinas regler.
 - **Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.**
   Myndigheten för psykologiskt försvar (lägesbild inför valet 2026) · 2026-03-25 · missbruk · [SVE-14](../påståenden/2026/SVE-14.yaml)
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
@@ -103,7 +103,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s bedömning.
+  *Förbehåll:* Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför [SVE-14](https://kanintespela.github.io/belagt/#SVE-14) om MPF:s bedömning.
 - **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · [ISR-10](../påståenden/2026/ISR-10.yaml)
   > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
