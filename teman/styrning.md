@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-91 påståenden, de viktigaste först inom varje år.
+94 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -495,6 +495,30 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+- **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · styrning, geopolitik · [KIN-29](../påståenden/2025/KIN-29.yaml)
+  > 中国政府倡议成立世界人工智能合作组织。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
+- **Kinas regering vill att AI:s risker för sysselsättningen bedöms och att resurser styrs mot tillämpningar som skapar jobb, för att minska påverkan på arbetsmarknaden.**
+  Kinas statsråd (regeringen) · 2025-08-21 · samhälle, styrning · [KIN-27](../påståenden/2025/KIN-27.yaml)
+  > 加强人工智能应用就业风险评估，引导创新资源向创造就业潜力大的方向倾斜，减少对就业的冲击
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* stärk bedömningen av riskerna för sysselsättningen när AI tillämpas, styr innovationsresurser mot det som har stor potential att skapa jobb och minska påverkan på sysselsättningen
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+. Samma avsnitt betonar att AI skapar nya jobb och att omskolning ska stödjas. Det är en inriktning och inga bindande krav.
+- **Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen, och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.**
+  Kinas statsråd (regeringen) · 2025-08-21 · kontroll, styrning · [KIN-28](../påståenden/2025/KIN-28.yaml)
+  > 防范模型的黑箱、幻觉、算法歧视等带来的风险，加强前瞻评估和监测处置，推动人工智能应用合规、透明、可信赖。建立健全人工智能技术监测、风险预警、应急响应体系
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* förebygg risker som uppstår genom att modeller är svarta lådor, hallucinerar, diskriminerar genom algoritmer med mera, stärk framåtblickande bedömning, övervakning och hantering, och verka för att AI-tillämpningar är regelefterlevande, transparenta och pålitliga. Bygg upp och förbättra system för övervakning av AI-teknik, riskvarning och krisberedskap
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+, avsnittet om säkerhetsförmåga. Riskerna som nämns gäller dagens system; förlust av kontroll nämns inte i det här stycket.
 - **Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.**
   Kinas cyberrymdsmyndighet (CAC) · 2025-09-15 · styrning, kontroll · [KIN-25](../påståenden/2025/KIN-25.yaml)
   > 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布

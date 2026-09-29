@@ -2083,6 +2083,62 @@
    "citera": "Kinas regering, vid World AI Conference i Shanghai, 2025-07-26. 人工智能全球治理行动计划（全文）. https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml. Via Belagt KIN-18: https://kanintespela.github.io/belagt/#KIN-18"
   },
   {
+   "id": "KIN-29",
+   "påstående": "Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.",
+   "typ": "förslag",
+   "vem": "Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium",
+   "datum": "2025-07-26",
+   "tema": [
+    "styrning",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml",
+    "titel": "李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞",
+    "citat": "中国政府倡议成立世界人工智能合作组织。",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför KIN-05, där samma förslag återges av Concordia AI.",
+   "vikt": 2,
+   "bäst_före": "2027-07-26",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium, 2025-07-26. 李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞. https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml. Via Belagt KIN-29: https://kanintespela.github.io/belagt/#KIN-29"
+  },
+  {
+   "id": "KIN-30",
+   "påstående": "Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.",
+   "typ": "bedömning",
+   "vem": "Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium",
+   "datum": "2025-07-26",
+   "tema": [
+    "röster",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml",
+    "titel": "李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞",
+    "citat": "同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal.",
+   "vikt": 3,
+   "bäst_före": "2027-07-26",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium, 2025-07-26. 李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞. https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml. Via Belagt KIN-30: https://kanintespela.github.io/belagt/#KIN-30"
+  },
+  {
    "id": "URH-04",
    "påstående": "Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.",
    "typ": "händelse",
@@ -2174,6 +2230,90 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Google (Elsworth m.fl., bland dem Jeff Dean), 2025-08-21. Google: Measuring the environmental impact of delivering AI at Google scale (2025). https://arxiv.org/abs/2508.15734. Via Belagt ENE-15: https://kanintespela.github.io/belagt/#ENE-15"
+  },
+  {
+   "id": "KIN-26",
+   "påstående": "Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter och AI-agenter till 2027.",
+   "typ": "prognos",
+   "vem": "Kinas statsråd (regeringen)",
+   "datum": "2025-08-21",
+   "tema": [
+    "tempo",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm",
+    "titel": "国务院关于深入实施“人工智能+”行动的意见",
+    "citat": "到2027年，率先实现人工智能与6大重点领域广泛深度融合，新一代智能终端、智能体等应用普及率超70%",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Till 2027 ska AI först ha integrerats brett och djupt i sex prioriterade områden, och spridningen av tillämpningar som nya generationens smarta enheter och AI-agenter ska vara över 70 %",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur statsrådets yttrande om handlingsprogrammet AI+ (国发〔2025〕11号). Samma stycke sätter målet till över 90 procent till 2030 och säger att Kina till 2035 ska ha gått in i en ny fas som intelligent ekonomi och intelligent samhälle. Det är politiska mål, inte prognoser från någon oberoende bedömare, och det framgår inte hur spridningen ska mätas.",
+   "vikt": 3,
+   "bäst_före": "2027-12-31",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas statsråd (regeringen), 2025-08-21. 国务院关于深入实施“人工智能+”行动的意见. https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm. Via Belagt KIN-26: https://kanintespela.github.io/belagt/#KIN-26"
+  },
+  {
+   "id": "KIN-27",
+   "påstående": "Kinas regering vill att AI:s risker för sysselsättningen bedöms och att resurser styrs mot tillämpningar som skapar jobb, för att minska påverkan på arbetsmarknaden.",
+   "typ": "förslag",
+   "vem": "Kinas statsråd (regeringen)",
+   "datum": "2025-08-21",
+   "tema": [
+    "samhälle",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm",
+    "titel": "国务院关于深入实施“人工智能+”行动的意见",
+    "citat": "加强人工智能应用就业风险评估，引导创新资源向创造就业潜力大的方向倾斜，减少对就业的冲击",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "stärk bedömningen av riskerna för sysselsättningen när AI tillämpas, styr innovationsresurser mot det som har stor potential att skapa jobb och minska påverkan på sysselsättningen",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur statsrådets yttrande om AI+. Samma avsnitt betonar att AI skapar nya jobb och att omskolning ska stödjas. Det är en inriktning och inga bindande krav.",
+   "vikt": 2,
+   "bäst_före": "2027-08-21",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas statsråd (regeringen), 2025-08-21. 国务院关于深入实施“人工智能+”行动的意见. https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm. Via Belagt KIN-27: https://kanintespela.github.io/belagt/#KIN-27"
+  },
+  {
+   "id": "KIN-28",
+   "påstående": "Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen, och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.",
+   "typ": "förslag",
+   "vem": "Kinas statsråd (regeringen)",
+   "datum": "2025-08-21",
+   "tema": [
+    "kontroll",
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm",
+    "titel": "国务院关于深入实施“人工智能+”行动的意见",
+    "citat": "防范模型的黑箱、幻觉、算法歧视等带来的风险，加强前瞻评估和监测处置，推动人工智能应用合规、透明、可信赖。建立健全人工智能技术监测、风险预警、应急响应体系",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "förebygg risker som uppstår genom att modeller är svarta lådor, hallucinerar, diskriminerar genom algoritmer med mera, stärk framåtblickande bedömning, övervakning och hantering, och verka för att AI-tillämpningar är regelefterlevande, transparenta och pålitliga. Bygg upp och förbättra system för övervakning av AI-teknik, riskvarning och krisberedskap",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur statsrådets yttrande om AI+, avsnittet om säkerhetsförmåga. Riskerna som nämns gäller dagens system; förlust av kontroll nämns inte i det här stycket.",
+   "vikt": 2,
+   "bäst_före": "2027-08-21",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas statsråd (regeringen), 2025-08-21. 国务院关于深入实施“人工智能+”行动的意见. https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm. Via Belagt KIN-28: https://kanintespela.github.io/belagt/#KIN-28"
   },
   {
    "id": "SAM-08",

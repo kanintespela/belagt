@@ -1,0 +1,29 @@
+id: KIN-26
+påstående: Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter
+  och AI-agenter till 2027.
+typ: prognos
+vem: Kinas statsråd (regeringen)
+datum: '2025-08-21'
+tema:
+- tempo
+- samhälle
+källa:
+  url: https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm
+  titel: 国务院关于深入实施“人工智能+”行动的意见
+  citat: 到2027年，率先实现人工智能与6大重点领域广泛深度融合，新一代智能终端、智能体等应用普及率超70%
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Till 2027 ska AI först ha integrerats brett och djupt i sex prioriterade områden, och
+    spridningen av tillämpningar som nya generationens smarta enheter och AI-agenter ska vara över 70
+    %
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Ur statsrådets yttrande om handlingsprogrammet AI+ (国发〔2025〕11号). Samma stycke sätter målet
+  till över 90 procent till 2030 och säger att Kina till 2035 ska ha gått in i en ny fas som intelligent
+  ekonomi och intelligent samhälle. Det är politiska mål, inte prognoser från någon oberoende bedömare,
+  och det framgår inte hur spridningen ska mätas.
+vikt: 3
+bäst_före: '2027-12-31'
+kontrollerad: '2026-09-29'
+ersatt_av: null
