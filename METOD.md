@@ -13,6 +13,27 @@
 Källor bakom betalvägg eller inloggning (till exempel x.com) kan inte kontrolleras på det här
 sättet, och påståenden som bara bygger på sådana källor tas inte med.
 
+## Källor på andra språk
+
+Citatet står alltid på **originalspråket**, till exempel kinesiska, eftersom det är det som kontrolleras
+mot källtexten. Översättningen ligger bredvid och är tydligt märkt:
+
+```yaml
+källa:
+  citat: 我不信任 Anthropic 或者 OpenAI 能这样做 …
+  språk: zh                          # ISO 639-1
+  översättning: Jag litar inte på att Anthropic eller OpenAI kan göra det här …
+  översatt_av: Claude (AI)
+  granskad_av: null                  # namnet på en människa som läser språket, när den är granskad
+```
+
+- Citatet kontrolleras maskinellt mot källtexten. Översättningen kan inte kontrolleras så, och därför
+  syns det alltid vem som översatt och om någon som läser språket har granskat den.
+- För kinesiska, japanska och koreanska bortser kontrollen från mellanslag, och citatet får vara högst
+  120 tecken.
+- Statliga medier återges som det de är, till exempel "enligt Xinhua (Kinas statliga nyhetsbyrå)",
+  på samma sätt som företagens uppgifter om sig själva återges som partsuppgifter.
+
 ## Hur ett påstående formuleras
 
 - **Ett påstående per post.** Om det finns ett "och" som går att dela, ska posten delas.
