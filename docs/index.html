@@ -187,9 +187,12 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
 @media (max-width: 860px) {
   .layout { grid-template-columns: 1fr; }
   .filterknapp { display: inline-block; }
+  /* align-self: stretch, annars blir den fasta panelen lika hög som innehållet och går inte att rulla. */
   .filter { position: fixed; inset: 0 0 0 auto; width: min(340px, 88vw); max-height: none; top: 0; z-index: 10;
+    align-self: stretch; height: 100dvh; overflow-y: auto; overscroll-behavior: contain;
     background: var(--yta); padding: 0 16px 24px; transform: translateX(100%); transition: transform .2s;
     box-shadow: var(--skugga); }
+  body.filter-öppet { overflow: hidden; }
   .filter.öppen { transform: none; }
   .filter-huvud { display: flex; align-items: center; justify-content: space-between; position: sticky; top: 0;
     background: var(--yta); padding: 14px 0; margin-bottom: 8px; border-bottom: 1px solid var(--linje); }
@@ -565,6 +568,7 @@ function rensa() {
 function filterPanel(öppen) {
   $("#filter").classList.toggle("öppen", öppen);
   $("#skymning").hidden = !öppen;
+  document.body.classList.toggle("filter-öppet", öppen);
 }
 
 // Händelser
