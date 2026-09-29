@@ -4,7 +4,7 @@
 
 Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 
-28 påståenden, de viktigaste först inom varje år.
+30 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -140,6 +140,14 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [Countering misuse of AI: September 2026 / Anthropic](https://www.anthropic.com/threat-intelligence-report-september-2026)
 
   *Förbehåll:* De riktiga människorna användes till videosamtal för att skapa förtroende. Tjänsten marknadsfördes som helt mänsklig.
+- **Kinas nationella sårbarhetsdatabas registrerade 155 sårbarheter i AI-agentverktyget OpenClaw på drygt tre veckor våren 2026, varav 11 kritiska.**
+  Kinas nationella sårbarhetsdatabas (CNNVD), återgivet av Xinhua (statlig nyhetsbyrå) · 2026-04-03 · missbruk, kontroll · [KIN-23](../påståenden/2026/KIN-23.yaml)
+  > 自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* från 10 mars till 2 april samlades totalt 155 sårbarheter i OpenClaw in, varav 11 kritiska och 53 allvarliga
+  > — [应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建](https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html)
+
+  *Förbehåll:* Enligt Xinhua (statlig nyhetsbyrå). OpenClaw är ett öppet agentverktyg som blev mycket populärt i Kina. Siffran gäller sårbarheter i verktyget, inte angrepp som faktiskt har skett.
 - **Andrew Ng tror att försvararna på sikt har övertaget i cybersäkerhet, eftersom de har mer information för att hitta och rätta buggar. Han medger samtidigt att hotbilden har förändrats kraftigt av AI-agenter.**
   Andrew Ng · 2026-09 · missbruk, röster · [BAL-17](../påståenden/2026/BAL-17.yaml)
   > in the long term, I believe the advantage will lie with defenders
@@ -167,6 +175,14 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kina har här gått längre än EU. Samtidigt är märkningskrav ett verktyg som också tjänar informationskontroll.
+- **Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens metadata.**
+  Kinas cyberrymdsmyndighet (CAC) med flera myndigheter · 2025-03-14 · styrning, missbruk · [KIN-14](../påståenden/2025/KIN-14.yaml)
+  > 人工智能生成合成内容标识包括显式标识和隐式标识。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
+
+  *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
 
 ## 2024
 

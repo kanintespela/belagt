@@ -4,7 +4,7 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-80 påståenden, de viktigaste först inom varje år.
+83 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -331,6 +331,22 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
 
   *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) och [ISR-22](https://kanintespela.github.io/belagt/#ISR-22), där inga effekter på den totala sysselsättningen syns ännu.
+- **Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-19](../påståenden/2025/KIN-19.yaml)
+  > 我们只想着让老虎变得更强，却还没为它建一个笼子。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Vi har bara tänkt på att göra tigern starkare, men ännu inte byggt någon bur åt den.
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
+
+  *Förbehåll:* Anknyter till Hintons liknelse om att hålla en tiger som husdjur, som artikeln inleds med. Artikeln är publicerad av Xinhua (statlig nyhetsbyrå).
+- **Xue Lan vid Tsinghua-universitetet varnar för att följderna blir oåterkalleliga om ett AI-system kommer utom kontroll och menar att det kräver försiktig styrning.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-20](../påståenden/2025/KIN-20.yaml)
+  > 一旦系统走向失控，其后果可能不可逆转，须采取审慎的治理策略。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Om ett system väl kommer utom kontroll kan följderna bli oåterkalleliga, och det kräver en försiktig styrningsstrategi.
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
+
+  *Förbehåll:* Just före citatet säger han att samhället inte kan chansa ens om sannolikheten ser låg ut. Samma artikel återger Yann LeCuns invändning att oron är överdriven.
 - **Bara 7 procent av de förvärvsarbetande svenskarna var 2025 oroliga för att AI ska göra dem arbetslösa. Oron är större bland unga, särskilt på landsbygden.**
   Internetstiftelsen, Svenskarna och internet 2025 · 2025 · röster · [SVR-17](../påståenden/2025/SVR-17.yaml)
   > Bland de som förvärvsarbetar är 7 procent oroliga för att AI kommer att göra dem arbetslösa.
@@ -367,6 +383,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Remissvar över SOU 2025:12 AI-kommissionens Färdplan för Sverige](https://folketsai.se/remissvar/)
 
   *Förbehåll:* En svensk röst som fokuserar på demokrati och makt här och nu snarare än på frontierrisker. Visar dessutom att medborgare kan lämna remissvar (jämför IDEAS.md). Kan vara en möjlig samarbetspart för folkbildningen.
+- **Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, geopolitik · [KIN-21](../påståenden/2025/KIN-21.yaml)
+  > 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* i dag saknas fortfarande effektiv kommunikation mellan de mest avancerade AI-företagen. Bilaterala dialogmekanismer, särskilt mellan Kina och USA, bör stärkas
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
 
 ## 2024
 

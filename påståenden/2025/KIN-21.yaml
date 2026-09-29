@@ -1,0 +1,25 @@
+id: KIN-21
+påstående: Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och
+  USA, eftersom de ledande AI-företagen inte talar med varandra om risker.
+typ: förslag
+vem: Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)
+datum: '2025-11-12'
+tema:
+- röster
+- geopolitik
+källa:
+  url: https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html
+  titel: 盯紧AI失控风险
+  citat: 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: i dag saknas fortfarande effektiv kommunikation mellan de mest avancerade AI-företagen.
+    Bilaterala dialogmekanismer, särskilt mellan Kina och USA, bör stärkas
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: null
+vikt: 2
+bäst_före: '2027-11-12'
+kontrollerad: '2026-09-29'
+ersatt_av: null

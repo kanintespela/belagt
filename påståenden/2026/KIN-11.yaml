@@ -1,0 +1,26 @@
+id: KIN-11
+påstående: Kinas regler för AI-kompanjoner kräver att tjänsten påminner användaren om tiden varje gång
+  hen har använt den i mer än två timmar i sträck.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter
+datum: '2026-04-10'
+tema:
+- styrning
+- samhälle
+källa:
+  url: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  titel: 人工智能拟人化互动服务管理暂行办法
+  citat: 对用户连续使用拟人化互动服务每超过2个小时的，应当以对话或者弹窗等方式提醒用户注意使用时长
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: för varje gång användaren har använt tjänsten för människoliknande interaktion i mer än
+    två timmar i sträck ska tjänsten, i dialogen eller med ett popup-fönster, påminna användaren om hur
+    länge hen har använt den
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: null
+vikt: 2
+bäst_före: '2027-07-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

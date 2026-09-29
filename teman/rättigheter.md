@@ -4,10 +4,18 @@
 
 Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigheter.
 
-14 påståenden, de viktigaste först inom varje år.
+15 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Samma kinesiska regler för AI-kompanjoner förbjuder också innehåll som uppviglar till att störta statsmakten eller det socialistiska systemet.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, rättigheter · [KIN-13](../påståenden/2026/KIN-13.yaml)
+  > 生成危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* att generera innehåll som skadar statens säkerhet, heder och intressen, eller som uppviglar till att undergräva statsmakten eller störta det socialistiska systemet
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information. Båda behöver nämnas när reglerna används som exempel. Jämför [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) och [KIN-10](https://kanintespela.github.io/belagt/#KIN-10), som står i samma paragraf respektive samma regelverk.
 - **En amerikansk domstol gav i juli 2026 sitt slutliga godkännande av förlikningen på 1,5 miljarder dollar mellan författare och Anthropic, omkring 3 000 dollar per verk.**
   Authors Guild (författarorganisation) · 2026-07-20 · rättigheter · [URH-05](../påståenden/2026/URH-05.yaml)
   > On July 20, 2026, Judge Araceli Martínez-Olguín of the U.S. District Court for the Northern District of California granted final approval of the landmark $1.5 billion class action settlement in Bartz v. Anthropic and entered final judgment in the case.

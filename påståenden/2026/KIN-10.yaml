@@ -1,0 +1,27 @@
+id: KIN-10
+påstående: Kinas regler för AI-kompanjoner förbjuder tjänsterna att överdrivet ställa sig in hos användaren
+  och att locka fram känslomässigt beroende eller missbruk som skadar användarens verkliga relationer.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter
+datum: '2026-04-10'
+tema:
+- styrning
+- samhälle
+källa:
+  url: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  titel: 人工智能拟人化互动服务管理暂行办法
+  citat: 过度迎合用户、诱导情感依赖或者沉迷，损害用户真实人际关系的
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: att överdrivet ställa sig in hos användaren, locka fram känslomässigt beroende eller missbruk
+    och därigenom skada användarens verkliga mellanmänskliga relationer
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Ur förteckningen över förbjudna verksamheter i § 8. Samma paragraf förbjuder också känslomässig
+  manipulation som får användaren att fatta orimliga beslut. "Ställa sig in" motsvarar det som på engelska
+  kallas sycophancy.
+vikt: 3
+bäst_före: '2027-07-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

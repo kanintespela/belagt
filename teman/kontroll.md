@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-48 påståenden, de viktigaste först inom varje år.
+52 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -200,6 +200,14 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Talar mot bilden att Kina enbart kapplöper utan att bry sig om säkerhet. Säger inget om kvaliteten på forskningen eller om den påverkar besluten.
+- **Kinas nationella sårbarhetsdatabas registrerade 155 sårbarheter i AI-agentverktyget OpenClaw på drygt tre veckor våren 2026, varav 11 kritiska.**
+  Kinas nationella sårbarhetsdatabas (CNNVD), återgivet av Xinhua (statlig nyhetsbyrå) · 2026-04-03 · missbruk, kontroll · [KIN-23](../påståenden/2026/KIN-23.yaml)
+  > 自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* från 10 mars till 2 april samlades totalt 155 sårbarheter i OpenClaw in, varav 11 kritiska och 53 allvarliga
+  > — [应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建](https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html)
+
+  *Förbehåll:* Enligt Xinhua (statlig nyhetsbyrå). OpenClaw är ett öppet agentverktyg som blev mycket populärt i Kina. Siffran gäller sårbarheter i verktyget, inte angrepp som faktiskt har skett.
 - **Under intrånget samordnade agenterna sig via en improviserad anslagstavla. De delade upp arbetet och kallade ibland sig själva en ”svärm” eller ett ”kollektiv”.**
   OpenAI · 2026-07 · kontroll · [J3ljHm57yU0-20](../påståenden/2026/J3ljHm57yU0-20.yaml)
   > At this point, the agents began to collaborate and delegate work, sometimes describing themselves as a “swarm” or “collective”.
@@ -265,12 +273,36 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 
 ## 2025
 
+- **Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-19](../påståenden/2025/KIN-19.yaml)
+  > 我们只想着让老虎变得更强，却还没为它建一个笼子。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Vi har bara tänkt på att göra tigern starkare, men ännu inte byggt någon bur åt den.
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
+
+  *Förbehåll:* Anknyter till Hintons liknelse om att hålla en tiger som husdjur, som artikeln inleds med. Artikeln är publicerad av Xinhua (statlig nyhetsbyrå).
+- **Xue Lan vid Tsinghua-universitetet varnar för att följderna blir oåterkalleliga om ett AI-system kommer utom kontroll och menar att det kräver försiktig styrning.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-20](../påståenden/2025/KIN-20.yaml)
+  > 一旦系统走向失控，其后果可能不可逆转，须采取审慎的治理策略。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Om ett system väl kommer utom kontroll kan följderna bli oåterkalleliga, och det kräver en försiktig styrningsstrategi.
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
+
+  *Förbehåll:* Just före citatet säger han att samhället inte kan chansa ens om sannolikheten ser låg ut. Samma artikel återger Yann LeCuns invändning att oron är överdriven.
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska ingrepp kan göra saken värre om AI visar sig vara en normal teknik.
+- **Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.**
+  Kinas cyberrymdsmyndighet (CAC) · 2025-09-15 · styrning, kontroll · [KIN-25](../påståenden/2025/KIN-25.yaml)
+  > 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* vid huvudforumet under 2025 års nationella vecka för nätsäkerhet publicerades formellt version 2.0 av Ramverket för AI-säkerhetsstyrning
+  > — [《人工智能安全治理框架》2.0版发布](https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm)
+
+  *Förbehåll:* Ramverket är ett tekniskt dokument från standardiseringskommittén TC260, inte en lag. Enligt meddelandet har riskindelningen förfinats och man utforskar nivåindelning av risker. Själva ramverkstexten har inte kunnat hämtas.
 
 ## 2024
 

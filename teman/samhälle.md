@@ -4,7 +4,7 @@
 
 Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.
 
-28 påståenden, de viktigaste först inom varje år.
+32 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -50,6 +50,22 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
 
   *Förbehåll:* Arbetsrapport (Ratio Working Paper 388), inte granskad i vetenskaplig tidskrift, och forskarna kallar resultaten preliminära. Data omfattar hela arbetskraften 2019–juni 2025. Tydligast är nedgången för mjukvaruutvecklare och kundtjänstpersonal. Samma mönster som [ISR-22](https://kanintespela.github.io/belagt/#ISR-22) och amerikansk forskning.
+- **Kinas regler för AI-kompanjoner kräver att tjänsten griper in och kontaktar en anhörig eller nödkontakt om användaren uttrycker avsikt att skada sig själv eller ta sitt liv.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-09](../påståenden/2026/KIN-09.yaml)
+  > 发现用户正在面临或者已经遭受重大财产损失、明确表示实施自残自杀等威胁生命健康的极端情境的，应当采取提供相应援助等必要措施予以干预，并及时联络用户监护人或者紧急联系人
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* om den upptäcker att användaren står inför eller redan har drabbats av stora ekonomiska förluster, eller uttryckligen säger sig tänka skada sig själv eller begå självmord eller befinner sig i en annan extrem situation som hotar liv och hälsa, ska den ingripa med nödvändiga åtgärder som att erbjuda hjälp, och utan dröjsmål kontakta användarens vårdnadshavare eller nödkontakt
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Interimistiska regler (暂行办法), i kraft från 2026-07-15 (§ 32). Primärkällan till det [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) återger via Concordia AI. Hur reglerna efterlevs i praktiken framgår inte av texten.
+- **Kinas regler för AI-kompanjoner förbjuder tjänsterna att överdrivet ställa sig in hos användaren och att locka fram känslomässigt beroende eller missbruk som skadar användarens verkliga relationer.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-10](../påståenden/2026/KIN-10.yaml)
+  > 过度迎合用户、诱导情感依赖或者沉迷，损害用户真实人际关系的
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* att överdrivet ställa sig in hos användaren, locka fram känslomässigt beroende eller missbruk och därigenom skada användarens verkliga mellanmänskliga relationer
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Ur förteckningen över förbjudna verksamheter i § 8. Samma paragraf förbjuder också känslomässig manipulation som får användaren att fatta orimliga beslut. "Ställa sig in" motsvarar det som på engelska kallas sycophancy.
 - **Oxford Economics misstänker att en del företag skyller uppsägningar på AI för att få dem att låta som goda nyheter, när den verkliga orsaken är något annat, till exempel att de tidigare anställt för många.**
   Oxford Economics (analysföretag, Ben May och Yasmine Badawy) · 2026-01-07 · samhälle · [SAM-02](../påståenden/2026/SAM-02.yaml)
   > we suspect some firms are trying to dress up layoffs as a good news story rather than bad news, such as past over-hiring.
@@ -110,6 +126,20 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [Ratio Working Paper No. 388: Same Storm, Different Boats: Generative AI and the Age Gradient in Hiring - Ratio](https://ratio.se/en/publications/same-storm-different-boats-generative-ai-and-the-age-gradient-in-hiring)
 
   *Förbehåll:* Forskarnas slutsats är att AI än så länge ändrar vem som får jobben, snarare än hur många jobb det finns. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) (Oxford Economics).
+- **Kinas regler för AI-kompanjoner kräver att tjänsten påminner användaren om tiden varje gång hen har använt den i mer än två timmar i sträck.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-11](../påståenden/2026/KIN-11.yaml)
+  > 对用户连续使用拟人化互动服务每超过2个小时的，应当以对话或者弹窗等方式提醒用户注意使用时长
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* för varje gång användaren har använt tjänsten för människoliknande interaktion i mer än två timmar i sträck ska tjänsten, i dialogen eller med ett popup-fönster, påminna användaren om hur länge hen har använt den
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+- **Kinas regler för AI-kompanjoner förbjuder att minderåriga erbjuds virtuella släktingar, virtuella partner eller andra virtuella nära relationer.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-12](../påståenden/2026/KIN-12.yaml)
+  > 拟人化互动服务提供者不得向未成年人提供虚拟亲属、虚拟伴侣等虚拟亲密关系的服务
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Leverantörer av tjänster för människoliknande interaktion får inte erbjuda minderåriga tjänster med virtuella nära relationer, som virtuella släktingar eller virtuella partner
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* För barn under 14 år krävs dessutom vårdnadshavarens samtycke till andra tjänster av det här slaget (§ 14).
 - **Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet är brist på kompetens.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · samhälle · [SVS-10](../påståenden/2026/SVS-10.yaml)
   > Enligt SCB använder 65 procent av de svenska företagen inte ai alls.

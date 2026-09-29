@@ -1,0 +1,23 @@
+id: KIN-16
+påstående: Under 2025 registrerades 446 nya generativa AI-tjänster i Kina, vilket gav sammanlagt 748 vid
+  årets slut.
+typ: mätning
+vem: Kinas cyberrymdsmyndighet (CAC)
+datum: '2026-01-09'
+tema:
+- styrning
+källa:
+  url: https://www.cac.gov.cn/2026-01/09/c_1769688009588554.htm
+  titel: 国家互联网信息办公室关于发布2025年生成式人工智能服务已备案信息的公告
+  citat: 2025年全年新增446款生成式人工智能服务在国家网信办完成备案
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Under hela 2025 registrerades 446 nya generativa AI-tjänster hos Kinas cyberrymdsmyndighet
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Summan 748 står i samma meddelande (截至2025年12月31日，累计有748款). Myndighetens egen uppgift.
+vikt: 1
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-29'
+ersatt_av: null

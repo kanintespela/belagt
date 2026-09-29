@@ -1,0 +1,26 @@
+id: KIN-23
+påstående: Kinas nationella sårbarhetsdatabas registrerade 155 sårbarheter i AI-agentverktyget OpenClaw
+  på drygt tre veckor våren 2026, varav 11 kritiska.
+typ: mätning
+vem: Kinas nationella sårbarhetsdatabas (CNNVD), återgivet av Xinhua (statlig nyhetsbyrå)
+datum: '2026-04-03'
+tema:
+- missbruk
+- kontroll
+källa:
+  url: https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html
+  titel: 应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建
+  citat: 自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: från 10 mars till 2 april samlades totalt 155 sårbarheter i OpenClaw in, varav 11 kritiska
+    och 53 allvarliga
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Enligt Xinhua (statlig nyhetsbyrå). OpenClaw är ett öppet agentverktyg som blev mycket populärt
+  i Kina. Siffran gäller sårbarheter i verktyget, inte angrepp som faktiskt har skett.
+vikt: 2
+bäst_före: '2027-04-03'
+kontrollerad: '2026-09-29'
+ersatt_av: null

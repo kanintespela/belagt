@@ -1,0 +1,25 @@
+id: KIN-18
+påstående: Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella
+  styrningen av AI.
+typ: förslag
+vem: Kinas regering, vid World AI Conference i Shanghai
+datum: '2025-07-26'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml
+  titel: 人工智能全球治理行动计划（全文）
+  citat: 坚持以联合国为主渠道
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: hålla fast vid FN som huvudkanal
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Jämför KIN-05. Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik
+  och inte specifikt för AI.
+vikt: 2
+bäst_före: '2027-07-26'
+kontrollerad: '2026-09-29'
+ersatt_av: null

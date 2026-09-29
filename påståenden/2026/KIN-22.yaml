@@ -1,0 +1,24 @@
+id: KIN-22
+påstående: Kinas nationella standardiseringskommitté för nätsäkerhet (TC260) bildade 2026 en särskild
+  arbetsgrupp för AI-säkerhetsstandarder.
+typ: händelse
+vem: Xinhua (statlig nyhetsbyrå)
+datum: '2026-04-07'
+tema:
+- styrning
+källa:
+  url: https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html
+  titel: 应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建
+  citat: 全国网络安全标准化技术委员会（以下简称“网安标委”）正式组建“人工智能安全标准工作组”（WG9）
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Den nationella tekniska kommittén för standardisering av nätsäkerhet (TC260) har formellt
+    bildat en arbetsgrupp för AI-säkerhetsstandarder (WG9)
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Enligt Xinhua (statlig nyhetsbyrå). Samma kommitté ger ut ramverket i KIN-25.
+vikt: 1
+bäst_före: '2027-04-07'
+kontrollerad: '2026-09-29'
+ersatt_av: null
