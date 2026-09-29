@@ -1,0 +1,28 @@
+id: KIN-09
+påstående: Kinas regler för AI-kompanjoner kräver att tjänsten griper in och kontaktar en anhörig eller
+  nödkontakt om användaren uttrycker avsikt att skada sig själv eller ta sitt liv.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter
+datum: '2026-04-10'
+tema:
+- styrning
+- samhälle
+källa:
+  url: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  titel: 人工智能拟人化互动服务管理暂行办法
+  citat: 发现用户正在面临或者已经遭受重大财产损失、明确表示实施自残自杀等威胁生命健康的极端情境的，应当采取提供相应援助等必要措施予以干预，并及时联络用户监护人或者紧急联系人
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: om den upptäcker att användaren står inför eller redan har drabbats av stora ekonomiska
+    förluster, eller uttryckligen säger sig tänka skada sig själv eller begå självmord eller befinner
+    sig i en annan extrem situation som hotar liv och hälsa, ska den ingripa med nödvändiga åtgärder som
+    att erbjuda hjälp, och utan dröjsmål kontakta användarens vårdnadshavare eller nödkontakt
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Interimistiska regler (暂行办法), i kraft från 2026-07-15 (§ 32). Primärkällan till det KIN-02
+  återger via Concordia AI. Hur reglerna efterlevs i praktiken framgår inte av texten.
+vikt: 3
+bäst_före: '2027-07-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

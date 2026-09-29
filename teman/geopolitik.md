@@ -4,7 +4,7 @@
 
 Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
-14 påståenden, de viktigaste först inom varje år.
+18 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -64,6 +64,14 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > — [我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)
 
   *Förbehåll:* Kontrollerat mot den kinesiska originaltexten. Skribenten säger själv att han överdriver lite. Essän handlar mest om sorgen över att AI tar över hantverket. Den publicerades i september 2026.
+- **Enligt Xinhua (statlig nyhetsbyrå) är den globala styrningen av AI splittrad, och länderna går tydligt olika vägar.**
+  Xinhua (statlig nyhetsbyrå) · 2026-07-15 · styrning, geopolitik · [KIN-24](../påståenden/2026/KIN-24.yaml)
+  > 当前人工智能全球治理机制仍显碎片化，各国治理路径存在显著分歧
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* i dag är mekanismerna för global AI-styrning fortfarande splittrade, och ländernas vägar till styrning skiljer sig markant åt
+  > — [综述丨全球亟须加快完善人工智能治理体系--国际--人民网](https://world.people.com.cn/n1/2026/0715/c1002-40761351.html)
+
+  *Förbehåll:* Xinhuas översiktsartikel, publicerad på Folkets dagblads webbplats. Samma artikel beskriver Anthropics modell Mythos och FN:s vetenskapliga panel för AI. Artikeln skyller splittringen främst på "några länder", vilket syftar på USA.
 
 ## 2025
 
@@ -91,6 +99,28 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > — [USA: America's AI Action Plan (juli 2025)](https://www.whitehouse.gov/wp-content/uploads/2025/07/Americas-AI-Action-Plan.pdf)
 
   *Förbehåll:* Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”. Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
+- **Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk för säkerhetsstyrning och system för att testa och utvärdera AI-risker.**
+  Kinas regering, vid World AI Conference i Shanghai · 2025-07-26 · styrning, geopolitik · [KIN-17](../påståenden/2025/KIN-17.yaml)
+  > 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+
+  *Förbehåll:* Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.
+- **Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella styrningen av AI.**
+  Kinas regering, vid World AI Conference i Shanghai · 2025-07-26 · styrning, geopolitik · [KIN-18](../påståenden/2025/KIN-18.yaml)
+  > 坚持以联合国为主渠道
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* hålla fast vid FN som huvudkanal
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+
+  *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+- **Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.**
+  Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, geopolitik · [KIN-21](../påståenden/2025/KIN-21.yaml)
+  > 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* i dag saknas fortfarande effektiv kommunikation mellan de mest avancerade AI-företagen. Bilaterala dialogmekanismer, särskilt mellan Kina och USA, bör stärkas
+  > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html)
 
 ## 2023
 

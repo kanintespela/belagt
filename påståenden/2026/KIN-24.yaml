@@ -1,0 +1,27 @@
+id: KIN-24
+påstående: Enligt Xinhua (statlig nyhetsbyrå) är den globala styrningen av AI splittrad, och länderna
+  går tydligt olika vägar.
+typ: bedömning
+vem: Xinhua (statlig nyhetsbyrå)
+datum: '2026-07-15'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://world.people.com.cn/n1/2026/0715/c1002-40761351.html
+  titel: 综述丨全球亟须加快完善人工智能治理体系--国际--人民网
+  citat: 当前人工智能全球治理机制仍显碎片化，各国治理路径存在显著分歧
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: i dag är mekanismerna för global AI-styrning fortfarande splittrade, och ländernas vägar
+    till styrning skiljer sig markant åt
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Xinhuas översiktsartikel, publicerad på Folkets dagblads webbplats. Samma artikel beskriver
+  Anthropics modell Mythos och FN:s vetenskapliga panel för AI. Artikeln skyller splittringen främst på
+  "några länder", vilket syftar på USA.
+vikt: 1
+bäst_före: '2027-07-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

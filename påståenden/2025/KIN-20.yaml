@@ -1,0 +1,26 @@
+id: KIN-20
+påstående: Xue Lan vid Tsinghua-universitetet varnar för att följderna blir oåterkalleliga om ett AI-system
+  kommer utom kontroll och menar att det kräver försiktig styrning.
+typ: bedömning
+vem: Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)
+datum: '2025-11-12'
+tema:
+- röster
+- kontroll
+källa:
+  url: https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html
+  titel: 盯紧AI失控风险
+  citat: 一旦系统走向失控，其后果可能不可逆转，须采取审慎的治理策略。
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Om ett system väl kommer utom kontroll kan följderna bli oåterkalleliga, och det kräver
+    en försiktig styrningsstrategi.
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Just före citatet säger han att samhället inte kan chansa ens om sannolikheten ser låg ut.
+  Samma artikel återger Yann LeCuns invändning att oron är överdriven.
+vikt: 3
+bäst_före: '2027-11-12'
+kontrollerad: '2026-09-29'
+ersatt_av: null

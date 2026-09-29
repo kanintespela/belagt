@@ -1,0 +1,25 @@
+id: KIN-19
+påstående: Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning,
+  menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.
+typ: bedömning
+vem: Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)
+datum: '2025-11-12'
+tema:
+- röster
+- kontroll
+källa:
+  url: https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html
+  titel: 盯紧AI失控风险
+  citat: 我们只想着让老虎变得更强，却还没为它建一个笼子。
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Vi har bara tänkt på att göra tigern starkare, men ännu inte byggt någon bur åt den.
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Anknyter till Hintons liknelse om att hålla en tiger som husdjur, som artikeln inleds med.
+  Artikeln är publicerad av Xinhua (statlig nyhetsbyrå).
+vikt: 3
+bäst_före: '2027-11-12'
+kontrollerad: '2026-09-29'
+ersatt_av: null

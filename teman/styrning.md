@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-78 påståenden, de viktigaste först inom varje år.
+91 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -50,6 +50,30 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
   *Förbehåll:* Myndigheten ska kontrollera efterlevnaden, bland annat genom att spåra AI-chip, övervaka energiförbrukning och inspektera datacenter. Mer kraftfull AI ska få byggas först när säkerhetsproblemen är tillräckligt lösta.
+- **Kinas regler för AI-kompanjoner kräver att tjänsten griper in och kontaktar en anhörig eller nödkontakt om användaren uttrycker avsikt att skada sig själv eller ta sitt liv.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-09](../påståenden/2026/KIN-09.yaml)
+  > 发现用户正在面临或者已经遭受重大财产损失、明确表示实施自残自杀等威胁生命健康的极端情境的，应当采取提供相应援助等必要措施予以干预，并及时联络用户监护人或者紧急联系人
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* om den upptäcker att användaren står inför eller redan har drabbats av stora ekonomiska förluster, eller uttryckligen säger sig tänka skada sig själv eller begå självmord eller befinner sig i en annan extrem situation som hotar liv och hälsa, ska den ingripa med nödvändiga åtgärder som att erbjuda hjälp, och utan dröjsmål kontakta användarens vårdnadshavare eller nödkontakt
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Interimistiska regler (暂行办法), i kraft från 2026-07-15 (§ 32). Primärkällan till det [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) återger via Concordia AI. Hur reglerna efterlevs i praktiken framgår inte av texten.
+- **Kinas regler för AI-kompanjoner förbjuder tjänsterna att överdrivet ställa sig in hos användaren och att locka fram känslomässigt beroende eller missbruk som skadar användarens verkliga relationer.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-10](../påståenden/2026/KIN-10.yaml)
+  > 过度迎合用户、诱导情感依赖或者沉迷，损害用户真实人际关系的
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* att överdrivet ställa sig in hos användaren, locka fram känslomässigt beroende eller missbruk och därigenom skada användarens verkliga mellanmänskliga relationer
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Ur förteckningen över förbjudna verksamheter i § 8. Samma paragraf förbjuder också känslomässig manipulation som får användaren att fatta orimliga beslut. "Ställa sig in" motsvarar det som på engelska kallas sycophancy.
+- **Samma kinesiska regler för AI-kompanjoner förbjuder också innehåll som uppviglar till att störta statsmakten eller det socialistiska systemet.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, rättigheter · [KIN-13](../påståenden/2026/KIN-13.yaml)
+  > 生成危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* att generera innehåll som skadar statens säkerhet, heder och intressen, eller som uppviglar till att undergräva statsmakten eller störta det socialistiska systemet
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information. Båda behöver nämnas när reglerna används som exempel. Jämför [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) och [KIN-10](https://kanintespela.github.io/belagt/#KIN-10), som står i samma paragraf respektive samma regelverk.
 - **Kina har ställt sig bakom två nya FN-mekanismer för AI och har föreslagit en världsorganisation för AI-samarbete, WAICO.**
   Kinas regering, återgivet av Concordia AI · 2026-06 · styrning, geopolitik · [KIN-05](../påståenden/2026/KIN-05.yaml)
   > Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.
@@ -224,6 +248,20 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
   *Förbehåll:* Knyter an till oron för maktkoncentration hos DeepSeek-ingenjören ([J3ljHm57yU0-35](https://kanintespela.github.io/belagt/#J3ljHm57yU0-35)) och Folkets AI-kommission ([SVE-09](https://kanintespela.github.io/belagt/#SVE-09)).
+- **Kinas regler för AI-kompanjoner kräver att tjänsten påminner användaren om tiden varje gång hen har använt den i mer än två timmar i sträck.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-11](../påståenden/2026/KIN-11.yaml)
+  > 对用户连续使用拟人化互动服务每超过2个小时的，应当以对话或者弹窗等方式提醒用户注意使用时长
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* för varje gång användaren har använt tjänsten för människoliknande interaktion i mer än två timmar i sträck ska tjänsten, i dialogen eller med ett popup-fönster, påminna användaren om hur länge hen har använt den
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+- **Kinas regler för AI-kompanjoner förbjuder att minderåriga erbjuds virtuella släktingar, virtuella partner eller andra virtuella nära relationer.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · [KIN-12](../påståenden/2026/KIN-12.yaml)
+  > 拟人化互动服务提供者不得向未成年人提供虚拟亲属、虚拟伴侣等虚拟亲密关系的服务
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Leverantörer av tjänster för människoliknande interaktion får inte erbjuda minderåriga tjänster med virtuella nära relationer, som virtuella släktingar eller virtuella partner
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
+
+  *Förbehåll:* För barn under 14 år krävs dessutom vårdnadshavarens samtycke till andra tjänster av det här slaget (§ 14).
 - **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
   Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · [SVS-08](../påståenden/2026/SVS-08.yaml)
   > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
@@ -296,6 +334,14 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board/)
 
   *Förbehåll:* Christiano är också teknisk rådgivare vid amerikanska CAISI. OpenAI skriver att han tar risken för katastrofala följder av avancerad AI på allvar och har varit en oberoende röst om huruvida branschens skyddsåtgärder räcker. Han är observatör utan rösträtt i bolagsstyrelsen. Hans eget uttalande om risken för kontrollförlust finns bara på x.com och har inte gått att hämta.
+- **Fram till 31 augusti 2026 hade 1 112 generativa AI-tjänster registrerats hos Kinas cyberrymdsmyndighet.**
+  Kinas cyberrymdsmyndighet (CAC) · 2026-09-14 · styrning · [KIN-15](../påståenden/2026/KIN-15.yaml)
+  > 截至8月31日，累计有1112款生成式人工智能服务完成备案，731款生成式人工智能应用或功能完成登记
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Per den 31 augusti hade sammanlagt 1 112 generativa AI-tjänster registrerats och 731 generativa AI-appar eller funktioner anmälts
+  > — [关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）](https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm)
+
+  *Förbehåll:* Myndighetens egen uppgift. Tjänster registreras centralt; appar som bara anropar en redan registrerad modell anmäls till en lokal myndighet. Jämför [KIN-16](https://kanintespela.github.io/belagt/#KIN-16) (748 vid utgången av 2025). Registret som sådant beskrivs i [KIN-03](https://kanintespela.github.io/belagt/#KIN-03).
 - **Heintz är positiv till reglering och vill ha fler oberoende tredjepartsobservatörer som granskar AI-systemen, eftersom insynen i dag är mycket liten.**
   Fredrik Heintz, i SVT Aktuellt · 2026-09-15 · styrning, röster · [SVR-03](../påståenden/2026/SVR-03.yaml)
   > Det finns en stor utmaning idag i att vi har väldigt lite insyn och externa tredjepartsobservatörer som utvärderar systemen.
@@ -308,12 +354,36 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
 
   *Förbehåll:* Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.
+- **Under 2025 registrerades 446 nya generativa AI-tjänster i Kina, vilket gav sammanlagt 748 vid årets slut.**
+  Kinas cyberrymdsmyndighet (CAC) · 2026-01-09 · styrning · [KIN-16](../påståenden/2026/KIN-16.yaml)
+  > 2025年全年新增446款生成式人工智能服务在国家网信办完成备案
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Under hela 2025 registrerades 446 nya generativa AI-tjänster hos Kinas cyberrymdsmyndighet
+  > — [国家互联网信息办公室关于发布2025年生成式人工智能服务已备案信息的公告](https://www.cac.gov.cn/2026-01/09/c_1769688009588554.htm)
+
+  *Förbehåll:* Summan 748 står i samma meddelande (截至2025年12月31日，累计有748款). Myndighetens egen uppgift.
 - **Som komplement till pausen föreslår PauseAI att AI-företagen ska hållas ansvariga för brott som begås med deras system, och att träning på upphovsrättsskyddat material ska förbjudas.**
   PauseAI · 2026-04-05 · styrning · [PAI-05](../påståenden/2026/PAI-05.yaml)
   > Hold AI model creators liable
   > — [PauseAI Proposal](https://pauseai.info/proposal)
 
   *Förbehåll:* Ansvarsfrågan lyfts även av Ng ([BAL-04](https://kanintespela.github.io/belagt/#BAL-04)), men med motsatt slutsats: Ng lägger ansvaret på användaren. Bra diskussionspar.
+- **Kinas nationella standardiseringskommitté för nätsäkerhet (TC260) bildade 2026 en särskild arbetsgrupp för AI-säkerhetsstandarder.**
+  Xinhua (statlig nyhetsbyrå) · 2026-04-07 · styrning · [KIN-22](../påståenden/2026/KIN-22.yaml)
+  > 全国网络安全标准化技术委员会（以下简称“网安标委”）正式组建“人工智能安全标准工作组”（WG9）
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Den nationella tekniska kommittén för standardisering av nätsäkerhet (TC260) har formellt bildat en arbetsgrupp för AI-säkerhetsstandarder (WG9)
+  > — [应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建](https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html)
+
+  *Förbehåll:* Enligt Xinhua (statlig nyhetsbyrå). Samma kommitté ger ut ramverket i [KIN-25](https://kanintespela.github.io/belagt/#KIN-25).
+- **Enligt Xinhua (statlig nyhetsbyrå) är den globala styrningen av AI splittrad, och länderna går tydligt olika vägar.**
+  Xinhua (statlig nyhetsbyrå) · 2026-07-15 · styrning, geopolitik · [KIN-24](../påståenden/2026/KIN-24.yaml)
+  > 当前人工智能全球治理机制仍显碎片化，各国治理路径存在显著分歧
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* i dag är mekanismerna för global AI-styrning fortfarande splittrade, och ländernas vägar till styrning skiljer sig markant åt
+  > — [综述丨全球亟须加快完善人工智能治理体系--国际--人民网](https://world.people.com.cn/n1/2026/0715/c1002-40761351.html)
+
+  *Förbehåll:* Xinhuas översiktsartikel, publicerad på Folkets dagblads webbplats. Samma artikel beskriver Anthropics modell Mythos och FN:s vetenskapliga panel för AI. Artikeln skyller splittringen främst på "några länder", vilket syftar på USA.
 - **En kritisk granskning av Amodeis essä påpekar att förslaget saknar en faktisk hastighetsgräns: det finns varken mätbara trösklar eller påföljder för den som går för fort.**
   StartupHub.ai (Daniel Singer, redaktör) · 2026-09 · styrning · [BAL-16](../påståenden/2026/BAL-16.yaml)
   > The skeptic case is not that pacing is wrong. It is that the proposal has no pacing mechanism.
@@ -377,6 +447,14 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför [PAI-04](https://kanintespela.github.io/belagt/#PAI-04) om att nyttan ska komma alla till del.
+- **Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens metadata.**
+  Kinas cyberrymdsmyndighet (CAC) med flera myndigheter · 2025-03-14 · styrning, missbruk · [KIN-14](../påståenden/2025/KIN-14.yaml)
+  > 人工智能生成合成内容标识包括显式标识和隐式标识。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
+
+  *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
@@ -401,6 +479,30 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
+- **Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk för säkerhetsstyrning och system för att testa och utvärdera AI-risker.**
+  Kinas regering, vid World AI Conference i Shanghai · 2025-07-26 · styrning, geopolitik · [KIN-17](../påståenden/2025/KIN-17.yaml)
+  > 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+
+  *Förbehåll:* Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.
+- **Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella styrningen av AI.**
+  Kinas regering, vid World AI Conference i Shanghai · 2025-07-26 · styrning, geopolitik · [KIN-18](../påståenden/2025/KIN-18.yaml)
+  > 坚持以联合国为主渠道
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* hålla fast vid FN som huvudkanal
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+
+  *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+- **Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.**
+  Kinas cyberrymdsmyndighet (CAC) · 2025-09-15 · styrning, kontroll · [KIN-25](../påståenden/2025/KIN-25.yaml)
+  > 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* vid huvudforumet under 2025 års nationella vecka för nätsäkerhet publicerades formellt version 2.0 av Ramverket för AI-säkerhetsstyrning
+  > — [《人工智能安全治理框架》2.0版发布](https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm)
+
+  *Förbehåll:* Ramverket är ett tekniskt dokument från standardiseringskommittén TC260, inte en lag. Enligt meddelandet har riskindelningen förfinats och man utforskar nivåindelning av risker. Själva ramverkstexten har inte kunnat hämtas.
 - **I oktober 2025 lanserades ett upprop, initierat av Future of Life Institute, med krav på förbud mot att utveckla superintelligens tills det finns bred vetenskaplig enighet om att det kan göras säkert och starkt stöd hos allmänheten. Uppropet har över 75 000 underskrifter.**
   Statement on Superintelligence (Future of Life Institute, ordförande Max Tegmark) · 2025-10 · styrning · [SVR-11](../påståenden/2025/SVR-11.yaml)
   > We call for a prohibition on the development of superintelligence, not lifted before there is

@@ -1,0 +1,26 @@
+id: KIN-25
+påstående: Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC)
+datum: '2025-09-15'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm
+  titel: 《人工智能安全治理框架》2.0版发布
+  citat: 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: vid huvudforumet under 2025 års nationella vecka för nätsäkerhet publicerades formellt
+    version 2.0 av Ramverket för AI-säkerhetsstyrning
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Ramverket är ett tekniskt dokument från standardiseringskommittén TC260, inte en lag. Enligt
+  meddelandet har riskindelningen förfinats och man utforskar nivåindelning av risker. Själva ramverkstexten
+  har inte kunnat hämtas.
+vikt: 2
+bäst_före: '2027-09-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

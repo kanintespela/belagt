@@ -1408,6 +1408,34 @@
    "citera": "AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande), 2025-03. AAAI 2025 Presidential Panel on the Future of AI Research. https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf. Via Belagt FOR-21: https://kanintespela.github.io/belagt/#FOR-21"
   },
   {
+   "id": "KIN-14",
+   "påstående": "Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens metadata.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) med flera myndigheter",
+   "datum": "2025-03-14",
+   "tema": [
+    "styrning",
+    "missbruk"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
+    "titel": "关于印发《人工智能生成合成内容标识办法》的通知",
+    "citat": "人工智能生成合成内容标识包括显式标识和隐式标识。",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till KIN-04.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) med flera myndigheter, 2025-03-14. 关于印发《人工智能生成合成内容标识办法》的通知. https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm. Via Belagt KIN-14: https://kanintespela.github.io/belagt/#KIN-14"
+  },
+  {
    "id": "TID-15",
    "påstående": "METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.",
    "typ": "mätning",
@@ -1999,6 +2027,62 @@
    "citera": "EU, återgivet av artificialintelligenceact.eu, 2025-07-10. High-level summary of the AI Act. https://artificialintelligenceact.eu/high-level-summary/. Via Belagt TID-14: https://kanintespela.github.io/belagt/#TID-14"
   },
   {
+   "id": "KIN-17",
+   "påstående": "Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk för säkerhetsstyrning och system för att testa och utvärdera AI-risker.",
+   "typ": "förslag",
+   "vem": "Kinas regering, vid World AI Conference i Shanghai",
+   "datum": "2025-07-26",
+   "tema": [
+    "styrning",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml",
+    "titel": "人工智能全球治理行动计划（全文）",
+    "citat": "及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.",
+   "vikt": 2,
+   "bäst_före": "2027-07-26",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas regering, vid World AI Conference i Shanghai, 2025-07-26. 人工智能全球治理行动计划（全文）. https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml. Via Belagt KIN-17: https://kanintespela.github.io/belagt/#KIN-17"
+  },
+  {
+   "id": "KIN-18",
+   "påstående": "Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella styrningen av AI.",
+   "typ": "förslag",
+   "vem": "Kinas regering, vid World AI Conference i Shanghai",
+   "datum": "2025-07-26",
+   "tema": [
+    "styrning",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml",
+    "titel": "人工智能全球治理行动计划（全文）",
+    "citat": "坚持以联合国为主渠道",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "hålla fast vid FN som huvudkanal",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Jämför KIN-05. Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.",
+   "vikt": 2,
+   "bäst_före": "2027-07-26",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas regering, vid World AI Conference i Shanghai, 2025-07-26. 人工智能全球治理行动计划（全文）. https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml. Via Belagt KIN-18: https://kanintespela.github.io/belagt/#KIN-18"
+  },
+  {
    "id": "URH-04",
    "påstående": "Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.",
    "typ": "händelse",
@@ -2164,6 +2248,34 @@
    "citera": "Stim (svensk upphovsrättsorganisation för musik), 2025-09. Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se. https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik. Via Belagt URH-07: https://kanintespela.github.io/belagt/#URH-07"
   },
   {
+   "id": "KIN-25",
+   "påstående": "Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC)",
+   "datum": "2025-09-15",
+   "tema": [
+    "styrning",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm",
+    "titel": "《人工智能安全治理框架》2.0版发布",
+    "citat": "在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "vid huvudforumet under 2025 års nationella vecka för nätsäkerhet publicerades formellt version 2.0 av Ramverket för AI-säkerhetsstyrning",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ramverket är ett tekniskt dokument från standardiseringskommittén TC260, inte en lag. Enligt meddelandet har riskindelningen förfinats och man utforskar nivåindelning av risker. Själva ramverkstexten har inte kunnat hämtas.",
+   "vikt": 2,
+   "bäst_före": "2027-09-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC), 2025-09-15. 《人工智能安全治理框架》2.0版发布. https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm. Via Belagt KIN-25: https://kanintespela.github.io/belagt/#KIN-25"
+  },
+  {
    "id": "NYT-05",
    "påstående": "En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande celler.",
    "typ": "händelse",
@@ -2257,6 +2369,90 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "MIT (Project Iceberg), 2025-11. MIT Study on Jobs/Tasks. https://iceberg.mit.edu/report.pdf. Via Belagt SAM-07: https://kanintespela.github.io/belagt/#SAM-07"
+  },
+  {
+   "id": "KIN-19",
+   "påstående": "Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.",
+   "typ": "bedömning",
+   "vem": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)",
+   "datum": "2025-11-12",
+   "tema": [
+    "röster",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html",
+    "titel": "盯紧AI失控风险",
+    "citat": "我们只想着让老虎变得更强，却还没为它建一个笼子。",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Vi har bara tänkt på att göra tigern starkare, men ännu inte byggt någon bur åt den.",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Anknyter till Hintons liknelse om att hålla en tiger som husdjur, som artikeln inleds med. Artikeln är publicerad av Xinhua (statlig nyhetsbyrå).",
+   "vikt": 3,
+   "bäst_före": "2027-11-12",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin), 2025-11-12. 盯紧AI失控风险. https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html. Via Belagt KIN-19: https://kanintespela.github.io/belagt/#KIN-19"
+  },
+  {
+   "id": "KIN-20",
+   "påstående": "Xue Lan vid Tsinghua-universitetet varnar för att följderna blir oåterkalleliga om ett AI-system kommer utom kontroll och menar att det kräver försiktig styrning.",
+   "typ": "bedömning",
+   "vem": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)",
+   "datum": "2025-11-12",
+   "tema": [
+    "röster",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html",
+    "titel": "盯紧AI失控风险",
+    "citat": "一旦系统走向失控，其后果可能不可逆转，须采取审慎的治理策略。",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Om ett system väl kommer utom kontroll kan följderna bli oåterkalleliga, och det kräver en försiktig styrningsstrategi.",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Just före citatet säger han att samhället inte kan chansa ens om sannolikheten ser låg ut. Samma artikel återger Yann LeCuns invändning att oron är överdriven.",
+   "vikt": 3,
+   "bäst_före": "2027-11-12",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin), 2025-11-12. 盯紧AI失控风险. https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html. Via Belagt KIN-20: https://kanintespela.github.io/belagt/#KIN-20"
+  },
+  {
+   "id": "KIN-21",
+   "påstående": "Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.",
+   "typ": "förslag",
+   "vem": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin)",
+   "datum": "2025-11-12",
+   "tema": [
+    "röster",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html",
+    "titel": "盯紧AI失控风险",
+    "citat": "当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "i dag saknas fortfarande effektiv kommunikation mellan de mest avancerade AI-företagen. Bilaterala dialogmekanismer, särskilt mellan Kina och USA, bör stärkas",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": null,
+   "vikt": 2,
+   "bäst_före": "2027-11-12",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin), 2025-11-12. 盯紧AI失控风险. https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html. Via Belagt KIN-21: https://kanintespela.github.io/belagt/#KIN-21"
   },
   {
    "id": "J3ljHm57yU0-43",
@@ -2558,6 +2754,33 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Oxford Economics (analysföretag, Ben May och Yasmine Badawy), 2026-01-07. Job Stats. https://www.oxfordeconomics.com/wp-content/uploads/2026/01/Evidence-of-an-AI-driven-shakeup-of-job-markets-is-patchy.pdf. Via Belagt SAM-04: https://kanintespela.github.io/belagt/#SAM-04"
+  },
+  {
+   "id": "KIN-16",
+   "påstående": "Under 2025 registrerades 446 nya generativa AI-tjänster i Kina, vilket gav sammanlagt 748 vid årets slut.",
+   "typ": "mätning",
+   "vem": "Kinas cyberrymdsmyndighet (CAC)",
+   "datum": "2026-01-09",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-01/09/c_1769688009588554.htm",
+    "titel": "国家互联网信息办公室关于发布2025年生成式人工智能服务已备案信息的公告",
+    "citat": "2025年全年新增446款生成式人工智能服务在国家网信办完成备案",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Under hela 2025 registrerades 446 nya generativa AI-tjänster hos Kinas cyberrymdsmyndighet",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Summan 748 står i samma meddelande (截至2025年12月31日，累计有748款). Myndighetens egen uppgift.",
+   "vikt": 1,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC), 2026-01-09. 国家互联网信息办公室关于发布2025年生成式人工智能服务已备案信息的公告. https://www.cac.gov.cn/2026-01/09/c_1769688009588554.htm. Via Belagt KIN-16: https://kanintespela.github.io/belagt/#KIN-16"
   },
   {
    "id": "NYT-02",
@@ -3777,6 +4000,34 @@
    "citera": "Svenskt Näringsliv (med siffror från RISE), 2026-04. Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet. https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf. Via Belagt SVS-06: https://kanintespela.github.io/belagt/#SVS-06"
   },
   {
+   "id": "KIN-23",
+   "påstående": "Kinas nationella sårbarhetsdatabas registrerade 155 sårbarheter i AI-agentverktyget OpenClaw på drygt tre veckor våren 2026, varav 11 kritiska.",
+   "typ": "mätning",
+   "vem": "Kinas nationella sårbarhetsdatabas (CNNVD), återgivet av Xinhua (statlig nyhetsbyrå)",
+   "datum": "2026-04-03",
+   "tema": [
+    "missbruk",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html",
+    "titel": "应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建",
+    "citat": "自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "från 10 mars till 2 april samlades totalt 155 sårbarheter i OpenClaw in, varav 11 kritiska och 53 allvarliga",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Enligt Xinhua (statlig nyhetsbyrå). OpenClaw är ett öppet agentverktyg som blev mycket populärt i Kina. Siffran gäller sårbarheter i verktyget, inte angrepp som faktiskt har skett.",
+   "vikt": 2,
+   "bäst_före": "2027-04-03",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas nationella sårbarhetsdatabas (CNNVD), återgivet av Xinhua (statlig nyhetsbyrå), 2026-04-03. 应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建. https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html. Via Belagt KIN-23: https://kanintespela.github.io/belagt/#KIN-23"
+  },
+  {
    "id": "PAI-01",
    "påstående": "PauseAI föreslår en tillfällig, global paus i träningen av de mest kraftfulla AI-systemen för allmänna ändamål, tills vi vet hur de kan byggas säkert och hållas under demokratisk kontroll.",
    "typ": "förslag",
@@ -3892,6 +4143,173 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "PauseAI, 2026-04-05. PauseAI Proposal. https://pauseai.info/proposal. Via Belagt PAI-05: https://kanintespela.github.io/belagt/#PAI-05"
+  },
+  {
+   "id": "KIN-22",
+   "påstående": "Kinas nationella standardiseringskommitté för nätsäkerhet (TC260) bildade 2026 en särskild arbetsgrupp för AI-säkerhetsstandarder.",
+   "typ": "händelse",
+   "vem": "Xinhua (statlig nyhetsbyrå)",
+   "datum": "2026-04-07",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html",
+    "titel": "应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建",
+    "citat": "全国网络安全标准化技术委员会（以下简称“网安标委”）正式组建“人工智能安全标准工作组”（WG9）",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Den nationella tekniska kommittén för standardisering av nätsäkerhet (TC260) har formellt bildat en arbetsgrupp för AI-säkerhetsstandarder (WG9)",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Enligt Xinhua (statlig nyhetsbyrå). Samma kommitté ger ut ramverket i KIN-25.",
+   "vikt": 1,
+   "bäst_före": "2027-04-07",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Xinhua (statlig nyhetsbyrå), 2026-04-07. 应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建. https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html. Via Belagt KIN-22: https://kanintespela.github.io/belagt/#KIN-22"
+  },
+  {
+   "id": "KIN-09",
+   "påstående": "Kinas regler för AI-kompanjoner kräver att tjänsten griper in och kontaktar en anhörig eller nödkontakt om användaren uttrycker avsikt att skada sig själv eller ta sitt liv.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter",
+   "datum": "2026-04-10",
+   "tema": [
+    "styrning",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "titel": "人工智能拟人化互动服务管理暂行办法",
+    "citat": "发现用户正在面临或者已经遭受重大财产损失、明确表示实施自残自杀等威胁生命健康的极端情境的，应当采取提供相应援助等必要措施予以干预，并及时联络用户监护人或者紧急联系人",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "om den upptäcker att användaren står inför eller redan har drabbats av stora ekonomiska förluster, eller uttryckligen säger sig tänka skada sig själv eller begå självmord eller befinner sig i en annan extrem situation som hotar liv och hälsa, ska den ingripa med nödvändiga åtgärder som att erbjuda hjälp, och utan dröjsmål kontakta användarens vårdnadshavare eller nödkontakt",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Interimistiska regler (暂行办法), i kraft från 2026-07-15 (§ 32). Primärkällan till det KIN-02 återger via Concordia AI. Hur reglerna efterlevs i praktiken framgår inte av texten.",
+   "vikt": 3,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter, 2026-04-10. 人工智能拟人化互动服务管理暂行办法. https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm. Via Belagt KIN-09: https://kanintespela.github.io/belagt/#KIN-09"
+  },
+  {
+   "id": "KIN-10",
+   "påstående": "Kinas regler för AI-kompanjoner förbjuder tjänsterna att överdrivet ställa sig in hos användaren och att locka fram känslomässigt beroende eller missbruk som skadar användarens verkliga relationer.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter",
+   "datum": "2026-04-10",
+   "tema": [
+    "styrning",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "titel": "人工智能拟人化互动服务管理暂行办法",
+    "citat": "过度迎合用户、诱导情感依赖或者沉迷，损害用户真实人际关系的",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "att överdrivet ställa sig in hos användaren, locka fram känslomässigt beroende eller missbruk och därigenom skada användarens verkliga mellanmänskliga relationer",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Ur förteckningen över förbjudna verksamheter i § 8. Samma paragraf förbjuder också känslomässig manipulation som får användaren att fatta orimliga beslut. \"Ställa sig in\" motsvarar det som på engelska kallas sycophancy.",
+   "vikt": 3,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter, 2026-04-10. 人工智能拟人化互动服务管理暂行办法. https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm. Via Belagt KIN-10: https://kanintespela.github.io/belagt/#KIN-10"
+  },
+  {
+   "id": "KIN-11",
+   "påstående": "Kinas regler för AI-kompanjoner kräver att tjänsten påminner användaren om tiden varje gång hen har använt den i mer än två timmar i sträck.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter",
+   "datum": "2026-04-10",
+   "tema": [
+    "styrning",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "titel": "人工智能拟人化互动服务管理暂行办法",
+    "citat": "对用户连续使用拟人化互动服务每超过2个小时的，应当以对话或者弹窗等方式提醒用户注意使用时长",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "för varje gång användaren har använt tjänsten för människoliknande interaktion i mer än två timmar i sträck ska tjänsten, i dialogen eller med ett popup-fönster, påminna användaren om hur länge hen har använt den",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": null,
+   "vikt": 2,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter, 2026-04-10. 人工智能拟人化互动服务管理暂行办法. https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm. Via Belagt KIN-11: https://kanintespela.github.io/belagt/#KIN-11"
+  },
+  {
+   "id": "KIN-12",
+   "påstående": "Kinas regler för AI-kompanjoner förbjuder att minderåriga erbjuds virtuella släktingar, virtuella partner eller andra virtuella nära relationer.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter",
+   "datum": "2026-04-10",
+   "tema": [
+    "styrning",
+    "samhälle"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "titel": "人工智能拟人化互动服务管理暂行办法",
+    "citat": "拟人化互动服务提供者不得向未成年人提供虚拟亲属、虚拟伴侣等虚拟亲密关系的服务",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Leverantörer av tjänster för människoliknande interaktion får inte erbjuda minderåriga tjänster med virtuella nära relationer, som virtuella släktingar eller virtuella partner",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "För barn under 14 år krävs dessutom vårdnadshavarens samtycke till andra tjänster av det här slaget (§ 14).",
+   "vikt": 2,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter, 2026-04-10. 人工智能拟人化互动服务管理暂行办法. https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm. Via Belagt KIN-12: https://kanintespela.github.io/belagt/#KIN-12"
+  },
+  {
+   "id": "KIN-13",
+   "påstående": "Samma kinesiska regler för AI-kompanjoner förbjuder också innehåll som uppviglar till att störta statsmakten eller det socialistiska systemet.",
+   "typ": "händelse",
+   "vem": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter",
+   "datum": "2026-04-10",
+   "tema": [
+    "styrning",
+    "rättigheter"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm",
+    "titel": "人工智能拟人化互动服务管理暂行办法",
+    "citat": "生成危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "att generera innehåll som skadar statens säkerhet, heder och intressen, eller som uppviglar till att undergräva statsmakten eller störta det socialistiska systemet",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information. Båda behöver nämnas när reglerna används som exempel. Jämför KIN-09 och KIN-10, som står i samma paragraf respektive samma regelverk.",
+   "vikt": 3,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter, 2026-04-10. 人工智能拟人化互动服务管理暂行办法. https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm. Via Belagt KIN-13: https://kanintespela.github.io/belagt/#KIN-13"
   },
   {
    "id": "SVS-08",
@@ -4430,6 +4848,34 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "METR och Redwood Research, 2026-07-12. Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident. https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/. Via Belagt MET-12: https://kanintespela.github.io/belagt/#MET-12"
+  },
+  {
+   "id": "KIN-24",
+   "påstående": "Enligt Xinhua (statlig nyhetsbyrå) är den globala styrningen av AI splittrad, och länderna går tydligt olika vägar.",
+   "typ": "bedömning",
+   "vem": "Xinhua (statlig nyhetsbyrå)",
+   "datum": "2026-07-15",
+   "tema": [
+    "styrning",
+    "geopolitik"
+   ],
+   "källa": {
+    "url": "https://world.people.com.cn/n1/2026/0715/c1002-40761351.html",
+    "titel": "综述丨全球亟须加快完善人工智能治理体系--国际--人民网",
+    "citat": "当前人工智能全球治理机制仍显碎片化，各国治理路径存在显著分歧",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "i dag är mekanismerna för global AI-styrning fortfarande splittrade, och ländernas vägar till styrning skiljer sig markant åt",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Xinhuas översiktsartikel, publicerad på Folkets dagblads webbplats. Samma artikel beskriver Anthropics modell Mythos och FN:s vetenskapliga panel för AI. Artikeln skyller splittringen främst på \"några länder\", vilket syftar på USA.",
+   "vikt": 1,
+   "bäst_före": "2027-07-15",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Xinhua (statlig nyhetsbyrå), 2026-07-15. 综述丨全球亟须加快完善人工智能治理体系--国际--人民网. https://world.people.com.cn/n1/2026/0715/c1002-40761351.html. Via Belagt KIN-24: https://kanintespela.github.io/belagt/#KIN-24"
   },
   {
    "id": "URH-05",
@@ -6182,6 +6628,33 @@
    "kontrollerad": "2026-09-28",
    "ersatt_av": null,
    "citera": "Daniel Selsam, 2026-09-14. Personal Statement on AI Risk. https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub. Via Belagt J3ljHm57yU0-27: https://kanintespela.github.io/belagt/#J3ljHm57yU0-27"
+  },
+  {
+   "id": "KIN-15",
+   "påstående": "Fram till 31 augusti 2026 hade 1 112 generativa AI-tjänster registrerats hos Kinas cyberrymdsmyndighet.",
+   "typ": "mätning",
+   "vem": "Kinas cyberrymdsmyndighet (CAC)",
+   "datum": "2026-09-14",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm",
+    "titel": "关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）",
+    "citat": "截至8月31日，累计有1112款生成式人工智能服务完成备案，731款生成式人工智能应用或功能完成登记",
+    "hämtad": "2026-09-29",
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Per den 31 augusti hade sammanlagt 1 112 generativa AI-tjänster registrerats och 731 generativa AI-appar eller funktioner anmälts",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
+   },
+   "förbehåll": "Myndighetens egen uppgift. Tjänster registreras centralt; appar som bara anropar en redan registrerad modell anmäls till en lokal myndighet. Jämför KIN-16 (748 vid utgången av 2025). Registret som sådant beskrivs i KIN-03.",
+   "vikt": 2,
+   "bäst_före": "2027-03-01",
+   "kontrollerad": "2026-09-29",
+   "ersatt_av": null,
+   "citera": "Kinas cyberrymdsmyndighet (CAC), 2026-09-14. 关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）. https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm. Via Belagt KIN-15: https://kanintespela.github.io/belagt/#KIN-15"
   },
   {
    "id": "SVR-02",

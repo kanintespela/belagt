@@ -1,0 +1,27 @@
+id: KIN-17
+påstående: Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk
+  för säkerhetsstyrning och system för att testa och utvärdera AI-risker.
+typ: förslag
+vem: Kinas regering, vid World AI Conference i Shanghai
+datum: '2025-07-26'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml
+  titel: 人工智能全球治理行动计划（全文）
+  citat: 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett
+    ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning
+    och bygg ett system för att testa och utvärdera AI-risker
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas
+  tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.
+vikt: 2
+bäst_före: '2027-07-26'
+kontrollerad: '2026-09-29'
+ersatt_av: null

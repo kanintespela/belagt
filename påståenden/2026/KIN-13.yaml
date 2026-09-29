@@ -1,0 +1,27 @@
+id: KIN-13
+påstående: Samma kinesiska regler för AI-kompanjoner förbjuder också innehåll som uppviglar till att störta
+  statsmakten eller det socialistiska systemet.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter
+datum: '2026-04-10'
+tema:
+- styrning
+- rättigheter
+källa:
+  url: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  titel: 人工智能拟人化互动服务管理暂行办法
+  citat: 生成危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: att generera innehåll som skadar statens säkerhet, heder och intressen, eller som uppviglar
+    till att undergräva statsmakten eller störta det socialistiska systemet
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: 'Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information.
+  Båda behöver nämnas när reglerna används som exempel. Jämför KIN-09 och KIN-10, som står i samma paragraf
+  respektive samma regelverk.'
+vikt: 3
+bäst_före: '2027-07-15'
+kontrollerad: '2026-09-29'
+ersatt_av: null

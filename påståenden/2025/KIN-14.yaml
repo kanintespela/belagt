@@ -1,0 +1,27 @@
+id: KIN-14
+påstående: Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens
+  metadata.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) med flera myndigheter
+datum: '2025-03-14'
+tema:
+- styrning
+- missbruk
+källa:
+  url: https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm
+  titel: 关于印发《人工智能生成合成内容标识办法》的通知
+  citat: 人工智能生成合成内容标识包括显式标识和隐式标识。
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren
+  märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer.
+  Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas
+  då i minst sex månader (§ 9). Primärkällan till KIN-04.
+vikt: 2
+bäst_före: '2027-03-01'
+kontrollerad: '2026-09-29'
+ersatt_av: null
