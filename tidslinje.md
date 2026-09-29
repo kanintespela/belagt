@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 286 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -555,6 +555,22 @@ Alla 286 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+- **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · styrning, geopolitik · [KIN-29](./påståenden/2025/KIN-29.yaml)
+  > 中国政府倡议成立世界人工智能合作组织。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
+- **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · [KIN-30](./påståenden/2025/KIN-30.yaml)
+  > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal.
 - **Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.**
   Copyright Alliance (organisation för upphovsrättsinnehavare) · 2025-08 · rättigheter · [URH-04](./påståenden/2025/URH-04.yaml)
   > The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from the LibGen and PiLilMi datasets.
@@ -579,6 +595,30 @@ Alla 286 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
 
   *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser ([ENE-02](https://kanintespela.github.io/belagt/#ENE-02)) tar hänsyn till.
+- **Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter och AI-agenter till 2027.**
+  Kinas statsråd (regeringen) · 2025-08-21 · tempo, samhälle · [KIN-26](./påståenden/2025/KIN-26.yaml)
+  > 到2027年，率先实现人工智能与6大重点领域广泛深度融合，新一代智能终端、智能体等应用普及率超70%
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Till 2027 ska AI först ha integrerats brett och djupt i sex prioriterade områden, och spridningen av tillämpningar som nya generationens smarta enheter och AI-agenter ska vara över 70 %
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om handlingsprogrammet AI+ (国发〔2025〕11号). Samma stycke sätter målet till över 90 procent till 2030 och säger att Kina till 2035 ska ha gått in i en ny fas som intelligent ekonomi och intelligent samhälle. Det är politiska mål, inte prognoser från någon oberoende bedömare, och det framgår inte hur spridningen ska mätas.
+- **Kinas regering vill att AI:s risker för sysselsättningen bedöms och att resurser styrs mot tillämpningar som skapar jobb, för att minska påverkan på arbetsmarknaden.**
+  Kinas statsråd (regeringen) · 2025-08-21 · samhälle, styrning · [KIN-27](./påståenden/2025/KIN-27.yaml)
+  > 加强人工智能应用就业风险评估，引导创新资源向创造就业潜力大的方向倾斜，减少对就业的冲击
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* stärk bedömningen av riskerna för sysselsättningen när AI tillämpas, styr innovationsresurser mot det som har stor potential att skapa jobb och minska påverkan på sysselsättningen
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+. Samma avsnitt betonar att AI skapar nya jobb och att omskolning ska stödjas. Det är en inriktning och inga bindande krav.
+- **Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen, och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.**
+  Kinas statsråd (regeringen) · 2025-08-21 · kontroll, styrning · [KIN-28](./påståenden/2025/KIN-28.yaml)
+  > 防范模型的黑箱、幻觉、算法歧视等带来的风险，加强前瞻评估和监测处置，推动人工智能应用合规、透明、可信赖。建立健全人工智能技术监测、风险预警、应急响应体系
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* förebygg risker som uppstår genom att modeller är svarta lådor, hallucinerar, diskriminerar genom algoritmer med mera, stärk framåtblickande bedömning, övervakning och hantering, och verka för att AI-tillämpningar är regelefterlevande, transparenta och pålitliga. Bygg upp och förbättra system för övervakning av AI-teknik, riskvarning och krisberedskap
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+, avsnittet om säkerhetsförmåga. Riskerna som nämns gäller dagens system; förlust av kontroll nämns inte i det här stycket.
 - **OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.**
   OpenAI (GDPval) · 2025-09 · samhälle, förmågor · [SAM-08](./påståenden/2025/SAM-08.yaml)
   > We found that today’s best frontier models are already approaching the quality of work produced by industry experts.

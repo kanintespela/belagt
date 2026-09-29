@@ -4,7 +4,7 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-33 påståenden, de viktigaste först inom varje år.
+34 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -153,6 +153,14 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se [ENE-10](https://kanintespela.github.io/belagt/#ENE-10).
+- **Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter och AI-agenter till 2027.**
+  Kinas statsråd (regeringen) · 2025-08-21 · tempo, samhälle · [KIN-26](../påståenden/2025/KIN-26.yaml)
+  > 到2027年，率先实现人工智能与6大重点领域广泛深度融合，新一代智能终端、智能体等应用普及率超70%
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Till 2027 ska AI först ha integrerats brett och djupt i sex prioriterade områden, och spridningen av tillämpningar som nya generationens smarta enheter och AI-agenter ska vara över 70 %
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om handlingsprogrammet AI+ (国发〔2025〕11号). Samma stycke sätter målet till över 90 procent till 2030 och säger att Kina till 2035 ska ha gått in i en ny fas som intelligent ekonomi och intelligent samhälle. Det är politiska mål, inte prognoser från någon oberoende bedömare, och det framgår inte hur spridningen ska mätas.
 - **Google uppger att C2S-Scales upptäckt krävde ett slags villkorat resonemang som uppstod först med modellens storlek, och att företagets mindre modeller inte klarade uppgiften.**
   Google Research och Google DeepMind · 2025-10 · nytta, förmågor, tempo · [NYT-06](../påståenden/2025/NYT-06.yaml)
   > This required a level of conditional reasoning that appeared to be an emergent capability of scale; our smaller models could not resolve this context-dependent effect.

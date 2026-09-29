@@ -1,0 +1,28 @@
+id: KIN-28
+påstående: Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen,
+  och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.
+typ: förslag
+vem: Kinas statsråd (regeringen)
+datum: '2025-08-21'
+tema:
+- kontroll
+- styrning
+källa:
+  url: https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm
+  titel: 国务院关于深入实施“人工智能+”行动的意见
+  citat: 防范模型的黑箱、幻觉、算法歧视等带来的风险，加强前瞻评估和监测处置，推动人工智能应用合规、透明、可信赖。建立健全人工智能技术监测、风险预警、应急响应体系
+  hämtad: '2026-09-29'
+  arkiv: null
+  språk: zh
+  översättning: förebygg risker som uppstår genom att modeller är svarta lådor, hallucinerar, diskriminerar
+    genom algoritmer med mera, stärk framåtblickande bedömning, övervakning och hantering, och verka för
+    att AI-tillämpningar är regelefterlevande, transparenta och pålitliga. Bygg upp och förbättra system
+    för övervakning av AI-teknik, riskvarning och krisberedskap
+  översatt_av: Claude (AI)
+  granskad_av: null
+förbehåll: Ur statsrådets yttrande om AI+, avsnittet om säkerhetsförmåga. Riskerna som nämns gäller dagens
+  system; förlust av kontroll nämns inte i det här stycket.
+vikt: 2
+bäst_före: '2027-08-21'
+kontrollerad: '2026-09-29'
+ersatt_av: null

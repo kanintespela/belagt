@@ -4,7 +4,7 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-83 påståenden, de viktigaste först inom varje år.
+84 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -331,6 +331,14 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
 
   *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) och [ISR-22](https://kanintespela.github.io/belagt/#ISR-22), där inga effekter på den totala sysselsättningen syns ännu.
+- **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · [KIN-30](../påståenden/2025/KIN-30.yaml)
+  > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal.
 - **Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-19](../påståenden/2025/KIN-19.yaml)
   > 我们只想着让老虎变得更强，却还没为它建一个笼子。

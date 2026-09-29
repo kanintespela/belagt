@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-52 påståenden, de viktigaste först inom varje år.
+54 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -273,6 +273,14 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 
 ## 2025
 
+- **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · [KIN-30](../påståenden/2025/KIN-30.yaml)
+  > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal.
 - **Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · [KIN-19](../påståenden/2025/KIN-19.yaml)
   > 我们只想着让老虎变得更强，却还没为它建一个笼子。
@@ -295,6 +303,14 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska ingrepp kan göra saken värre om AI visar sig vara en normal teknik.
+- **Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen, och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.**
+  Kinas statsråd (regeringen) · 2025-08-21 · kontroll, styrning · [KIN-28](../påståenden/2025/KIN-28.yaml)
+  > 防范模型的黑箱、幻觉、算法歧视等带来的风险，加强前瞻评估和监测处置，推动人工智能应用合规、透明、可信赖。建立健全人工智能技术监测、风险预警、应急响应体系
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* förebygg risker som uppstår genom att modeller är svarta lådor, hallucinerar, diskriminerar genom algoritmer med mera, stärk framåtblickande bedömning, övervakning och hantering, och verka för att AI-tillämpningar är regelefterlevande, transparenta och pålitliga. Bygg upp och förbättra system för övervakning av AI-teknik, riskvarning och krisberedskap
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+, avsnittet om säkerhetsförmåga. Riskerna som nämns gäller dagens system; förlust av kontroll nämns inte i det här stycket.
 - **Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.**
   Kinas cyberrymdsmyndighet (CAC) · 2025-09-15 · styrning, kontroll · [KIN-25](../påståenden/2025/KIN-25.yaml)
   > 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布

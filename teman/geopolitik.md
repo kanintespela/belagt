@@ -4,7 +4,7 @@
 
 Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
-18 påståenden, de viktigaste först inom varje år.
+19 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -115,6 +115,14 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+- **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
+  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · styrning, geopolitik · [KIN-29](../påståenden/2025/KIN-29.yaml)
+  > 中国政府倡议成立世界人工智能合作组织。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
+  > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
+
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
 - **Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, geopolitik · [KIN-21](../påståenden/2025/KIN-21.yaml)
   > 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制

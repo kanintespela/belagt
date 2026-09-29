@@ -4,7 +4,7 @@
 
 Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.
 
-32 påståenden, de viktigaste först inom varje år.
+34 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -155,12 +155,28 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
 
   *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) och [ISR-22](https://kanintespela.github.io/belagt/#ISR-22), där inga effekter på den totala sysselsättningen syns ännu.
+- **Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter och AI-agenter till 2027.**
+  Kinas statsråd (regeringen) · 2025-08-21 · tempo, samhälle · [KIN-26](../påståenden/2025/KIN-26.yaml)
+  > 到2027年，率先实现人工智能与6大重点领域广泛深度融合，新一代智能终端、智能体等应用普及率超70%
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Till 2027 ska AI först ha integrerats brett och djupt i sex prioriterade områden, och spridningen av tillämpningar som nya generationens smarta enheter och AI-agenter ska vara över 70 %
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om handlingsprogrammet AI+ (国发〔2025〕11号). Samma stycke sätter målet till över 90 procent till 2030 och säger att Kina till 2035 ska ha gått in i en ny fas som intelligent ekonomi och intelligent samhälle. Det är politiska mål, inte prognoser från någon oberoende bedömare, och det framgår inte hur spridningen ska mätas.
 - **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**
   Dario Amodei (vd, Anthropic), intervju i Axios · 2025-05-28 · samhälle, röster, nytta · [SAM-06](../påståenden/2025/SAM-06.yaml)
   > Cancer is cured, the economy grows at 10% a year, the budget is balanced — and 20% of people don't have jobs.
   > — [Behind the Curtain: Top AI CEO foresees white-collar bloodbath](https://www.axios.com/2025/05/28/ai-jobs-white-collar-unemployment-anthropic)
 
   *Förbehåll:* Bra diskussionsingång: stor nytta och stora sociala problem utesluter inte varandra. Scenariot är Amodeis eget.
+- **Kinas regering vill att AI:s risker för sysselsättningen bedöms och att resurser styrs mot tillämpningar som skapar jobb, för att minska påverkan på arbetsmarknaden.**
+  Kinas statsråd (regeringen) · 2025-08-21 · samhälle, styrning · [KIN-27](../påståenden/2025/KIN-27.yaml)
+  > 加强人工智能应用就业风险评估，引导创新资源向创造就业潜力大的方向倾斜，减少对就业的冲击
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* stärk bedömningen av riskerna för sysselsättningen när AI tillämpas, styr innovationsresurser mot det som har stor potential att skapa jobb och minska påverkan på sysselsättningen
+  > — [国务院关于深入实施“人工智能+”行动的意见](https://www.cac.gov.cn/2025-08/27/c_1758018277755538.htm)
+
+  *Förbehåll:* Ur statsrådets yttrande om AI+. Samma avsnitt betonar att AI skapar nya jobb och att omskolning ska stödjas. Det är en inriktning och inga bindande krav.
 - **OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.**
   OpenAI (GDPval) · 2025-09 · samhälle, förmågor · [SAM-08](../påståenden/2025/SAM-08.yaml)
   > We found that today’s best frontier models are already approaching the quality of work produced by industry experts.
