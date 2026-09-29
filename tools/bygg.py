@@ -43,6 +43,13 @@ TEMAN = {
 FÄLT = ["id", "påstående", "typ", "vem", "datum", "tema", "källa", "förbehåll", "vikt",
         "bäst_före", "kontrollerad", "ersatt_av"]
 KÄLLFÄLT = ["url", "titel", "citat", "hämtad", "arkiv"]
+# Källor på andra språk än engelska och svenska: citatet står på originalspråket och
+# översättningen bredvid, med vem som översatt och om en människa har granskat den.
+ÖVERSÄTTNINGSFÄLT = ["språk", "översättning", "översatt_av", "granskad_av"]
+SPRÅKNAMN = {"zh": "kinesiska", "ja": "japanska", "ko": "koreanska", "ru": "ryska", "fr": "franska",
+             "de": "tyska", "es": "spanska", "ar": "arabiska", "no": "norska", "da": "danska"}
+CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]")
+MAX_CITAT_TECKEN = 120
 DATUM_RE = re.compile(r"^\d{4}(-\d{2}(-\d{2})?)?$")
 DAG_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 ID_RE = re.compile(r"^[A-Za-z0-9_]+-\d{2,3}$")
@@ -108,8 +115,18 @@ def validera(poster):
             err("källa.url ska vara en webbadress")
         if not k["citat"]:
             err("källa.citat saknas: ett verifierat påstående har alltid ett ordagrant citat")
+        elif CJK_RE.search(k["citat"]):
+            if len(re.sub(r"\s+", "", k["citat"])) > MAX_CITAT_TECKEN:
+                err(f"källa.citat är längre än {MAX_CITAT_TECKEN} tecken")
         elif len(k["citat"].split()) > MAX_CITAT_ORD:
             err(f"källa.citat är längre än {MAX_CITAT_ORD} ord")
+        if okända := [x for x in k if x not in KÄLLFÄLT + ÖVERSÄTTNINGSFÄLT]:
+            err(f"okända fält i källa {okända}")
+        if k.get("språk") or CJK_RE.search(k["citat"] or ""):
+            if k.get("språk") not in SPRÅKNAMN:
+                err(f"källa.språk {k.get('språk')!r} ska vara en av {sorted(SPRÅKNAMN)}")
+            if not k.get("översättning") or not k.get("översatt_av"):
+                err("källa på annat språk kräver översättning och översatt_av")
         if k["hämtad"] is not None and not (isinstance(k["hämtad"], str) and DAG_RE.match(k["hämtad"])):
             err(f"källa.hämtad {k['hämtad']!r} ska vara ÅÅÅÅ-MM-DD")
         if k["arkiv"] is not None and not str(k["arkiv"]).startswith("https://"):
@@ -140,6 +157,12 @@ def citera(p):
     return f"{p['vem']}, {p['datum']}. {titel}{k['url']}. Via Belagt {p['id']}: {SIDA_URL}#{p['id']}"
 
 
+def översättningsetikett(k):
+    granskning = f"granskad av {k['granskad_av']}" if k.get("granskad_av") else \
+        f"inte granskad av någon som läser {SPRÅKNAMN.get(k['språk'], k['språk'])}"
+    return f"Översatt från {SPRÅKNAMN.get(k['språk'], k['språk'])} av {k['översatt_av']}, {granskning}"
+
+
 def md_post(p, relativ=".."):
     k = p["källa"]
     arkiv = f" · [arkivkopia]({k['arkiv']})" if k["arkiv"] else ""
@@ -149,8 +172,10 @@ def md_post(p, relativ=".."):
         f"  {p['vem']} · {p['datum']} · {', '.join(p['tema'])} · "
         f"[{p['id']}]({relativ}/påståenden/{p['datum'][:4]}/{p['id']}.yaml)",
         f"  > {k['citat']}",
-        f"  > — [{k['titel'] or k['url']}]({k['url']}){arkiv}",
     ]
+    if k.get("översättning"):
+        rader.append(f"  >\n  > *{översättningsetikett(k)}:* {k['översättning']}")
+    rader.append(f"  > — [{k['titel'] or k['url']}]({k['url']}){arkiv}")
     if p["förbehåll"]:
         # Id:n som pekar på andra poster blir länkar till posten på webbsidan.
         förbehåll = REF_RE.sub(lambda m: f"[{m[0]}]({SIDA_URL}#{m[0]})" if m[0] in IDS else m[0], p["förbehåll"])
@@ -191,13 +216,15 @@ def data_csv(poster):
     buf = io.StringIO()
     w = csv.writer(buf, lineterminator="\n")
     w.writerow(["id", "datum", "påstående", "typ", "vem", "tema", "vikt", "källa_url", "källa_titel",
-                "citat", "hämtad", "arkiv", "förbehåll", "bäst_före", "kontrollerad", "ersatt_av"])
+                "citat", "hämtad", "arkiv", "förbehåll", "bäst_före", "kontrollerad", "ersatt_av",
+                "citat_språk", "översättning", "översatt_av", "granskad_av"])
     for p in sortera(poster):
         k = p["källa"]
         w.writerow([p["id"], p["datum"], p["påstående"], p["typ"], p["vem"], ";".join(p["tema"]),
                     p["vikt"], k["url"], k["titel"] or "", k["citat"], k["hämtad"] or "",
                     k["arkiv"] or "", p["förbehåll"] or "", p["bäst_före"] or "", p["kontrollerad"],
-                    p["ersatt_av"] or ""])
+                    p["ersatt_av"] or "", k.get("språk") or "", k.get("översättning") or "",
+                    k.get("översatt_av") or "", k.get("granskad_av") or ""])
     return buf.getvalue()
 
 

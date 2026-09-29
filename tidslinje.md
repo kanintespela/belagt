@@ -1429,6 +1429,8 @@ Alla 269 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 - **En ingenjör på DeepSeek skriver att han inte litar på att Anthropic eller OpenAI gör den mest avancerade AI:n öppen och billig för alla, och jämför att låta Anthropic behärska AGI med att låta Hitler få atombomben före de allierade.**
   Anonym kernelingenjör på DeepSeek (skrev huvud-attention-operatorn i DeepSeek v4.1) · 2026-09 · geopolitik, röster · [J3ljHm57yU0-35](./påståenden/2026/J3ljHm57yU0-35.yaml)
   > 我不信任 Anthropic 或者 OpenAI 能这样做，特别是不希望 Anthropic 掌握最先进的人工智能或 AGI
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Jag litar inte på att Anthropic eller OpenAI kan göra det här, och framför allt vill jag inte att Anthropic ska behärska den mest avancerade artificiella intelligensen eller AGI.
   > — [我不得不把才华埋葬在昨天](https://mp.weixin.qq.com/s/zk0KxuLzhmMJ4LPYW_OHMA)
 
   *Förbehåll:* Kontrollerat mot den kinesiska originaltexten. Skribenten säger själv att han överdriver lite. Essän handlar mest om sorgen över att AI tar över hantverket. Den publicerades i september 2026.

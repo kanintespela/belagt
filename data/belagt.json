@@ -5508,7 +5508,11 @@
     "titel": "我不得不把才华埋葬在昨天",
     "citat": "我不信任 Anthropic 或者 OpenAI 能这样做，特别是不希望 Anthropic 掌握最先进的人工智能或 AGI",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": null,
+    "språk": "zh",
+    "översättning": "Jag litar inte på att Anthropic eller OpenAI kan göra det här, och framför allt vill jag inte att Anthropic ska behärska den mest avancerade artificiella intelligensen eller AGI.",
+    "översatt_av": "Claude (AI)",
+    "granskad_av": null
    },
    "förbehåll": "Kontrollerat mot den kinesiska originaltexten. Skribenten säger själv att han överdriver lite. Essän handlar mest om sorgen över att AI tar över hantverket. Den publicerades i september 2026.",
    "vikt": 2,

@@ -141,6 +141,8 @@ mark { background: var(--markering); color: inherit; border-radius: 2px; padding
 .detalj { margin-top: 12px; }
 blockquote { margin: 0; padding: 10px 14px; border-left: 3px solid var(--accent); background: var(--accent-yta);
   border-radius: 0 8px 8px 0; font-size: 0.92rem; overflow-wrap: anywhere; }
+.översättning { margin-top: 8px; padding-top: 8px; border-top: 1px dashed color-mix(in srgb, var(--accent) 40%, transparent); }
+.översättning small { display: block; color: var(--dämpad); font-size: 0.78rem; margin-bottom: 2px; }
 .källrad { font-size: 0.85rem; margin-top: 8px; overflow-wrap: anywhere; }
 .källrad .svag { color: var(--svag); }
 .förbehåll { font-size: 0.9rem; margin: 10px 0 0; }
@@ -362,7 +364,7 @@ function ritaFilter() {
   $("#f-år").innerHTML = åren.map(å => {
     const n = nå.get(å) || 0;
     return `<button data-fält="år" data-värde="${å}" aria-pressed="${läge.år.has(å)}" title="${å}: ${n} påståenden">
-      <span class="stapel" style="height:${Math.max(4, n / max * 56)}px"></span><span class="etikett">${å}</span></button>`;
+      <span class="stapel" style="height:${Math.max(4, n / max * 56)}px"></span><span class="etikett">${åren.length > 6 ? "’" + å.slice(2) : å}</span></button>`;
   }).join("");
   $("#kärna").checked = läge.kärna;
   const aktiva = läge.tema.size + läge.typ.size + läge.år.size + läge.källa.size + (läge.kärna ? 1 : 0);
@@ -396,6 +398,16 @@ function gåTill(id) {
   el.classList.remove("blink"); void el.offsetWidth; el.classList.add("blink");
 }
 
+const SPRÅKNAMN = { zh: "kinesiska", ja: "japanska", ko: "koreanska", ru: "ryska", fr: "franska",
+  de: "tyska", es: "spanska", ar: "arabiska", no: "norska", da: "danska" };
+// Citat på andra språk visas på originalspråket med översättningen under, och det framgår vem som
+// översatt och om en människa som läser språket har granskat översättningen.
+function översättningsetikett(k) {
+  const språk = SPRÅKNAMN[k.språk] || k.språk;
+  return `Översatt från ${språk} av ${k.översatt_av}` +
+    (k.granskad_av ? `, granskad av ${k.granskad_av}` : `, inte granskad av någon som läser ${språk}`);
+}
+
 function postHtml(p) {
   const öppen = öppna.has(p.id), vald = urval.includes(p.id), k = p.källa;
   return `<article class="post${öppen ? " öppen" : ""}${vald ? " vald" : ""}" id="${esc(p.id)}">
@@ -409,7 +421,8 @@ function postHtml(p) {
         ${p.ersatt_av ? `<span class="kärna">Ersatt av ${esc(p.ersatt_av)}</span>` : ""}
       </div>
       ${öppen ? `<div class="detalj">
-        <blockquote>”${markera(k.citat)}”</blockquote>
+        <blockquote><span lang="${esc(k.språk || "en")}">”${markera(k.citat)}”</span>${k.översättning ? `
+          <div class="översättning"><small>${esc(översättningsetikett(k))}</small>${markera(k.översättning)}</div>` : ""}</blockquote>
         <div class="källrad">Källa: <a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel || k.url)}</a>
           <span class="svag">· ${esc(p.domän)}${k.hämtad ? ` · hämtad ${esc(k.hämtad)}` : ""}</span>
           ${k.arkiv ? ` · <a href="${esc(k.arkiv)}" target="_blank" rel="noopener">arkivkopia</a>` : ""}</div>
@@ -509,12 +522,12 @@ function urvalsposter() { return urval.map(id => perId.get(id)).filter(Boolean);
 function exportText(f) {
   const u = urvalsposter();
   if (f === "källor") return u.map((p, i) => `${i + 1}. ${p.citera}`).join("\n");
-  if (f === "text") return u.map((p, i) => `${i + 1}. ${p.påstående}\n   Källa: ${p.citera}${p.förbehåll ? `\n   Förbehåll: ${p.förbehåll}` : ""}`).join("\n\n");
+  if (f === "text") return u.map((p, i) => `${i + 1}. ${p.påstående}\n   Källa: ${p.citera}${p.källa.översättning ? `\n   Citat: ”${p.källa.citat}” (${översättningsetikett(p.källa)}: ”${p.källa.översättning}”)` : ""}${p.förbehåll ? `\n   Förbehåll: ${p.förbehåll}` : ""}`).join("\n\n");
   if (f === "md") return u.map((p, i) => `${p.påstående}[^${i + 1}]`).join("\n\n") + "\n\n" +
-    u.map((p, i) => `[^${i + 1}]: ${p.vem}, ${p.datum}. [${p.källa.titel || domän(p.källa.url)}](${p.källa.url}). Citat: ”${p.källa.citat}” Via [Belagt ${p.id}](${location.origin + location.pathname}#${p.id}).`).join("\n");
+    u.map((p, i) => `[^${i + 1}]: ${p.vem}, ${p.datum}. [${p.källa.titel || domän(p.källa.url)}](${p.källa.url}). Citat: ”${p.källa.citat}”${p.källa.översättning ? ` (${översättningsetikett(p.källa)}: ”${p.källa.översättning}”)` : ""} Via [Belagt ${p.id}](${location.origin + location.pathname}#${p.id}).`).join("\n");
   const cell = v => `"${String(v ?? "").replace(/"/g, '""')}"`;
-  return ["id,datum,påstående,vem,källa,citat,förbehåll,källhänvisning"].concat(
-    u.map(p => [p.id, p.datum, p.påstående, p.vem, p.källa.url, p.källa.citat, p.förbehåll, p.citera].map(cell).join(","))).join("\n");
+  return ["id,datum,påstående,vem,källa,citat,översättning,förbehåll,källhänvisning"].concat(
+    u.map(p => [p.id, p.datum, p.påstående, p.vem, p.källa.url, p.källa.citat, p.källa.översättning, p.förbehåll, p.citera].map(cell).join(","))).join("\n");
 }
 function ritaUrvalsdialog() {
   const u = urvalsposter();
@@ -620,7 +633,7 @@ document.addEventListener("keydown", e => {
 fetch("belagt.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   teman = d.teman;
   data = d.påståenden.map(p => ({ ...p, år: p.datum.slice(0, 4), domän: domän(p.källa.url),
-    sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, ...p.tema].join(" ").toLowerCase() }));
+    sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, p.källa.översättning, ...p.tema].join(" ").toLowerCase() }));
   perId = new Map(data.map(p => [p.id, p]));
   const källor = new Set(data.map(p => p.källa.url)).size;
   const senast = data.map(p => p.kontrollerad).sort().pop();
