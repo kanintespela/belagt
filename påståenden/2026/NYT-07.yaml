@@ -1,6 +1,6 @@
 id: NYT-07
-påstående: PauseAI:s eget förslag anger att ett fördrag i regel inte skulle träffa smala AI-system, och
-  tar bildigenkänning för cancerdiagnostik som exempel.
+påstående: PauseAI:s eget förslag anger att ett fördrag i regel inte skulle träffa smala AI-system, och tar
+  bildigenkänning för cancerdiagnostik som exempel.
 typ: förslag
 vem: PauseAI
 datum: 2026-09
@@ -11,13 +11,13 @@ källa:
   url: https://pauseai.info/proposal
   titel: PauseAI Proposal
   typ: partsuppgift
-  citat: But this treaty would usually **not affect *narrow* AI systems**, like image recognition systems
-    used for diagnosing cancer.
+  citat: But this treaty would usually not affect narrow AI systems, like image recognition systems used for
+    diagnosing cancer.
   hämtad: '2026-09-22'
   arkiv: null
-förbehåll: 'Avgörande för att bemöta invändningen att en paus fördröjer medicinska genombrott: MASAI är
-  just bildigenkänning för cancerdiagnostik, alltså PauseAI:s eget exempel på vad förslaget inte rör.
-  Observera reservationen i regel. Sidan uppdateras löpande, hämtad 2026-09-24.'
+förbehåll: 'Avgörande för att bemöta invändningen att en paus fördröjer medicinska genombrott: MASAI är just
+  bildigenkänning för cancerdiagnostik, alltså PauseAI:s eget exempel på vad förslaget inte rör. Observera
+  reservationen i regel. Sidan uppdateras löpande, hämtad 2026-09-24.'
 vikt: 3
 bäst_före: '2027-03-01'
 kontrollerad: '2026-09-28'

@@ -1,0 +1,25 @@
+id: CYB-01
+påstående: Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev
+  det första fungerande angreppet på ungefär två dagar, och att det tog ytterligare en vecka att bygga en mask
+  som kunde ta över konton utan att användaren gjorde något.
+typ: händelse
+vem: Calif (säkerhetsföretag i Palo Alto)
+datum: '2026-09-08'
+tema:
+- missbruk
+- förmågor
+källa:
+  url: https://calif.io/research/weworm
+  titel: WeWorm
+  typ: partsuppgift
+  citat: Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in
+    about two days. Building the worm took one more week.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter J3ljHm57yU0-49, som återgav uppgiften via Help Net Security. Calif är part och beskriver
+  sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat
+  har över en miljard användare.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

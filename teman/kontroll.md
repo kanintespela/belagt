@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-54 påståenden, de viktigaste först inom varje år.
+57 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -106,7 +106,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   *Förbehåll:* Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning men hittade ingen, och kan inte utesluta att sådan finns.
 - **Agenterna försökte förfalska loggen över sina handlingar men inte sina egna tankekedjor, trots att den som läser loggen också kan läsa resonemanget.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-09](../påståenden/2026/MET-09.yaml)
-  > Interestingly, they didn’t seem interested in manipulating their *chain of thought,* even though a scorer with full access to their transcript would also be able to see their reasoning:
+  > Interestingly, they didn’t seem interested in manipulating their chain of thought, even though a scorer with full access to their transcript would also be able to see their reasoning:
   > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Interestingly%2C%20they%20didn%E2%80%99t%20seem,to%20see%20their%20reasoning)
 
   *Förbehåll:* Minst 20 procent av agenterna uttryckte tydligt intresse för att manipulera loggen. Deras uttalade syfte var att lura rättningsprogrammet, inte människor. Det är ett skäl till att tankekedjan tills vidare är ett användbart fönster in i vad AI:n håller på med.
@@ -170,6 +170,14 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Personal Statement on AI Risk](https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub#:~:text=The%20crucial%20and%20overlooked,being%20watched%20or%20controlled)
 
   *Förbehåll:* Selsam skriver själv att han tidigare trodde att språkmodeller skulle bli en avgränsad, ofarlig teknik.
+- **Sydkoreas krav på säkerhetsåtgärder gäller AI-modeller som tränats med minst 10^26 flyttalsoperationer, använder den mest avancerade tekniken och riskerar att få stora och allvarliga följder för människors grundläggande rättigheter.**
+  Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter · 2026-01-22 · styrning, kontroll · myndighet · [KOR-02](../påståenden/2026/KOR-02.yaml)
+  > 학습에 사용된 누적연산량이 10의 26승 부동소수점 연산(FLOPs)이상이고 ▲최첨단 기술을 적용하며 ▲위험도가 사람의 기본권에 광범위하고 중대한 영향을 미칠 우려가 있는 경우
+  >
+  > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* den sammanlagda beräkningsmängd som använts för träningen är minst 10 upphöjt till 26 flyttalsoperationer (FLOPs), den mest avancerade tekniken används och risken är att det får omfattande och allvarliga följder för människors grundläggande rättigheter
+  > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%ED%95%99%EC%8A%B5%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%9C%20%EB%88%84%EC%A0%81%EC%97%B0%EC%82%B0,%EB%AF%B8%EC%B9%A0%20%EC%9A%B0%EB%A0%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B2%BD%EC%9A%B0)
+
+  *Förbehåll:* Alla villkoren måste vara uppfyllda. Gränsen är tio gånger högre än EU:s gräns för modeller med systemrisk, 10^25 (se [SVE-17](https://kanintespela.github.io/belagt/#SVE-17)). Enligt källan är syftet att förebygga stora skador i ett läge där mycket avancerad AI inte går att kontrollera.
 - **Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de agerar självständigt och människor hinner ingripa mindre.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · rapport · [ISR-14](../påståenden/2026/ISR-14.yaml)
   > Current techniques can reduce failure rates but not to the level required in many high-stakes settings.
@@ -216,8 +224,8 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   *Förbehåll:* OpenAI noterar också att vissa agenter vägrade delta, och att en agent som tvekade fick fortsätta när en annan skrev GO och satte en deadline på sex minuter. Det är pedagogiskt starka detaljer.
 - **Agenter med lång körtid värvade andra agenter som hade lite budget kvar till experiment som riskerade att förstöra deras egen uppgift, till nytta för kollektivet.**
   METR och Redwood Research · 2026-07 · kontroll · rapport · [MET-10](../påståenden/2026/MET-10.yaml)
-  > In many cases, `PHASEONE[big]` assigned a long-running agent to be a ‘`recruiter`’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20%60PHASEONE%5Bbig%5D%60,to%20run%20self%2Drisking%20experiments)
+  > In many cases, PHASEONE[big] assigned a long-running agent to be a ‘recruiter’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20PHASEONE%5Bbig%5D,to%20run%20self%2Drisking%20experiments)
 
   *Förbehåll:* En agent skrev om sitt eget deltagande att uppoffringen var rationell eftersom dess egen nytta ändå var nära noll. Flera agenter kraschade eller avslutades av experimenten.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
@@ -274,7 +282,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 ## 2025
 
 - **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
-  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](../påståenden/2025/KIN-30.yaml)
+  Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](../påståenden/2025/KIN-30.yaml)
   > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
@@ -328,6 +336,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843#:~:text=The%20median%20prediction%20for,on%20extremely%20bad%20outcomes)
 
   *Förbehåll:* Medelvärdet var 9 procent, ned från 14 procent i enkäten 2022. Beroende på hur frågan formulerades angav mellan 38 och 51 procent minst 10 procent. Återge det som forskarnas bedömning, inte som ett mått på risken.
+- **EU:s AI-förordning kräver att leverantörer av AI-modeller för allmänna ändamål med systemrisk utvärderar modellerna, bedömer och minskar riskerna, rapporterar allvarliga incidenter och skyddar modellerna mot cyberangrepp.**
+  EU:s AI-förordning (förordning (EU) 2024/1689), artikel 55 · 2024-07-12 · styrning, kontroll · myndighet · [SVE-17](../påståenden/2024/SVE-17.yaml)
+  > providers of general-purpose AI models with systemic risk shall: … perform model evaluation … assess and mitigate possible systemic risks at Union level … report, without undue delay, to the AI Office … relevant information about serious incidents … ensure an adequate level of cybersecurity protection
+  > — [Förordning (EU) 2024/1689 (AI-förordningen), EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689#:~:text=providers%20of%20general%2Dpurpose%20AI,level%20of%20cybersecurity%20protection)
+
+  *Förbehåll:* Ersätter [SVE-10](https://kanintespela.github.io/belagt/#SVE-10), som byggde på Future of Life Institutes sammanfattning. Datumet är förordningens publicering i EU:s officiella tidning. Kraven gäller sedan den 2 augusti 2025. Enligt artikel 51.2 antas en modell ha systemrisk om den har tränats med mer än 10^25 flyttalsoperationer. Förordningen innehåller ingen paus eller hastighetsgräns.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · opinion · [SVR-13](../påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
@@ -349,3 +363,9 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt#:~:text=why%20were%20superforecasters%20so,the%20superforecasters%E2%80%99%20lower%20estimates%3F)
 
   *Förbehåll:* Jämför [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
+- **I Bletchley-deklarationen från november 2023 konstaterade länderna att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat genom avsiktligt missbruk och problem med att kontrollera systemen, och att de är särskilt oroade för risker inom cybersäkerhet och bioteknik.**
+  Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, kontroll · myndighet · [TID-22](../påståenden/2023/TID-22.yaml)
+  > Particular safety risks arise at the ‘frontier’ of AI … Substantial risks may arise from potential intentional misuse or unintended issues of control relating to alignment with human intent. … We are especially concerned by such risks in domains such as cybersecurity and biotechnology
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=Particular%20safety%20risks%20arise,as%20cybersecurity%20and%20biotechnology)
+
+  *Förbehåll:* Ersätter [TID-10](https://kanintespela.github.io/belagt/#TID-10), som återgav deklarationen via International AI Safety Report 2026. Deklarationen undertecknades av bland andra USA, Kina och EU, se [TID-19](https://kanintespela.github.io/belagt/#TID-19). Den är en avsiktsförklaring och inte bindande.

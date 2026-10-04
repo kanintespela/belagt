@@ -1,0 +1,27 @@
+id: KIN-32
+påstående: I Kina måste generativa AI-tjänster registreras hos cyberrymdsmyndigheten, och appar som använder
+  en registrerad modell ska tydligt visa modellens namn och registreringsnummer.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC)
+datum: '2026-09-14'
+tema:
+- styrning
+källa:
+  url: https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm
+  titel: 关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）
+  typ: myndighet
+  citat: 已上线的生成式人工智能应用或功能，应在显著位置或产品详情页面公示所使用已备案或登记生成式人工智能服务情况，注明模型名称、备案号或上线编号。
+  språk: zh
+  översättning: Generativa AI-appar eller funktioner som redan har lanserats ska på en framträdande plats eller
+    på produktsidan visa vilken registrerad generativ AI-tjänst de använder, med modellens namn och registreringsnummer
+    eller lanseringsnummer.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter KIN-03, som återgav registret via Concordia AI. Registreringskravet bygger på Kinas tillfälliga
+  regler för generativa AI-tjänster från 2023. Antalet registrerade tjänster finns i KIN-15 och KIN-16.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

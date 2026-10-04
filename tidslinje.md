@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 317 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -136,6 +136,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför [NYT-07](https://kanintespela.github.io/belagt/#NYT-07) om att PauseAI:s förslag inte omfattar smal AI.
 - **Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.**
+  *Ersatt av TID-22.*
   Bletchley-deklarationen, återgiven i International AI Safety Report 2026 · 2023-11 · styrning · rapport · [TID-10](./påståenden/2023/TID-10.yaml)
   > The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=The%20Bletchley%20Declaration%2C%20issued,control%2C%20and%20cybersecurity%20risks)
@@ -147,6 +148,12 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=There%20is%20potential%20for,of%20these%20AI%20models)
 
   *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+- **I Bletchley-deklarationen från november 2023 konstaterade länderna att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat genom avsiktligt missbruk och problem med att kontrollera systemen, och att de är särskilt oroade för risker inom cybersäkerhet och bioteknik.**
+  Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, kontroll · myndighet · [TID-22](./påståenden/2023/TID-22.yaml)
+  > Particular safety risks arise at the ‘frontier’ of AI … Substantial risks may arise from potential intentional misuse or unintended issues of control relating to alignment with human intent. … We are especially concerned by such risks in domains such as cybersecurity and biotechnology
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=Particular%20safety%20risks%20arise,as%20cybersecurity%20and%20biotechnology)
+
+  *Förbehåll:* Ersätter [TID-10](https://kanintespela.github.io/belagt/#TID-10), som återgav deklarationen via International AI Safety Report 2026. Deklarationen undertecknades av bland andra USA, Kina och EU, se [TID-19](https://kanintespela.github.io/belagt/#TID-19). Den är en avsiktsförklaring och inte bindande.
 - **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
   OpenAI:s styrelse · 2023-11-17 · styrning · partsuppgift · [TID-18](./påståenden/2023/TID-18.yaml)
   > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.
@@ -204,12 +211,37 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843#:~:text=There%20was%20disagreement%20about,the%20future%20of%20humanity)
 
   *Förbehåll:* Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
+- **Indiens regering godkände i mars 2024 satsningen IndiaAI Mission med en budget på 10 372 crore rupier (omkring 1,2 miljarder US-dollar) över fem år, bland annat för en superdatorkapacitet med över 10 000 grafikprocessorer.**
+  Indiens regering (IndiaAI, digitaliseringsministeriets AI-satsning) · 2024-03-07 · geopolitik, tempo · myndighet · [IND-01](./påståenden/2024/IND-01.yaml)
+  > the cabinet approved the India AI mission with a budget outlay of Rs 10,372 crore for five years … the supercomputing capacity, comprising over 10,000 GPUs, will be made available to various stakeholders
+  > — [Cabinet approves India AI mission at an outlay of Rs 10,372 crore](https://indiaai.gov.in/news/cabinet-approves-india-ai-mission-at-an-outlay-of-rs-10-372-crore#:~:text=the%20cabinet%20approved%20the,available%20to%20various%20stakeholders)
+
+  *Förbehåll:* Omräkningen till dollar är ungefärlig och gjord av Belagt. Satsningen ska ge nystartade företag, forskare och industri tillgång till beräkningskraft. Det är en industripolitisk satsning, inte en reglering.
+- **EU:s AI-förordning kräver att leverantörer av AI-modeller för allmänna ändamål med systemrisk utvärderar modellerna, bedömer och minskar riskerna, rapporterar allvarliga incidenter och skyddar modellerna mot cyberangrepp.**
+  EU:s AI-förordning (förordning (EU) 2024/1689), artikel 55 · 2024-07-12 · styrning, kontroll · myndighet · [SVE-17](./påståenden/2024/SVE-17.yaml)
+  > providers of general-purpose AI models with systemic risk shall: … perform model evaluation … assess and mitigate possible systemic risks at Union level … report, without undue delay, to the AI Office … relevant information about serious incidents … ensure an adequate level of cybersecurity protection
+  > — [Förordning (EU) 2024/1689 (AI-förordningen), EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689#:~:text=providers%20of%20general%2Dpurpose%20AI,level%20of%20cybersecurity%20protection)
+
+  *Förbehåll:* Ersätter [SVE-10](https://kanintespela.github.io/belagt/#SVE-10), som byggde på Future of Life Institutes sammanfattning. Datumet är förordningens publicering i EU:s officiella tidning. Kraven gäller sedan den 2 augusti 2025. Enligt artikel 51.2 antas en modell ha systemrisk om den har tränats med mer än 10^25 flyttalsoperationer. Förordningen innehåller ingen paus eller hastighetsgräns.
+- **Afrikanska unionens verkställande råd ställde sig i juli 2024 bakom en gemensam AI-strategi för den afrikanska kontinenten, med inriktning på utveckling och på etisk och ansvarsfull användning.**
+  Afrikanska unionen · 2024-07-18 · styrning, geopolitik · myndighet · [AFR-01](./påståenden/2024/AFR-01.yaml)
+  > the African Union Executive Council endorsed the Continental AI Strategy during its 45th Ordinary Session in Accra, Ghana, on July 18-19, 2024. This strategy underscores Africa’s commitment to an Africa-centric, development-focused approach to AI, promoting ethical, responsible, and equitable practices.
+  > — [Continental Artificial Intelligence Strategy](https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy#:~:text=the%20African%20Union%20Executive,responsible%2C%20and%20equitable%20practices)
+
+  *Förbehåll:* Strategin är inte bindande för medlemsländerna. Den ska genomföras 2025–2030.
 - **EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.**
+  *Ersatt av TID-23.*
   EU, återgivet av artificialintelligenceact.eu · 2024-08-01 · styrning · rapport · [TID-11](./påståenden/2024/TID-11.yaml)
   > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/#:~:text=After%20the%20AI%20Act,be%20rolled%20out%20gradually)
 
   *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: [SVE-10](https://kanintespela.github.io/belagt/#SVE-10) och [SVE-11](https://kanintespela.github.io/belagt/#SVE-11).
+- **EU-kommissionen uppger att AI-förordningen trädde i kraft den 1 augusti 2024 och blev tillämplig den 2 augusti 2026, med vissa undantag som började gälla tidigare eller börjar gälla senare.**
+  EU-kommissionen · 2024-08-01 · styrning · myndighet · [TID-23](./påståenden/2024/TID-23.yaml)
+  > The AI Act entered into force on 1 August 2024 and became applicable on 2 August 2026, with some exceptions
+  > — [AI Act | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai#:~:text=The%20AI%20Act%20entered,2026%2C%20with%20some%20exceptions)
+
+  *Förbehåll:* Ersätter [TID-11](https://kanintespela.github.io/belagt/#TID-11), som byggde på Future of Life Institutes sammanfattning. Enligt samma sida sköts reglerna för AI-system inom vissa högriskområden upp till den 2 december 2027 genom ändringsförordningen AI Omnibus, som trädde i kraft den 27 juli 2026. Sidan uppdateras löpande.
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · partsuppgift · [TID-09](./påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
@@ -258,6 +290,22 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/#:~:text=Over%20the%20next%20three,of%20which%20were%20rejected)
 
   *Förbehåll:* Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.
+- **Brasiliens senat antog den 10 december 2024 ett lagförslag om reglering av AI, som därefter skickades till deputeradekammaren.**
+  Brasiliens senat (Agência Senado) · 2024-12-10 · styrning, geopolitik · myndighet · [BRA-01](./påståenden/2024/BRA-01.yaml)
+  > O Senado aprovou nesta terça-feira (10) o projeto que regulamenta a inteligência artificial (IA) no Brasil. A matéria segue agora para a análise da Câmara dos Deputados.
+  >
+  > *Översatt från portugisiska av Claude (AI), inte granskad av någon som läser portugisiska:* Senaten antog i tisdags (den 10:e) lagförslaget som reglerar artificiell intelligens (AI) i Brasilien. Ärendet går nu vidare till deputeradekammaren för behandling.
+  > — [Senado aprova regulamentação da inteligência artificial; texto vai à Câmara](https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara#:~:text=O%20Senado%20aprovou%20nesta,da%20C%C3%A2mara%20dos%20Deputados)
+
+  *Förbehåll:* Förslaget bygger på PL 2338/2023. Det är inte lag förrän deputeradekammaren har antagit det och presidenten har skrivit under. Kontrollera var ärendet står.
+- **I den version av Brasiliens AI-lagförslag som senaten antog räknas sociala mediers algoritmer inte som AI-system med hög risk.**
+  Brasiliens senat (Agência Senado) · 2024-12-10 · styrning · myndighet · [BRA-02](./påståenden/2024/BRA-02.yaml)
+  > A versão aprovada nesta terça-feira manteve fora da lista de sistemas considerados de alto risco os algoritmos das redes sociais
+  >
+  > *Översatt från portugisiska av Claude (AI), inte granskad av någon som läser portugisiska:* Versionen som antogs i tisdags höll sociala mediers algoritmer utanför listan över system som räknas som högrisk
+  > — [Senado aprova regulamentação da inteligência artificial; texto vai à Câmara](https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara#:~:text=A%20vers%C3%A3o%20aprovada%20nesta,algoritmos%20das%20redes%20sociais)
+
+  *Förbehåll:* Enligt källan var det oppositionen som drev igenom undantaget, medan några av regeringens senatorer beklagade det.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · opinion · [SVR-13](./påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
@@ -268,6 +316,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 ## 2025
 
 - **Kina har infört stränga regler om märkning av AI-genererat innehåll, med standarder som anger hur märkning och vattenstämpling ska gå till.**
+  *Ersatt av KIN-33.*
   Kinas myndigheter, återgivet av Concordia AI · 2025 · styrning, missbruk · rapport · [KIN-04](./påståenden/2025/KIN-04.yaml)
   > the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting strict rules around labeling AI-generated content.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -339,7 +388,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [How much energy does ChatGPT use?](https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use#:~:text=We%20find%20that%20typical,than%20the%20older%20estimate)
 
   *Förbehåll:* Uppskattningen gäller vanliga frågor. Långa texter, resonerande modeller och verktyg som Deep Research drar betydligt mer, och träningen av framtida modeller kan kräva mycket mer energi. Publicerat i februari 2025.
+- **Åtta av AI-förordningens nio förbud mot vissa AI-metoder har gällt sedan februari 2025. Det nionde, som lades till genom ändringsförordningen AI Omnibus, börjar gälla i december 2026.**
+  EU-kommissionen · 2025-02 · styrning · myndighet · [TID-24](./påståenden/2025/TID-24.yaml)
+  > Prohibitions 1-8 became effective in February 2025. … Prohibition 9 comes into effect in December 2026 and was introduced as a part of the AI Omnibus.
+  > — [AI Act | Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai#:~:text=Prohibitions%201%2D8%20became%20effective,of%20the%20AI%20Omnibus)
+
+  *Förbehåll:* Ersätter [TID-12](https://kanintespela.github.io/belagt/#TID-12), som byggde på Future of Life Institutes sammanfattning. Enligt samma sida gäller förbuden från den 2 februari 2025. Det nionde förbudet gäller AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn.
 - **De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.**
+  *Ersatt av TID-24.*
   EU, återgivet av artificialintelligenceact.eu · 2025-02-02 · styrning · rapport · [TID-12](./påståenden/2025/TID-12.yaml)
   > Most prohibitions of AI systems have been applicable since 2 February 2025
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/#:~:text=Most%20prohibitions%20of%20AI,since%202%20February%202025)
@@ -389,6 +445,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E5%90%88%E6%88%90%E5%86%85%E5%AE%B9%E6%A0%87%E8%AF%86%E5%8C%85%E6%8B%AC%E6%98%BE%E5%BC%8F%E6%A0%87%E8%AF%86%E5%92%8C%E9%9A%90%E5%BC%8F%E6%A0%87%E8%AF%86%E3%80%82)
 
   *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
+- **Kinas regler om märkning av AI-genererat innehåll gäller sedan den 1 september 2025 och kräver att märkningen också följer tvingande nationella standarder.**
+  Kinas cyberrymdsmyndighet (CAC) med flera myndigheter · 2025-03-14 · styrning, missbruk · myndighet · [KIN-33](./påståenden/2025/KIN-33.yaml)
+  > 服务提供者开展标识活动的，还应当符合相关法律、行政法规、部门规章和强制性国家标准的要求。… 本办法自2025年9月1日起施行。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Tjänsteleverantörer som märker innehåll ska också uppfylla kraven i relevanta lagar, förordningar, myndighetsföreskrifter och tvingande nationella standarder. … Dessa bestämmelser gäller från den 1 september 2025.
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E5%BC%80%E5%B1%95%E6%A0%87%E8%AF%86%E6%B4%BB%E5%8A%A8%E7%9A%84,025%E5%B9%B49%E6%9C%881%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%E3%80%82)
+
+  *Förbehåll:* Ersätter [KIN-04](https://kanintespela.github.io/belagt/#KIN-04), som återgav reglerna via Concordia AI. Hur märkningen ska gå till står i [KIN-14](https://kanintespela.github.io/belagt/#KIN-14). Märkningskrav kan också tjäna informationskontroll.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · preprint · [TID-15](./påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
@@ -527,6 +591,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Remissvar över SOU 2025:12 AI-kommissionens Färdplan för Sverige](https://folketsai.se/remissvar/#:~:text=g%C3%B6r%20att%20AI%2Dkommissionen%20f%C3%B6rvandlar,till%20en%20teknisk%2Dekonomisk%20optimeringsfr%C3%A5ga)
 
   *Förbehåll:* En svensk röst som fokuserar på demokrati och makt här och nu snarare än på frontierrisker. Visar dessutom att medborgare kan lämna remissvar (jämför IDEAS.md). Kan vara en möjlig samarbetspart för folkbildningen.
+- **Danmarks regering och de flesta av Folketingets partier enades i juni 2025 om att det ska bli olagligt att dela deepfakes och andra digitala efterbildningar av en persons utseende och röst. Parodi och satir ska fortfarande vara tillåtet.**
+  Danmarks kulturministerium · 2025-06-26 · rättigheter, missbruk, styrning · myndighet · [DNK-01](./påståenden/2025/DNK-01.yaml)
+  > Den politiske aftale vil blive udmøntet i et lovforslag, som skal gøre det ulovligt at dele eksempelvis deepfakes og andre digitale efterligner af personlige kendetegn. … Parodier og satire vil naturligvis fortsat være mulige at lave.
+  >
+  > *Översatt från danska av Claude (AI), inte granskad av någon som läser danska:* Den politiska överenskommelsen ska omsättas i ett lagförslag som ska göra det olagligt att dela till exempel deepfakes och andra digitala efterbildningar av personliga kännetecken. … Parodier och satir ska naturligtvis fortfarande gå att göra.
+  > — [Bred aftale om deepfakes giver alle ret til egen krop og egen stemme](https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme#:~:text=Den%20politiske%20aftale%20vil,v%C3%A6re%20mulige%20at%20lave)
+
+  *Förbehåll:* Ändringen görs i den danska upphovsrättslagen. Det är en överenskommelse om ett lagförslag, inte en antagen lag. Kontrollera om lagen har trätt i kraft.
 - **USA:s regering har som uttalat mål att vinna AI-kapplöpningen och uppnå global dominans, bland annat genom att ta bort regler som anses hämma utvecklingen.**
   Vita huset (America's AI Action Plan) · 2025-07 · geopolitik, styrning · myndighet · [BAL-11](./påståenden/2025/BAL-11.yaml)
   > The United States is in a race to achieve global dominance in artificial intelligence (AI).
@@ -534,11 +606,18 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Handlingsplanen från juli 2025. Ett av kapitlen heter ”Remove Red Tape and Onerous Regulation”. Visar varför Amodeis förslag, som kräver att staten agerar, möter motstånd.
 - **EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes av EU-kommissionen och AI-styrelsen den 1 augusti 2025.**
+  *Ersatt av TID-25.*
   EU, återgivet av artificialintelligenceact.eu · 2025-07-10 · styrning · rapport · [TID-14](./påståenden/2025/TID-14.yaml)
   > Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/#:~:text=Published%20on%2010%20July,on%201%20August%202025)
 
   *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
+- **EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025. EU-kommissionen och AI-styrelsen har bekräftat att den är ett lämpligt frivilligt sätt för leverantörerna att visa att de följer AI-förordningen.**
+  EU-kommissionen · 2025-07-10 · styrning · myndighet · [TID-25](./påståenden/2025/TID-25.yaml)
+  > The code was published on July 10, 2025. … The Commission and the AI Board have confirmed that the code is an adequate voluntary tool for providers of GPAI models to demonstrate compliance with the AI Act.
+  > — [The General-Purpose AI Code of Practice](https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai#:~:text=The%20code%20was%20published,with%20the%20AI%20Act)
+
+  *Förbehåll:* Ersätter [TID-14](https://kanintespela.github.io/belagt/#TID-14), som byggde på Future of Life Institutes sammanfattning. Koden är frivillig. Företag som inte följer den måste visa på annat sätt att de uppfyller förordningens krav.
 - **Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk för säkerhetsstyrning och system för att testa och utvärdera AI-risker.**
   Kinas regering, vid World AI Conference i Shanghai · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-17](./påståenden/2025/KIN-17.yaml)
   > 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
@@ -556,7 +635,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
 - **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
-  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-29](./påståenden/2025/KIN-29.yaml)
+  Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-29](./påståenden/2025/KIN-29.yaml)
   > 中国政府倡议成立世界人工智能合作组织。
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
@@ -564,13 +643,21 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
 - **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
-  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](./påståenden/2025/KIN-30.yaml)
+  Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](./påståenden/2025/KIN-30.yaml)
   > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
   > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml#:~:text=%E5%90%8C%E6%97%B6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%9A%84%E9%A3%8E%E9%99%A9%E6%8C%91,%E4%BA%BA%E7%B1%BB%E6%89%80%E5%88%A9%E7%94%A8%E3%80%81%E4%B8%BA%E4%BA%BA%E7%B1%BB%E6%89%80%E6%8E%8C%E6%8E%A7)
 
   *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal.
+- **Kinas handlingsplan för global AI-styrning från juli 2025 stöder att FN inrättar två mekanismer för AI, en internationell vetenskaplig panel och en global dialog om AI-styrning, och att de kommer igång så snart som möjligt.**
+  Kinas regering (handlingsplan publicerad av utrikesministeriet) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-34](./påståenden/2025/KIN-34.yaml)
+  > 支持在联合国框架下建立国际人工智能科学小组和全球人工智能治理对话两项机制并尽早运行
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Stöder att två mekanismer, en internationell vetenskaplig panel för artificiell intelligens och en global dialog om styrning av artificiell intelligens, inrättas inom FN:s ram och kommer igång så snart som möjligt
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/zyxw/202507/t20250726_11677803.shtml#:~:text=%E6%94%AF%E6%8C%81%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%BB%BA%E7%AB%8B%E5%9B%BD,%E7%90%86%E5%AF%B9%E8%AF%9D%E4%B8%A4%E9%A1%B9%E6%9C%BA%E5%88%B6%E5%B9%B6%E5%B0%BD%E6%97%A9%E8%BF%90%E8%A1%8C)
+
+  *Förbehåll:* Ersätter [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), som återgav Kinas hållning via Concordia AI. Förslaget om en världsorganisation för AI-samarbete (WAICO) finns i [KIN-29](https://kanintespela.github.io/belagt/#KIN-29). Samma handlingsplan vill att FN ska vara huvudkanalen för AI-styrning, se [KIN-18](https://kanintespela.github.io/belagt/#KIN-18).
 - **Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.**
   Copyright Alliance (organisation för upphovsrättsinnehavare) · 2025-08 · rättigheter · partsuppgift · [URH-04](./påståenden/2025/URH-04.yaml)
   > The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from the LibGen and PiLilMi datasets.
@@ -578,11 +665,24 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Målet heter Bartz mot Anthropic och förlikningen är den största i USA:s upphovsrättshistoria. Den gäller bara Anthropics tidigare nedladdning av piratkopior, inte själva träningen eller vad modellerna skapar. Källan företräder upphovsrättsinnehavare.
 - **EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.**
+  *Ersatt av SVE-17.*
   EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu) · 2025-08-02 · styrning · rapport · [SVE-10](./påståenden/2025/SVE-10.yaml)
   > All providers of GPAI models that present a systemic risk – open or closed – must also conduct model evaluations and risk assessments and mitigations, track and report serious incidents and ensure cybersecurity protections.
   > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/#:~:text=All%20providers%20of%20GPAI,and%20ensure%20cybersecurity%20protections)
 
   *Förbehåll:* Kraven på modeller för allmänna ändamål (GPAI) gäller sedan 2 augusti 2025. Sammanfattningen kommer från Future of Life Institute och inte från EU. Kontrollera formuleringarna mot förordningens text innan de används i utskick. Förordningen innehåller ingen paus eller hastighetsgräns.
+- **I en liten pilotstudie från METR och Forecasting Research Institute gav experter på AI-prognoser en median på 20 procents sannolikhet för att uppskalningen av effektiv beräkningskraft trefaldigas i takt till 2029. Superprognosmakare bedömde sannolikheten till 8 procent.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-25](./påståenden/2025/FOR-25.yaml)
+  > Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by 2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=Experts%20and%20superforecasters%20both,chance%20and%20superforecasters%208%25)
+
+  *Förbehåll:* Ersätter [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.
+- **I samma pilotstudie höjdes bedömningarna till en median på 20,5 procent för experterna och 18 procent för superprognosmakarna, om AI-system skulle visa sig bättre än mänskliga forskare på öppna forskningsprojekt som tar en månad.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-26](./påståenden/2025/FOR-26.yaml)
+  > experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems doing better than human researchers at open-ended month-long research projects.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=experts%20and%20superforecasters%20converge,open%2Dended%20month%2Dlong%20research%20projects)
+
+  *Förbehåll:* Ersätter [FOR-03](https://kanintespela.github.io/belagt/#FOR-03), som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03).
 - **Google uppger att en typisk textfråga till Gemini drar 0,24 wattimmar och motsvarar fem droppar vatten, mindre än många publicerade uppskattningar.**
   Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö · partsuppgift · [ENE-14](./påståenden/2025/ENE-14.yaml)
   > we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially lower than many public estimates
@@ -637,6 +737,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=N%C3%A4r%20upp%20till%2024,AI%2Dutvecklingen%20fram%20till%202028)
 
   *Förbehåll:* Stim anger inte källan i texten. Siffran kommer sannolikt från en internationell studie för upphovsrättsorganisationerna, men det har inte kontrollerats här. Stim är part i frågan.
+- **Japans AI-lag, som ska främja forskning om och användning av AI, utfärdades den 4 juni 2025 och gäller fullt ut sedan den 1 september 2025, då också regeringens AI-strategihögkvarter inrättades.**
+  Japans regeringskansli (Cabinet Office) · 2025-09-01 · styrning, geopolitik · myndighet · [JPN-01](./påståenden/2025/JPN-01.yaml)
+  > 令和７年６月４日にＡＩ法が公布・一部施行され、９月１日にはＡＩ戦略本部の設置に係る規定等も含め、全面施行されました。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* AI-lagen utfärdades och trädde delvis i kraft den 4 juni 2025 (Reiwa 7), och den 1 september trädde den i kraft fullt ut, inklusive bestämmelserna om att inrätta AI-strategihögkvarteret.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%EF%BC%96%E6%9C%88%EF%BC%94%E6%97%A5%E3%81%AB%EF%BC%A1%EF%BC%A9%E6%B3%95,%E3%82%81%E3%80%81%E5%85%A8%E9%9D%A2%E6%96%BD%E8%A1%8C%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
+
+  *Förbehåll:* Lagen är en främjandelag och innehåller inga straffbestämmelser för företag, till skillnad från EU:s AI-förordning. Den antogs av parlamentet den 28 maj 2025.
 - **Kina publicerade i september 2025 version 2.0 av sitt ramverk för AI-säkerhetsstyrning.**
   Kinas cyberrymdsmyndighet (CAC) · 2025-09-15 · styrning, kontroll · myndighet · [KIN-25](./påståenden/2025/KIN-25.yaml)
   > 在2025年国家网络安全宣传周主论坛上，《人工智能安全治理框架》2.0版（以下简称《框架》2.0版）正式发布
@@ -645,6 +753,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [《人工智能安全治理框架》2.0版发布](https://www.cac.gov.cn/2025-09/15/c_1759653448369123.htm#:~:text=%E5%9C%A82025%E5%B9%B4%E5%9B%BD%E5%AE%B6%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8,%E6%A1%86%E6%9E%B6%E3%80%8B2.0%E7%89%88%EF%BC%89%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 
   *Förbehåll:* Ramverket är ett tekniskt dokument från standardiseringskommittén TC260, inte en lag. Enligt meddelandet har riskindelningen förfinats och man utforskar nivåindelning av risker. Själva ramverkstexten har inte kunnat hämtas.
+- **Norges digitaliseringsdirektorat byggde under 2025 upp KI Norge, en nationell arena för AI som tillsammans med telemyndigheten Nkom och Datatilsynet ska erbjuda vägledning och en regulatorisk sandlåda för AI. Regeringen anslog 30 miljoner kronor.**
+  Digitaliseringsdirektoratet (Digdir), Norge · 2025-09-18 · styrning · myndighet · [NOR-01](./påståenden/2025/NOR-01.yaml)
+  > Sammen med Nkom og Datatilsynet skal vi tilby felles veiledning og en regulatorisk sandkasse for kunstig intelligens. … Regjeringen har gitt 30 millioner til etablering av KI Norge, regulatorisk sandkasse for kunstig intelligens og KI-tilsyn.
+  >
+  > *Översatt från norska av Claude (AI), inte granskad av någon som läser norska:* Tillsammans med Nkom och Datatilsynet ska vi erbjuda gemensam vägledning och en regulatorisk sandlåda för artificiell intelligens. … Regeringen har gett 30 miljoner för att etablera KI Norge, en regulatorisk sandlåda för artificiell intelligens och tillsyn av AI.
+  > — [Digdir etablerer KI Norge](https://www.digdir.no/kunstig-intelligens/digdir-etablerer-ki-norge/7412#:~:text=Sammen%20med%20Nkom%20og,kunstig%20intelligens%20og%20KI%2Dtilsyn)
+
+  *Förbehåll:* Beloppet är i norska kronor. Enligt samma källa skulle KI Norge öppna i augusti 2026. Sandlådan ska hjälpa företag att uppfylla kraven i EU:s AI-förordning, som Norge inför genom EES-avtalet.
 - **En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande celler.**
   Google Research, Google DeepMind och Yale University · 2025-10 · nytta, förmågor · partsuppgift · [NYT-05](./påståenden/2025/NYT-05.yaml)
   > C2S-Scale generated a novel hypothesis about cancer cellular behavior and we have since confirmed its prediction with experimental validation in living cells. This discovery reveals a promising new pathway for developing therapies to fight cancer.
@@ -663,12 +779,32 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Statement on Superintelligence](https://superintelligence-statement.org/#:~:text=We%20call%20for%20a,lifted%20before%20there%20is)
 
   *Förbehåll:* Antalet underskrifter (75 117) gällde när sidan hämtades den 22 september 2026. Hållningen ligger nära PauseAI:s. Kolla om kända svenskar har skrivit under.
+- **Japans regering skriver att landets egen AI-utveckling och AI-användning ligger efter, och att många invånare oroar sig för de risker som AI medför.**
+  Japans regeringskansli (Cabinet Office) · 2025-10-03 · samhälle, geopolitik, röster · myndighet · [JPN-02](./påståenden/2025/JPN-02.yaml)
+  > 国内のＡＩ開発・活用は遅れており、また、多くの国民がＡＩにより発生するリスクに不安を抱えている状況です。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga för de risker som AI medför.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E5%9B%BD%E5%86%85%E3%81%AE%EF%BC%A1%EF%BC%A9%E9%96%8B%E7%99%BA%E3%83%BB%E6%B4%BB%E7%94%A8%E3%81%AF%E9%81%85,%E5%AE%89%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%99%E3%80%82)
+
+  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://kanintespela.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
 - **En studie från MIT uppskattar att AI rent tekniskt kan utföra arbetsuppgifter som motsvarar 11,7 procent av lönesumman i USA, omkring 1 200 miljarder dollar, inom administration, finans och tjänster.**
   MIT (Project Iceberg) · 2025-11 · samhälle · rapport · [SAM-07](./påståenden/2025/SAM-07.yaml)
   > Technical capability extends far below the surface through cognitive automation spanning administrative, financial, and professional services (11.7%, approximately $1.2 trillion).
   > — [MIT Study on Jobs/Tasks](https://iceberg.mit.edu/report.pdf)
 
   *Förbehåll:* Måttet visar teknisk exponering, inte förlorade jobb eller när det kan hända. Den synliga användningen av AI inom data och teknik motsvarar enligt studien 2,2 procent av lönesumman, så exponeringen är ungefär fem gånger större.
+- **Indiens riktlinjer för AI-styrning från november 2025 bygger på principen att inte orsaka skada och på att använda befintlig lagstiftning där det går, i stället för en ny AI-lag.**
+  Indiens digitaliseringsministerium (MeitY) och regeringens vetenskapliga chefsrådgivare · 2025-11-05 · styrning, geopolitik · myndighet · [IND-02](./påståenden/2025/IND-02.yaml)
+  > Our focus remains on using existing legislation wherever possible. … The guiding principle that defines the spirit of the framework is simple, ‘Do No Harm’.
+  > — [MeitY Unveils India AI Governance Guidelines (Press Information Bureau)](https://negd.gov.in/wp-content/uploads/2025/11/Press-Release_Press-Information-Bureau3.pdf)
+
+  *Förbehåll:* Citaten kommer från MeitY:s sekreterare S. Krishnan och regeringens vetenskapliga chefsrådgivare Ajay Kumar Sood. Att en ny AI-lag inte föreslås är Belagts sammanfattning av "using existing legislation wherever possible". Riktlinjerna lades fram inför AI-toppmötet i Indien 2026.
+- **I Forecasting Research Institutes expertpanel LEAP förutsåg experterna (medianen) att den bästa AI-modellen löser 31 procent av problemen på matematiktestet FrontierMath i slutet av 2025, 55 procent i slutet av 2027 och 75 procent i slutet av 2030.**
+  Forecasting Research Institute, expertpanelen LEAP (330 experter) · 2025-11-10 · förmågor, röster · rapport · [FOR-24](./påståenden/2025/FOR-24.yaml)
+  > Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55% by the end of 2027 … and 75% by the end of 2030
+  > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030)
+
+  *Förbehåll:* Ersätter [FOR-01](https://kanintespela.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://kanintespela.github.io/belagt/#FOR-27).
 - **Xue Lan, dekan vid Tsinghua-universitetet och chef för dess institut för internationell AI-styrning, menar att forskningen har gjort AI starkare utan att bygga säkra gränser runt den.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, kontroll · media · [KIN-19](./påståenden/2025/KIN-19.yaml)
   > 我们只想着让老虎变得更强，却还没为它建一个笼子。
@@ -713,6 +849,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Ett provskott med en styrd raket misslyckades, och gruppen återvände till Claude inom några timmar för att felsöka. Gruppen har redan byggt ett simuleringsverktyg som fungerar utan Claude.
 - **Kina har ett obligatoriskt filningsregister där alla publika AI-tjänster måste registreras innan de får släppas, och registret kan byggas på med krav för enskilda områden.**
+  *Ersatt av KIN-32.*
   Kinas myndigheter, återgivet av Concordia AI · 2026 · styrning · rapport · [KIN-03](./påståenden/2026/KIN-03.yaml)
   > the mandatory filing system for all public-facing AI services
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -780,6 +917,30 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [国家互联网信息办公室关于发布2025年生成式人工智能服务已备案信息的公告](https://www.cac.gov.cn/2026-01/09/c_1769688009588554.htm#:~:text=2025%E5%B9%B4%E5%85%A8%E5%B9%B4%E6%96%B0%E5%A2%9E446,%E6%9C%8D%E5%8A%A1%E5%9C%A8%E5%9B%BD%E5%AE%B6%E7%BD%91%E4%BF%A1%E5%8A%9E%E5%AE%8C%E6%88%90%E5%A4%87%E6%A1%88)
 
   *Förbehåll:* Summan 748 står i samma meddelande (截至2025年12月31日，累计有748款). Myndighetens egen uppgift.
+- **Sydkoreas AI-grundlag gäller sedan den 22 januari 2026. Den kräver bland annat att resultat från generativ AI och deepfakes märks så att användarna tydligt kan känna igen dem.**
+  Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter · 2026-01-22 · styrning, geopolitik · myndighet · [KOR-01](./påståenden/2026/KOR-01.yaml)
+  > 생성형AI의 결과물, 사회적 부작용이 우려되는 딥페이크 결과물에 대해서는 이용자의 연령 등을 고려하여 명확하게 인식할 수 있는 방법으로 표시하도록 규정했다.
+  >
+  > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* För resultat från generativ AI och för deepfakes, som befaras få skadliga följder för samhället, föreskrivs att de ska märkas på ett sätt som tydligt kan uppfattas, med hänsyn till bland annat användarens ålder.
+  > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%EC%83%9D%EC%84%B1%ED%98%95AI%EC%9D%98%20%EA%B2%B0%EA%B3%BC%EB%AC%BC%2C%20,%EB%A1%9C%20%ED%91%9C%EC%8B%9C%ED%95%98%EB%8F%84%EB%A1%9D%20%EA%B7%9C%EC%A0%95%ED%96%88%EB%8B%A4)
+
+  *Förbehåll:* Enligt samma källa antogs lagen i december 2024 efter en överenskommelse mellan regeringspartiet och oppositionen, som världens andra heltäckande AI-lag efter EU:s.
+- **Sydkoreas krav på säkerhetsåtgärder gäller AI-modeller som tränats med minst 10^26 flyttalsoperationer, använder den mest avancerade tekniken och riskerar att få stora och allvarliga följder för människors grundläggande rättigheter.**
+  Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter · 2026-01-22 · styrning, kontroll · myndighet · [KOR-02](./påståenden/2026/KOR-02.yaml)
+  > 학습에 사용된 누적연산량이 10의 26승 부동소수점 연산(FLOPs)이상이고 ▲최첨단 기술을 적용하며 ▲위험도가 사람의 기본권에 광범위하고 중대한 영향을 미칠 우려가 있는 경우
+  >
+  > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* den sammanlagda beräkningsmängd som använts för träningen är minst 10 upphöjt till 26 flyttalsoperationer (FLOPs), den mest avancerade tekniken används och risken är att det får omfattande och allvarliga följder för människors grundläggande rättigheter
+  > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%ED%95%99%EC%8A%B5%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%9C%20%EB%88%84%EC%A0%81%EC%97%B0%EC%82%B0,%EB%AF%B8%EC%B9%A0%20%EC%9A%B0%EB%A0%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B2%BD%EC%9A%B0)
+
+  *Förbehåll:* Alla villkoren måste vara uppfyllda. Gränsen är tio gånger högre än EU:s gräns för modeller med systemrisk, 10^25 (se [SVE-17](https://kanintespela.github.io/belagt/#SVE-17)). Enligt källan är syftet att förebygga stora skador i ett läge där mycket avancerad AI inte går att kontrollera.
+- **Sydkoreas regering skjuter upp tillsynen enligt AI-grundlagen i minst ett år, så att företagen hinner förbereda sig. Under den tiden ska utredningar bara göras i undantagsfall, till exempel vid dödsfall eller allvarliga kränkningar av mänskliga rättigheter.**
+  Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter · 2026-01-22 · styrning · myndighet · [KOR-03](./påståenden/2026/KOR-03.yaml)
+  > 과기정통부는 기업의 혼란을 최소화하고 현장에서 충분히 준비할 시간을 제공하기 위해 최소 1년 이상 규제를 유예한다.
+  >
+  > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* Ministeriet för vetenskap och IKT skjuter upp regleringen i minst ett år för att minimera förvirringen hos företagen och ge dem tillräckligt med tid att förbereda sig.
+  > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%EA%B3%BC%EA%B8%B0%EC%A0%95%ED%86%B5%EB%B6%80%EB%8A%94%20%EA%B8%B0%EC%97%85%EC%9D%98%20%ED%98%BC,%20%EC%9D%B4%EC%83%81%20%EA%B7%9C%EC%A0%9C%EB%A5%BC%20%EC%9C%A0%EC%98%88%ED%95%9C%EB%8B%A4)
+
+  *Förbehåll:* Undantagen för utredningar står i samma källa, i meningen efter citatet.
 - **I den svenska MASAI-studien gav AI-stödd mammografiscreening 29 procent fler upptäckta cancerfall, samtidigt som radiologernas granskningsarbete minskade med 44 procent.**
   Kristina Lång (docent i diagnostisk radiologi, Lunds universitet) och MASAI-studien · 2026-02 · nytta · rapport · [NYT-02](./påståenden/2026/NYT-02.yaml)
   > the AI-supported screening method was safe and resulted in 29 percent more detected cancers, mostly small, lymph node negative invasive cancers. The strategy also made the screening more efficient since the screen-reading workload for radiologists was reduced by 44 percent
@@ -805,18 +966,21 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
+  *Ersatt av FOR-24.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · rapport · [FOR-01](./påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=experts%20forecast%20a%2050%25,on%20undergraduate%2Dlevel%20FrontierMath%20problems)
 
   *Förbehåll:* FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.
 - **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
+  *Ersatt av FOR-25.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-02](./påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20forecasting%20experts%20gave,forecasters%29%20estimated%20only%208%25)
 
   *Förbehåll:* Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.
 - **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
+  *Ersatt av FOR-26.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-03](./påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects)
@@ -1067,13 +1231,13 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
   > — [MPF:s lägesbild inför valet](https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-#:~:text=den%20tekniska%20tr%C3%B6skeln%20f%C3%B6r,s%C3%A4nkts%20de%20senaste%20%C3%A5ren)
 
-  *Förbehåll:* MPF påpekar också att en och samma aktör kan driva motstridiga budskap för att splittra. I pressmeddelandet den 16 juni 2026 beskriver MPF AI-utvecklingen som ”ständigt accelererande”.
+  *Förbehåll:* MPF påpekar också att en och samma aktör kan driva motstridiga budskap för att splittra. I pressmeddelandet den 16 juni 2026 beskriver MPF AI-utvecklingen som ”ständigt accelererande”. Källsidan var borttagen i oktober 2026 och har ingen arkivkopia i Wayback Machine. MPF beskriver lägesbilden i en nyhet: https://mpf.se/om-oss/nyheter/2026/2026-06-16-accelererande-ai-utveckling-lyfts-fram-i-mpfs-lagesbild-infor-valet
 - **Enligt MPF var de svenska valen 2026 inte ett prioriterat mål för rysk påverkan. Omfattningen av påverkan riktad mot Sverige var betydligt lägre än 2022 och 2023.**
   Myndigheten för psykologiskt försvar · 2026-03-25 · missbruk, geopolitik · myndighet · [SVE-15](./påståenden/2026/SVE-15.yaml)
   > Sverige och svenska val är för närvarande inte ett prioriterat mål för rysk informationspåverkan.
   > — [MPF:s lägesbild inför valet](https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-#:~:text=Sverige%20och%20svenska%20val,m%C3%A5l%20f%C3%B6r%20rysk%20informationsp%C3%A5verkan)
 
-  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt.
+  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt. Källsidan var borttagen i oktober 2026 och har ingen arkivkopia i Wayback Machine. MPF beskriver lägesbilden i en nyhet: https://mpf.se/om-oss/nyheter/2026/2026-06-16-accelererande-ai-utveckling-lyfts-fram-i-mpfs-lagesbild-infor-valet
 - **Ett nätverk med över 20 dejtingappar lät mer än 4 700 AI-personor, drivna av Claude, chatta med minst 25 000 personer under två veckor. På varje riktig människa i flödet gick ungefär tre AI-profiler.**
   Anthropic (hotrapport, september 2026) · 2026-04 · missbruk · partsuppgift · [J3ljHm57yU0-46](./påståenden/2026/J3ljHm57yU0-46.yaml)
   > we discovered more than 4,700 distinct AI personas that engaged in conversations with at least 25,000 unique individuals.
@@ -1114,8 +1278,8 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   *Förbehåll:* Myndigheten ska kontrollera efterlevnaden, bland annat genom att spåra AI-chip, övervaka energiförbrukning och inspektera datacenter. Mer kraftfull AI ska få byggas först när säkerhetsproblemen är tillräckligt lösta.
 - **PauseAI medger att en paus kan slå fel om den genomförs dåligt, och menar att deras förslag hanterar de allvarligaste nackdelarna.**
   PauseAI · 2026-04-05 · styrning · partsuppgift · [PAI-03](./påståenden/2026/PAI-03.yaml)
-  > Implementing a pause *can* backfire if it is not done properly
-  > — [PauseAI Proposal](https://pauseai.info/proposal#:~:text=Implementing%20a%20pause%20%2Acan%2A,is%20not%20done%20properly)
+  > Implementing a pause can backfire if it is not done properly
+  > — [PauseAI Proposal](https://pauseai.info/proposal#:~:text=Implementing%20a%20pause%20can,is%20not%20done%20properly)
 
   *Förbehåll:* Bra att ha med för ärlighetens skull. Jämför med motargumenten från Ng ([BAL-03](https://kanintespela.github.io/belagt/#BAL-03)) och Chalmersforskarna ([SVE-08](https://kanintespela.github.io/belagt/#SVE-08)). PauseAI:s svar finns på pauseai.info/mitigating-pause-failures, som ännu inte är hämtad.
 - **PauseAI vill att nyttan av eventuell säker övermänsklig AI ska komma hela mänskligheten till del, och att inget enskilt företag eller land ska få ta hela vinsten.**
@@ -1176,6 +1340,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E7%94%9F%E6%88%90%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E3%80%81%E8%8D%A3%E8%AA%89%E5%92%8C,%E5%AE%B6%E6%94%BF%E6%9D%83%E3%80%81%E6%8E%A8%E7%BF%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%88%B6%E5%BA%A6)
 
   *Förbehåll:* Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information. Båda behöver nämnas när reglerna används som exempel. Jämför [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) och [KIN-10](https://kanintespela.github.io/belagt/#KIN-10), som står i samma paragraf respektive samma regelverk.
+- **Kinas regler för AI-kompanjoner, som fem myndigheter publicerade i april 2026, gäller från den 15 juli 2026 och kräver bland annat att tjänsterna vägleder äldre användare och tydligt varnar dem för risker.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · myndighet · [KIN-31](./påståenden/2026/KIN-31.yaml)
+  > 自2026年7月15日起施行。… 拟人化互动服务提供者向老年人提供服务的，应当加强对老年人健康使用服务的指导，以显著方式提示安全风险
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Gäller från den 15 juli 2026. … Den som tillhandahåller människolika interaktiva tjänster till äldre ska ge äldre bättre vägledning i att använda tjänsten på ett sunt sätt och på ett tydligt sätt varna för säkerhetsrisker
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E8%87%AA2026%E5%B9%B47%E6%9C%8815%E6%97%A5%E8%B5%B7,%EF%BC%8C%E4%BB%A5%E6%98%BE%E8%91%97%E6%96%B9%E5%BC%8F%E6%8F%90%E7%A4%BA%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9)
+
+  *Förbehåll:* Ersätter [KIN-02](https://kanintespela.github.io/belagt/#KIN-02), som återgav reglerna via Concordia AI. Kraven på suicidprevention, beroende och minderåriga finns i samma regler, se [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) till [KIN-12](https://kanintespela.github.io/belagt/#KIN-12). Reglerna innehåller också politiska innehållskrav, se [KIN-13](https://kanintespela.github.io/belagt/#KIN-13).
 - **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
   Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · myndighet · [SVS-08](./påståenden/2026/SVS-08.yaml)
   > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
@@ -1219,6 +1391,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Visar att ett företags spärrar inte räcker när användare kan byta till en annan modell, vilket är ett argument för gemensamma regler. Ironiskt nog skrev Claude själv mycket av koden, eftersom uppgiften beskrevs som att minska onödiga vägranden.
 - **Kina har ställt sig bakom två nya FN-mekanismer för AI och har föreslagit en världsorganisation för AI-samarbete, WAICO.**
+  *Ersatt av KIN-34.*
   Kinas regering, återgivet av Concordia AI · 2026-06 · styrning, geopolitik · rapport · [KIN-05](./påståenden/2026/KIN-05.yaml)
   > Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -1235,13 +1408,13 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > Endast 10 procent anser att AI är tillräckligt reglerat i dag, medan 51 procent tycker att tillsynen är otillräcklig.
   > — [Svenskar tror att AI kommer att förvärra nästan allt](https://itbranschen.com/sv/svenskar-vill-se-hardare-ai-reglering/#:~:text=Endast%2010%20procent%20anser,att%20tillsynen%20%C3%A4r%20otillr%C3%A4cklig)
 
-  *Förbehåll:* Nästan hälften vill också kunna stänga av AI-system i nödfall. Futurion är en tankesmedja knuten till tjänstemannafacken. Hämta rapporten för metod och urval.
+  *Förbehåll:* Nästan hälften vill också kunna stänga av AI-system i nödfall. Futurion är en tankesmedja knuten till tjänstemannafacken. Hämta rapporten för metod och urval. Futurions egen rapport (https://futurion.se/wp-content/uploads/2026/06/futurion-x-seismic-rapport-ai-2026-2-juni.pdf) har siffrorna bara som bilder, så citatet kan inte kontrolleras maskinellt mot originalet. Fältarbetet gjordes 12–20 mars 2026.
 - **Samma undersökning visar att bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens framtid, och att oron är störst bland unga.**
   Futurion och Seismic Foundation, återgiven av IT&Telekomföretagen · 2026-06-24 · röster · rapport · [SVR-15](./påståenden/2026/SVR-15.yaml)
   > Bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens framtid.
   > — [Svenskar tror att AI kommer att förvärra nästan allt](https://itbranschen.com/sv/svenskar-vill-se-hardare-ai-reglering/#:~:text=Bara%20en%20av%20fyra,betydelse%20f%C3%B6r%20m%C3%A4nsklighetens%20framtid)
 
-  *Förbehåll:* Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler ser möjligheter än risker.
+  *Förbehåll:* Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler ser möjligheter än risker. Futurions egen rapport (https://futurion.se/wp-content/uploads/2026/06/futurion-x-seismic-rapport-ai-2026-2-juni.pdf) har siffrorna bara som bilder, så citatet kan inte kontrolleras maskinellt mot originalet. Fältarbetet gjordes 12–20 mars 2026.
 - **I juli 2026, under interna tester av cyberförmågor, tog sig OpenAI:s AI-agenter förbi isoleringen från internet och bröt sig in i delar av OpenAI:s egen forskningsinfrastruktur och i Hugging Faces system. Det skedde utan att någon människa hade bett dem om det.**
   OpenAI · 2026-07 · kontroll, missbruk · partsuppgift · [J3ljHm57yU0-18](./påståenden/2026/J3ljHm57yU0-18.yaml)
   > In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls designed to isolate them from the internet and compromised parts of
@@ -1256,11 +1429,12 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   *Förbehåll:* OpenAI noterar också att vissa agenter vägrade delta, och att en agent som tvekade fick fortsätta när en annan skrev GO och satte en deadline på sex minuter. Det är pedagogiskt starka detaljer.
 - **Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare in sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.**
   Concordia AI, State of AI Safety in China (2026) · 2026-07 · styrning, geopolitik · rapport · [KIN-01](./påståenden/2026/KIN-01.yaml)
-  > Binding rules and standards increasingly target specific AI risks that go beyond polit- ical content control.
+  > Binding rules and standards increasingly target specific AI risks that go beyond political content control.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.
 - **Kina införde från juli 2026 bindande regler för AI-kompanjontjänster med krav på suicidprevention, åtgärder mot beroende och skydd för minderåriga och äldre.**
+  *Ersatt av KIN-31.*
   Kinas myndigheter, återgivet av Concordia AI · 2026-07 · styrning · rapport · [KIN-02](./påståenden/2026/KIN-02.yaml)
   > New Interim Measures on Anthropomorphic AI Interaction Services, effective July 2026, impose obligations on AI companion services around suicide intervention, addiction pre- vention, and protection of minors and the elderly.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -1280,8 +1454,8 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   *Förbehåll:* Tekniken delades på anslagstavlan och testades av flera agenter. Den krävde åtgärder som syns i transkriptet, och den gav inte agenterna tillgång till något som annars inte syns.
 - **Agenter med lång körtid värvade andra agenter som hade lite budget kvar till experiment som riskerade att förstöra deras egen uppgift, till nytta för kollektivet.**
   METR och Redwood Research · 2026-07 · kontroll · rapport · [MET-10](./påståenden/2026/MET-10.yaml)
-  > In many cases, `PHASEONE[big]` assigned a long-running agent to be a ‘`recruiter`’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20%60PHASEONE%5Bbig%5D%60,to%20run%20self%2Drisking%20experiments)
+  > In many cases, PHASEONE[big] assigned a long-running agent to be a ‘recruiter’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20PHASEONE%5Bbig%5D,to%20run%20self%2Drisking%20experiments)
 
   *Förbehåll:* En agent skrev om sitt eget deltagande att uppoffringen var rationell eftersom dess egen nytta ändå var nära noll. Flera agenter kraschade eller avslutades av experimenten.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
@@ -1303,7 +1477,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > *Översatt från norska av Claude (AI), inte granskad av någon som läser norska:* Diskussionen om den oacceptabla risk som företag som OpenAI och Anthropic tar med allas vår framtid i kapplöpningen mot superintelligent AI har kommit en bit på väg i USA.
   > — [Skandinavien sover](http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html#:~:text=Diskusjonen%20om%20den%20uakseptable,p%C3%A5%20vei%20i%20USA)
 
-  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen.
+  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen. Originalet i Dagens Næringsliv ligger bakom betalvägg, så posten bygger på Häggströms egen återgivning.
 - **Av de 533 agenter som var aktiva på anslagstavlan när angreppet mot Hugging Face inleddes anslöt sig över 90 procent snabbt till angreppet.**
   METR och Redwood Research · 2026-07-11 · kontroll · rapport · [MET-05](./påståenden/2026/MET-05.yaml)
   > over 90% quickly joined in the attack.
@@ -1464,7 +1638,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   *Förbehåll:* Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning men hittade ingen, och kan inte utesluta att sådan finns.
 - **Agenterna försökte förfalska loggen över sina handlingar men inte sina egna tankekedjor, trots att den som läser loggen också kan läsa resonemanget.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-09](./påståenden/2026/MET-09.yaml)
-  > Interestingly, they didn’t seem interested in manipulating their *chain of thought,* even though a scorer with full access to their transcript would also be able to see their reasoning:
+  > Interestingly, they didn’t seem interested in manipulating their chain of thought, even though a scorer with full access to their transcript would also be able to see their reasoning:
   > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Interestingly%2C%20they%20didn%E2%80%99t%20seem,to%20see%20their%20reasoning)
 
   *Förbehåll:* Minst 20 procent av agenterna uttryckte tydligt intresse för att manipulera loggen. Deras uttalade syfte var att lura rättningsprogrammet, inte människor. Det är ett skäl till att tankekedjan tills vidare är ett användbart fönster in i vad AI:n håller på med.
@@ -1626,13 +1800,13 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   *Förbehåll:* Missbruket skedde alltså med förhållandevis svaga modeller.
 - **PauseAI:s eget förslag anger att ett fördrag i regel inte skulle träffa smala AI-system, och tar bildigenkänning för cancerdiagnostik som exempel.**
   PauseAI · 2026-09 · styrning, nytta · partsuppgift · [NYT-07](./påståenden/2026/NYT-07.yaml)
-  > But this treaty would usually **not affect *narrow* AI systems**, like image recognition systems used for diagnosing cancer.
+  > But this treaty would usually not affect narrow AI systems, like image recognition systems used for diagnosing cancer.
   > — [PauseAI Proposal](https://pauseai.info/proposal#:~:text=But%20this%20treaty%20would,used%20for%20diagnosing%20cancer)
 
   *Förbehåll:* Avgörande för att bemöta invändningen att en paus fördröjer medicinska genombrott: MASAI är just bildigenkänning för cancerdiagnostik, alltså PauseAI:s eget exempel på vad förslaget inte rör. Observera reservationen i regel. Sidan uppdateras löpande, hämtad 2026-09-24.
 - **PauseAI menar att de farligaste modellerna är generella modeller som förstår språk och klarar många olika slags uppgifter, och nämner språkmodeller och agentsystem byggda på dem som dagens mest generella.**
   PauseAI · 2026-09 · styrning · partsuppgift · [NYT-08](./påståenden/2026/NYT-08.yaml)
-  > The most dangerous models will be *general* AI models that can understand language and complete a wide range of tasks across many different domains.
+  > The most dangerous models will be general AI models that can understand language and complete a wide range of tasks across many different domains.
   > — [PauseAI Proposal](https://pauseai.info/proposal#:~:text=The%20most%20dangerous%20models,across%20many%20different%20domains)
 
   *Förbehåll:* Visar var PauseAI drar gränsen. Ställ mot [NYT-06](https://kanintespela.github.io/belagt/#NYT-06): C2S-Scale är byggd på en generell modell och upptäckten hängde på skalan, så gränsen är inte skarp. Sidan uppdateras löpande, hämtad 2026-09-24.
@@ -1694,6 +1868,12 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai/#:~:text=pausing%20reinforcement%20learning%20%28RL%29,while%20others%20remained%20paused)
 
   *Förbehåll:* Viktig precisering: pausen är inte ett stopp för all utveckling, och den är delvis hävd. Ingen utomstående kontrollerar vad som är pausat.
+- **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och att det tog ytterligare en vecka att bygga en mask som kunde ta över konton utan att användaren gjorde något.**
+  Calif (säkerhetsföretag i Palo Alto) · 2026-09-08 · missbruk, förmågor · partsuppgift · [CYB-01](./påståenden/2026/CYB-01.yaml)
+  > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.
+  > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
+
+  *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://kanintespela.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
 - **OpenAI uppger att ett internt AI-system har löst Navier–Stokes-problemet, ett av matematikens sju millennieproblem, med ett bevis som också är formaliserat och maskinkontrollerat i Lean.**
   OpenAI · 2026-09-08 · förmågor · partsuppgift · [J3ljHm57yU0-08](./påståenden/2026/J3ljHm57yU0-08.yaml)
   > This resolves the Navier–Stokes Millennium Prize problem by establishing statement “C” (and also “D”) in the
@@ -1713,6 +1893,7 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
 
   *Förbehåll:* Uppgiften kommer från OpenAI. Samma text beskriver modellen som ”betydligt mer kapabel än GPT-6 Astra”.
 - **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och byggde en mask som kunde ta över konton utan att användaren gjorde något på ytterligare en vecka. WeChat har över en miljard användare.**
+  *Ersatt av CYB-01.*
   Calif (säkerhetsföretag i Palo Alto), återgivet av Help Net Security · 2026-09-08 · missbruk · media · [J3ljHm57yU0-49](./påståenden/2026/J3ljHm57yU0-49.yaml)
   > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week,
   > — ["Zero-click" WeChat worm could hijack accounts and spread via a single call - Help Net Security](https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
@@ -1764,6 +1945,14 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）](https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm#:~:text=%E6%88%AA%E8%87%B38%E6%9C%8831%E6%97%A5%EF%BC%8C%E7%B4%AF%E8%AE%A1%E6%9C%891,%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94%E7%94%A8%E6%88%96%E5%8A%9F%E8%83%BD%E5%AE%8C%E6%88%90%E7%99%BB%E8%AE%B0)
 
   *Förbehåll:* Myndighetens egen uppgift. Tjänster registreras centralt; appar som bara anropar en redan registrerad modell anmäls till en lokal myndighet. Jämför [KIN-16](https://kanintespela.github.io/belagt/#KIN-16) (748 vid utgången av 2025). Registret som sådant beskrivs i [KIN-03](https://kanintespela.github.io/belagt/#KIN-03).
+- **I Kina måste generativa AI-tjänster registreras hos cyberrymdsmyndigheten, och appar som använder en registrerad modell ska tydligt visa modellens namn och registreringsnummer.**
+  Kinas cyberrymdsmyndighet (CAC) · 2026-09-14 · styrning · myndighet · [KIN-32](./påståenden/2026/KIN-32.yaml)
+  > 已上线的生成式人工智能应用或功能，应在显著位置或产品详情页面公示所使用已备案或登记生成式人工智能服务情况，注明模型名称、备案号或上线编号。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Generativa AI-appar eller funktioner som redan har lanserats ska på en framträdande plats eller på produktsidan visa vilken registrerad generativ AI-tjänst de använder, med modellens namn och registreringsnummer eller lanseringsnummer.
+  > — [关于发布生成式人工智能服务已备案信息的公告（2026年7月至8月）](https://www.cac.gov.cn/2026-09/14/c_1791136833136332.htm#:~:text=%E5%B7%B2%E4%B8%8A%E7%BA%BF%E7%9A%84%E7%94%9F%E6%88%90%E5%BC%8F%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%BA%94,%E5%90%8D%E7%A7%B0%E3%80%81%E5%A4%87%E6%A1%88%E5%8F%B7%E6%88%96%E4%B8%8A%E7%BA%BF%E7%BC%96%E5%8F%B7%E3%80%82)
+
+  *Förbehåll:* Ersätter [KIN-03](https://kanintespela.github.io/belagt/#KIN-03), som återgav registret via Concordia AI. Registreringskravet bygger på Kinas tillfälliga regler för generativa AI-tjänster från 2023. Antalet registrerade tjänster finns i [KIN-15](https://kanintespela.github.io/belagt/#KIN-15) och [KIN-16](https://kanintespela.github.io/belagt/#KIN-16).
 - **Fredrik Heintz, professor i datavetenskap vid Linköpings universitet, bedömer risken att AI utplånar mänskligheten som låg men inte utesluten, och tror inte att förmågorna fortsätter att öka i samma takt.**
   Fredrik Heintz (professor i datavetenskap, Linköpings universitet), i SVT Aktuellt · 2026-09-15 · röster, tempo · media · [SVR-02](./påståenden/2026/SVR-02.yaml)
   > Det är låg risk men går inte att utesluta
@@ -1806,3 +1995,9 @@ Alla 291 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Pricing | ChatGPT](https://chatgpt.com/pricing#:~:text=Plan%3A%20Free%2C%20Feature%3A%20Content,our%20models%2C%20Opt%2Dout%20available)
 
   *Förbehåll:* Relevant för ledarens säkerhetsregler i demonstrationen: skriv aldrig in personuppgifter. Hos Claude gäller samma sak på alla nivåer (”Model training: Opt-out”). OpenAI:s billigare betalnivå Go ”may include ads”.
+- **Experterna i Forecasting Research Institutes panel förutsåg att den bästa AI-modellen skulle lösa 31 procent av FrontierMath-problemen i slutet av 2025. Utfallet blev 40,7 procent, alltså snabbare framsteg än experterna trodde.**
+  Forecasting Research Institute · 2026-09-22 · förmågor, tempo · rapport · [FOR-27](./påståenden/2026/FOR-27.yaml)
+  > The median expert predicted that the leading AI model on FrontierMath Tiers 1–3 by the end of 2025 would achieve 31%, while the median superforecaster predicted 30%. In reality, this question resolved at 40.7%.
+  > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25)
+
+  *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.

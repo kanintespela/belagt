@@ -1,0 +1,26 @@
+id: FOR-25
+påstående: I en liten pilotstudie från METR och Forecasting Research Institute gav experter på AI-prognoser
+  en median på 20 procents sannolikhet för att uppskalningen av effektiv beräkningskraft trefaldigas i takt
+  till 2029. Superprognosmakare bedömde sannolikheten till 8 procent.
+typ: prognos
+vem: METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare)
+datum: '2025-08-20'
+tema:
+- tempo
+- självförbättring
+- röster
+källa:
+  url: https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/
+  titel: 'Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study'
+  typ: rapport
+  citat: Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by
+    2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: 'Ersätter FOR-02, som återgav studien via International AI Safety Report 2026. Underlaget är mycket
+  litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen
+  att accelerera dramatiskt.'
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

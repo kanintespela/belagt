@@ -34,7 +34,7 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
   *Förbehåll:* Tyngsta möjliga källa för att nyttan är verklig: samma rapport som är huvudkällan för riskerna. Rapporten är utgiven under Open Government Licence v3.0, som tillåter återgivning och bearbetning med källangivelse.
 - **PauseAI:s eget förslag anger att ett fördrag i regel inte skulle träffa smala AI-system, och tar bildigenkänning för cancerdiagnostik som exempel.**
   PauseAI · 2026-09 · styrning, nytta · partsuppgift · [NYT-07](../påståenden/2026/NYT-07.yaml)
-  > But this treaty would usually **not affect *narrow* AI systems**, like image recognition systems used for diagnosing cancer.
+  > But this treaty would usually not affect narrow AI systems, like image recognition systems used for diagnosing cancer.
   > — [PauseAI Proposal](https://pauseai.info/proposal#:~:text=But%20this%20treaty%20would,used%20for%20diagnosing%20cancer)
 
   *Förbehåll:* Avgörande för att bemöta invändningen att en paus fördröjer medicinska genombrott: MASAI är just bildigenkänning för cancerdiagnostik, alltså PauseAI:s eget exempel på vad förslaget inte rör. Observera reservationen i regel. Sidan uppdateras löpande, hämtad 2026-09-24.

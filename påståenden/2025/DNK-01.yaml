@@ -1,0 +1,32 @@
+id: DNK-01
+påstående: Danmarks regering och de flesta av Folketingets partier enades i juni 2025 om att det ska bli olagligt
+  att dela deepfakes och andra digitala efterbildningar av en persons utseende och röst. Parodi och satir ska
+  fortfarande vara tillåtet.
+typ: förslag
+vem: Danmarks kulturministerium
+datum: '2025-06-26'
+tema:
+- rättigheter
+- missbruk
+- styrning
+källa:
+  url: https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme
+  titel: Bred aftale om deepfakes giver alle ret til egen krop og egen stemme
+  typ: myndighet
+  citat: Den politiske aftale vil blive udmøntet i et lovforslag, som skal gøre det ulovligt at dele eksempelvis
+    deepfakes og andre digitale efterligner af personlige kendetegn. … Parodier og satire vil naturligvis fortsat
+    være mulige at lave.
+  språk: da
+  översättning: Den politiska överenskommelsen ska omsättas i ett lagförslag som ska göra det olagligt att
+    dela till exempel deepfakes och andra digitala efterbildningar av personliga kännetecken. … Parodier och
+    satir ska naturligtvis fortfarande gå att göra.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ändringen görs i den danska upphovsrättslagen. Det är en överenskommelse om ett lagförslag, inte
+  en antagen lag. Kontrollera om lagen har trätt i kraft.
+vikt: 2
+bäst_före: '2027-01-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null

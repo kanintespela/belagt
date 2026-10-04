@@ -1,0 +1,24 @@
+id: IND-02
+påstående: Indiens riktlinjer för AI-styrning från november 2025 bygger på principen att inte orsaka skada
+  och på att använda befintlig lagstiftning där det går, i stället för en ny AI-lag.
+typ: händelse
+vem: Indiens digitaliseringsministerium (MeitY) och regeringens vetenskapliga chefsrådgivare
+datum: '2025-11-05'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://negd.gov.in/wp-content/uploads/2025/11/Press-Release_Press-Information-Bureau3.pdf
+  titel: MeitY Unveils India AI Governance Guidelines (Press Information Bureau)
+  typ: myndighet
+  citat: Our focus remains on using existing legislation wherever possible. … The guiding principle that defines
+    the spirit of the framework is simple, ‘Do No Harm’.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Citaten kommer från MeitY:s sekreterare S. Krishnan och regeringens vetenskapliga chefsrådgivare
+  Ajay Kumar Sood. Att en ny AI-lag inte föreslås är Belagts sammanfattning av "using existing legislation
+  wherever possible". Riktlinjerna lades fram inför AI-toppmötet i Indien 2026.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

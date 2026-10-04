@@ -1,0 +1,23 @@
+id: AFR-01
+påstående: Afrikanska unionens verkställande råd ställde sig i juli 2024 bakom en gemensam AI-strategi för
+  den afrikanska kontinenten, med inriktning på utveckling och på etisk och ansvarsfull användning.
+typ: händelse
+vem: Afrikanska unionen
+datum: '2024-07-18'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy
+  titel: Continental Artificial Intelligence Strategy
+  typ: myndighet
+  citat: the African Union Executive Council endorsed the Continental AI Strategy during its 45th Ordinary
+    Session in Accra, Ghana, on July 18-19, 2024. This strategy underscores Africa’s commitment to an Africa-centric,
+    development-focused approach to AI, promoting ethical, responsible, and equitable practices.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Strategin är inte bindande för medlemsländerna. Den ska genomföras 2025–2030.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

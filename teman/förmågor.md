@@ -4,7 +4,7 @@
 
 Vad AI-systemen kan göra och hur det mäts.
 
-33 påståenden, de viktigaste först inom varje år.
+36 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -50,7 +50,14 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Pricing](https://claude.com/pricing#:~:text=%7C%20Claude%20Code%20%7C,Yes%20%7C%20Yes%20%7C)
 
   *Förbehåll:* Gratisnivån har Sonnet och Haiku. Fable kräver en betalnivå och ingår delvis i Max. Priserna kom inte med när sidan hämtades.
+- **Experterna i Forecasting Research Institutes panel förutsåg att den bästa AI-modellen skulle lösa 31 procent av FrontierMath-problemen i slutet av 2025. Utfallet blev 40,7 procent, alltså snabbare framsteg än experterna trodde.**
+  Forecasting Research Institute · 2026-09-22 · förmågor, tempo · rapport · [FOR-27](../påståenden/2026/FOR-27.yaml)
+  > The median expert predicted that the leading AI model on FrontierMath Tiers 1–3 by the end of 2025 would achieve 31%, while the median superforecaster predicted 30%. In reality, this question resolved at 40.7%.
+  > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25)
+
+  *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
+  *Ersatt av FOR-24.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · rapport · [FOR-01](../påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=experts%20forecast%20a%2050%25,on%20undergraduate%2Dlevel%20FrontierMath%20problems)
@@ -92,6 +99,12 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Trends in Artificial Intelligence](https://epoch.ai/trends#:~:text=frontier%20has%20advanced%20linearly,year%20for%20non%2Dreasoning%20models)
 
   *Förbehåll:* Indexet heter Epoch Capabilities Index (ECI). Förklara skalan kort om siffran används, eftersom den är abstrakt för en bred publik.
+- **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och att det tog ytterligare en vecka att bygga en mask som kunde ta över konton utan att användaren gjorde något.**
+  Calif (säkerhetsföretag i Palo Alto) · 2026-09-08 · missbruk, förmågor · partsuppgift · [CYB-01](../påståenden/2026/CYB-01.yaml)
+  > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.
+  > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
+
+  *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://kanintespela.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
 - **Enligt OpenAI arbetade i storleksordningen 10 000 samtidiga AI-agenter i ungefär 88 timmar för att ta fram Navier–Stokes-lösningen.**
   OpenAI · 2026-09-08 · förmågor, tempo · partsuppgift · [J3ljHm57yU0-09](../påståenden/2026/J3ljHm57yU0-09.yaml)
   > the group that produced the Navier–Stokes resolution involved on the order of 10,000 concurrent agents
@@ -167,6 +180,12 @@ Vad AI-systemen kan göra och hur det mäts.
   > — [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/#:~:text=We%20found%20that%20today%E2%80%99s,produced%20by%20industry%20experts)
 
   *Förbehåll:* Partsuppgift, även om uppgifterna bedömdes blint. Uppgifterna var väl avgränsade och motsvarar inte ett helt jobb. Anthropics Claude Opus 4.1 presterade bäst i testet, inte OpenAI:s egen modell.
+- **I Forecasting Research Institutes expertpanel LEAP förutsåg experterna (medianen) att den bästa AI-modellen löser 31 procent av problemen på matematiktestet FrontierMath i slutet av 2025, 55 procent i slutet av 2027 och 75 procent i slutet av 2030.**
+  Forecasting Research Institute, expertpanelen LEAP (330 experter) · 2025-11-10 · förmågor, röster · rapport · [FOR-24](../påståenden/2025/FOR-24.yaml)
+  > Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55% by the end of 2027 … and 75% by the end of 2030
+  > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030)
+
+  *Förbehåll:* Ersätter [FOR-01](https://kanintespela.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://kanintespela.github.io/belagt/#FOR-27).
 
 ## 2024
 

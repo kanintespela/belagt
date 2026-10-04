@@ -4,7 +4,7 @@
 
 Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigheter.
 
-15 påståenden, de viktigaste först inom varje år.
+16 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -67,6 +67,14 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
   > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
 
   *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten jämför med att en student inte heller får kopiera alla böcker på biblioteket för att lära sig.
+- **Danmarks regering och de flesta av Folketingets partier enades i juni 2025 om att det ska bli olagligt att dela deepfakes och andra digitala efterbildningar av en persons utseende och röst. Parodi och satir ska fortfarande vara tillåtet.**
+  Danmarks kulturministerium · 2025-06-26 · rättigheter, missbruk, styrning · myndighet · [DNK-01](../påståenden/2025/DNK-01.yaml)
+  > Den politiske aftale vil blive udmøntet i et lovforslag, som skal gøre det ulovligt at dele eksempelvis deepfakes og andre digitale efterligner af personlige kendetegn. … Parodier og satire vil naturligvis fortsat være mulige at lave.
+  >
+  > *Översatt från danska av Claude (AI), inte granskad av någon som läser danska:* Den politiska överenskommelsen ska omsättas i ett lagförslag som ska göra det olagligt att dela till exempel deepfakes och andra digitala efterbildningar av personliga kännetecken. … Parodier och satir ska naturligtvis fortfarande gå att göra.
+  > — [Bred aftale om deepfakes giver alle ret til egen krop og egen stemme](https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme#:~:text=Den%20politiske%20aftale%20vil,v%C3%A6re%20mulige%20at%20lave)
+
+  *Förbehåll:* Ändringen görs i den danska upphovsrättslagen. Det är en överenskommelse om ett lagförslag, inte en antagen lag. Kontrollera om lagen har trätt i kraft.
 - **Stim lanserade 2025 vad organisationen kallar världens första kollektiva AI-licens för musik. AI-företag får träna på musiken, men bara med uttryckligt samtycke från upphovspersonerna, som får ersättning.**
   Stim (svensk upphovsrättsorganisation för musik) · 2025-09 · rättigheter, samhälle · partsuppgift · [URH-06](../påståenden/2025/URH-06.yaml)
   > Nu tar Stim ett banbrytande steg i den digitala utvecklingen av musikbranschen – med världens första kollektiva AI-licens för musik.

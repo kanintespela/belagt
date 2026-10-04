@@ -1,6 +1,6 @@
 id: SVS-13
-påstående: Häggström menar att diskussionen om de risker som AI-företagen tar har kommit längre i USA
-  än i Skandinavien.
+påstående: Häggström menar att diskussionen om de risker som AI-företagen tar har kommit längre i USA än i
+  Skandinavien.
 typ: bedömning
 vem: Olle Häggström, debattartikel i Dagens Næringsliv (Norge), återgiven på hans blogg
 datum: 2026-07
@@ -13,14 +13,15 @@ källa:
   citat: Diskusjonen om den uakseptable risikoen selskaper som OpenAI og Anthropic tar med alles vår fremtid
     i kappløpet mot superintelligent KI, har kommet et stykke på vei i USA.
   språk: 'no'
-  översättning: Diskussionen om den oacceptabla risk som företag som OpenAI och Anthropic tar med allas
-    vår framtid i kapplöpningen mot superintelligent AI har kommit en bit på väg i USA.
+  översättning: Diskussionen om den oacceptabla risk som företag som OpenAI och Anthropic tar med allas vår
+    framtid i kapplöpningen mot superintelligent AI har kommit en bit på väg i USA.
   översatt_av: Claude (AI)
   granskad_av: null
   hämtad: '2026-09-28'
   arkiv: null
-förbehåll: Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att
-  Skandinavien ska bidra till att mobilisera den globala opinionen.
+förbehåll: Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien
+  ska bidra till att mobilisera den globala opinionen. Originalet i Dagens Næringsliv ligger bakom betalvägg,
+  så posten bygger på Häggströms egen återgivning.
 vikt: 2
 bäst_före: null
 kontrollerad: '2026-09-28'

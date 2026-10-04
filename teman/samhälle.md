@@ -4,7 +4,7 @@
 
 Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och kritiskt tänkande.
 
-34 påståenden, de viktigaste först inom varje år.
+36 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -140,6 +140,14 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E6%8B%9F%E4%BA%BA%E5%8C%96%E4%BA%92%E5%8A%A8%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E4%B8%8D%E5%BE%97,%E4%BC%B4%E4%BE%A3%E7%AD%89%E8%99%9A%E6%8B%9F%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%E7%9A%84%E6%9C%8D%E5%8A%A1)
 
   *Förbehåll:* För barn under 14 år krävs dessutom vårdnadshavarens samtycke till andra tjänster av det här slaget (§ 14).
+- **Kinas regler för AI-kompanjoner, som fem myndigheter publicerade i april 2026, gäller från den 15 juli 2026 och kräver bland annat att tjänsterna vägleder äldre användare och tydligt varnar dem för risker.**
+  Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter · 2026-04-10 · styrning, samhälle · myndighet · [KIN-31](../påståenden/2026/KIN-31.yaml)
+  > 自2026年7月15日起施行。… 拟人化互动服务提供者向老年人提供服务的，应当加强对老年人健康使用服务的指导，以显著方式提示安全风险
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Gäller från den 15 juli 2026. … Den som tillhandahåller människolika interaktiva tjänster till äldre ska ge äldre bättre vägledning i att använda tjänsten på ett sunt sätt och på ett tydligt sätt varna för säkerhetsrisker
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E8%87%AA2026%E5%B9%B47%E6%9C%8815%E6%97%A5%E8%B5%B7,%EF%BC%8C%E4%BB%A5%E6%98%BE%E8%91%97%E6%96%B9%E5%BC%8F%E6%8F%90%E7%A4%BA%E5%AE%89%E5%85%A8%E9%A3%8E%E9%99%A9)
+
+  *Förbehåll:* Ersätter [KIN-02](https://kanintespela.github.io/belagt/#KIN-02), som återgav reglerna via Concordia AI. Kraven på suicidprevention, beroende och minderåriga finns i samma regler, se [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) till [KIN-12](https://kanintespela.github.io/belagt/#KIN-12). Reglerna innehåller också politiska innehållskrav, se [KIN-13](https://kanintespela.github.io/belagt/#KIN-13).
 - **Enligt SCB använder 65 procent av de svenska företagen inte AI alls, och det vanligaste skälet är brist på kompetens.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · samhälle · opinion · [SVS-10](../påståenden/2026/SVS-10.yaml)
   > Enligt SCB använder 65 procent av de svenska företagen inte ai alls.
@@ -195,6 +203,14 @@ Hur AI påverkar arbete, ekonomi och vardag: jobb, beroende, AI-kompanjoner och 
   > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=N%C3%A4r%20upp%20till%2024,AI%2Dutvecklingen%20fram%20till%202028)
 
   *Förbehåll:* Stim anger inte källan i texten. Siffran kommer sannolikt från en internationell studie för upphovsrättsorganisationerna, men det har inte kontrollerats här. Stim är part i frågan.
+- **Japans regering skriver att landets egen AI-utveckling och AI-användning ligger efter, och att många invånare oroar sig för de risker som AI medför.**
+  Japans regeringskansli (Cabinet Office) · 2025-10-03 · samhälle, geopolitik, röster · myndighet · [JPN-02](../påståenden/2025/JPN-02.yaml)
+  > 国内のＡＩ開発・活用は遅れており、また、多くの国民がＡＩにより発生するリスクに不安を抱えている状況です。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga för de risker som AI medför.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E5%9B%BD%E5%86%85%E3%81%AE%EF%BC%A1%EF%BC%A9%E9%96%8B%E7%99%BA%E3%83%BB%E6%B4%BB%E7%94%A8%E3%81%AF%E9%81%85,%E5%AE%89%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%99%E3%80%82)
+
+  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://kanintespela.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
 - **En studie från MIT uppskattar att AI rent tekniskt kan utföra arbetsuppgifter som motsvarar 11,7 procent av lönesumman i USA, omkring 1 200 miljarder dollar, inom administration, finans och tjänster.**
   MIT (Project Iceberg) · 2025-11 · samhälle · rapport · [SAM-07](../påståenden/2025/SAM-07.yaml)
   > Technical capability extends far below the surface through cognitive automation spanning administrative, financial, and professional services (11.7%, approximately $1.2 trillion).

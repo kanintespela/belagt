@@ -1,6 +1,6 @@
 id: SVR-15
-påstående: Samma undersökning visar att bara en av fyra svenskar känner hopp inför AI:s betydelse för
-  mänsklighetens framtid, och att oron är störst bland unga.
+påstående: Samma undersökning visar att bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens
+  framtid, och att oron är störst bland unga.
 typ: mätning
 vem: Futurion och Seismic Foundation, återgiven av IT&Telekomföretagen
 datum: '2026-06-24'
@@ -13,8 +13,10 @@ källa:
   citat: Bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens framtid.
   hämtad: '2026-09-22'
   arkiv: null
-förbehåll: Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler
-  ser möjligheter än risker.
+förbehåll: Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler ser
+  möjligheter än risker. Futurions egen rapport (https://futurion.se/wp-content/uploads/2026/06/futurion-x-seismic-rapport-ai-2026-2-juni.pdf)
+  har siffrorna bara som bilder, så citatet kan inte kontrolleras maskinellt mot originalet. Fältarbetet gjordes
+  12–20 mars 2026.
 vikt: 3
 bäst_före: '2027-06-24'
 kontrollerad: '2026-09-28'

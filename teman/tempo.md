@@ -4,11 +4,12 @@
 
 Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och skalning.
 
-34 påståenden, de viktigaste först inom varje år.
+38 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
 - **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
+  *Ersatt av FOR-25.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-02](../påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20forecasting%20experts%20gave,forecasters%29%20estimated%20only%208%25)
@@ -62,6 +63,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk#:~:text=Det%20%C3%A4r%20l%C3%A5g%20risk,g%C3%A5r%20inte%20att%20utesluta)
 
   *Förbehåll:* Den tydligaste svenska rösten för att risken är låg, just nu. Heintz oroas mer av att människor använder AI för brott, till exempel terrorhandlingar (enligt TT i GP).
+- **Experterna i Forecasting Research Institutes panel förutsåg att den bästa AI-modellen skulle lösa 31 procent av FrontierMath-problemen i slutet av 2025. Utfallet blev 40,7 procent, alltså snabbare framsteg än experterna trodde.**
+  Forecasting Research Institute · 2026-09-22 · förmågor, tempo · rapport · [FOR-27](../påståenden/2026/FOR-27.yaml)
+  > The median expert predicted that the leading AI model on FrontierMath Tiers 1–3 by the end of 2025 would achieve 31%, while the median superforecaster predicted 30%. In reality, this question resolved at 40.7%.
+  > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25)
+
+  *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
 - **Oxford Economics påpekar att produktivitetstillväxten borde öka om AI redan ersatte arbetskraft i stor skala, men att den i allmänhet inte gör det. Det kan dock ändras snabbt om AI fortsätter att utvecklas snabbt.**
   Oxford Economics (analysföretag, Ben May och Yasmine Badawy) · 2026-01-07 · samhälle, tempo · rapport · [SAM-03](../påståenden/2026/SAM-03.yaml)
   > If AI were already replacing labour at scale, productivity growth should be accelerating. Generally, it isn't, though that could change quickly if AI continues to develop rapidly
@@ -69,6 +76,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 
   *Förbehåll:* Ett enkelt test som går att följa i den officiella statistiken.
 - **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
+  *Ersatt av FOR-26.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-03](../påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects)
@@ -173,6 +181,18 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary#:~:text=Global%20investment%20in%20data,trillion%20dollars%20in%202024)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför [ISR-07](https://kanintespela.github.io/belagt/#ISR-07) om AI-företagens aviserade investeringar.
+- **I en liten pilotstudie från METR och Forecasting Research Institute gav experter på AI-prognoser en median på 20 procents sannolikhet för att uppskalningen av effektiv beräkningskraft trefaldigas i takt till 2029. Superprognosmakare bedömde sannolikheten till 8 procent.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-25](../påståenden/2025/FOR-25.yaml)
+  > Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by 2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=Experts%20and%20superforecasters%20both,chance%20and%20superforecasters%208%25)
+
+  *Förbehåll:* Ersätter [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.
+- **I samma pilotstudie höjdes bedömningarna till en median på 20,5 procent för experterna och 18 procent för superprognosmakarna, om AI-system skulle visa sig bättre än mänskliga forskare på öppna forskningsprojekt som tar en månad.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-26](../påståenden/2025/FOR-26.yaml)
+  > experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems doing better than human researchers at open-ended month-long research projects.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=experts%20and%20superforecasters%20converge,open%2Dended%20month%2Dlong%20research%20projects)
+
+  *Förbehåll:* Ersätter [FOR-03](https://kanintespela.github.io/belagt/#FOR-03), som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03).
 - **Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.**
   Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö, tempo · partsuppgift · [ENE-15](../påståenden/2025/ENE-15.yaml)
   > Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.
@@ -194,6 +214,12 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
   > — [Dario Amodei — Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace#:~:text=I%20think%20it%20could,could%20take%20much%20longer)
 
   *Förbehåll:* Med kraftfull AI menar Amodei ungefär ”ett land av genier i ett datacenter”. Han undviker ordet AGI. Jämför [J3ljHm57yU0-29](https://kanintespela.github.io/belagt/#J3ljHm57yU0-29), där han 2026 skriver att utvecklingen har gått drastiskt snabbare sedan sommaren 2026. Han är vd för ett AI-företag och därmed part i frågan.
+- **Indiens regering godkände i mars 2024 satsningen IndiaAI Mission med en budget på 10 372 crore rupier (omkring 1,2 miljarder US-dollar) över fem år, bland annat för en superdatorkapacitet med över 10 000 grafikprocessorer.**
+  Indiens regering (IndiaAI, digitaliseringsministeriets AI-satsning) · 2024-03-07 · geopolitik, tempo · myndighet · [IND-01](../påståenden/2024/IND-01.yaml)
+  > the cabinet approved the India AI mission with a budget outlay of Rs 10,372 crore for five years … the supercomputing capacity, comprising over 10,000 GPUs, will be made available to various stakeholders
+  > — [Cabinet approves India AI mission at an outlay of Rs 10,372 crore](https://indiaai.gov.in/news/cabinet-approves-india-ai-mission-at-an-outlay-of-rs-10-372-crore#:~:text=the%20cabinet%20approved%20the,available%20to%20various%20stakeholders)
+
+  *Förbehåll:* Omräkningen till dollar är ungefärlig och gjord av Belagt. Satsningen ska ge nystartade företag, forskare och industri tillgång till beräkningskraft. Det är en industripolitisk satsning, inte en reglering.
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · partsuppgift · [TID-09](../påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).

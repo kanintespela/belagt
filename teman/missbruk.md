@@ -4,7 +4,7 @@
 
 Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 
-30 påståenden, de viktigaste först inom varje år.
+33 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -49,7 +49,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > den tekniska tröskeln för att bedriva informationspåverkan har sänkts de senaste åren.
   > — [MPF:s lägesbild inför valet](https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-#:~:text=den%20tekniska%20tr%C3%B6skeln%20f%C3%B6r,s%C3%A4nkts%20de%20senaste%20%C3%A5ren)
 
-  *Förbehåll:* MPF påpekar också att en och samma aktör kan driva motstridiga budskap för att splittra. I pressmeddelandet den 16 juni 2026 beskriver MPF AI-utvecklingen som ”ständigt accelererande”.
+  *Förbehåll:* MPF påpekar också att en och samma aktör kan driva motstridiga budskap för att splittra. I pressmeddelandet den 16 juni 2026 beskriver MPF AI-utvecklingen som ”ständigt accelererande”. Källsidan var borttagen i oktober 2026 och har ingen arkivkopia i Wayback Machine. MPF beskriver lägesbilden i en nyhet: https://mpf.se/om-oss/nyheter/2026/2026-06-16-accelererande-ai-utveckling-lyfts-fram-i-mpfs-lagesbild-infor-valet
 - **Anthropic rapporterar att en plattform för virologer försökte använda Claude för att skriva en ansökan om funktionsförstärkande forskning (gain-of-function) på chikungunyaviruset, med målet att göra det mer smittsamt och bättre på att undgå immunförsvaret. Arbetet skulle utföras vid ett militärt forskningsinstitut.**
   Anthropic (hotrapport, september 2026) · 2026-05 · missbruk · partsuppgift · [J3ljHm57yU0-41](../påståenden/2026/J3ljHm57yU0-41.yaml)
   > highly concerning gain-of-function research is ongoing at these facilities
@@ -81,6 +81,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 
   *Förbehåll:* Nämns inte i videon. Formulerat som en oro, inte en förutsägelse. Återge det så. Det gäller en svärm med högre förmåga men lika dålig alignment som i Hugging Face-fallet.
 - **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och byggde en mask som kunde ta över konton utan att användaren gjorde något på ytterligare en vecka. WeChat har över en miljard användare.**
+  *Ersatt av CYB-01.*
   Calif (säkerhetsföretag i Palo Alto), återgivet av Help Net Security · 2026-09-08 · missbruk · media · [J3ljHm57yU0-49](../påståenden/2026/J3ljHm57yU0-49.yaml)
   > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week,
   > — ["Zero-click" WeChat worm could hijack accounts and spread via a single call - Help Net Security](https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
@@ -133,7 +134,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > Sverige och svenska val är för närvarande inte ett prioriterat mål för rysk informationspåverkan.
   > — [MPF:s lägesbild inför valet](https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-#:~:text=Sverige%20och%20svenska%20val,m%C3%A5l%20f%C3%B6r%20rysk%20informationsp%C3%A5verkan)
 
-  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt.
+  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt. Källsidan var borttagen i oktober 2026 och har ingen arkivkopia i Wayback Machine. MPF beskriver lägesbilden i en nyhet: https://mpf.se/om-oss/nyheter/2026/2026-06-16-accelererande-ai-utveckling-lyfts-fram-i-mpfs-lagesbild-infor-valet
 - **Ett nätverk med över 20 dejtingappar lät mer än 4 700 AI-personor, drivna av Claude, chatta med minst 25 000 personer under två veckor. På varje riktig människa i flödet gick ungefär tre AI-profiler.**
   Anthropic (hotrapport, september 2026) · 2026-04 · missbruk · partsuppgift · [J3ljHm57yU0-46](../påståenden/2026/J3ljHm57yU0-46.yaml)
   > we discovered more than 4,700 distinct AI personas that engaged in conversations with at least 25,000 unique individuals.
@@ -154,6 +155,12 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [Separating Out AI Facts, Fears, and Fiction](https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/#:~:text=in%20the%20long%20term%2C,will%20lie%20with%20defenders)
 
   *Förbehåll:* Ng tycker också att biovapenrisken är överdriven, eftersom flaskhalsen enligt honom är laboratoriearbete och tillverkning, inte kunskap.
+- **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och att det tog ytterligare en vecka att bygga en mask som kunde ta över konton utan att användaren gjorde något.**
+  Calif (säkerhetsföretag i Palo Alto) · 2026-09-08 · missbruk, förmågor · partsuppgift · [CYB-01](../påståenden/2026/CYB-01.yaml)
+  > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.
+  > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
+
+  *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://kanintespela.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
 - **Det som skrivs i gratisversionen av ChatGPT används för att träna OpenAI:s modeller, om användaren inte själv stänger av det.**
   OpenAI (prissida) · 2026-09-22 · missbruk · partsuppgift · [DEM-04](../påståenden/2026/DEM-04.yaml)
   > Plan: Free, Feature: Content is used to train our models, Opt-out available
@@ -170,6 +177,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 ## 2025
 
 - **Kina har infört stränga regler om märkning av AI-genererat innehåll, med standarder som anger hur märkning och vattenstämpling ska gå till.**
+  *Ersatt av KIN-33.*
   Kinas myndigheter, återgivet av Concordia AI · 2025 · styrning, missbruk · rapport · [KIN-04](../påståenden/2025/KIN-04.yaml)
   > the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting strict rules around labeling AI-generated content.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -183,6 +191,22 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E5%90%88%E6%88%90%E5%86%85%E5%AE%B9%E6%A0%87%E8%AF%86%E5%8C%85%E6%8B%AC%E6%98%BE%E5%BC%8F%E6%A0%87%E8%AF%86%E5%92%8C%E9%9A%90%E5%BC%8F%E6%A0%87%E8%AF%86%E3%80%82)
 
   *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
+- **Kinas regler om märkning av AI-genererat innehåll gäller sedan den 1 september 2025 och kräver att märkningen också följer tvingande nationella standarder.**
+  Kinas cyberrymdsmyndighet (CAC) med flera myndigheter · 2025-03-14 · styrning, missbruk · myndighet · [KIN-33](../påståenden/2025/KIN-33.yaml)
+  > 服务提供者开展标识活动的，还应当符合相关法律、行政法规、部门规章和强制性国家标准的要求。… 本办法自2025年9月1日起施行。
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Tjänsteleverantörer som märker innehåll ska också uppfylla kraven i relevanta lagar, förordningar, myndighetsföreskrifter och tvingande nationella standarder. … Dessa bestämmelser gäller från den 1 september 2025.
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E6%9C%8D%E5%8A%A1%E6%8F%90%E4%BE%9B%E8%80%85%E5%BC%80%E5%B1%95%E6%A0%87%E8%AF%86%E6%B4%BB%E5%8A%A8%E7%9A%84,025%E5%B9%B49%E6%9C%881%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C%E3%80%82)
+
+  *Förbehåll:* Ersätter [KIN-04](https://kanintespela.github.io/belagt/#KIN-04), som återgav reglerna via Concordia AI. Hur märkningen ska gå till står i [KIN-14](https://kanintespela.github.io/belagt/#KIN-14). Märkningskrav kan också tjäna informationskontroll.
+- **Danmarks regering och de flesta av Folketingets partier enades i juni 2025 om att det ska bli olagligt att dela deepfakes och andra digitala efterbildningar av en persons utseende och röst. Parodi och satir ska fortfarande vara tillåtet.**
+  Danmarks kulturministerium · 2025-06-26 · rättigheter, missbruk, styrning · myndighet · [DNK-01](../påståenden/2025/DNK-01.yaml)
+  > Den politiske aftale vil blive udmøntet i et lovforslag, som skal gøre det ulovligt at dele eksempelvis deepfakes og andre digitale efterligner af personlige kendetegn. … Parodier og satire vil naturligvis fortsat være mulige at lave.
+  >
+  > *Översatt från danska av Claude (AI), inte granskad av någon som läser danska:* Den politiska överenskommelsen ska omsättas i ett lagförslag som ska göra det olagligt att dela till exempel deepfakes och andra digitala efterbildningar av personliga kännetecken. … Parodier och satir ska naturligtvis fortfarande gå att göra.
+  > — [Bred aftale om deepfakes giver alle ret til egen krop og egen stemme](https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme#:~:text=Den%20politiske%20aftale%20vil,v%C3%A6re%20mulige%20at%20lave)
+
+  *Förbehåll:* Ändringen görs i den danska upphovsrättslagen. Det är en överenskommelse om ett lagförslag, inte en antagen lag. Kontrollera om lagen har trätt i kraft.
 
 ## 2024
 

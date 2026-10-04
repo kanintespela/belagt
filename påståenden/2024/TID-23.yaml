@@ -1,0 +1,22 @@
+id: TID-23
+påstående: EU-kommissionen uppger att AI-förordningen trädde i kraft den 1 augusti 2024 och blev tillämplig
+  den 2 augusti 2026, med vissa undantag som började gälla tidigare eller börjar gälla senare.
+typ: händelse
+vem: EU-kommissionen
+datum: '2024-08-01'
+tema:
+- styrning
+källa:
+  url: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+  titel: AI Act | Shaping Europe’s digital future
+  typ: myndighet
+  citat: The AI Act entered into force on 1 August 2024 and became applicable on 2 August 2026, with some exceptions
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter TID-11, som byggde på Future of Life Institutes sammanfattning. Enligt samma sida sköts
+  reglerna för AI-system inom vissa högriskområden upp till den 2 december 2027 genom ändringsförordningen
+  AI Omnibus, som trädde i kraft den 27 juli 2026. Sidan uppdateras löpande.
+vikt: 3
+bäst_före: '2027-12-02'
+kontrollerad: '2026-10-04'
+ersatt_av: null

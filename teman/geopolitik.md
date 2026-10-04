@@ -4,10 +4,18 @@
 
 Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
-19 påståenden, de viktigaste först inom varje år.
+27 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
+- **Sydkoreas AI-grundlag gäller sedan den 22 januari 2026. Den kräver bland annat att resultat från generativ AI och deepfakes märks så att användarna tydligt kan känna igen dem.**
+  Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter · 2026-01-22 · styrning, geopolitik · myndighet · [KOR-01](../påståenden/2026/KOR-01.yaml)
+  > 생성형AI의 결과물, 사회적 부작용이 우려되는 딥페이크 결과물에 대해서는 이용자의 연령 등을 고려하여 명확하게 인식할 수 있는 방법으로 표시하도록 규정했다.
+  >
+  > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* För resultat från generativ AI och för deepfakes, som befaras få skadliga följder för samhället, föreskrivs att de ska märkas på ett sätt som tydligt kan uppfattas, med hänsyn till bland annat användarens ålder.
+  > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%EC%83%9D%EC%84%B1%ED%98%95AI%EC%9D%98%20%EA%B2%B0%EA%B3%BC%EB%AC%BC%2C%20,%EB%A1%9C%20%ED%91%9C%EC%8B%9C%ED%95%98%EB%8F%84%EB%A1%9D%20%EA%B7%9C%EC%A0%95%ED%96%88%EB%8B%A4)
+
+  *Förbehåll:* Enligt samma källa antogs lagen i december 2024 efter en överenskommelse mellan regeringspartiet och oppositionen, som världens andra heltäckande AI-lag efter EU:s.
 - **PauseAI vill att pausen regleras i ett internationellt avtal där USA och Kina ingår, med en internationell AI-säkerhetsmyndighet efter förebild från IAEA som godkänner stora träningskörningar och lanseringar.**
   PauseAI · 2026-04-05 · styrning, geopolitik · partsuppgift · [PAI-02](../påståenden/2026/PAI-02.yaml)
   > Inspired by the International Atomic Energy Agency (IAEA), this agency will be responsible for:
@@ -15,6 +23,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
   *Förbehåll:* Myndigheten ska kontrollera efterlevnaden, bland annat genom att spåra AI-chip, övervaka energiförbrukning och inspektera datacenter. Mer kraftfull AI ska få byggas först när säkerhetsproblemen är tillräckligt lösta.
 - **Kina har ställt sig bakom två nya FN-mekanismer för AI och har föreslagit en världsorganisation för AI-samarbete, WAICO.**
+  *Ersatt av KIN-34.*
   Kinas regering, återgivet av Concordia AI · 2026-06 · styrning, geopolitik · rapport · [KIN-05](../påståenden/2026/KIN-05.yaml)
   > Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
@@ -22,7 +31,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   *Förbehåll:* Relevant för PauseAI:s förslag, som förutsätter att USA och Kina ingår i ett internationellt avtal. De två mekanismerna är International Scientific Panel on AI och Global Dialogue on AI Governance. WAICO:s tidplan, ledning och medlemskrets var obekräftade i juni 2026.
 - **Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare in sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.**
   Concordia AI, State of AI Safety in China (2026) · 2026-07 · styrning, geopolitik · rapport · [KIN-01](../påståenden/2026/KIN-01.yaml)
-  > Binding rules and standards increasingly target specific AI risks that go beyond polit- ical content control.
+  > Binding rules and standards increasingly target specific AI risks that go beyond political content control.
   > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.
@@ -43,7 +52,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > Sverige och svenska val är för närvarande inte ett prioriterat mål för rysk informationspåverkan.
   > — [MPF:s lägesbild inför valet](https://mpf.se/valet-2026/mpfs-lagesbild-infor-valet-#:~:text=Sverige%20och%20svenska%20val,m%C3%A5l%20f%C3%B6r%20rysk%20informationsp%C3%A5verkan)
 
-  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt.
+  *Förbehåll:* Nyanserande motvikt: alla hot är inte akuta, och en saklig bild inkluderar det som lugnar. MPF betonar ändå att läget kan ändras snabbt. Källsidan var borttagen i oktober 2026 och har ingen arkivkopia i Wayback Machine. MPF beskriver lägesbilden i en nyhet: https://mpf.se/om-oss/nyheter/2026/2026-06-16-accelererande-ai-utveckling-lyfts-fram-i-mpfs-lagesbild-infor-valet
 - **Enligt The Guardian avfärdade Donald Trump i september 2026 oron för att AI kan utrota mänskligheten och sa att folk tar upp saker som inte kommer att hända.**
   The Guardian (om Donald Trump) · 2026-09 · geopolitik, styrning · media · [BAL-12](../påståenden/2026/BAL-12.yaml)
   > saying people were “bringing up things that won’t happen”
@@ -116,19 +125,72 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
 - **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
-  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-29](../påståenden/2025/KIN-29.yaml)
+  Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-29](../påståenden/2025/KIN-29.yaml)
   > 中国政府倡议成立世界人工智能合作组织。
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
   > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml#:~:text=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%A1%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E3%80%82)
 
   *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
+- **Kinas handlingsplan för global AI-styrning från juli 2025 stöder att FN inrättar två mekanismer för AI, en internationell vetenskaplig panel och en global dialog om AI-styrning, och att de kommer igång så snart som möjligt.**
+  Kinas regering (handlingsplan publicerad av utrikesministeriet) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-34](../påståenden/2025/KIN-34.yaml)
+  > 支持在联合国框架下建立国际人工智能科学小组和全球人工智能治理对话两项机制并尽早运行
+  >
+  > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Stöder att två mekanismer, en internationell vetenskaplig panel för artificiell intelligens och en global dialog om styrning av artificiell intelligens, inrättas inom FN:s ram och kommer igång så snart som möjligt
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/zyxw/202507/t20250726_11677803.shtml#:~:text=%E6%94%AF%E6%8C%81%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%BB%BA%E7%AB%8B%E5%9B%BD,%E7%90%86%E5%AF%B9%E8%AF%9D%E4%B8%A4%E9%A1%B9%E6%9C%BA%E5%88%B6%E5%B9%B6%E5%B0%BD%E6%97%A9%E8%BF%90%E8%A1%8C)
+
+  *Förbehåll:* Ersätter [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), som återgav Kinas hållning via Concordia AI. Förslaget om en världsorganisation för AI-samarbete (WAICO) finns i [KIN-29](https://kanintespela.github.io/belagt/#KIN-29). Samma handlingsplan vill att FN ska vara huvudkanalen för AI-styrning, se [KIN-18](https://kanintespela.github.io/belagt/#KIN-18).
+- **Japans AI-lag, som ska främja forskning om och användning av AI, utfärdades den 4 juni 2025 och gäller fullt ut sedan den 1 september 2025, då också regeringens AI-strategihögkvarter inrättades.**
+  Japans regeringskansli (Cabinet Office) · 2025-09-01 · styrning, geopolitik · myndighet · [JPN-01](../påståenden/2025/JPN-01.yaml)
+  > 令和７年６月４日にＡＩ法が公布・一部施行され、９月１日にはＡＩ戦略本部の設置に係る規定等も含め、全面施行されました。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* AI-lagen utfärdades och trädde delvis i kraft den 4 juni 2025 (Reiwa 7), och den 1 september trädde den i kraft fullt ut, inklusive bestämmelserna om att inrätta AI-strategihögkvarteret.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E4%BB%A4%E5%92%8C%EF%BC%97%E5%B9%B4%EF%BC%96%E6%9C%88%EF%BC%94%E6%97%A5%E3%81%AB%EF%BC%A1%EF%BC%A9%E6%B3%95,%E3%82%81%E3%80%81%E5%85%A8%E9%9D%A2%E6%96%BD%E8%A1%8C%E3%81%95%E3%82%8C%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82)
+
+  *Förbehåll:* Lagen är en främjandelag och innehåller inga straffbestämmelser för företag, till skillnad från EU:s AI-förordning. Den antogs av parlamentet den 28 maj 2025.
+- **Japans regering skriver att landets egen AI-utveckling och AI-användning ligger efter, och att många invånare oroar sig för de risker som AI medför.**
+  Japans regeringskansli (Cabinet Office) · 2025-10-03 · samhälle, geopolitik, röster · myndighet · [JPN-02](../påståenden/2025/JPN-02.yaml)
+  > 国内のＡＩ開発・活用は遅れており、また、多くの国民がＡＩにより発生するリスクに不安を抱えている状況です。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga för de risker som AI medför.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E5%9B%BD%E5%86%85%E3%81%AE%EF%BC%A1%EF%BC%A9%E9%96%8B%E7%99%BA%E3%83%BB%E6%B4%BB%E7%94%A8%E3%81%AF%E9%81%85,%E5%AE%89%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%99%E3%80%82)
+
+  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://kanintespela.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
+- **Indiens riktlinjer för AI-styrning från november 2025 bygger på principen att inte orsaka skada och på att använda befintlig lagstiftning där det går, i stället för en ny AI-lag.**
+  Indiens digitaliseringsministerium (MeitY) och regeringens vetenskapliga chefsrådgivare · 2025-11-05 · styrning, geopolitik · myndighet · [IND-02](../påståenden/2025/IND-02.yaml)
+  > Our focus remains on using existing legislation wherever possible. … The guiding principle that defines the spirit of the framework is simple, ‘Do No Harm’.
+  > — [MeitY Unveils India AI Governance Guidelines (Press Information Bureau)](https://negd.gov.in/wp-content/uploads/2025/11/Press-Release_Press-Information-Bureau3.pdf)
+
+  *Förbehåll:* Citaten kommer från MeitY:s sekreterare S. Krishnan och regeringens vetenskapliga chefsrådgivare Ajay Kumar Sood. Att en ny AI-lag inte föreslås är Belagts sammanfattning av "using existing legislation wherever possible". Riktlinjerna lades fram inför AI-toppmötet i Indien 2026.
 - **Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, geopolitik · media · [KIN-21](../påståenden/2025/KIN-21.yaml)
   > 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* i dag saknas fortfarande effektiv kommunikation mellan de mest avancerade AI-företagen. Bilaterala dialogmekanismer, särskilt mellan Kina och USA, bör stärkas
   > — [盯紧AI失控风险](https://www.xinhuanet.com/liangzi/20251112/3687c6b01ecf42ddbd0fd7d9600cc787/c.html#:~:text=%E5%BD%93%E5%89%8D%E6%9C%80%E5%89%8D%E6%B2%BF%E7%9A%84AI%E5%85%AC%E5%8F%B8%E4%B9%8B%E9%97%B4,%E5%BC%BA%E5%8F%8C%E8%BE%B9%E5%B0%A4%E5%85%B6%E6%98%AF%E4%B8%AD%E7%BE%8E%E5%AF%B9%E8%AF%9D%E6%9C%BA%E5%88%B6)
+
+## 2024
+
+- **Indiens regering godkände i mars 2024 satsningen IndiaAI Mission med en budget på 10 372 crore rupier (omkring 1,2 miljarder US-dollar) över fem år, bland annat för en superdatorkapacitet med över 10 000 grafikprocessorer.**
+  Indiens regering (IndiaAI, digitaliseringsministeriets AI-satsning) · 2024-03-07 · geopolitik, tempo · myndighet · [IND-01](../påståenden/2024/IND-01.yaml)
+  > the cabinet approved the India AI mission with a budget outlay of Rs 10,372 crore for five years … the supercomputing capacity, comprising over 10,000 GPUs, will be made available to various stakeholders
+  > — [Cabinet approves India AI mission at an outlay of Rs 10,372 crore](https://indiaai.gov.in/news/cabinet-approves-india-ai-mission-at-an-outlay-of-rs-10-372-crore#:~:text=the%20cabinet%20approved%20the,available%20to%20various%20stakeholders)
+
+  *Förbehåll:* Omräkningen till dollar är ungefärlig och gjord av Belagt. Satsningen ska ge nystartade företag, forskare och industri tillgång till beräkningskraft. Det är en industripolitisk satsning, inte en reglering.
+- **Afrikanska unionens verkställande råd ställde sig i juli 2024 bakom en gemensam AI-strategi för den afrikanska kontinenten, med inriktning på utveckling och på etisk och ansvarsfull användning.**
+  Afrikanska unionen · 2024-07-18 · styrning, geopolitik · myndighet · [AFR-01](../påståenden/2024/AFR-01.yaml)
+  > the African Union Executive Council endorsed the Continental AI Strategy during its 45th Ordinary Session in Accra, Ghana, on July 18-19, 2024. This strategy underscores Africa’s commitment to an Africa-centric, development-focused approach to AI, promoting ethical, responsible, and equitable practices.
+  > — [Continental Artificial Intelligence Strategy](https://au.int/en/documents/20240809/continental-artificial-intelligence-strategy#:~:text=the%20African%20Union%20Executive,responsible%2C%20and%20equitable%20practices)
+
+  *Förbehåll:* Strategin är inte bindande för medlemsländerna. Den ska genomföras 2025–2030.
+- **Brasiliens senat antog den 10 december 2024 ett lagförslag om reglering av AI, som därefter skickades till deputeradekammaren.**
+  Brasiliens senat (Agência Senado) · 2024-12-10 · styrning, geopolitik · myndighet · [BRA-01](../påståenden/2024/BRA-01.yaml)
+  > O Senado aprovou nesta terça-feira (10) o projeto que regulamenta a inteligência artificial (IA) no Brasil. A matéria segue agora para a análise da Câmara dos Deputados.
+  >
+  > *Översatt från portugisiska av Claude (AI), inte granskad av någon som läser portugisiska:* Senaten antog i tisdags (den 10:e) lagförslaget som reglerar artificiell intelligens (AI) i Brasilien. Ärendet går nu vidare till deputeradekammaren för behandling.
+  > — [Senado aprova regulamentação da inteligência artificial; texto vai à Câmara](https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara#:~:text=O%20Senado%20aprovou%20nesta,da%20C%C3%A2mara%20dos%20Deputados)
+
+  *Förbehåll:* Förslaget bygger på PL 2338/2023. Det är inte lag förrän deputeradekammaren har antagit det och presidenten har skrivit under. Kontrollera var ärendet står.
 
 ## 2023
 

@@ -1,0 +1,30 @@
+id: KOR-02
+påstående: Sydkoreas krav på säkerhetsåtgärder gäller AI-modeller som tränats med minst 10^26 flyttalsoperationer,
+  använder den mest avancerade tekniken och riskerar att få stora och allvarliga följder för människors grundläggande
+  rättigheter.
+typ: händelse
+vem: Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter
+datum: '2026-01-22'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://www.korea.kr/news/policyNewsView.do?newsId=148958380
+  titel: '''인공지능기본법'' 22일 시행…생성형 AI 결과물 ''워터마크'' 표시 의무'
+  typ: myndighet
+  citat: 학습에 사용된 누적연산량이 10의 26승 부동소수점 연산(FLOPs)이상이고 ▲최첨단 기술을 적용하며 ▲위험도가 사람의 기본권에 광범위하고 중대한 영향을 미칠 우려가 있는 경우
+  språk: ko
+  översättning: den sammanlagda beräkningsmängd som använts för träningen är minst 10 upphöjt till 26 flyttalsoperationer
+    (FLOPs), den mest avancerade tekniken används och risken är att det får omfattande och allvarliga följder
+    för människors grundläggande rättigheter
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Alla villkoren måste vara uppfyllda. Gränsen är tio gånger högre än EU:s gräns för modeller med
+  systemrisk, 10^25 (se SVE-17). Enligt källan är syftet att förebygga stora skador i ett läge där mycket avancerad
+  AI inte går att kontrollera.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

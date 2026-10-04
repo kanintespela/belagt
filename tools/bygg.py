@@ -59,7 +59,7 @@ KÄLLTYPER = {
 # Källor på andra språk än engelska och svenska: citatet står på originalspråket och
 # översättningen bredvid, med vem som översatt och om en människa har granskat den.
 ÖVERSÄTTNINGSFÄLT = ["språk", "översättning", "översatt_av", "granskad_av"]
-SPRÅKNAMN = {"zh": "kinesiska", "ja": "japanska", "ko": "koreanska", "ru": "ryska", "fr": "franska",
+SPRÅKNAMN = {"zh": "kinesiska", "ja": "japanska", "ko": "koreanska", "ru": "ryska", "fr": "franska", "pt": "portugisiska",
              "de": "tyska", "es": "spanska", "ar": "arabiska", "no": "norska", "da": "danska"}
 CJK_RE = re.compile(r"[\u3040-\u30ff\u3400-\u9fff\uac00-\ud7af]")
 MAX_CITAT_TECKEN = 120
@@ -302,7 +302,7 @@ def statistik(poster):
     språk = Counter(SPRÅKNAMN.get(p["källa"].get("språk"), "engelska eller svenska") for p in poster)
     ogranskade = sum(1 for p in poster if p["källa"].get("språk") and not p["källa"].get("granskad_av"))
     utan_arkiv = sum(1 for p in poster if not p["källa"]["arkiv"])
-    återgivet = [p["id"] for p in poster if re.search(r"återgiv|enligt ", p["vem"])]
+    återgivet = [p["id"] for p in aktuella if re.search(r"återgiv|enligt ", p["vem"])]
     ut = [HUVUD, "# Statistik\n\n",
           "Varje påstående i arkivet är kontrollerat mot sin källa. Men arkivet kan ändå ge en skev bild om "
           "*urvalet* är skevt, till exempel om en enda rapport eller ett enda företag står för en stor del av "
@@ -311,8 +311,9 @@ def statistik(poster):
           f"- **{len(källor)}** olika källor och **{len(domäner)}** olika webbplatser\n",
           f"- **{utan_arkiv}** poster saknar ännu arkivkopia\n",
           f"- **{ogranskade}** översättningar är inte granskade av någon som läser språket\n",
-          f"- **{len(återgivet)}** poster bygger på att någon annan återger primärkällan: "
-          f"{', '.join(återgivet) or '–'}\n"]
+          f"- **{len(återgivet)}** aktuella poster bygger på att någon annan återger primärkällan: "
+          f"{', '.join(återgivet) or '–'}. Intervjuer i medier räknas med här, men duger enligt "
+          "[metoden](METOD.md) när tidningen själv har gjort intervjun.\n"]
     ut.append(tabell("Tema", Counter(t for p in poster for t in p["tema"]),
                      "Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.", list(TEMAN)))
     ut.append(tabell("Typ av påstående", Counter(p["typ"] for p in poster)))

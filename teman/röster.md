@@ -4,7 +4,7 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-84 påståenden, de viktigaste först inom varje år.
+88 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -15,6 +15,7 @@ Vad forskare, insiders, politiker och andra bedömare säger.
 
   *Förbehåll:* Pedagogiskt användbart för att förklara varför kritiker av AI ibland är oense med varandra. Det första lägret betonar bias, påhittade svar och liknande. Häggström räknar sig själv till det andra lägret. Publiceringsdatumet står inte i den hämtade texten.
 - **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
+  *Ersatt av FOR-25.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-02](../påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20forecasting%20experts%20gave,forecasters%29%20estimated%20only%208%25)
@@ -49,7 +50,7 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > Bara en av fyra svenskar känner hopp inför AI:s betydelse för mänsklighetens framtid.
   > — [Svenskar tror att AI kommer att förvärra nästan allt](https://itbranschen.com/sv/svenskar-vill-se-hardare-ai-reglering/#:~:text=Bara%20en%20av%20fyra,betydelse%20f%C3%B6r%20m%C3%A4nsklighetens%20framtid)
 
-  *Förbehåll:* Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler ser möjligheter än risker.
+  *Förbehåll:* Kvinnor och låginkomsttagare är mer pessimistiska. Sjukvården är ett av få områden där fler ser möjligheter än risker. Futurions egen rapport (https://futurion.se/wp-content/uploads/2026/06/futurion-x-seismic-rapport-ai-2026-2-juni.pdf) har siffrorna bara som bilder, så citatet kan inte kontrolleras maskinellt mot originalet. Fältarbetet gjordes 12–20 mars 2026.
 - **Pontus Johnson, professor vid KTH och vice föreståndare vid Cybercampus Sverige, bedömer sannolikheten att AI-utvecklingen går åt skogen till 20 procent.**
   Pontus Johnson (professor, KTH; vice föreståndare, Cybercampus Sverige), i GP · 2026-08-10 · röster · media · [SVR-04](../påståenden/2026/SVR-04.yaml)
   > Jag tror att det är 20 procent att det går åt skogen.
@@ -189,12 +190,14 @@ Vad forskare, insiders, politiker och andra bedömare säger.
 
   *Förbehåll:* Stigsson menar att det vore fel att hämma tekniken, eftersom den kan förändra maktförhållandena på planeten till det bättre. En svensk motröst.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
+  *Ersatt av FOR-24.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · rapport · [FOR-01](../påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=experts%20forecast%20a%2050%25,on%20undergraduate%2Dlevel%20FrontierMath%20problems)
 
   *Förbehåll:* FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.
 - **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
+  *Ersatt av FOR-26.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-03](../påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects)
@@ -225,7 +228,7 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > *Översatt från norska av Claude (AI), inte granskad av någon som läser norska:* Diskussionen om den oacceptabla risk som företag som OpenAI och Anthropic tar med allas vår framtid i kapplöpningen mot superintelligent AI har kommit en bit på väg i USA.
   > — [Skandinavien sover](http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html#:~:text=Diskusjonen%20om%20den%20uakseptable,p%C3%A5%20vei%20i%20USA)
 
-  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen.
+  *Förbehåll:* Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att Skandinavien ska bidra till att mobilisera den globala opinionen. Originalet i Dagens Næringsliv ligger bakom betalvägg, så posten bygger på Häggströms egen återgivning.
 - **Enfrågepartiet RegleraAI.nu ställde upp i riksdagsvalet 2026 med kravet att Sverige genast ska verka för en global paus i hänsynslös AI-utveckling. Partiet grundades av AI-säkerhetsingenjören Axel Wennström, och Olle Häggström stod som nummer två på riksdagslistan.**
   Olle Häggström (blogginlägget ”Häggström hävdar”) · 2026-08 · styrning, röster · opinion · [SVE-06](../påståenden/2026/SVE-06.yaml)
   > Sverige måste genast verka för en global paus på hänsynslös AI-utveckling.
@@ -334,7 +337,7 @@ Vad forskare, insiders, politiker och andra bedömare säger.
 
   *Förbehåll:* Amodei är vd för ett AI-företag och därmed part. Han säger att han varnar för att få regering och företag att förbereda sig. Prognosen går att följa upp till 2030. Jämför [SAM-01](https://kanintespela.github.io/belagt/#SAM-01) och [ISR-22](https://kanintespela.github.io/belagt/#ISR-22), där inga effekter på den totala sysselsättningen syns ännu.
 - **Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den än förändras, måste förbli under mänsklig kontroll.**
-  Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](../påståenden/2025/KIN-30.yaml)
+  Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · röster, kontroll · myndighet · [KIN-30](../påståenden/2025/KIN-30.yaml)
   > 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Samtidigt har de risker och utmaningar som AI för med sig väckt bred uppmärksamhet, och det behövs snarast bredare samsyn om hur man ska balansera utveckling och säkerhet. Hur tekniken än förändras ska den användas av människor och kontrolleras av människor
@@ -393,6 +396,32 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Remissvar över SOU 2025:12 AI-kommissionens Färdplan för Sverige](https://folketsai.se/remissvar/#:~:text=g%C3%B6r%20att%20AI%2Dkommissionen%20f%C3%B6rvandlar,till%20en%20teknisk%2Dekonomisk%20optimeringsfr%C3%A5ga)
 
   *Förbehåll:* En svensk röst som fokuserar på demokrati och makt här och nu snarare än på frontierrisker. Visar dessutom att medborgare kan lämna remissvar (jämför IDEAS.md). Kan vara en möjlig samarbetspart för folkbildningen.
+- **I en liten pilotstudie från METR och Forecasting Research Institute gav experter på AI-prognoser en median på 20 procents sannolikhet för att uppskalningen av effektiv beräkningskraft trefaldigas i takt till 2029. Superprognosmakare bedömde sannolikheten till 8 procent.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-25](../påståenden/2025/FOR-25.yaml)
+  > Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by 2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=Experts%20and%20superforecasters%20both,chance%20and%20superforecasters%208%25)
+
+  *Förbehåll:* Ersätter [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.
+- **I samma pilotstudie höjdes bedömningarna till en median på 20,5 procent för experterna och 18 procent för superprognosmakarna, om AI-system skulle visa sig bättre än mänskliga forskare på öppna forskningsprojekt som tar en månad.**
+  METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-26](../påståenden/2025/FOR-26.yaml)
+  > experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems doing better than human researchers at open-ended month-long research projects.
+  > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=experts%20and%20superforecasters%20converge,open%2Dended%20month%2Dlong%20research%20projects)
+
+  *Förbehåll:* Ersätter [FOR-03](https://kanintespela.github.io/belagt/#FOR-03), som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03).
+- **Japans regering skriver att landets egen AI-utveckling och AI-användning ligger efter, och att många invånare oroar sig för de risker som AI medför.**
+  Japans regeringskansli (Cabinet Office) · 2025-10-03 · samhälle, geopolitik, röster · myndighet · [JPN-02](../påståenden/2025/JPN-02.yaml)
+  > 国内のＡＩ開発・活用は遅れており、また、多くの国民がＡＩにより発生するリスクに不安を抱えている状況です。
+  >
+  > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga för de risker som AI medför.
+  > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E5%9B%BD%E5%86%85%E3%81%AE%EF%BC%A1%EF%BC%A9%E9%96%8B%E7%99%BA%E3%83%BB%E6%B4%BB%E7%94%A8%E3%81%AF%E9%81%85,%E5%AE%89%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%99%E3%80%82)
+
+  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://kanintespela.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
+- **I Forecasting Research Institutes expertpanel LEAP förutsåg experterna (medianen) att den bästa AI-modellen löser 31 procent av problemen på matematiktestet FrontierMath i slutet av 2025, 55 procent i slutet av 2027 och 75 procent i slutet av 2030.**
+  Forecasting Research Institute, expertpanelen LEAP (330 experter) · 2025-11-10 · förmågor, röster · rapport · [FOR-24](../påståenden/2025/FOR-24.yaml)
+  > Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55% by the end of 2027 … and 75% by the end of 2030
+  > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030)
+
+  *Förbehåll:* Ersätter [FOR-01](https://kanintespela.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://kanintespela.github.io/belagt/#FOR-27).
 - **Xue Lan vid Tsinghua-universitetet efterlyser dialog mellan länder, särskilt mellan Kina och USA, eftersom de ledande AI-företagen inte talar med varandra om risker.**
   Xue Lan (薛澜), Tsinghua-universitetet, intervjuad i Liaowang (Xinhuas nyhetsmagasin) · 2025-11-12 · röster, geopolitik · media · [KIN-21](../påståenden/2025/KIN-21.yaml)
   > 当前最前沿的AI公司之间仍缺乏有效交流。应加强双边尤其是中美对话机制

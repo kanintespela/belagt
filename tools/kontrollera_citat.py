@@ -33,6 +33,7 @@ REPO = "https://github.com/kanintespela/belagt/blob/main/"
 UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-citatkontroll; +https://github.com/kanintespela/belagt)"}
 CJK_RE = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
 UTELÄMNANDE_RE = re.compile(r"\s*(?:\[…\]|\[\.\.\.\]|…|\.\.\.)\s*")
+ARXIV_RE = re.compile(r"^https?://arxiv\.org/abs/([\w.\-/]+?)(?:v\d+)?/?$")
 WAYBACK_RE = re.compile(r"^(https://web\.archive\.org/web/\d+)(/)")
 
 TECKEN = str.maketrans({
@@ -92,13 +93,16 @@ def normalisera(s, cjk=False):
     return re.sub(r" ([,.;:!?)\]'\"])", r"\1", s).strip()
 
 
-def finns(citat, text):
-    """True om citatet (med eventuella utelämnanden) står i texten, i rätt ordning."""
-    cjk = bool(CJK_RE.search(citat))
-    text = normalisera(text, cjk)
+def bara_tecken(s):
+    """Bara bokstäver och siffror. PDF-utdrag tappar eller förvanskar ofta skiljetecken och
+    mellanslag ("e.g." blir "e�g�", "such" blir "s uch"), och det ska inte fälla ett citat."""
+    s = re.sub(r"(\w)-\s+(\w)", r"\1\2", s)
+    return "".join(c for c in s if c.isalnum())
+
+
+def i_ordning(delar, text):
     pos = 0
-    for del_ in UTELÄMNANDE_RE.split(citat):
-        del_ = normalisera(del_, cjk).strip(" .,;:")
+    for del_ in delar:
         if not del_:
             continue
         i = text.find(del_, pos)
@@ -108,9 +112,28 @@ def finns(citat, text):
     return True
 
 
+def finns(citat, text):
+    """True om citatet (med eventuella utelämnanden) står i texten, i rätt ordning.
+
+    Först jämförs texten med skiljetecken och mellanslag kvar. Går det inte, jämförs bara
+    bokstäver och siffror, vilket klarar trasiga PDF-utdrag men fortfarande kräver varje ord."""
+    cjk = bool(CJK_RE.search(citat))
+    delar = UTELÄMNANDE_RE.split(citat)
+    strikt = normalisera(text, cjk)
+    if i_ordning([normalisera(d, cjk).strip(" .,;:") for d in delar], strikt):
+        return True
+    return i_ordning([bara_tecken(normalisera(d, cjk)) for d in delar], bara_tecken(strikt))
+
+
 def rå_arkivlänk(arkiv):
     """Wayback Machine visar sidan med en egen meny runt. Med id_ efter tidsstämpeln fås originalet."""
     return WAYBACK_RE.sub(r"\1id_\2", arkiv) if arkiv else arkiv
+
+
+class TomtSvar(Exception):
+    """Sidan svarade, men nästan utan text: en spärr mot automatiska hämtningar eller en sida
+    som byggs med JavaScript. Det räknas som att sidan inte gick att hämta, inte som att
+    citatet saknas."""
 
 
 def hämta(url, timeout=60):
@@ -118,9 +141,13 @@ def hämta(url, timeout=60):
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data, typ = r.read(), r.headers.get("Content-Type", "")
     if "pdf" in typ or data[:5] == b"%PDF-":
-        return pdf_text(data)
-    tecken = re.search(r"charset=([\w-]+)", typ)
-    return html_text(data.decode(tecken[1] if tecken else "utf-8", "replace"))
+        text = pdf_text(data)
+    else:
+        tecken = re.search(r"charset=([\w-]+)", typ)
+        text = html_text(data.decode(tecken[1] if tecken else "utf-8", "replace"))
+    if len(text.split()) < 30 and not CJK_RE.search(text):
+        raise TomtSvar()
+    return text
 
 
 def ladda(ids):
@@ -143,13 +170,20 @@ def kontrollera(poster, paus=2):
         for försök, kandidat in (("arkivkopian", rå_arkivlänk(arkiv)), ("källan", url)):
             if not kandidat:
                 continue
-            try:
-                text, varifrån = hämta(kandidat), försök
+            for omgång in range(2):  # ett nytt försök vid tillfälliga fel, inte vid 403 eller 404
+                try:
+                    text, varifrån = hämta(kandidat), försök
+                    break
+                except urllib.error.HTTPError as e:
+                    if e.code < 500 or omgång:
+                        fel.append((försök, e.code))
+                        break
+                except Exception as e:  # nätverksfel, tidsgräns, trasig PDF
+                    if omgång:
+                        fel.append((försök, type(e).__name__))
+                time.sleep(paus * 5)
+            if text is not None:
                 break
-            except urllib.error.HTTPError as e:
-                fel.append((försök, e.code))
-            except Exception as e:  # nätverksfel, tidsgräns, trasig PDF
-                fel.append((försök, type(e).__name__))
             time.sleep(paus)
         död = [kod for försök, kod in fel if försök == "källan" and kod in (404, 410)]
         if död:
@@ -160,9 +194,25 @@ def kontrollera(poster, paus=2):
                 for p in grupp:
                     utfall["ohämtbar"].append((p, ", ".join(f"{f}: {k}" for f, k in fel)))
             continue
-        for p in grupp:
-            if not finns(p["källa"]["citat"], text):
-                utfall["saknas"].append((p, f"söktes i {varifrån}"))
+        saknas = [p for p in grupp if not finns(p["källa"]["citat"], text)]
+        # arXiv-sidan har bara sammanfattningen. Resten av artikeln finns i PDF-filen.
+        if saknas and (m := ARXIV_RE.match(url)):
+            try:
+                text += "\n" + hämta(f"https://arxiv.org/pdf/{m[1]}")
+                saknas = [p for p in saknas if not finns(p["källa"]["citat"], text)]
+            except Exception:
+                pass
+        # Ibland svarar en sajt tillfälligt med något annat än sidan. Hämta en gång till innan
+        # citatet rapporteras som saknat.
+        if saknas:
+            time.sleep(paus * 5)
+            try:
+                text = hämta(rå_arkivlänk(arkiv) if varifrån == "arkivkopian" else url)
+                saknas = [p for p in saknas if not finns(p["källa"]["citat"], text)]
+            except Exception:
+                pass
+        for p in saknas:
+            utfall["saknas"].append((p, f"söktes i {varifrån}"))
         time.sleep(paus)
     return utfall
 

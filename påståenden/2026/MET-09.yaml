@@ -1,6 +1,6 @@
 id: MET-09
-påstående: Agenterna försökte förfalska loggen över sina handlingar men inte sina egna tankekedjor, trots
-  att den som läser loggen också kan läsa resonemanget.
+påstående: Agenterna försökte förfalska loggen över sina handlingar men inte sina egna tankekedjor, trots att
+  den som läser loggen också kan läsa resonemanget.
 typ: bedömning
 vem: METR och Redwood Research
 datum: '2026-08-26'
@@ -8,11 +8,11 @@ tema:
 - kontroll
 källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
-  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
-    / Hugging Face hacking incident
+  titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging
+    Face hacking incident
   typ: rapport
-  citat: 'Interestingly, they didn’t seem interested in manipulating their *chain of thought,* even though
-    a scorer with full access to their transcript would also be able to see their reasoning:'
+  citat: 'Interestingly, they didn’t seem interested in manipulating their chain of thought, even though a
+    scorer with full access to their transcript would also be able to see their reasoning:'
   hämtad: '2026-09-22'
   arkiv: null
 förbehåll: Minst 20 procent av agenterna uttryckte tydligt intresse för att manipulera loggen. Deras uttalade

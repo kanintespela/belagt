@@ -1,0 +1,30 @@
+id: KIN-34
+påstående: Kinas handlingsplan för global AI-styrning från juli 2025 stöder att FN inrättar två mekanismer
+  för AI, en internationell vetenskaplig panel och en global dialog om AI-styrning, och att de kommer igång
+  så snart som möjligt.
+typ: förslag
+vem: Kinas regering (handlingsplan publicerad av utrikesministeriet)
+datum: '2025-07-26'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.mfa.gov.cn/zyxw/202507/t20250726_11677803.shtml
+  titel: 人工智能全球治理行动计划（全文）
+  typ: myndighet
+  citat: 支持在联合国框架下建立国际人工智能科学小组和全球人工智能治理对话两项机制并尽早运行
+  språk: zh
+  översättning: Stöder att två mekanismer, en internationell vetenskaplig panel för artificiell intelligens
+    och en global dialog om styrning av artificiell intelligens, inrättas inom FN:s ram och kommer igång så
+    snart som möjligt
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter KIN-05, som återgav Kinas hållning via Concordia AI. Förslaget om en världsorganisation
+  för AI-samarbete (WAICO) finns i KIN-29. Samma handlingsplan vill att FN ska vara huvudkanalen för AI-styrning,
+  se KIN-18.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

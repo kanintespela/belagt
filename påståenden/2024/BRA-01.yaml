@@ -1,0 +1,28 @@
+id: BRA-01
+påstående: Brasiliens senat antog den 10 december 2024 ett lagförslag om reglering av AI, som därefter skickades
+  till deputeradekammaren.
+typ: händelse
+vem: Brasiliens senat (Agência Senado)
+datum: '2024-12-10'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara
+  titel: Senado aprova regulamentação da inteligência artificial; texto vai à Câmara
+  typ: myndighet
+  citat: O Senado aprovou nesta terça-feira (10) o projeto que regulamenta a inteligência artificial (IA) no
+    Brasil. A matéria segue agora para a análise da Câmara dos Deputados.
+  språk: pt
+  översättning: Senaten antog i tisdags (den 10:e) lagförslaget som reglerar artificiell intelligens (AI) i
+    Brasilien. Ärendet går nu vidare till deputeradekammaren för behandling.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Förslaget bygger på PL 2338/2023. Det är inte lag förrän deputeradekammaren har antagit det och
+  presidenten har skrivit under. Kontrollera var ärendet står.
+vikt: 2
+bäst_före: '2027-01-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null

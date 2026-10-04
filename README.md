@@ -76,7 +76,7 @@ inte bara beror på vad någon råkar läsa.
 Har du hittat ett fel, en död länk eller ett påstående som saknas? Öppna ett
 [ärende](https://github.com/kanintespela/belagt/issues/new/choose).
 
-**Läser du kinesiska eller norska?** Citat på andra språk står i original med en översättning bredvid.
+**Läser du kinesiska, japanska, koreanska, portugisiska, norska eller danska?** Citat på andra språk står i original med en översättning bredvid.
 Översättningarna är gjorda av AI och märkta *inte granskade* tills någon som läser språket har
 kontrollerat dem. [Här är de ogranskade](https://kanintespela.github.io/belagt/?q=ogranskad).
 Använd mallen [Granska en översättning](https://github.com/kanintespela/belagt/issues/new?template=oversattning.yml),

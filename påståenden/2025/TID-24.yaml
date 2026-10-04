@@ -1,0 +1,23 @@
+id: TID-24
+påstående: Åtta av AI-förordningens nio förbud mot vissa AI-metoder har gällt sedan februari 2025. Det nionde,
+  som lades till genom ändringsförordningen AI Omnibus, börjar gälla i december 2026.
+typ: händelse
+vem: EU-kommissionen
+datum: 2025-02
+tema:
+- styrning
+källa:
+  url: https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai
+  titel: AI Act | Shaping Europe’s digital future
+  typ: myndighet
+  citat: Prohibitions 1-8 became effective in February 2025. … Prohibition 9 comes into effect in December
+    2026 and was introduced as a part of the AI Omnibus.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter TID-12, som byggde på Future of Life Institutes sammanfattning. Enligt samma sida gäller
+  förbuden från den 2 februari 2025. Det nionde förbudet gäller AI-system som skapar sexuella bilder utan samtycke
+  och övergreppsmaterial mot barn.
+vikt: 2
+bäst_före: '2027-01-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null

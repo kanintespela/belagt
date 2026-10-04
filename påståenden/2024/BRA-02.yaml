@@ -1,0 +1,27 @@
+id: BRA-02
+påstående: I den version av Brasiliens AI-lagförslag som senaten antog räknas sociala mediers algoritmer inte
+  som AI-system med hög risk.
+typ: händelse
+vem: Brasiliens senat (Agência Senado)
+datum: '2024-12-10'
+tema:
+- styrning
+källa:
+  url: https://www12.senado.leg.br/noticias/materias/2024/12/10/senado-aprova-regulamentacao-da-inteligencia-artificial-texto-vai-a-camara
+  titel: Senado aprova regulamentação da inteligência artificial; texto vai à Câmara
+  typ: myndighet
+  citat: A versão aprovada nesta terça-feira manteve fora da lista de sistemas considerados de alto risco os
+    algoritmos das redes sociais
+  språk: pt
+  översättning: Versionen som antogs i tisdags höll sociala mediers algoritmer utanför listan över system som
+    räknas som högrisk
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Enligt källan var det oppositionen som drev igenom undantaget, medan några av regeringens senatorer
+  beklagade det.
+vikt: 1
+bäst_före: '2027-01-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null
