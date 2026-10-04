@@ -17,31 +17,31 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 - **Rapporten konstaterar att AI-system missbrukas för att ta fram innehåll till bedrägerier, utpressning och sexuella bilder utan samtycke. Skadorna är väldokumenterade, men systematiska data om hur vanliga och allvarliga de är saknas.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · rapport · [ISR-08](../påståenden/2026/ISR-08.yaml)
   > AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20systems%20are%20being,and%20nonconsensual%20intimate%20imagery)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20systems%20are%20being,and%20nonconsensual%20intimate%20imagery) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [SVE-16](https://kanintespela.github.io/belagt/#SVE-16) om AI-klonade röster i bedrägerier i Sverige.
 - **Enligt rapporten använder kriminella grupper och statskopplade angripare aktivt generell AI i sina operationer. Det är fortfarande osäkert om angripare eller försvarare har mest nytta av AI.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · rapport · [ISR-11](../påståenden/2026/ISR-11.yaml)
   > Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Criminal%20groups%20and%20state%2Dassociated,AI%20in%20their%20operations)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Criminal%20groups%20and%20state%2Dassociated,AI%20in%20their%20operations) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget ([BAL-17](https://kanintespela.github.io/belagt/#BAL-17)).
 - **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · rapport · [ISR-12](../påståenden/2026/ISR-12.yaml)
   > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%202025%2C%20multiple%20developers,in%20developing%20such%20weapons)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%202025%2C%20multiple%20developers,in%20developing%20such%20weapons) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
 - **Bedragare använder AI-klonade röster och deepfakes för att lura offer att föra över pengar. Dokumenterade fall omfattar både chefer som fört över miljoner och vanliga människor som skickat mindre summor till någon som utgav sig för att vara en anhörig.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · rapport · [SAM-09](../påståenden/2026/SAM-09.yaml)
   > Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Documented%20incidents%20include%20executives,as%20a%20loved%20one)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Documented%20incidents%20include%20executives,as%20a%20loved%20one) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [SVE-16](https://kanintespela.github.io/belagt/#SVE-16) om AI-klonade röster i Sverige.
 - **En studie uppskattade att 96 procent av alla deepfake-videor är pornografiska, och 15 procent av vuxna i Storbritannien uppger att de har sett pornografiska deepfake-bilder.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, samhälle · rapport · [SAM-10](../påståenden/2026/SAM-10.yaml)
   > One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20study%20estimated%20that,seen%20deepfake%20pornographic%20images)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20study%20estimated%20that,seen%20deepfake%20pornographic%20images) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför [TID-12](https://kanintespela.github.io/belagt/#TID-12) om EU:s förbud och [KIN-02](https://kanintespela.github.io/belagt/#KIN-02) om Kinas regler.
 - **Myndigheten för psykologiskt försvar (MPF) bedömer att AI kraftigt har sänkt tröskeln för att påverka opinionen. Enskilda personer kan snabbt ta fram stora mängder trovärdigt material, och generativ AI har använts för att påverka val i Europa.**
@@ -102,31 +102,31 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 - **I experiment kan AI-genererat innehåll vara lika effektivt som text skriven av människor på att ändra människors uppfattningar. Enligt rapporten är verklig användning av AI för manipulation dokumenterad men ännu inte utbredd.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · rapport · [ISR-09](../påståenden/2026/ISR-09.yaml)
   > In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%20experimental%20settings%2C%20AI%2Dgenerated,at%20changing%20people%E2%80%99s%20beliefs)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%20experimental%20settings%2C%20AI%2Dgenerated,at%20changing%20people%E2%80%99s%20beliefs) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför [SVE-14](https://kanintespela.github.io/belagt/#SVE-14) om MPF:s bedömning.
 - **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · rapport · [ISR-10](../påståenden/2026/ISR-10.yaml)
   > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20AI%20system%20autonomously,as%20other%2C%20unintentional%20vulnerabilities)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20AI%20system%20autonomously,as%20other%2C%20unintentional%20vulnerabilities) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.
 - **I en nyligen publicerad studie gav AI-system utan relevanta skydd betydande hjälp med uppgifter som motsvarar stegen för att skaffa biologiska vapen, jämfört med att bara ha tillgång till internet.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk · rapport · [ISR-13](../påståenden/2026/ISR-13.yaml)
   > In a recently published real-world uplift study, general-purpose AI systems without relevant safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline of internet access only
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%20a%20recently%20published,of%20internet%20access%20only)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=In%20a%20recently%20published,of%20internet%20access%20only) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.
 - **Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, missbruk · rapport · [ISR-30](../påståenden/2026/ISR-30.yaml)
   > users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=users%20can%20still%20sometimes,them%20into%20smaller%20steps)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=users%20can%20still%20sometimes,them%20into%20smaller%20steps) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.
 - **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · rapport · [ISR-31](../påståenden/2026/ISR-31.yaml)
   > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20they%20cannot%20be,outside%20of%20monitored%20environments)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20they%20cannot%20be,outside%20of%20monitored%20environments) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.
 - **Enligt MPF var de svenska valen 2026 inte ett prioriterat mål för rysk påverkan. Omfattningen av påverkan riktad mot Sverige var betydligt lägre än 2022 och 2023.**
@@ -180,7 +180,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   *Ersatt av KIN-33.*
   Kinas myndigheter, återgivet av Concordia AI · 2025 · styrning, missbruk · rapport · [KIN-04](../påståenden/2025/KIN-04.yaml)
   > the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting strict rules around labeling AI-generated content.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kina har här gått längre än EU. Samtidigt är märkningskrav ett verktyg som också tjänar informationskontroll.
 - **Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens metadata.**
@@ -188,7 +188,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
   > 人工智能生成合成内容标识包括显式标识和隐式标识。
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.
-  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E5%90%88%E6%88%90%E5%86%85%E5%AE%B9%E6%A0%87%E8%AF%86%E5%8C%85%E6%8B%AC%E6%98%BE%E5%BC%8F%E6%A0%87%E8%AF%86%E5%92%8C%E9%9A%90%E5%BC%8F%E6%A0%87%E8%AF%86%E3%80%82)
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm#:~:text=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%94%9F%E6%88%90%E5%90%88%E6%88%90%E5%86%85%E5%AE%B9%E6%A0%87%E8%AF%86%E5%8C%85%E6%8B%AC%E6%98%BE%E5%BC%8F%E6%A0%87%E8%AF%86%E5%92%8C%E9%9A%90%E5%BC%8F%E6%A0%87%E8%AF%86%E3%80%82) · [arkivkopia](https://web.archive.org/web/20260928125716/https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 
   *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
 - **Kinas regler om märkning av AI-genererat innehåll gäller sedan den 1 september 2025 och kräver att märkningen också följer tvingande nationella standarder.**
@@ -213,7 +213,7 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 - **Mer än hälften av AI-forskarna ansåg att det finns skäl till betydande eller extrem oro för sex olika scenarier, bland dem spridning av falsk information, auktoritär kontroll av befolkningen och ökad ojämlikhet.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · missbruk, samhälle, röster · preprint · [FOR-16](../påståenden/2024/FOR-16.yaml)
   > More than half suggested that “substantial” or “extreme” concern is warranted about six different AI-related scenarios, including spread of false information, authoritarian population control, and worsened inequality.
-  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843#:~:text=More%20than%20half%20suggested,control%2C%20and%20worsened%20inequality)
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843#:~:text=More%20than%20half%20suggested,control%2C%20and%20worsened%20inequality) · [arkivkopia](https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Visar att forskarnas oro inte bara gäller utrotning utan också skador här och nu.
 
@@ -222,6 +222,6 @@ Hur AI används för att skada: cyberangrepp, påverkan och biologiska risker.
 - **Polisen varnade redan i maj 2023 för att bedragare i Sverige använt AI-klonade röster, till exempel för att utge sig för att vara en vd och begära en utlandsbetalning.**
   Polisens bedrägericentrum (Jan Olsson), i TV4 · 2023-05-13 · missbruk · media · [SVE-16](../påståenden/2023/SVE-16.yaml)
   > I Sverige har polisen upptäckt flera fall där bedragare använder AI-klonade röster för att begå brott.
-  > — [Polisen varnar för AI-klonade röster hos bedragare](https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige#:~:text=I%20Sverige%20har%20polisen,f%C3%B6r%20att%20beg%C3%A5%20brott)
+  > — [Polisen varnar för AI-klonade röster hos bedragare](https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige#:~:text=I%20Sverige%20har%20polisen,f%C3%B6r%20att%20beg%C3%A5%20brott) · [arkivkopia](https://web.archive.org/web/20261001120550/https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige)
 
   *Förbehåll:* Uppgiften är gammal (2023), så sök nyare statistik från Polisen eller Brå. Källkritiskt exempel: SVT skrev den 31 mars 2023 att polisen inte sett några sådana ärenden i Sverige, och sex veckor senare säger polisen i TV4 att flera fall upptäckts. Datum spelar roll. Polisens råd: lägg på och ring tillbaka själv.

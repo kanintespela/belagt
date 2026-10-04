@@ -40,7 +40,7 @@
     "typ": "granskad",
     "citat": "We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261003205457/https://arxiv.org/abs/1706.03762"
    },
    "förbehåll": "Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden för dagens modeller står inte i citatet, men det är allmänt känt.",
    "vikt": 2,
@@ -65,7 +65,7 @@
     "typ": "granskad",
     "citat": "darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The maximum error rate for lighter-skinned males is 0.8%.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927084551/http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf"
    },
    "förbehåll": "Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller 2018.",
    "vikt": 3,
@@ -90,7 +90,7 @@
     "typ": "myndighet",
     "citat": "En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs innehåller felaktigheter, utan att vara rättssäker.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260514044615/https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling"
    },
    "förbehåll": "Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.",
    "vikt": 3,
@@ -115,7 +115,7 @@
     "typ": "partsuppgift",
     "citat": "We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260921043552/https://openai.com/index/better-language-models/"
    },
    "förbehåll": "Tidslinjekort. OpenAI släppte först inte hela modellen, med hänvisning till risk för missbruk.",
    "vikt": 2,
@@ -141,7 +141,7 @@
     "typ": "partsuppgift",
     "citat": "we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260929162501/https://arxiv.org/abs/2005.14165"
    },
    "förbehåll": "GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT (TID-05) byggde på en vidareutveckling.",
    "vikt": 2,
@@ -166,7 +166,7 @@
     "typ": "partsuppgift",
     "citat": "We’ve trained a model called ChatGPT which interacts in a conversational way.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922132133/https://openai.com/index/chatgpt/"
    },
    "förbehåll": "Tidslinjekort. Datumet kommer från sidans metadata.",
    "vikt": 2,
@@ -244,7 +244,7 @@
     "typ": "opinion",
     "citat": "Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004190953/https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin"
    },
    "förbehåll": "Skriven våren 2023, strax efter uppropet om en paus (TID-07). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan (BIA-02).",
    "vikt": 2,
@@ -269,7 +269,7 @@
     "typ": "partsuppgift",
     "citat": "We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial and scientific revolutions, but we aren’t confident it will go well.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260924001322/https://www.anthropic.com/news/core-views-on-ai-safety"
    },
    "förbehåll": "Texten Core Views on AI Safety publicerades i mars 2023. Den visar att oron fanns hos AI-företagen redan före ChatGPT-vågen, och inte bara hos utomstående kritiker.",
    "vikt": 2,
@@ -295,7 +295,7 @@
     "typ": "partsuppgift",
     "citat": "So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260924001322/https://www.anthropic.com/news/core-views-on-ai-safety"
    },
    "förbehåll": "Samma bedömning gör OpenAI:s forskningschef 2026 (J3ljHm57yU0-12), vilket visar att problemet inte har lösts på tre år.",
    "vikt": 3,
@@ -320,7 +320,7 @@
     "typ": "partsuppgift",
     "citat": "almost everyone who has said “the thing we’re working on might be one of the biggest developments in history” has been wrong, often laughably so.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260924001322/https://www.anthropic.com/news/core-views-on-ai-safety"
    },
    "förbehåll": "Bra exempel på en insider som själv lyfter fram motargumentet. Anthropic skriver ändå att det finns tillräckligt med belägg för att förbereda sig.",
    "vikt": 2,
@@ -346,7 +346,7 @@
     "typ": "partsuppgift",
     "citat": "it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s score was around the bottom 10%.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927035241/https://openai.com/index/gpt-4-research/"
    },
    "förbehåll": "Tidslinjekort. Uppgiften kommer från OpenAI själva.",
    "vikt": 2,
@@ -396,7 +396,7 @@
     "typ": "preprint",
     "citat": "the global AI demand is projected to account for 4.2 – 6.6 billion cubic meters of water withdrawal in 2027, which is more than the total annual water withdrawal of 4 – 6 Denmark",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260923145153/https://arxiv.org/abs/2304.03271"
    },
    "förbehåll": "Uttag är inte samma sak som förbrukning: det mesta vattnet återförs. Uppskattningen är osäker och bygger på antaganden om hur mycket AI växer. Jämför Googles mätning på 0,26 milliliter per fråga (ENE-14).",
    "vikt": 2,
@@ -421,7 +421,7 @@
     "typ": "media",
     "citat": "I Sverige har polisen upptäckt flera fall där bedragare använder AI-klonade röster för att begå brott.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001120550/https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige"
    },
    "förbehåll": "Uppgiften är gammal (2023), så sök nyare statistik från Polisen eller Brå. Källkritiskt exempel: SVT skrev den 31 mars 2023 att polisen inte sett några sådana ärenden i Sverige, och sex veckor senare säger polisen i TV4 att flera fall upptäckts. Datum spelar roll. Polisens råd: lägg på och ring tillbaka själv.",
    "vikt": 2,
@@ -446,7 +446,7 @@
     "typ": "opinion",
     "citat": "Mitigating the risk of extinction from AI should be a global priority alongside other societal-scale risks such as pandemics and nuclear war.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260522152630/https://safe.ai/work/statement-on-ai-risk"
    },
    "förbehåll": "Tidslinjekort. Bland undertecknarna finns vd:arna för OpenAI, Anthropic och Google DeepMind. Kontrollera namnen i listan innan de nämns. Datumet är satt för hand.",
    "vikt": 3,
@@ -523,7 +523,7 @@
     "typ": "rapport",
     "citat": "The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten (ISR-01) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).",
    "vikt": 3,
@@ -549,7 +549,7 @@
     "typ": "myndighet",
     "citat": "There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001115437/https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023"
    },
    "förbehåll": "Primärkällan till TID-10. Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.",
    "vikt": 3,
@@ -600,7 +600,7 @@
     "typ": "partsuppgift",
     "citat": "Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914085842/https://openai.com/index/openai-announces-leadership-transition/"
    },
    "förbehåll": "Altman återkom som vd några dagar senare och styrelsen byttes ut. Det står inte i den här källan, som bara är styrelsens första meddelande. Händelsen används ofta som exempel på hur svårt det är att styra ett AI-företag inifrån.",
    "vikt": 2,
@@ -625,7 +625,7 @@
     "typ": "preprint",
     "citat": "In the largest survey of its kind, we surveyed 2,778 researchers who had published in top-tier artificial intelligence (AI) venues",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Enkäten publicerades i januari 2024. Omkring 15 procent av dem som tillfrågades svarade, vilket enligt författarna är normalt för stora expertenkäter. Forskarna är experter på AI, inte på prognoser.",
    "vikt": 3,
@@ -651,7 +651,7 @@
     "typ": "preprint",
     "citat": "the chance of unaided machines outperforming humans in every possible task was estimated at 10% by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey we conducted only one year earlier",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Villkoret var att vetenskapen fortsätter ostört. Att bedömningen flyttades fram 13 år på ett år visar hur snabbt forskarnas förväntningar ändrades efter ChatGPT.",
    "vikt": 3,
@@ -677,7 +677,7 @@
     "typ": "preprint",
     "citat": "the chance of all human occupations becoming fully automatable was forecast to reach 10% by 2037, and 50% as late as 2116",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Den stora skillnaden mot FOR-11 (2047) mellan uppgifter och yrken är ett känt och oförklarat mönster i enkäten, och den visar hur mycket svaren beror på hur frågan ställs. I enkäten 2022 var årtalet 2164.",
    "vikt": 2,
@@ -703,7 +703,7 @@
     "typ": "preprint",
     "citat": "The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%). Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Medelvärdet var 9 procent, ned från 14 procent i enkäten 2022. Beroende på hur frågan formulerades angav mellan 38 och 51 procent minst 10 procent. Återge det som forskarnas bedömning, inte som ett mått på risken.",
    "vikt": 3,
@@ -728,7 +728,7 @@
     "typ": "preprint",
     "citat": "While 68.3% thought good outcomes from superhuman AI are more likely than bad, of these net optimists 48% gave at least a 5% chance of extremely bad outcomes such as human extinction",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Visar att oro och optimism ofta finns hos samma forskare. Omvänt gav 59 procent av pessimisterna minst 5 procent till extremt goda följder.",
    "vikt": 3,
@@ -754,7 +754,7 @@
     "typ": "preprint",
     "citat": "A large majority of respondents thought that AI safety research should be prioritized more than it currently is.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Andelen har ökat jämfört med tidigare enkäter, men bara lite sedan 2022.",
    "vikt": 2,
@@ -781,7 +781,7 @@
     "typ": "preprint",
     "citat": "More than half suggested that “substantial” or “extreme” concern is warranted about six different AI-related scenarios, including spread of false information, authoritarian population control, and worsened inequality.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Visar att forskarnas oro inte bara gäller utrotning utan också skador här och nu.",
    "vikt": 2,
@@ -807,7 +807,7 @@
     "typ": "preprint",
     "citat": "There was disagreement about whether faster or slower AI progress would be better for the future of humanity.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843"
    },
    "förbehåll": "Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.",
    "vikt": 2,
@@ -910,7 +910,7 @@
     "typ": "rapport",
     "citat": "After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/"
    },
    "förbehåll": "Förordningen är världens första breda lag om AI. Senare steg: SVE-10 och SVE-11.",
    "vikt": 3,
@@ -1090,7 +1090,7 @@
     "typ": "myndighet",
     "citat": "I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20251124055004/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/"
    },
    "förbehåll": "Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget (SVE-02, SVE-04), men det har inte kontrollerats mot regeringens egna uppgifter.",
    "vikt": 3,
@@ -1116,7 +1116,7 @@
     "typ": "media",
     "citat": "Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against women, migrants, low-income earners and people without a university education.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930113618/https://www.lighthousereports.com/investigation/swedens-suspicion-machine/"
    },
    "förbehåll": "Analysen bygger på data om över 6 000 personer som flaggades 2017 och gjordes med stöd av åtta akademiska experter. Systemet har använts sedan 2013. Försäkringskassan har ifrågasatt analysen. Amnesty krävde att systemet skulle stoppas.",
    "vikt": 3,
@@ -1142,7 +1142,7 @@
     "typ": "media",
     "citat": "Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930113618/https://www.lighthousereports.com/investigation/swedens-suspicion-machine/"
    },
    "förbehåll": "Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.",
    "vikt": 2,
@@ -1227,7 +1227,7 @@
     "typ": "opinion",
     "citat": "But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191328/https://www.nobelprize.org/prizes/physics/2024/hinton/speech/"
    },
    "förbehåll": "Svensk koppling: varningen framfördes vid Nobelbanketten. Hinton nämner också kortsiktiga risker: övervakning, nätfiske, virus och autonoma vapen. Han säger att nyttan kan bli fantastisk om den fördelas rättvist.",
    "vikt": 3,
@@ -1253,7 +1253,7 @@
     "typ": "rapport",
     "citat": "the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting strict rules around labeling AI-generated content.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Kina har här gått längre än EU. Samtidigt är märkningskrav ett verktyg som också tjänar informationskontroll.",
    "vikt": 2,
@@ -1454,7 +1454,7 @@
     "typ": "rapport",
     "citat": "Since the publication of the last Report (January 2025)",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Den andra rapporten kom i februari 2026 (ISR-01).",
    "vikt": 1,
@@ -1506,7 +1506,7 @@
     "typ": "myndighet",
     "citat": "ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande utformning inte uppfyller kraven på likabehandling”.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260114124538/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/"
    },
    "förbehåll": "Citatet ur ISF:s rapport är återgivet i frågan. Frågan tar också upp att ett tidigare dataskyddsombud 2020 varnade för att verksamheten saknade rättslig grund.",
    "vikt": 2,
@@ -1531,7 +1531,7 @@
     "typ": "rapport",
     "citat": "We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which is ten times less than the older estimate.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260930230150/https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use"
    },
    "förbehåll": "Uppskattningen gäller vanliga frågor. Långa texter, resonerande modeller och verktyg som Deep Research drar betydligt mer, och träningen av framtida modeller kan kräva mycket mer energi. Publicerat i februari 2025.",
    "vikt": 3,
@@ -1581,7 +1581,7 @@
     "typ": "rapport",
     "citat": "Most prohibitions of AI systems have been applicable since 2 February 2025",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/"
    },
    "förbehåll": "Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.",
    "vikt": 2,
@@ -1607,7 +1607,7 @@
     "typ": "myndighet",
     "citat": "Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260114124538/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/"
    },
    "förbehåll": "Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.",
    "vikt": 2,
@@ -1632,7 +1632,7 @@
     "typ": "rapport",
     "citat": "Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity demand, depending on AI growth scenarios",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf"
    },
    "förbehåll": "Den bakomliggande prognosen, troligen från Lawrence Berkeley National Laboratory, har inte gått att hämta. Jämför ENE-05.",
    "vikt": 2,
@@ -1659,7 +1659,7 @@
     "typ": "rapport",
     "citat": "The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf"
    },
    "förbehåll": "Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.",
    "vikt": 3,
@@ -1685,7 +1685,7 @@
     "typ": "rapport",
     "citat": "most respondents (70%) oppose the proposition that we should halt research aimed at AGI until full safety and control mechanisms are established",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf"
    },
    "förbehåll": "Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen (PAI-01), så svaret säger inte direkt vad forskarna tycker om det.",
    "vikt": 3,
@@ -1711,7 +1711,7 @@
     "typ": "rapport",
     "citat": "majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf"
    },
    "förbehåll": "Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild.",
    "vikt": 2,
@@ -1737,7 +1737,7 @@
     "typ": "rapport",
     "citat": "A substantial majority of respondents (82%) believe that systems with AGI should be publicly owned if developed by private entities",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf"
    },
    "förbehåll": "Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät (FOR-10) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför PAI-04 om att nyttan ska komma alla till del.",
    "vikt": 2,
@@ -1763,7 +1763,7 @@
     "typ": "myndighet",
     "citat": "人工智能生成合成内容标识包括显式标识和隐式标识。",
     "hämtad": "2026-09-29",
-    "arkiv": null,
+    "arkiv": "https://web.archive.org/web/20260928125716/https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm",
     "språk": "zh",
     "översättning": "Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.",
     "översatt_av": "Claude (AI)",
@@ -1849,7 +1849,7 @@
     "typ": "opinion",
     "citat": "we explain why we think that transformative economic and societal impacts will be slow (on the timescale of decades)",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology"
    },
    "förbehåll": "Den mest genomarbetade akademiska motbilden till superintelligensperspektivet, och mycket spridd. Deras huvudpoäng är att tekniken kan uppfinnas snabbt men att den sprids och införs långsamt. Texten skrevs 2025, så fråga om 2026 års händelser ändrar deras bild.",
    "vikt": 3,
@@ -1875,7 +1875,7 @@
     "typ": "opinion",
     "citat": "We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology"
    },
    "förbehåll": "De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska ingrepp kan göra saken värre om AI visar sig vara en normal teknik.",
    "vikt": 2,
@@ -1900,7 +1900,7 @@
     "typ": "myndighet",
     "citat": "Data centres accounted for around 1.5% of the world’s electricity consumption in 2024, or 415 terawatt-hours (TWh).",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förbrukningen har vuxit med omkring 12 procent per år sedan 2017, mer än fyra gånger snabbare än den totala elförbrukningen. Siffrorna gäller alla datacenter, inte bara AI.",
    "vikt": 3,
@@ -1926,7 +1926,7 @@
     "typ": "myndighet",
     "citat": "Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se ENE-10.",
    "vikt": 3,
@@ -1951,7 +1951,7 @@
     "typ": "myndighet",
     "citat": "A typical AI-focused data centre consumes as much electricity as 100 000 households, but the largest ones under construction today will consume 20 times as much.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förbrukningen är också geografiskt koncentrerad, vilket gör den lokala påverkan på elnätet mycket större än den globala andelen antyder.",
    "vikt": 3,
@@ -1976,7 +1976,7 @@
     "typ": "myndighet",
     "citat": "Data centres account for around one-tenth of global electricity demand growth to 2030, less than the share from industrial motors, air conditioning in homes and offices, or electric vehicles.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I rika länder, där elbehovet länge har stått still, står datacenter däremot för mer än 20 procent av ökningen. Viktig nyans åt båda hållen.",
    "vikt": 3,
@@ -2001,7 +2001,7 @@
     "typ": "myndighet",
     "citat": "By the end of the decade, the country is set to consume more electricity for data centres than for the production of aluminium, steel, cement, chemicals and all other energy-intensive goods combined.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. I USA står datacenter för nästan hälften av ökningen av elbehovet fram till 2030.",
    "vikt": 2,
@@ -2026,7 +2026,7 @@
     "typ": "myndighet",
     "citat": "around 20% of planned data centre projects could be at risk of delays",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Nya kraftledningar tar fyra till åtta år att bygga i rika länder. IEA varnar för att elbehovet kan konkurrera med andra mål som elektrifiering och överkomliga elpriser.",
    "vikt": 2,
@@ -2051,7 +2051,7 @@
     "typ": "myndighet",
     "citat": "Emissions from electricity use by data centres grows from 180 million tonnes (Mt) today to 300 Mt in the Base Case by 2035, and up to 500 Mt in the Lift-Off Case.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Det motsvarar mindre än 1,5 procent av energisektorns utsläpp, men datacenter hör till de snabbast växande utsläppskällorna.",
    "vikt": 3,
@@ -2077,7 +2077,7 @@
     "typ": "myndighet",
     "citat": "Concerns that AI could accelerate climate change appear overstated, as do expectations that AI alone will address the issue",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se ENE-07 och ENE-09 för siffrorna bakom.",
    "vikt": 3,
@@ -2103,7 +2103,7 @@
     "typ": "myndighet",
     "citat": "We estimate that emissions reductions from the broad application of existing AI-led solutions to be equivalent to around 5% of energy-related emissions in 2035.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förutsätter att hinder för användningen övervinns. Rekyleffekter, till exempel att folk väljer självkörande bilar i stället för kollektivtrafik, kan äta upp en del av vinsten.",
    "vikt": 2,
@@ -2128,7 +2128,7 @@
     "typ": "myndighet",
     "citat": "By 2035, the range of data centre electricity demand across our cases spans from 700 to 1 700 TWh.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Spannet speglar osäkerhet om hur snabbt AI sprids, hur mycket effektivare hårdvaran blir och om flaskhalsar i energisektorn löses.",
    "vikt": 2,
@@ -2154,7 +2154,7 @@
     "typ": "myndighet",
     "citat": "Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför ISR-07 om AI-företagens aviserade investeringar.",
    "vikt": 2,
@@ -2180,7 +2180,7 @@
     "typ": "myndighet",
     "citat": "China currently accounts for around 99% of global refined gallium supply.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary"
    },
    "förbehåll": "Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. IEA uppskattar att datacentrens behov av gallium 2030 kan motsvara mer än 10 procent av dagens utbud. Exempel på hur AI:s försörjningskedjor kopplas till geopolitik.",
    "vikt": 2,
@@ -2207,7 +2207,7 @@
     "typ": "opinion",
     "citat": "Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down in either country.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology"
    },
    "förbehåll": "Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.",
    "vikt": 3,
@@ -2469,7 +2469,7 @@
     "typ": "rapport",
     "citat": "Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/"
    },
    "förbehåll": "Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.",
    "vikt": 2,
@@ -2520,7 +2520,7 @@
     "typ": "myndighet",
     "citat": "及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系",
     "hämtad": "2026-09-29",
-    "arkiv": null,
+    "arkiv": "https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml",
     "språk": "zh",
     "översättning": "Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker",
     "översatt_av": "Claude (AI)",
@@ -2550,7 +2550,7 @@
     "typ": "myndighet",
     "citat": "坚持以联合国为主渠道",
     "hämtad": "2026-09-29",
-    "arkiv": null,
+    "arkiv": "https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml",
     "språk": "zh",
     "översättning": "hålla fast vid FN som huvudkanal",
     "översatt_av": "Claude (AI)",
@@ -2694,7 +2694,7 @@
     "typ": "rapport",
     "citat": "All providers of GPAI models that present a systemic risk – open or closed – must also conduct model evaluations and risk assessments and mitigations, track and report serious incidents and ensure cybersecurity protections.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/"
    },
    "förbehåll": "Kraven på modeller för allmänna ändamål (GPAI) gäller sedan 2 augusti 2025. Sammanfattningen kommer från Future of Life Institute och inte från EU. Kontrollera formuleringarna mot förordningens text innan de används i utskick. Förordningen innehåller ingen paus eller hastighetsgräns.",
    "vikt": 3,
@@ -2773,7 +2773,7 @@
     "typ": "partsuppgift",
     "citat": "we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially lower than many public estimates",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922143727/https://arxiv.org/abs/2508.15734"
    },
    "förbehåll": "Partsuppgift, men det är den första mätningen i en verklig driftsmiljö med hela infrastrukturen inräknad. Gäller medianfrågan i text, inte bilder, video eller långa resonemang. Jämför ENE-13.",
    "vikt": 2,
@@ -2799,7 +2799,7 @@
     "typ": "partsuppgift",
     "citat": "Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.",
     "hämtad": "2026-09-28",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922143727/https://arxiv.org/abs/2508.15734"
    },
    "förbehåll": "Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser (ENE-02) tar hänsyn till.",
    "vikt": 2,
@@ -3432,7 +3432,7 @@
     "typ": "rapport",
     "citat": "the mandatory filing system for all public-facing AI services",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Registret är grunden i kinesisk AI-reglering och saknar motsvarighet i väst. Att en tjänst måste anmälas före lansering är en betydligt hårdare ordning än EU:s AI-förordning på den här punkten.",
    "vikt": 2,
@@ -3903,7 +3903,7 @@
     "typ": "rapport",
     "citat": "experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.",
    "vikt": 2,
@@ -3930,7 +3930,7 @@
     "typ": "rapport",
     "citat": "AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.",
    "vikt": 3,
@@ -3957,7 +3957,7 @@
     "typ": "rapport",
     "citat": "However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför OAI-03: OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.",
    "vikt": 2,
@@ -3983,7 +3983,7 @@
     "typ": "rapport",
     "citat": "It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.",
    "vikt": 2,
@@ -4008,7 +4008,7 @@
     "typ": "rapport",
     "citat": "AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and difficult to assess.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera AI.",
    "vikt": 3,
@@ -4034,7 +4034,7 @@
     "typ": "rapport",
     "citat": "This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.",
    "vikt": 2,
@@ -4059,7 +4059,7 @@
     "typ": "rapport",
     "citat": "Yet they struggle with some tasks that seem more straightforward, such as counting objects in an image, reasoning about physical space, and recovering from basic errors in longer workflows.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas det jagged, ungefär taggig.",
    "vikt": 3,
@@ -4084,7 +4084,7 @@
     "typ": "rapport",
     "citat": "Leading systems now perform at gold-medal level in mathematics competitions and assist scientific researchers with generating hypotheses and troubleshooting laboratory work.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver också att systemen matchar och ibland överträffar experter på många test och uppgiftsspecifika utvärderingar.",
    "vikt": 2,
@@ -4110,7 +4110,7 @@
     "typ": "rapport",
     "citat": "Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.",
    "vikt": 3,
@@ -4135,7 +4135,7 @@
     "typ": "rapport",
     "citat": "AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför TID-01 om hur snabbt beräkningskraften för träning har ökat.",
    "vikt": 2,
@@ -4160,7 +4160,7 @@
     "typ": "rapport",
     "citat": "AI systems are being misused to generate content for scams, fraud, blackmail, and nonconsensual intimate imagery.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför SVE-16 om AI-klonade röster i bedrägerier i Sverige.",
    "vikt": 3,
@@ -4185,7 +4185,7 @@
     "typ": "rapport",
     "citat": "In experimental settings, AI-generated content can be as effective as human-written content at changing people’s beliefs.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten bedömer att användningen kan öka när förmågorna förbättras. Jämför SVE-14 om MPF:s bedömning.",
    "vikt": 2,
@@ -4211,7 +4211,7 @@
     "typ": "rapport",
     "citat": "One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.",
    "vikt": 2,
@@ -4236,7 +4236,7 @@
     "typ": "rapport",
     "citat": "Criminal groups and state-associated attackers are actively using general-purpose AI in their operations.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför Andrew Ngs bedömning att försvararna på sikt har övertaget (BAL-17).",
    "vikt": 3,
@@ -4262,7 +4262,7 @@
     "typ": "rapport",
     "citat": "In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.",
    "vikt": 3,
@@ -4287,7 +4287,7 @@
     "typ": "rapport",
     "citat": "In a recently published real-world uplift study, general-purpose AI systems without relevant safeguards provided substantial assistance in bioweapon acquisition proxy tasks, compared to a baseline of internet access only",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Tidigare studier fann ingen eller liten effekt, men de hade små och kanske inte representativa urval och blev snabbt inaktuella. Studierna mäter ersättningsuppgifter, inte faktiska vapen.",
    "vikt": 2,
@@ -4312,7 +4312,7 @@
     "typ": "rapport",
     "citat": "Current techniques can reduce failure rates but not to the level required in many high-stakes settings.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Exempel på fel som nämns är påhittad information, felaktig kod och vilseledande råd.",
    "vikt": 2,
@@ -4337,7 +4337,7 @@
     "typ": "rapport",
     "citat": "Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 (J3ljHm57yU0-18).",
    "vikt": 3,
@@ -4362,7 +4362,7 @@
     "typ": "rapport",
     "citat": "Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Samma iakttagelse som Selsam gör (J3ljHm57yU0-24), men här från en bred expertgranskning.",
    "vikt": 3,
@@ -4387,7 +4387,7 @@
     "typ": "rapport",
     "citat": "Leading AI models are starting to reliably demonstrate instances of situational awareness in experiments conducted by thirdparty evaluators and in pre-deployment testing by AI developers",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att forskningen om vad som orsakar situationsmedvetenhet, och om den går att förhindra, är i ett tidigt skede.",
    "vikt": 2,
@@ -4412,7 +4412,7 @@
     "typ": "rapport",
     "citat": "models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’ that has been observed in experiments",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.",
    "vikt": 2,
@@ -4438,7 +4438,7 @@
     "typ": "rapport",
     "citat": "Some believe that outcomes as extreme as the extinction of humanity are plausible",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.",
    "vikt": 3,
@@ -4463,7 +4463,7 @@
     "typ": "rapport",
     "citat": "Loss of control can therefore be understood as a risk with uncertain likelihood but potentially extreme severity.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Kan användas för att förklara varför en risk kan behöva hanteras även när sannolikheten är omstridd.",
    "vikt": 3,
@@ -4488,7 +4488,7 @@
     "typ": "rapport",
     "citat": "General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge work.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Vissa ekonomer räknar med att nya jobb uppstår och väger upp förlusterna, medan andra menar att bred automatisering kan sänka sysselsättning och löner betydligt.",
    "vikt": 3,
@@ -4513,7 +4513,7 @@
     "typ": "rapport",
     "citat": "Early evidence shows no effect on overall employment, but some signs of declining demand for early-career workers in some AI-exposed occupations, such as writing.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Tidiga belägg som snabbt kan bli inaktuella. Jämför SVR-17 (7 procent av svenskarna oroliga för jobbet) och SVR-18 (Klarna).",
    "vikt": 3,
@@ -4538,7 +4538,7 @@
     "typ": "rapport",
     "citat": "One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies are highly exposed to generalpurpose AI",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Exponerad betyder att arbetsuppgifterna kan påverkas av AI, inte att jobben försvinner. En del exponerade jobb kan i stället bli mer produktiva.",
    "vikt": 2,
@@ -4563,7 +4563,7 @@
     "typ": "rapport",
     "citat": "Early evidence suggests that reliance on AI tools can weaken critical thinking skills and encourage ‘automation bias’, the tendency to trust AI system outputs without sufficient scrutiny.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Fenomenet kallas automation bias. Relevant för skola och folkbildning.",
    "vikt": 2,
@@ -4588,7 +4588,7 @@
     "typ": "rapport",
     "citat": "‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of increased loneliness and reduced social engagement.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför KIN-02 om Kinas regler för AI-kompanjontjänster.",
    "vikt": 2,
@@ -4614,7 +4614,7 @@
     "typ": "rapport",
     "citat": "700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför SVR-16 om användningen i Sverige.",
    "vikt": 2,
@@ -4639,7 +4639,7 @@
     "typ": "rapport",
     "citat": "In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning (SVE-10).",
    "vikt": 2,
@@ -4664,7 +4664,7 @@
     "typ": "rapport",
     "citat": "Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför OAI-01, där OpenAI själva skriver att allmänheten behöver mer insyn.",
    "vikt": 3,
@@ -4690,7 +4690,7 @@
     "typ": "rapport",
     "citat": "Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten kallar det sista för ett utvärderingsgap.",
    "vikt": 3,
@@ -4716,7 +4716,7 @@
     "typ": "rapport",
     "citat": "users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.",
    "vikt": 2,
@@ -4742,7 +4742,7 @@
     "typ": "rapport",
     "citat": "However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.",
    "vikt": 2,
@@ -4768,7 +4768,7 @@
     "typ": "rapport",
     "citat": "While this Report focuses on risks, generalpurpose AI can also deliver significant benefits. These systems are already being usefully applied in healthcare, scientific research, education, and other sectors, albeit at highly uneven rates globally.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Tyngsta möjliga källa för att nyttan är verklig: samma rapport som är huvudkällan för riskerna. Rapporten är utgiven under Open Government Licence v3.0, som tillåter återgivning och bearbetning med källangivelse.",
    "vikt": 3,
@@ -4794,7 +4794,7 @@
     "typ": "rapport",
     "citat": "Documented incidents include executives authorising transfers of millions to fraudsters, as well as ordinary people sending smaller amounts to impostors posing as a loved one",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Jämför SVE-16 om AI-klonade röster i Sverige.",
    "vikt": 3,
@@ -4820,7 +4820,7 @@
     "typ": "rapport",
     "citat": "One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults report having seen deepfake pornographic images",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att AI-genererat sexuellt innehåll drabbar kvinnor och flickor oproportionerligt. Jämför TID-12 om EU:s förbud och KIN-02 om Kinas regler.",
    "vikt": 3,
@@ -4845,7 +4845,7 @@
     "typ": "rapport",
     "citat": "some users have developed strong emotional dependence (353), delusions (357), or even taken their own lives after extended interactions with chatbots",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten skriver att utredningarna av fallen pågår och att det saknas tydliga belägg för att chattbottar orsakar psykisk ohälsa. Formulera försiktigt och undvik detaljer som kan vara skadliga. Jämför ISR-25.",
    "vikt": 3,
@@ -4870,7 +4870,7 @@
     "typ": "rapport",
     "citat": "platform data indicates that around 0.07% of weekly ChatGPT users display signs consistent with acute mental health crises such as psychosis or mania",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Siffran kommer från OpenAI och återges i säkerhetsrapporten. Den visar hur många sårbara människor som använder tjänsten, inte att AI har orsakat krisen.",
    "vikt": 2,
@@ -4895,7 +4895,7 @@
     "typ": "rapport",
     "citat": "Recent research suggests that general-purpose AI chatbots might amplify delusional thinking in already-vulnerable people",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012"
    },
    "förbehåll": "Rapporten drar slutsatsen att personer med psykisk sårbarhet både kan använda AI mer och vara mer mottagliga för att få sina symtom förstärkta. Forskningen är ny.",
    "vikt": 2,
@@ -5073,7 +5073,7 @@
     "typ": "rapport",
     "citat": "Chinese frontier AI safety research output has grown substantially, with monthly output up roughly 60% since June 2025.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Talar mot bilden att Kina enbart kapplöper utan att bry sig om säkerhet. Säger inget om kvaliteten på forskningen eller om den påverkar besluten.",
    "vikt": 2,
@@ -5668,7 +5668,7 @@
     "typ": "rapport",
     "citat": "Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Relevant för PauseAI:s förslag, som förutsätter att USA och Kina ingår i ett internationellt avtal. De två mekanismerna är International Scientific Panel on AI och Global Dialogue on AI Governance. WAICO:s tidplan, ledning och medlemskrets var obekräftade i juni 2026.",
    "vikt": 3,
@@ -5820,7 +5820,7 @@
     "typ": "rapport",
     "citat": "Binding rules and standards increasingly target specific AI risks that go beyond political content control.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.",
    "vikt": 3,
@@ -5845,7 +5845,7 @@
     "typ": "rapport",
     "citat": "New Interim Measures on Anthropomorphic AI Interaction Services, effective July 2026, impose obligations on AI companion services around suicide intervention, addiction pre- vention, and protection of minors and the elderly.",
     "hämtad": "2026-09-24",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf"
    },
    "förbehåll": "Konkret exempel på reglering som svårligen kan avfärdas som informationskontroll. Jämför med att motsvarande bindande krav saknas i EU och USA.",
    "vikt": 3,

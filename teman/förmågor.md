@@ -11,13 +11,13 @@ Vad AI-systemen kan göra och hur det mäts.
 - **Rapporten beskriver AI-förmågorna som ojämna: ledande system klarar svåra uppgifter men har problem med sådant som verkar enklare, till exempel att räkna föremål i en bild, resonera om fysiskt rum och rätta enkla fel i längre arbetsflöden.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · rapport · [ISR-04](../påståenden/2026/ISR-04.yaml)
   > Yet they struggle with some tasks that seem more straightforward, such as counting objects in an image, reasoning about physical space, and recovering from basic errors in longer workflows.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Yet%20they%20struggle%20with,errors%20in%20longer%20workflows)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Yet%20they%20struggle%20with,errors%20in%20longer%20workflows) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Viktig nyans mot både överdrivna och avfärdande beskrivningar av vad AI kan. På engelska kallas det jagged, ungefär taggig.
 - **Den internationella AI-säkerhetsrapporten slår fast att generell AI också ger betydande nytta, och att systemen redan används med nytta inom sjukvård, forskning och utbildning, men mycket ojämnt fördelat i världen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · nytta, förmågor · rapport · [NYT-01](../påståenden/2026/NYT-01.yaml)
   > While this Report focuses on risks, generalpurpose AI can also deliver significant benefits. These systems are already being usefully applied in healthcare, scientific research, education, and other sectors, albeit at highly uneven rates globally.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=While%20this%20Report%20focuses,highly%20uneven%20rates%20globally)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=While%20this%20Report%20focuses,highly%20uneven%20rates%20globally) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tyngsta möjliga källa för att nyttan är verklig: samma rapport som är huvudkällan för riskerna. Rapporten är utgiven under Open Government Licence v3.0, som tillåter återgivning och bearbetning med källangivelse.
 - **LeCun anser att dagens AI fortfarande är dålig på att resonera och att den inte kommer att nå mänsklig nivå på länge. Han påpekar att AI-forskare historiskt har varit för optimistiska om när det ska ske.**
@@ -60,25 +60,25 @@ Vad AI-systemen kan göra och hur det mäts.
   *Ersatt av FOR-24.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · rapport · [FOR-01](../påståenden/2026/FOR-01.yaml)
   > experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy by 2030 on undergraduate-level FrontierMath problems
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=experts%20forecast%20a%2050%25,on%20undergraduate%2Dlevel%20FrontierMath%20problems)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=experts%20forecast%20a%2050%25,on%20undergraduate%2Dlevel%20FrontierMath%20problems) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som inte kan ha funnits i träningsdatan. Rapporten skriver att experterna är oense om huruvida sådana förmågor sprids utanför matematik och programmering. Prognosen går att följa upp 2027 och 2030.
 - **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · rapport · [ISR-03](../påståenden/2026/ISR-03.yaml)
   > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=This%20technique%20has%20led,software%20engineering%2C%20and%20science)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=This%20technique%20has%20led,software%20engineering%2C%20and%20science) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
 - **Enligt rapporten presterar ledande AI-system på guldmedaljnivå i matematiktävlingar och hjälper forskare att ta fram hypoteser och felsöka laboratoriearbete.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor · rapport · [ISR-05](../påståenden/2026/ISR-05.yaml)
   > Leading systems now perform at gold-medal level in mathematics competitions and assist scientific researchers with generating hypotheses and troubleshooting laboratory work.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Leading%20systems%20now%20perform,and%20troubleshooting%20laboratory%20work)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Leading%20systems%20now%20perform,and%20troubleshooting%20laboratory%20work) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att systemen matchar och ibland överträffar experter på många test och uppgiftsspecifika utvärderingar.
 - **I den amerikanska tävlingen DARPA AI Cyber Challenge hittade ett AI-system på egen hand 77 procent av de sårbarheter som arrangörerna hade lagt in i verklig programvara, och dessutom andra, oavsiktliga sårbarheter.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, förmågor · rapport · [ISR-10](../påståenden/2026/ISR-10.yaml)
   > One AI system autonomously identified 77% of the vulnerabilities introduced by the competition organisers, as well as other, unintentional vulnerabilities
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20AI%20system%20autonomously,as%20other%2C%20unintentional%20vulnerabilities)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=One%20AI%20system%20autonomously,as%20other%2C%20unintentional%20vulnerabilities) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tävlingens final hölls 2025. Deltagarna hade tillgång till vanliga säkerhetsverktyg. Samma förmåga kan användas både för att angripa och för att försvara.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
@@ -135,7 +135,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **76 procent av de tillfrågade AI-forskarna i AAAI:s enkät bedömde att det är osannolikt eller mycket osannolikt att man når AGI genom att skala upp dagens AI-metoder.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · förmågor, tempo, röster · rapport · [FOR-18](../påståenden/2025/FOR-18.yaml)
   > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
-  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
@@ -207,7 +207,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **I mars 2023 presenterade OpenAI GPT-4, som klarade ett simulerat advokatprov bland de bästa tio procenten, medan föregångaren hamnade bland de sämsta tio procenten.**
   OpenAI · 2023-03-14 · förmågor, tempo · partsuppgift · [TID-06](../påståenden/2023/TID-06.yaml)
   > it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s score was around the bottom 10%.
-  > — [GPT-4](https://openai.com/index/gpt-4-research/#:~:text=it%20passes%20a%20simulated,around%20the%20bottom%2010%25)
+  > — [GPT-4](https://openai.com/index/gpt-4-research/#:~:text=it%20passes%20a%20simulated,around%20the%20bottom%2010%25) · [arkivkopia](https://web.archive.org/web/20260927035241/https://openai.com/index/gpt-4-research/)
 
   *Förbehåll:* Tidslinjekort. Uppgiften kommer från OpenAI själva.
 
@@ -216,7 +216,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **Den 30 november 2022 lanserade OpenAI ChatGPT, en AI man kan samtala med.**
   OpenAI · 2022-11-30 · förmågor · partsuppgift · [TID-05](../påståenden/2022/TID-05.yaml)
   > We’ve trained a model called ChatGPT which interacts in a conversational way.
-  > — [Introducing ChatGPT](https://openai.com/index/chatgpt/#:~:text=We%E2%80%99ve%20trained%20a%20model,in%20a%20conversational%20way)
+  > — [Introducing ChatGPT](https://openai.com/index/chatgpt/#:~:text=We%E2%80%99ve%20trained%20a%20model,in%20a%20conversational%20way) · [arkivkopia](https://web.archive.org/web/20260922132133/https://openai.com/index/chatgpt/)
 
   *Förbehåll:* Tidslinjekort. Datumet kommer från sidans metadata.
 
@@ -225,7 +225,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger fler än någon tidigare språkmodell av samma slag.**
   OpenAI (Brown m.fl.) · 2020-05 · förmågor, tempo · partsuppgift · [TID-17](../påståenden/2020/TID-17.yaml)
   > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
-  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165#:~:text=we%20train%20GPT%2D3%2C%20an,previous%20non%2Dsparse%20language%20model)
+  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165#:~:text=we%20train%20GPT%2D3%2C%20an,previous%20non%2Dsparse%20language%20model) · [arkivkopia](https://web.archive.org/web/20260929162501/https://arxiv.org/abs/2005.14165)
 
   *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT ([TID-05](https://kanintespela.github.io/belagt/#TID-05)) byggde på en vidareutveckling.
 
@@ -234,7 +234,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **I februari 2019 presenterade OpenAI GPT-2, en språkmodell som kunde skriva sammanhängande stycken text.**
   OpenAI · 2019-02-14 · förmågor · partsuppgift · [TID-04](../påståenden/2019/TID-04.yaml)
   > We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of text
-  > — [Better language models and their implications](https://openai.com/index/better-language-models/#:~:text=We%E2%80%99ve%20trained%20a%20large%2Dscale,coherent%20paragraphs%20of%20text)
+  > — [Better language models and their implications](https://openai.com/index/better-language-models/#:~:text=We%E2%80%99ve%20trained%20a%20large%2Dscale,coherent%20paragraphs%20of%20text) · [arkivkopia](https://web.archive.org/web/20260921043552/https://openai.com/index/better-language-models/)
 
   *Förbehåll:* Tidslinjekort. OpenAI släppte först inte hela modellen, med hänvisning till risk för missbruk.
 
@@ -243,6 +243,6 @@ Vad AI-systemen kan göra och hur det mäts.
 - **I juni 2017 presenterade forskare vid Google transformern, en ny arkitektur för neurala nätverk som bygger helt på så kallad uppmärksamhet. Den blev grunden för dagens språkmodeller.**
   Forskare vid Google Brain och Google Research (Vaswani m.fl.) · 2017-06 · förmågor · granskad · [TID-16](../påståenden/2017/TID-16.yaml)
   > We propose a new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely.
-  > — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762#:~:text=We%20propose%20a%20new,recurrence%20and%20convolutions%20entirely)
+  > — [Attention Is All You Need (2017)](https://arxiv.org/abs/1706.03762#:~:text=We%20propose%20a%20new,recurrence%20and%20convolutions%20entirely) · [arkivkopia](https://web.archive.org/web/20261003205457/https://arxiv.org/abs/1706.03762)
 
   *Förbehåll:* Artikeln heter Attention Is All You Need. T:et i GPT står för transformer. Att den blev grunden för dagens modeller står inte i citatet, men det är allmänt känt.

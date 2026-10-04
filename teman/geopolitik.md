@@ -26,13 +26,13 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   *Ersatt av KIN-34.*
   Kinas regering, återgivet av Concordia AI · 2026-06 · styrning, geopolitik · rapport · [KIN-05](../påståenden/2026/KIN-05.yaml)
   > Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Relevant för PauseAI:s förslag, som förutsätter att USA och Kina ingår i ett internationellt avtal. De två mekanismerna är International Scientific Panel on AI och Global Dialogue on AI Governance. WAICO:s tidplan, ledning och medlemskrets var obekräftade i juni 2026.
 - **Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare in sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.**
   Concordia AI, State of AI Safety in China (2026) · 2026-07 · styrning, geopolitik · rapport · [KIN-01](../påståenden/2026/KIN-01.yaml)
   > Binding rules and standards increasingly target specific AI risks that go beyond political content control.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.
 - **Andrew Ng menar att en paus skulle göra mer skada än nytta: motståndarna bromsar inte, och säkerhetsproblem hittas och löses först när tekniken används.**
@@ -87,7 +87,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 - **Narayanan och Kapoor menar att det trots den skarpa retoriken om en kapplöpning mellan USA och Kina inte är klarlagt att AI-regleringen har bromsat in i något av länderna.**
   Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil) · 2025-04-15 · styrning, geopolitik, röster · opinion · [KIN-08](../påståenden/2025/KIN-08.yaml)
   > Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down in either country.
-  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology#:~:text=Despite%20shrill%20U.S.%2DChina%20arms,down%20in%20either%20country)
+  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology#:~:text=Despite%20shrill%20U.S.%2DChina%20arms,down%20in%20either%20country) · [arkivkopia](https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.
 - **I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.**
@@ -99,7 +99,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 - **Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, geopolitik · myndighet · [ENE-12](../påståenden/2025/ENE-12.yaml)
   > China currently accounts for around 99% of global refined gallium supply.
-  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary#:~:text=China%20currently%20accounts%20for,global%20refined%20gallium%20supply)
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary#:~:text=China%20currently%20accounts%20for,global%20refined%20gallium%20supply) · [arkivkopia](https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. IEA uppskattar att datacentrens behov av gallium 2030 kan motsvara mer än 10 procent av dagens utbud. Exempel på hur AI:s försörjningskedjor kopplas till geopolitik.
 - **USA:s regering har som uttalat mål att vinna AI-kapplöpningen och uppnå global dominans, bland annat genom att ta bort regler som anses hämma utvecklingen.**
@@ -113,7 +113,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker
-  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml#:~:text=%E5%8F%8A%E6%97%B6%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A3%8E%E9%99%A9%E7%A0%94%E5%88%A4,%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A3%8E%E9%99%A9%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB)
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml#:~:text=%E5%8F%8A%E6%97%B6%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A3%8E%E9%99%A9%E7%A0%94%E5%88%A4,%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A3%8E%E9%99%A9%E6%B5%8B%E8%AF%95%E8%AF%84%E4%BC%B0%E4%BD%93%E7%B3%BB) · [arkivkopia](https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.
 - **Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella styrningen av AI.**
@@ -121,7 +121,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > 坚持以联合国为主渠道
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* hålla fast vid FN som huvudkanal
-  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml#:~:text=%E5%9D%9A%E6%8C%81%E4%BB%A5%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%BA%E4%B8%BB%E6%B8%A0%E9%81%93)
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml#:~:text=%E5%9D%9A%E6%8C%81%E4%BB%A5%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%BA%E4%B8%BB%E6%B8%A0%E9%81%93) · [arkivkopia](https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
 - **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
@@ -197,6 +197,6 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 - **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
   Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · myndighet · [TID-19](../påståenden/2023/TID-19.yaml)
   > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
-  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=There%20is%20potential%20for,of%20these%20AI%20models)
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=There%20is%20potential%20for,of%20these%20AI%20models) · [arkivkopia](https://web.archive.org/web/20261001115437/https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
   *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.

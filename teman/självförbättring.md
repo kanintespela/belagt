@@ -12,13 +12,13 @@ AI som används för att utveckla AI.
   *Ersatt av FOR-25.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-02](../påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20forecasting%20experts%20gave,forecasters%29%20estimated%20only%208%25)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=AI%20forecasting%20experts%20gave,forecasters%29%20estimated%20only%208%25) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.
 - **Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, självförbättring · rapport · [ISR-06](../påståenden/2026/ISR-06.yaml)
   > Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Between%20now%20and%202030%2C,up%20AI%20research%20itself)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Between%20now%20and%202030%2C,up%20AI%20research%20itself) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.
 - **OpenAI uppger att AI-agenter i mitten av augusti 2026 utförde 3,1 arbetsdagars arbete för varje arbetsdag som företagets mänskliga forskare gjorde.**
@@ -51,7 +51,7 @@ AI som används för att utveckla AI.
   *Ersatt av FOR-26.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · rapport · [FOR-03](../påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **OpenAI uppger att AI hjälpte till att utveckla företagets första egna inferenschip, så att det gick nio månader från första design till färdig konstruktion.**

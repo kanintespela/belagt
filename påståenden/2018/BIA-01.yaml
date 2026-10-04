@@ -13,7 +13,7 @@ källa:
   citat: darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The
     maximum error rate for lighter-skinned males is 0.8%.
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260927084551/http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
 förbehåll: Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den
   testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller
   2018.
