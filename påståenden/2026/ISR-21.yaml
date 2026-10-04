@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: General-purpose AI will likely automate a wide range of cognitive tasks, especially in knowledge
     work.
   hämtad: '2026-09-24'

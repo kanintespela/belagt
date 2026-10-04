@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html
   titel: 应对AI技术赋能背后风险挑战 我国人工智能安全标准体系加速构建
+  typ: media
   citat: 自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个
   hämtad: '2026-09-29'
   arkiv: null

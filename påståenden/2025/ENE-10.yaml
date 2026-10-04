@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: By 2035, the range of data centre electricity demand across our cases spans from 700 to 1 700
     TWh.
   hämtad: '2026-09-28'

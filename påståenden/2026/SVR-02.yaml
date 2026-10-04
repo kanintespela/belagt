@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk
   titel: 'Professorn om AI-hotet: ”Låg risk”'
+  typ: media
   citat: Det är låg risk men går inte att utesluta
   hämtad: '2026-09-22'
   arkiv: null

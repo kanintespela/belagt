@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157
   titel: ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”
+  typ: opinion
   citat: Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar
     479 miljoner på ai.
   hämtad: '2026-09-28'

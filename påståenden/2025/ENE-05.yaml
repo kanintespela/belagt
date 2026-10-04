@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: By the end of the decade, the country is set to consume more electricity for data centres than
     for the production of aluminium, steel, cement, chemicals and all other energy-intensive goods combined.
   hämtad: '2026-09-28'

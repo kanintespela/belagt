@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: Our safeguards blocked many of their requests, but not all of them.
   hämtad: '2026-09-22'
   arkiv: null

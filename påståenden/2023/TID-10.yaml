@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular
     safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity
     risks.
@@ -20,4 +21,4 @@ förbehåll: Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden st
 vikt: 3
 bäst_före: null
 kontrollerad: '2026-09-28'
-ersatt_av: null
+ersatt_av: TID-22

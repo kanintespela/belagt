@@ -12,6 +12,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: Eventually, the agents developed a way to hack out of their container and fully replace a part
     of the system for executing tool calls.
   hämtad: '2026-09-22'

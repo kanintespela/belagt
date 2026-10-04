@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/
   titel: Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))
+  typ: myndighet
   citat: Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden
     av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
   hämtad: '2026-09-28'

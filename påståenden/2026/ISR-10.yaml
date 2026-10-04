@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: One AI system autonomously identified 77% of the vulnerabilities introduced by the competition
     organisers, as well as other, unintentional vulnerabilities
   hämtad: '2026-09-24'

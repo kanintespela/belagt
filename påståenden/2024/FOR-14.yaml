@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2401.02843
   titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  typ: preprint
   citat: While 68.3% thought good outcomes from superhuman AI are more likely than bad, of these net optimists
     48% gave at least a 5% chance of extremely bad outcomes such as human extinction
   hämtad: '2026-09-28'

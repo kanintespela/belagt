@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.lighthousereports.com/investigation/swedens-suspicion-machine/
   titel: Sweden’s Suspicion Machine
+  typ: media
   citat: Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against
     women, migrants, low-income earners and people without a university education.
   hämtad: '2026-09-28'

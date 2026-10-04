@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf
   titel: 'Buolamwini & Gebru: Gender Shades (2018)'
+  typ: granskad
   citat: darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The
     maximum error rate for lighter-skinned males is 0.8%.
   hämtad: '2026-09-28'

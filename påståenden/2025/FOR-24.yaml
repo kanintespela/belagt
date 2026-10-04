@@ -1,0 +1,25 @@
+id: FOR-24
+påstående: I Forecasting Research Institutes expertpanel LEAP förutsåg experterna (medianen) att den bästa
+  AI-modellen löser 31 procent av problemen på matematiktestet FrontierMath i slutet av 2025, 55 procent i
+  slutet av 2027 och 75 procent i slutet av 2030.
+typ: prognos
+vem: Forecasting Research Institute, expertpanelen LEAP (330 experter)
+datum: '2025-11-10'
+tema:
+- förmågor
+- röster
+källa:
+  url: https://leap.forecastingresearch.org/reports/wave1
+  titel: 'Wave 1: Headliners – Longitudinal Expert AI Panel'
+  typ: rapport
+  citat: Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55%
+    by the end of 2027 … and 75% by the end of 2030
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: 'Ersätter FOR-01, som återgav studien via International AI Safety Report 2026. Prognoserna samlades
+  in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för
+  2025 har redan utfallit, se FOR-27.'
+vikt: 2
+bäst_före: '2028-01-31'
+kontrollerad: '2026-10-04'
+ersatt_av: null

@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://pauseai.info/proposal
   titel: PauseAI Proposal
+  typ: partsuppgift
   citat: Implement a temporary pause on the training of the most powerful general AI systems
   hämtad: '2026-09-22'
   arkiv: null

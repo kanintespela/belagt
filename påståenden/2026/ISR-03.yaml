@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: This technique has led to particularly large performance gains on more complex reasoning tasks
     in mathematics, software engineering, and science.
   hämtad: '2026-09-24'

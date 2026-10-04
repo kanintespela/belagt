@@ -1,0 +1,27 @@
+id: JPN-02
+påstående: Japans regering skriver att landets egen AI-utveckling och AI-användning ligger efter, och att många
+  invånare oroar sig för de risker som AI medför.
+typ: bedömning
+vem: Japans regeringskansli (Cabinet Office)
+datum: '2025-10-03'
+tema:
+- samhälle
+- geopolitik
+- röster
+källa:
+  url: https://www.cao.go.jp/press/new_wave/20251003.html
+  titel: ＡＩ法　全面施行 －次なるフェーズへ－
+  typ: myndighet
+  citat: 国内のＡＩ開発・活用は遅れており、また、多くの国民がＡＩにより発生するリスクに不安を抱えている状況です。
+  språk: ja
+  översättning: Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga
+    för de risker som AI medför.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Det är regeringens motivering till AI-lagen (JPN-01). Hur stor oron är framgår inte av källan.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

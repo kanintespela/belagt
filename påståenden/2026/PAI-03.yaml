@@ -1,6 +1,6 @@
 id: PAI-03
-påstående: PauseAI medger att en paus kan slå fel om den genomförs dåligt, och menar att deras förslag
-  hanterar de allvarligaste nackdelarna.
+påstående: PauseAI medger att en paus kan slå fel om den genomförs dåligt, och menar att deras förslag hanterar
+  de allvarligaste nackdelarna.
 typ: bedömning
 vem: PauseAI
 datum: '2026-04-05'
@@ -9,7 +9,8 @@ tema:
 källa:
   url: https://pauseai.info/proposal
   titel: PauseAI Proposal
-  citat: Implementing a pause *can* backfire if it is not done properly
+  typ: partsuppgift
+  citat: Implementing a pause can backfire if it is not done properly
   hämtad: '2026-09-22'
   arkiv: null
 förbehåll: Bra att ha med för ärlighetens skull. Jämför med motargumenten från Ng (BAL-03) och Chalmersforskarna

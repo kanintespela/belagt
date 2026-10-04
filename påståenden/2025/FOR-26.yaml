@@ -1,0 +1,27 @@
+id: FOR-26
+påstående: I samma pilotstudie höjdes bedömningarna till en median på 20,5 procent för experterna och 18 procent
+  för superprognosmakarna, om AI-system skulle visa sig bättre än mänskliga forskare på öppna forskningsprojekt
+  som tar en månad.
+typ: prognos
+vem: METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare)
+datum: '2025-08-20'
+tema:
+- tempo
+- självförbättring
+- röster
+källa:
+  url: https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/
+  titel: 'Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study'
+  typ: rapport
+  citat: experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration
+    (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems
+    doing better than human researchers at open-ended month-long research projects.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter FOR-03, som återgav studien via International AI Safety Report 2026 och gav intrycket att
+  alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där,
+  och experterna på 20,5 procent. Jämför OAI-03.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

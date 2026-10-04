@@ -1,0 +1,28 @@
+id: KOR-01
+påstående: Sydkoreas AI-grundlag gäller sedan den 22 januari 2026. Den kräver bland annat att resultat från
+  generativ AI och deepfakes märks så att användarna tydligt kan känna igen dem.
+typ: händelse
+vem: Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter
+datum: '2026-01-22'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.korea.kr/news/policyNewsView.do?newsId=148958380
+  titel: '''인공지능기본법'' 22일 시행…생성형 AI 결과물 ''워터마크'' 표시 의무'
+  typ: myndighet
+  citat: 생성형AI의 결과물, 사회적 부작용이 우려되는 딥페이크 결과물에 대해서는 이용자의 연령 등을 고려하여 명확하게 인식할 수 있는 방법으로 표시하도록 규정했다.
+  språk: ko
+  översättning: För resultat från generativ AI och för deepfakes, som befaras få skadliga följder för samhället,
+    föreskrivs att de ska märkas på ett sätt som tydligt kan uppfattas, med hänsyn till bland annat användarens
+    ålder.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Enligt samma källa antogs lagen i december 2024 efter en överenskommelse mellan regeringspartiet
+  och oppositionen, som världens andra heltäckande AI-lag efter EU:s.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023
   titel: The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023
+  typ: myndighet
   citat: There is potential for serious, even catastrophic, harm, either deliberate or unintentional,
     stemming from the most significant capabilities of these AI models.
   hämtad: '2026-09-28'

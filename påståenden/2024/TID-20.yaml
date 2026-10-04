@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.nobelprize.org/prizes/chemistry/2024/press-release/
   titel: Nobel Prize in Chemistry 2024
+  typ: partsuppgift
   citat: 'Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting
     proteins’ complex structures.'
   hämtad: '2026-09-28'

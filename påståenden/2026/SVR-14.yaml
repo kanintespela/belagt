@@ -1,7 +1,7 @@
 id: SVR-14
 påstående: Enligt en undersökning från juni 2026 anser bara 10 procent av svenskarna att AI är tillräckligt
-  reglerat, medan 51 procent tycker att tillsynen är otillräcklig. Hälften vill att AI-bolag ska kunna
-  hållas skadeståndsansvariga.
+  reglerat, medan 51 procent tycker att tillsynen är otillräcklig. Hälften vill att AI-bolag ska kunna hållas
+  skadeståndsansvariga.
 typ: mätning
 vem: Futurion och Seismic Foundation (rapport), återgiven av IT&Telekomföretagen
 datum: '2026-06-24'
@@ -10,12 +10,15 @@ tema:
 källa:
   url: https://itbranschen.com/sv/svenskar-vill-se-hardare-ai-reglering/
   titel: Svenskar tror att AI kommer att förvärra nästan allt
+  typ: rapport
   citat: Endast 10 procent anser att AI är tillräckligt reglerat i dag, medan 51 procent tycker att tillsynen
     är otillräcklig.
   hämtad: '2026-09-22'
   arkiv: null
 förbehåll: Nästan hälften vill också kunna stänga av AI-system i nödfall. Futurion är en tankesmedja knuten
-  till tjänstemannafacken. Hämta rapporten för metod och urval.
+  till tjänstemannafacken. Hämta rapporten för metod och urval. Futurions egen rapport (https://futurion.se/wp-content/uploads/2026/06/futurion-x-seismic-rapport-ai-2026-2-juni.pdf)
+  har siffrorna bara som bilder, så citatet kan inte kontrolleras maskinellt mot originalet. Fältarbetet gjordes
+  12–20 mars 2026.
 vikt: 3
 bäst_före: '2027-06-24'
 kontrollerad: '2026-09-28'

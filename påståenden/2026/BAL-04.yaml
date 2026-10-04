@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/
   titel: Separating Out AI Facts, Fears, and Fiction
+  typ: opinion
   citat: if I prompt an agent and it hacks into someone else’s system, the responsibility lies with me,
     not the agent.
   hämtad: '2026-09-22'

@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2508.15734
   titel: 'Google: Measuring the environmental impact of delivering AI at Google scale (2025)'
+  typ: partsuppgift
   citat: we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially
     lower than many public estimates
   hämtad: '2026-09-28'

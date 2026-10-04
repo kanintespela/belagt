@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’
     that has been observed in experiments
   hämtad: '2026-09-24'

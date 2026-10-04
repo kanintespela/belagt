@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/
   titel: Nära 5000 MW nya anslutningar beviljades 2025
+  typ: myndighet
   citat: Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt
     9 000 MW uttag (varav hälften avser datacenter).
   hämtad: '2026-09-28'

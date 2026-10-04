@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/research-acceleration-view-inside-openai/
   titel: 'Research acceleration: The view inside OpenAI'
+  typ: partsuppgift
   citat: We believe the public also needs to understand how the most capable systems are developing, and
     how they are driving research progress, inside of frontier labs.
   hämtad: '2026-09-22'

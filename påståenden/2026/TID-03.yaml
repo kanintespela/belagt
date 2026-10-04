@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://epoch.ai/trends
   titel: Trends in Artificial Intelligence
+  typ: rapport
   citat: frontier has advanced linearly by 14 points per year, compared with 6 points per year for non-reasoning
     models.
   hämtad: '2026-09-22'

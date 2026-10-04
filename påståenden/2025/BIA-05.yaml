@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/
   titel: Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))
+  typ: myndighet
   citat: ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande
     utformning inte uppfyller kraven på likabehandling”.
   hämtad: '2026-09-28'

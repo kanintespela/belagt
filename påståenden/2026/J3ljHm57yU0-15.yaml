@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://openai.com/index/jalapeno-first-results/
   titel: Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+  typ: partsuppgift
   citat: AI played a direct role in Jalapeño’s development, enabling the team to move from initial design
     to tapeout in nine months
   hämtad: '2026-09-22'

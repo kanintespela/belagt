@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks
     in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin
     to speed up AI research itself).

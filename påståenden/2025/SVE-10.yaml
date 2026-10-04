@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://artificialintelligenceact.eu/high-level-summary/
   titel: High-level summary of the AI Act
+  typ: rapport
   citat: All providers of GPAI models that present a systemic risk – open or closed – must also conduct
     model evaluations and risk assessments and mitigations, track and report serious incidents and ensure
     cybersecurity protections.
@@ -21,4 +22,4 @@ förbehåll: Kraven på modeller för allmänna ändamål (GPAI) gäller sedan 2
 vikt: 3
 bäst_före: '2027-08-02'
 kontrollerad: '2026-09-28'
-ersatt_av: null
+ersatt_av: SVE-17

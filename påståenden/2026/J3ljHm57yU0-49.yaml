@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.helpnetsecurity.com/2026/09/08/wechat-weworm-vulnerability-exploit-account-hijacking/
   titel: '"Zero-click" WeChat worm could hijack accounts and spread via a single call - Help Net Security'
+  typ: media
   citat: Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit
     in about two days. Building the worm took one more week,
   hämtad: '2026-09-22'
@@ -21,4 +22,4 @@ förbehåll: 'Det var ingen verklig attack: hålet rapporterades till Tencent, s
 vikt: 3
 bäst_före: null
 kontrollerad: '2026-09-28'
-ersatt_av: null
+ersatt_av: CYB-01

@@ -1,0 +1,29 @@
+id: KIN-31
+påstående: Kinas regler för AI-kompanjoner, som fem myndigheter publicerade i april 2026, gäller från den 15
+  juli 2026 och kräver bland annat att tjänsterna vägleder äldre användare och tydligt varnar dem för risker.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) och fyra andra myndigheter
+datum: '2026-04-10'
+tema:
+- styrning
+- samhälle
+källa:
+  url: https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm
+  titel: 人工智能拟人化互动服务管理暂行办法
+  typ: myndighet
+  citat: 自2026年7月15日起施行。… 拟人化互动服务提供者向老年人提供服务的，应当加强对老年人健康使用服务的指导，以显著方式提示安全风险
+  språk: zh
+  översättning: Gäller från den 15 juli 2026. … Den som tillhandahåller människolika interaktiva tjänster till
+    äldre ska ge äldre bättre vägledning i att använda tjänsten på ett sunt sätt och på ett tydligt sätt varna
+    för säkerhetsrisker
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter KIN-02, som återgav reglerna via Concordia AI. Kraven på suicidprevention, beroende och
+  minderåriga finns i samma regler, se KIN-09 till KIN-12. Reglerna innehåller också politiska innehållskrav,
+  se KIN-13.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

@@ -1,6 +1,6 @@
 id: KIN-01
-påstående: Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare
-  in sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.
+påstående: Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare in
+  sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.
 typ: bedömning
 vem: Concordia AI, State of AI Safety in China (2026)
 datum: 2026-07
@@ -10,12 +10,13 @@ tema:
 källa:
   url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
   titel: 'Concordia AI: State of AI Safety in China 2026'
-  citat: Binding rules and standards increasingly target specific AI risks that go beyond polit- ical
-    content control.
+  typ: rapport
+  citat: Binding rules and standards increasingly target specific AI risks that go beyond political content
+    control.
   hämtad: '2026-09-24'
   arkiv: https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
-förbehåll: 'Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll
-  av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga
+förbehåll: 'Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av
+  politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga
   källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.'
 vikt: 3
 bäst_före: '2027-07-01'

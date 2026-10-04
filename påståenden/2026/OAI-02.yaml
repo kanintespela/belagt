@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/research-acceleration-view-inside-openai/
   titel: 'Research acceleration: The view inside OpenAI'
+  typ: partsuppgift
   citat: as of mid-August, in total, the research organization uses 3.1 agent-workdays of effort for every
     workday of human labor.
   hämtad: '2026-09-22'

@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://openai.com/index/an-alien-mind/
   titel: An Alien Mind
+  typ: partsuppgift
   citat: Based on internal results, I have a strong expectation that this speed of progress could be sustained
     into recursive self-improvement.
   hämtad: '2026-09-22'

@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2501.12948
   titel: DeepSeek-R1 (januari 2025)
+  typ: partsuppgift
   citat: Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement
     learning (RL), obviating the need for human-labeled reasoning trajectories.
   hämtad: '2026-09-28'

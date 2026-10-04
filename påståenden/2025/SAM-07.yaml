@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://iceberg.mit.edu/report.pdf
   titel: MIT Study on Jobs/Tasks
+  typ: rapport
   citat: Technical capability extends far below the surface through cognitive automation spanning administrative,
     financial, and professional services (11.7%, approximately $1.2 trillion).
   hämtad: '2026-09-22'

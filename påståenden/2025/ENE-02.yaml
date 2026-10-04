@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This
     is slightly more than Japan’s total electricity consumption today.
   hämtad: '2026-09-28'

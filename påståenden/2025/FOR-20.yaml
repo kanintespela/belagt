@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
   titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  typ: rapport
   citat: majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit
     profile over the direct pursuit of AGI (23%)
   hämtad: '2026-09-28'

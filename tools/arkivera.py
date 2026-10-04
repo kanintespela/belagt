@@ -5,10 +5,12 @@
     python tools/arkivera.py --max 50
 
 Finns en kopia redan används den närmaste kopian från det datum källan hämtades. Annars
-begärs en ny kopia. Körs varje vecka av .github/workflows/arkivera.yml.
+begärs en ny kopia. Går det inte (en del sajter blockerar Wayback Machine) används den senaste
+kopian i archive.today, om det finns någon. Körs varje vecka av .github/workflows/arkivera.yml.
 """
 import argparse
 import json
+import re
 import time
 import urllib.parse
 import urllib.request
@@ -34,9 +36,27 @@ def befintlig(url, datum):
     return snap["url"].replace("http://", "https://", 1) if snap and snap.get("available") else None
 
 
-def ny(url):
-    _, slut = hämta(f"https://web.archive.org/save/{url}", timeout=180)
-    return slut if "/web/" in slut else None
+def ny(url, försök=2):
+    for i in range(försök):
+        try:
+            _, slut = hämta(f"https://web.archive.org/save/{url}", timeout=180)
+            if "/web/" in slut:
+                return slut
+        except Exception:
+            if i == försök - 1:
+                raise
+        time.sleep(30)
+    return None
+
+
+def archive_today(url):
+    """Senaste kopian i archive.today. Att skapa nya kopior där kräver en människa (captcha),
+    så skriptet bara letar upp befintliga."""
+    try:
+        _, slut = hämta(f"https://archive.ph/newest/{url}")
+    except Exception:
+        return None
+    return slut if re.match(r"^https://archive\.(ph|today|is|md|li|vn|fo)/\w+$", slut) else None
 
 
 def main():
@@ -55,9 +75,11 @@ def main():
                 continue
             try:
                 cache[k["url"]] = befintlig(k["url"], k["hämtad"]) or ny(k["url"])
-            except Exception as e:  # nätverksfel, blockering eller hastighetsgräns: försök nästa vecka
-                print(f"{p['id']}: {e}")
+            except Exception as e:  # nätverksfel, blockering eller hastighetsgräns
+                print(f"{p['id']}: Wayback Machine: {e}")
                 cache[k["url"]] = None
+            # Reserv: archive.today. Annars försöker skriptet igen nästa vecka.
+            cache[k["url"]] = cache[k["url"]] or archive_today(k["url"])
             klara += 1
             time.sleep(5)
         if cache[k["url"]]:

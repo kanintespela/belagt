@@ -1,0 +1,26 @@
+id: KOR-03
+påstående: Sydkoreas regering skjuter upp tillsynen enligt AI-grundlagen i minst ett år, så att företagen hinner
+  förbereda sig. Under den tiden ska utredningar bara göras i undantagsfall, till exempel vid dödsfall eller
+  allvarliga kränkningar av mänskliga rättigheter.
+typ: händelse
+vem: Sydkoreas ministerium för vetenskap och IKT, i regeringens policynyheter
+datum: '2026-01-22'
+tema:
+- styrning
+källa:
+  url: https://www.korea.kr/news/policyNewsView.do?newsId=148958380
+  titel: '''인공지능기본법'' 22일 시행…생성형 AI 결과물 ''워터마크'' 표시 의무'
+  typ: myndighet
+  citat: 과기정통부는 기업의 혼란을 최소화하고 현장에서 충분히 준비할 시간을 제공하기 위해 최소 1년 이상 규제를 유예한다.
+  språk: ko
+  översättning: Ministeriet för vetenskap och IKT skjuter upp regleringen i minst ett år för att minimera förvirringen
+    hos företagen och ge dem tillräckligt med tid att förbereda sig.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Undantagen för utredningar står i samma källa, i meningen efter citatet.
+vikt: 2
+bäst_före: '2027-02-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null

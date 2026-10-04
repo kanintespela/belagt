@@ -11,6 +11,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: Going through the message board we found at least 19 agents posting public keys by EoD July 13th,
     who sent a total 429 signed messages.
   hämtad: '2026-09-22'

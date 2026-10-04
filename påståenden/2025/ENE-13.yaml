@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://epoch.ai/gradient-updates/how-much-energy-does-chatgpt-use
   titel: How much energy does ChatGPT use?
+  typ: rapport
   citat: We find that typical ChatGPT queries using GPT-4o likely consume roughly 0.3 watt-hours, which
     is ten times less than the older estimate.
   hämtad: '2026-09-28'

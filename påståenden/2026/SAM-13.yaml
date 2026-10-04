@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Recent research suggests that general-purpose AI chatbots might amplify delusional thinking in
     already-vulnerable people
   hämtad: '2026-09-24'

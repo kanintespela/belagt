@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
   titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  typ: rapport
   citat: A substantial majority of respondents (82%) believe that systems with AGI should be publicly
     owned if developed by private entities
   hämtad: '2026-09-28'

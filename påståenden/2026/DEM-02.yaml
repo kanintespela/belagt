@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://claude.com/pricing
   titel: Pricing
+  typ: partsuppgift
   citat: '| Claude Code | No | Yes | Yes | Yes |'
   hämtad: '2026-09-22'
   arkiv: null

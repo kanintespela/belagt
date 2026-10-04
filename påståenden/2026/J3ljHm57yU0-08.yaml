@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://openai.com/index/navier-stokes-solution/
   titel: On the Navier–Stokes Millennium Prize Problem
+  typ: partsuppgift
   citat: This resolves the Navier–Stokes Millennium Prize problem by establishing statement “C” (and also
     “D”) in the
   hämtad: '2026-09-22'

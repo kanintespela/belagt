@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2401.02843
   titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  typ: preprint
   citat: More than half suggested that “substantial” or “extreme” concern is warranted about six different
     AI-related scenarios, including spread of false information, authoritarian population control, and
     worsened inequality.

@@ -1,0 +1,25 @@
+name: Förslag på ny post
+description: Ett påstående som saknas, med länk till primärkällan.
+labels: [förslag]
+body:
+  - type: textarea
+    id: påstående
+    attributes:
+      label: Påstående
+      description: Ett påstående, attribuerat ("X uppger att …"), som går att läsa utan sammanhang.
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: Primärkälla
+      description: Rapporten, lagtexten, artikeln eller intervjun själv, inte en artikel om den.
+    validations:
+      required: true
+  - type: textarea
+    id: citat
+    attributes:
+      label: Ordagrant citat ur källan
+      description: Högst 50 ord, kopierat exakt.
+    validations:
+      required: true

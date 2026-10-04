@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: highly concerning gain-of-function research is ongoing at these facilities
   hämtad: '2026-09-22'
   arkiv: null

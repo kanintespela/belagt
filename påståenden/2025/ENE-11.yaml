@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion
     dollars in 2024.
   hämtad: '2026-09-28'

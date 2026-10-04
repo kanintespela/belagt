@@ -1,0 +1,23 @@
+id: TID-25
+påstående: EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025. EU-kommissionen
+  och AI-styrelsen har bekräftat att den är ett lämpligt frivilligt sätt för leverantörerna att visa att de
+  följer AI-förordningen.
+typ: händelse
+vem: EU-kommissionen
+datum: '2025-07-10'
+tema:
+- styrning
+källa:
+  url: https://digital-strategy.ec.europa.eu/en/policies/contents-code-gpai
+  titel: The General-Purpose AI Code of Practice
+  typ: myndighet
+  citat: The code was published on July 10, 2025. … The Commission and the AI Board have confirmed that the
+    code is an adequate voluntary tool for providers of GPAI models to demonstrate compliance with the AI Act.
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter TID-14, som byggde på Future of Life Institutes sammanfattning. Koden är frivillig. Företag
+  som inte följer den måste visa på annat sätt att de uppfyller förordningens krav.
+vikt: 2
+bäst_före: '2027-07-01'
+kontrollerad: '2026-10-04'
+ersatt_av: null

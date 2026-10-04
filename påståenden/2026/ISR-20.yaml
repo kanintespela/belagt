@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Loss of control can therefore be understood as a risk with uncertain likelihood but potentially
     extreme severity.
   hämtad: '2026-09-24'

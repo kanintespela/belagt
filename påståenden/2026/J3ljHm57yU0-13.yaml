@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/an-alien-mind/
   titel: An Alien Mind
+  typ: partsuppgift
   citat: our evaluations indicate our ability to rely on CoT monitoring is progressively diminishing
   hämtad: '2026-09-22'
   arkiv: null

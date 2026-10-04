@@ -1,0 +1,28 @@
+id: KIN-33
+påstående: Kinas regler om märkning av AI-genererat innehåll gäller sedan den 1 september 2025 och kräver att
+  märkningen också följer tvingande nationella standarder.
+typ: händelse
+vem: Kinas cyberrymdsmyndighet (CAC) med flera myndigheter
+datum: '2025-03-14'
+tema:
+- styrning
+- missbruk
+källa:
+  url: https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm
+  titel: 关于印发《人工智能生成合成内容标识办法》的通知
+  typ: myndighet
+  citat: 服务提供者开展标识活动的，还应当符合相关法律、行政法规、部门规章和强制性国家标准的要求。… 本办法自2025年9月1日起施行。
+  språk: zh
+  översättning: Tjänsteleverantörer som märker innehåll ska också uppfylla kraven i relevanta lagar, förordningar,
+    myndighetsföreskrifter och tvingande nationella standarder. … Dessa bestämmelser gäller från den 1 september
+    2025.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter KIN-04, som återgav reglerna via Concordia AI. Hur märkningen ska gå till står i KIN-14.
+  Märkningskrav kan också tjäna informationskontroll.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

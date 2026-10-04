@@ -1,0 +1,27 @@
+id: JPN-01
+påstående: Japans AI-lag, som ska främja forskning om och användning av AI, utfärdades den 4 juni 2025 och
+  gäller fullt ut sedan den 1 september 2025, då också regeringens AI-strategihögkvarter inrättades.
+typ: händelse
+vem: Japans regeringskansli (Cabinet Office)
+datum: '2025-09-01'
+tema:
+- styrning
+- geopolitik
+källa:
+  url: https://www.cao.go.jp/press/new_wave/20251003.html
+  titel: ＡＩ法　全面施行 －次なるフェーズへ－
+  typ: myndighet
+  citat: 令和７年６月４日にＡＩ法が公布・一部施行され、９月１日にはＡＩ戦略本部の設置に係る規定等も含め、全面施行されました。
+  språk: ja
+  översättning: AI-lagen utfärdades och trädde delvis i kraft den 4 juni 2025 (Reiwa 7), och den 1 september
+    trädde den i kraft fullt ut, inklusive bestämmelserna om att inrätta AI-strategihögkvarteret.
+  översatt_av: Claude (AI)
+  granskad_av: null
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Lagen är en främjandelag och innehåller inga straffbestämmelser för företag, till skillnad från
+  EU:s AI-förordning. Den antogs av parlamentet den 28 maj 2025.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

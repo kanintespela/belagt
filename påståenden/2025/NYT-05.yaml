@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/
   titel: How a Gemma model helped discover a new potential cancer therapy pathway
+  typ: partsuppgift
   citat: C2S-Scale generated a novel hypothesis about cancer cellular behavior and we have since confirmed
     its prediction with experimental validation in living cells. This discovery reveals a promising new
     pathway for developing therapies to fight cancer.

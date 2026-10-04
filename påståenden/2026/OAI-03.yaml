@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://openai.com/index/research-acceleration-view-inside-openai/
   titel: 'Research acceleration: The view inside OpenAI'
+  typ: partsuppgift
   citat: We are making strong progress toward creating an automated AI researcher by March of 2028.
   hämtad: '2026-09-22'
   arkiv: null

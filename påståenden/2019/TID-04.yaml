@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://openai.com/index/better-language-models/
   titel: Better language models and their implications
+  typ: partsuppgift
   citat: We’ve trained a large-scale unsupervised language model which generates coherent paragraphs of
     text
   hämtad: '2026-09-22'

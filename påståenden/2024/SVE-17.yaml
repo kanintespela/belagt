@@ -1,0 +1,26 @@
+id: SVE-17
+påstående: EU:s AI-förordning kräver att leverantörer av AI-modeller för allmänna ändamål med systemrisk utvärderar
+  modellerna, bedömer och minskar riskerna, rapporterar allvarliga incidenter och skyddar modellerna mot cyberangrepp.
+typ: händelse
+vem: EU:s AI-förordning (förordning (EU) 2024/1689), artikel 55
+datum: '2024-07-12'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689
+  titel: Förordning (EU) 2024/1689 (AI-förordningen), EUR-Lex
+  typ: myndighet
+  citat: 'providers of general-purpose AI models with systemic risk shall: … perform model evaluation … assess
+    and mitigate possible systemic risks at Union level … report, without undue delay, to the AI Office … relevant
+    information about serious incidents … ensure an adequate level of cybersecurity protection'
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter SVE-10, som byggde på Future of Life Institutes sammanfattning. Datumet är förordningens
+  publicering i EU:s officiella tidning. Kraven gäller sedan den 2 augusti 2025. Enligt artikel 51.2 antas
+  en modell ha systemrisk om den har tränats med mer än 10^25 flyttalsoperationer. Förordningen innehåller
+  ingen paus eller hastighetsgräns.
+vikt: 3
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

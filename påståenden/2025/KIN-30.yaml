@@ -2,7 +2,7 @@ id: KIN-30
 påstående: Kinas premiärminister Li Qiang sa att AI:s risker väcker bred oro och att tekniken, hur den
   än förändras, måste förbli under mänsklig kontroll.
 typ: bedömning
-vem: Li Qiang, Kinas premiärminister, återgivet av Kinas utrikesministerium
+vem: Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium)
 datum: '2025-07-26'
 tema:
 - röster
@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml
   titel: 李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞
+  typ: myndighet
   citat: 同时人工智能带来的风险挑战引发广泛关注，如何在发展和安全之间寻求平衡，亟需进一步凝聚共识。无论科技如何变革，都应当为人类所利用、为人类所掌控
   hämtad: '2026-09-29'
   arkiv: null

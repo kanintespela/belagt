@@ -1,0 +1,25 @@
+id: TID-22
+påstående: I Bletchley-deklarationen från november 2023 konstaterade länderna att särskilda säkerhetsrisker
+  uppstår vid gränsen för vad AI klarar, bland annat genom avsiktligt missbruk och problem med att kontrollera
+  systemen, och att de är särskilt oroade för risker inom cybersäkerhet och bioteknik.
+typ: händelse
+vem: Länderna vid toppmötet om AI-säkerhet i Bletchley Park
+datum: '2023-11-01'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023
+  titel: The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023
+  typ: myndighet
+  citat: Particular safety risks arise at the ‘frontier’ of AI … Substantial risks may arise from potential
+    intentional misuse or unintended issues of control relating to alignment with human intent. … We are especially
+    concerned by such risks in domains such as cybersecurity and biotechnology
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Ersätter TID-10, som återgav deklarationen via International AI Safety Report 2026. Deklarationen
+  undertecknades av bland andra USA, Kina och EU, se TID-19. Den är en avsiktsförklaring och inte bindande.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

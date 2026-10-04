@@ -1,0 +1,23 @@
+id: IND-01
+påstående: Indiens regering godkände i mars 2024 satsningen IndiaAI Mission med en budget på 10 372 crore rupier
+  (omkring 1,2 miljarder US-dollar) över fem år, bland annat för en superdatorkapacitet med över 10 000 grafikprocessorer.
+typ: händelse
+vem: Indiens regering (IndiaAI, digitaliseringsministeriets AI-satsning)
+datum: '2024-03-07'
+tema:
+- geopolitik
+- tempo
+källa:
+  url: https://indiaai.gov.in/news/cabinet-approves-india-ai-mission-at-an-outlay-of-rs-10-372-crore
+  titel: Cabinet approves India AI mission at an outlay of Rs 10,372 crore
+  typ: myndighet
+  citat: the cabinet approved the India AI mission with a budget outlay of Rs 10,372 crore for five years …
+    the supercomputing capacity, comprising over 10,000 GPUs, will be made available to various stakeholders
+  hämtad: '2026-10-04'
+  arkiv: null
+förbehåll: Omräkningen till dollar är ungefärlig och gjord av Belagt. Satsningen ska ge nystartade företag,
+  forskare och industri tillgång till beräkningskraft. Det är en industripolitisk satsning, inte en reglering.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-04'
+ersatt_av: null

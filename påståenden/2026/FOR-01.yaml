@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: experts forecast a 50% chance that AI models will achieve 55% accuracy by 2027 and 75% accuracy
     by 2030 on undergraduate-level FrontierMath problems
   hämtad: '2026-09-24'
@@ -20,4 +21,4 @@ förbehåll: FrontierMath är Epoch AI:s test med nyskrivna matematikproblem som
 vikt: 2
 bäst_före: null
 kontrollerad: '2026-09-28'
-ersatt_av: null
+ersatt_av: FOR-24

@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
   titel: 'Concordia AI: State of AI Safety in China 2026'
+  typ: rapport
   citat: Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends
     to help build the structures of multilateral AI governance rather than merely participate in them.
   hämtad: '2026-09-24'
@@ -20,4 +21,4 @@ förbehåll: Relevant för PauseAI:s förslag, som förutsätter att USA och Kin
 vikt: 3
 bäst_före: '2027-07-01'
 kontrollerad: '2026-09-28'
-ersatt_av: null
+ersatt_av: KIN-34
