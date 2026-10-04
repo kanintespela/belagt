@@ -29,7 +29,7 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 - **Den internationella AI-säkerhetsrapporten slår fast att generell AI också ger betydande nytta, och att systemen redan används med nytta inom sjukvård, forskning och utbildning, men mycket ojämnt fördelat i världen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · nytta, förmågor · [NYT-01](../påståenden/2026/NYT-01.yaml)
   > While this Report focuses on risks, generalpurpose AI can also deliver significant benefits. These systems are already being usefully applied in healthcare, scientific research, education, and other sectors, albeit at highly uneven rates globally.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tyngsta möjliga källa för att nyttan är verklig: samma rapport som är huvudkällan för riskerna. Rapporten är utgiven under Open Government Licence v3.0, som tillåter återgivning och bearbetning med källangivelse.
 - **PauseAI:s eget förslag anger att ett fördrag i regel inte skulle träffa smala AI-system, och tar bildigenkänning för cancerdiagnostik som exempel.**
@@ -66,7 +66,7 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 - **IEA bedömer att farhågorna om att AI påskyndar klimatförändringarna verkar överdrivna, liksom förhoppningarna om att AI på egen hand ska lösa klimatfrågan.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, nytta · [ENE-08](../påståenden/2025/ENE-08.yaml)
   > Concerns that AI could accelerate climate change appear overstated, as do expectations that AI alone will address the issue
-  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary) · [arkivkopia](https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Rubriken sammanfattar IEA:s slutsats. Se [ENE-07](https://kanintespela.github.io/belagt/#ENE-07) och [ENE-09](https://kanintespela.github.io/belagt/#ENE-09) för siffrorna bakom.
 - **Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.**
@@ -96,7 +96,7 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 - **IEA uppskattar att en bred användning av befintliga AI-lösningar kan minska utsläppen med motsvarande omkring 5 procent av de energirelaterade utsläppen 2035, vilket är mycket mer än datacentrens utsläpp men långt ifrån vad som behövs för att lösa klimatfrågan.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, nytta · [ENE-09](../påståenden/2025/ENE-09.yaml)
   > We estimate that emissions reductions from the broad application of existing AI-led solutions to be equivalent to around 5% of energy-related emissions in 2035.
-  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary) · [arkivkopia](https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Förutsätter att hinder för användningen övervinns. Rekyleffekter, till exempel att folk väljer självkörande bilar i stället för kollektivtrafik, kan äta upp en del av vinsten.
 - **Amodei beskrev ett möjligt scenario där cancer är botad, ekonomin växer med 10 procent om året och budgeten är i balans, samtidigt som 20 procent av befolkningen saknar jobb.**

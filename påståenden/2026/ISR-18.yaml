@@ -13,7 +13,7 @@ källa:
   citat: models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’
     that has been observed in experiments
   hämtad: '2026-09-24'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012
 förbehåll: Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett
   exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.
 vikt: 2

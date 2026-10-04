@@ -13,7 +13,7 @@ källa:
   citat: En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs
     innehåller felaktigheter, utan att vara rättssäker.
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260514044615/https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling
 förbehåll: Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar
   på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.
 vikt: 3

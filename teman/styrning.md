@@ -17,25 +17,25 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Rapporten beskriver ett evidensdilemma: AI-systemen blir snabbt mer kapabla, men belägg om riskerna kommer långsamt och är svåra att bedöma. Den som agerar för tidigt riskerar att låsa fast verkningslösa åtgärder, och den som väntar på säkra data kan lämna samhället sårbart.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-02](../påståenden/2026/ISR-02.yaml)
   > AI systems are rapidly becoming more capable, but evidence on their risks is slow to emerge and difficult to assess.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Ett av rapportens bärande begrepp och en bra ingång till frågan varför det är svårt att reglera AI.
 - **Under 2025 släppte flera AI-utvecklare nya modeller med extra skydd, eftersom de inte kunde utesluta att modellerna kunde hjälpa nybörjare att ta fram biologiska eller kemiska vapen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · missbruk, styrning · [ISR-12](../påståenden/2026/ISR-12.yaml)
   > In 2025, multiple developers released new models with additional safeguards after they could not exclude the possibility that these models could assist novices in developing such weapons.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att det är svårt att bedöma i vilken grad materiella hinder, som tillgång till laboratorier och material, fortfarande stoppar den som försöker.
 - **Rapporten pekar på institutionella hinder för riskhantering: utvecklarna har incitament att hålla viktig information hemlig, och tempot i utvecklingen kan skapa press att prioritera snabbhet framför riskhantering.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-28](../påståenden/2026/ISR-28.yaml)
   > Institutionally, developers have incentives to keep important information proprietary, and the pace of development can create pressure to prioritise speed over risk management
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [OAI-01](https://kanintespela.github.io/belagt/#OAI-01), där OpenAI själva skriver att allmänheten behöver mer insyn.
 - **Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, styrning · [ISR-29](../påståenden/2026/ISR-29.yaml)
   > Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten kallar det sista för ett utvärderingsgap.
 - **PauseAI föreslår en tillfällig, global paus i träningen av de mest kraftfulla AI-systemen för allmänna ändamål, tills vi vet hur de kan byggas säkert och hållas under demokratisk kontroll.**
@@ -77,7 +77,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Kina har ställt sig bakom två nya FN-mekanismer för AI och har föreslagit en världsorganisation för AI-samarbete, WAICO.**
   Kinas regering, återgivet av Concordia AI · 2026-06 · styrning, geopolitik · [KIN-05](../påståenden/2026/KIN-05.yaml)
   > Beijing has also proposed a new World AI Cooperation Organization, signaling that it intends to help build the structures of multilateral AI governance rather than merely participate in them.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Relevant för PauseAI:s förslag, som förutsätter att USA och Kina ingår i ett internationellt avtal. De två mekanismerna är International Scientific Panel on AI och Global Dialogue on AI Governance. WAICO:s tidplan, ledning och medlemskrets var obekräftade i juni 2026.
 - **Enligt en undersökning från juni 2026 anser bara 10 procent av svenskarna att AI är tillräckligt reglerat, medan 51 procent tycker att tillsynen är otillräcklig. Hälften vill att AI-bolag ska kunna hållas skadeståndsansvariga.**
@@ -89,13 +89,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Enligt Concordia AI:s årliga genomgång riktar Kinas bindande regler och standarder allt oftare in sig på specifika AI-risker som går utöver kontroll av politiskt innehåll.**
   Concordia AI, State of AI Safety in China (2026) · 2026-07 · styrning, geopolitik · [KIN-01](../påståenden/2026/KIN-01.yaml)
   > Binding rules and standards increasingly target specific AI risks that go beyond polit- ical content control.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kärnpåstående för förbehållet: formuleringen går utöver erkänner underförstått att kontroll av politiskt innehåll har varit drivkraften historiskt. Concordia AI är oberoende och den ledande engelskspråkiga källan på kinesisk AI-styrning. Rapporten täcker juli 2025 till juni 2026.
 - **Kina införde från juli 2026 bindande regler för AI-kompanjontjänster med krav på suicidprevention, åtgärder mot beroende och skydd för minderåriga och äldre.**
   Kinas myndigheter, återgivet av Concordia AI · 2026-07 · styrning · [KIN-02](../påståenden/2026/KIN-02.yaml)
   > New Interim Measures on Anthropomorphic AI Interaction Services, effective July 2026, impose obligations on AI companion services around suicide intervention, addiction pre- vention, and protection of minors and the elderly.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Konkret exempel på reglering som svårligen kan avfärdas som informationskontroll. Jämför med att motsvarande bindande krav saknas i EU och USA.
 - **I juli 2026 gav regeringen Försvarets radioanstalt (FRA) i uppdrag att samordna arbetet mot AI-drivna cyberhot och att vara Sveriges kontaktpunkt för företag som gör avancerade AI-modeller.**
@@ -209,31 +209,31 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Kina har ett obligatoriskt filningsregister där alla publika AI-tjänster måste registreras innan de får släppas, och registret kan byggas på med krav för enskilda områden.**
   Kinas myndigheter, återgivet av Concordia AI · 2026 · styrning · [KIN-03](../påståenden/2026/KIN-03.yaml)
   > the mandatory filing system for all public-facing AI services
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Registret är grunden i kinesisk AI-reglering och saknar motsvarighet i väst. Att en tjänst måste anmälas före lansering är en betydligt hårdare ordning än EU:s AI-förordning på den här punkten.
 - **Den internationella AI-säkerhetsrapporten 2026 skrevs med vägledning från över 100 oberoende experter, bland dem personer nominerade av över 30 länder och av EU, OECD och FN, och skribenterna hade full frihet över innehållet.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, röster · [ISR-01](../påståenden/2026/ISR-01.yaml)
   > It was written with guidance from over 100 independent experts, including nominees from more than 30 countries and international organisations, such as the EU, OECD, and UN.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapportserien beställdes av världens regeringar vid AI-säkerhetstoppmötet i Bletchley Park 2023. Den ger inga politiska rekommendationer. Det gör den till den tyngsta enskilda källan för politiker. Fokus ligger på risker vid gränsen för vad AI klarar, inte på till exempel partiskhet, miljö eller upphovsrätt.
 - **Under 2025 publicerade eller uppdaterade 12 AI-företag sina ramverk för säkerhet vid gränsen för AI:s förmåga, alltså dokument som beskriver hur de ska hantera risker när de bygger mer kapabla modeller.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning · [ISR-27](../påståenden/2026/ISR-27.yaml)
   > In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that describe how they plan to manage risks as they build more capable models.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att riskhanteringen till största delen är frivillig, men att ett fåtal regelverk har börjat göra vissa delar till lagkrav, bland dem EU:s AI-förordning ([SVE-10](https://kanintespela.github.io/belagt/#SVE-10)).
 - **Rapporten konstaterar att AI-modeller med öppna vikter inte kan återkallas när de väl har släppts, att deras skydd är lättare att ta bort, och att de kan användas utanför övervakade miljöer.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · styrning, missbruk · [ISR-31](../påståenden/2026/ISR-31.yaml)
   > However, they cannot be recalled once released, their safeguards are easier to remove, and actors can use them outside of monitored environments
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver också att öppna modeller ger betydande nytta för forskning och företag, särskilt för aktörer med mindre resurser. Båda sidorna bör återges.
 - **Kinesisk forskning om säkerhet hos de mest avancerade AI-modellerna växte kraftigt, med ungefär 60 procent högre månadsproduktion sedan juni 2025, och agentsäkerhet är nu det mest aktiva området.**
   Concordia AI, State of AI Safety in China (2026) · 2026-04 · styrning, kontroll · [KIN-06](../påståenden/2026/KIN-06.yaml)
   > Chinese frontier AI safety research output has grown substantially, with monthly output up roughly 60% since June 2025.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Talar mot bilden att Kina enbart kapplöper utan att bry sig om säkerhet. Säger inget om kvaliteten på forskningen eller om den påverkar besluten.
 - **PauseAI medger att en paus kan slå fel om den genomförs dåligt, och menar att deras förslag hanterar de allvarligaste nackdelarna.**
@@ -396,25 +396,25 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **70 procent av de tillfrågade i AAAI:s enkät var emot att stoppa forskning som syftar till AGI tills det finns fullständiga säkerhets- och kontrollmekanismer.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-19](../påståenden/2025/FOR-19.yaml)
   > most respondents (70%) oppose the proposition that we should halt research aimed at AGI until full safety and control mechanisms are established
-  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde forskning mot AGI i allmänhet. PauseAI:s förslag gäller träningen av de mest kraftfulla systemen ([PAI-01](https://kanintespela.github.io/belagt/#PAI-01)), så svaret säger inte direkt vad forskarna tycker om det.
 - **Narayanan och Kapoor menar att det trots den skarpa retoriken om en kapplöpning mellan USA och Kina inte är klarlagt att AI-regleringen har bromsat in i något av länderna.**
   Arvind Narayanan och Sayash Kapoor (Princeton, författare till AI Snake Oil) · 2025-04-15 · styrning, geopolitik, röster · [KIN-08](../påståenden/2025/KIN-08.yaml)
   > Despite shrill U.S.-China arms race rhetoric, it is not clear that AI regulation has slowed down in either country.
-  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology) · [arkivkopia](https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Väger tungt eftersom författarna är kända skeptiker mot AI-hype i båda riktningarna, alltså svåra att avfärda som partiska för PauseAI. De pekar bland annat på att 700 AI-relaterade lagförslag lades i amerikanska delstatsparlament under 2024.
 - **EU:s AI-förordning ställer extra krav på AI-modeller med så kallad systemrisk, till exempel de som tränats med mer än 10^25 beräkningsoperationer. Tillverkarna måste utvärdera modellerna, bedöma och minska riskerna, rapportera allvarliga incidenter och skydda dem mot cyberattacker.**
   EU:s AI-förordning (sammanfattning från artificialintelligenceact.eu) · 2025-08-02 · styrning · [SVE-10](../påståenden/2025/SVE-10.yaml)
   > All providers of GPAI models that present a systemic risk – open or closed – must also conduct model evaluations and risk assessments and mitigations, track and report serious incidents and ensure cybersecurity protections.
-  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/) · [arkivkopia](https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Kraven på modeller för allmänna ändamål (GPAI) gäller sedan 2 augusti 2025. Sammanfattningen kommer från Future of Life Institute och inte från EU. Kontrollera formuleringarna mot förordningens text innan de används i utskick. Förordningen innehåller ingen paus eller hastighetsgräns.
 - **Kina har infört stränga regler om märkning av AI-genererat innehåll, med standarder som anger hur märkning och vattenstämpling ska gå till.**
   Kinas myndigheter, återgivet av Concordia AI · 2025 · styrning, missbruk · [KIN-04](../påståenden/2025/KIN-04.yaml)
   > the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting strict rules around labeling AI-generated content.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Kina har här gått längre än EU. Samtidigt är märkningskrav ett verktyg som också tjänar informationskontroll.
 - **Chalmersforskarna varnar för att ett stopp för AI-forskningen skulle bromsa nyttan, till exempel för läkemedel och bilddiagnostik, och kunna flytta utvecklingen till slutna miljöer där säkerhetsarbetet blir svårare.**
@@ -426,25 +426,25 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **De flesta av AI-förordningens förbud mot vissa AI-system har gällt sedan den 2 februari 2025.**
   EU, återgivet av artificialintelligenceact.eu · 2025-02-02 · styrning · [TID-12](../påståenden/2025/TID-12.yaml)
   > Most prohibitions of AI systems have been applicable since 2 February 2025
-  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/) · [arkivkopia](https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förbud mot AI-system som skapar sexuella bilder utan samtycke och övergreppsmaterial mot barn börjar gälla den 2 december 2026.
 - **Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning och riskerna med den.**
   Anna Tenje (M), statsråd, svar i riksdagen · 2025-02-05 · rättigheter, styrning · [BIA-06](../påståenden/2025/BIA-06.yaml)
   > Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.
-  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/) · [arkivkopia](https://web.archive.org/web/20260114124538/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
 
   *Förbehåll:* Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.
 - **77 procent av de tillfrågade i AAAI:s enkät vill hellre att AI-system utformas med en acceptabel balans mellan risk och nytta än att man direkt jagar AGI.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-20](../påståenden/2025/FOR-20.yaml)
   > majority (77%) of respondents prioritize designing AI systems with an acceptable risk-benefit profile over the direct pursuit of AGI (23%)
-  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild.
 - **82 procent av de tillfrågade i AAAI:s enkät anser att AGI-system bör ägas gemensamt av allmänheten om de utvecklas av privata aktörer.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · styrning, röster · [FOR-21](../påståenden/2025/FOR-21.yaml)
   > A substantial majority of respondents (82%) believe that systems with AGI should be publicly owned if developed by private entities
-  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Rapporten tolkar svaret som oro för globala risker och etiskt ansvar. Jämför [PAI-04](https://kanintespela.github.io/belagt/#PAI-04) om att nyttan ska komma alla till del.
 - **Kina kräver att AI-genererat innehåll märks både synligt, för användaren, och dolt, i filens metadata.**
@@ -452,13 +452,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > 人工智能生成合成内容标识包括显式标识和隐式标识。
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Märkning av AI-genererat och syntetiskt innehåll omfattar synlig märkning och dold märkning.
-  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
+  > — [关于印发《人工智能生成合成内容标识办法》的通知](https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm) · [arkivkopia](https://web.archive.org/web/20260928125716/https://www.cac.gov.cn/2025-03/14/c_1743654684782215.htm)
 
   *Förbehåll:* Reglerna gäller från 2025-09-01 (§ 14). Synlig märkning är text, ljud eller grafik som användaren märker. Dold märkning läggs in i filens metadata och anger bland annat leverantör och innehållsnummer. Den som vill ha innehåll utan synlig märkning kan få det mot ett användaravtal, och uppgifterna sparas då i minst sex månader (§ 9). Primärkällan till [KIN-04](https://kanintespela.github.io/belagt/#KIN-04).
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
-  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology) · [arkivkopia](https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska ingrepp kan göra saken värre om AI visar sig vara en normal teknik.
 - **Nätverket Folkets AI-kommission kritiserar AI-kommissionen för att göra AI till en tekniskt-ekonomisk optimeringsfråga, och saknar analys av arbetslöshet, övervakning, demokrati, maktkoncentration och medborgarnas inflytande.**
@@ -476,7 +476,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **EU:s uppförandekod för AI-modeller för allmänna ändamål publicerades den 10 juli 2025 och godkändes av EU-kommissionen och AI-styrelsen den 1 augusti 2025.**
   EU, återgivet av artificialintelligenceact.eu · 2025-07-10 · styrning · [TID-14](../påståenden/2025/TID-14.yaml)
   > Published on 10 July 2025 and declared adequate by the European Commission and the AI Board on 1 August 2025.
-  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/) · [arkivkopia](https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Koden är frivillig, men företag som följer den visar därmed att de uppfyller förordningens krav. Enligt källan hade mer än 20 leverantörer anslutit sig i augusti 2026.
 - **Kinas handlingsplan för global AI-styrning uppmanar till riskbedömningar, ett gemensamt ramverk för säkerhetsstyrning och system för att testa och utvärdera AI-risker.**
@@ -484,7 +484,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > 及时开展人工智能风险研判，提出针对性防范应对措施，构建具有广泛共识的安全治理框架。探索分类分级管理，建立人工智能风险测试评估体系
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Genomför AI-riskbedömningar i tid, ta fram riktade förebyggande åtgärder och bygg ett ramverk för säkerhetsstyrning med bred samsyn. Utforska klassificering och nivåindelad förvaltning och bygg ett system för att testa och utvärdera AI-risker
-  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml) · [arkivkopia](https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Handlingsplanen har tretton punkter, och tyngdpunkten ligger på att sprida AI och på utvecklingsländernas tillgång. Det här är punkt tio. Planen är ett förslag och är inte bindande.
 - **Kinas handlingsplan för global AI-styrning vill att FN ska vara huvudkanalen för den internationella styrningen av AI.**
@@ -492,7 +492,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > 坚持以联合国为主渠道
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* hålla fast vid FN som huvudkanal
-  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
+  > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml) · [arkivkopia](https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
   *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
 - **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
@@ -536,7 +536,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Den första internationella AI-säkerhetsrapporten publicerades i januari 2025.**
   International AI Safety Report 2026 · 2025-01 · styrning · [TID-13](../påståenden/2025/TID-13.yaml)
   > Since the publication of the last Report (January 2025)
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Den andra rapporten kom i februari 2026 ([ISR-01](https://kanintespela.github.io/belagt/#ISR-01)).
 
@@ -545,31 +545,31 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **EU:s AI-förordning trädde i kraft den 1 augusti 2024, och reglerna börjar sedan gälla stegvis.**
   EU, återgivet av artificialintelligenceact.eu · 2024-08-01 · styrning · [TID-11](../påståenden/2024/TID-11.yaml)
   > After the AI Act entered into force on 1 August 2024, the application of the Act’s provisions has been and is continued to be rolled out gradually.
-  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/)
+  > — [High-level summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/) · [arkivkopia](https://web.archive.org/web/20260922123139/https://artificialintelligenceact.eu/high-level-summary/)
 
   *Förbehåll:* Förordningen är världens första breda lag om AI. Senare steg: [SVE-10](https://kanintespela.github.io/belagt/#SVE-10) och [SVE-11](https://kanintespela.github.io/belagt/#SVE-11).
 - **Regeringens AI-kommission föreslog i november 2024 att Sverige ska inrätta ett institut för AI-säkerhet, som forskar om AI:s säkerhetsrisker och publicerar en årlig rapport. Institutet ska också säga ifrån när en risk visar sig vara överdriven.**
   AI-kommissionen (SOU 2025:12, AI-kommissionens färdplan för Sverige) · 2024-11-26 · styrning · [SVE-01](../påståenden/2024/SVE-01.yaml)
   > I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven bör den ha ett tydligt uppdrag att påtala det.
-  > — [AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/)
+  > — [AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/) · [arkivkopia](https://web.archive.org/web/20251124055004/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/)
 
   *Förbehåll:* Ett av kommissionens 75 förslag. Kommissionen ville ha en självständig myndighet med ett expertråd från bland annat FRA, Försvarsmakten, MSB och Säpo. Enligt Häggström och Centerpartiet har regeringen inte genomfört förslaget ([SVE-02](https://kanintespela.github.io/belagt/#SVE-02), [SVE-04](https://kanintespela.github.io/belagt/#SVE-04)), men det har inte kontrollerats mot regeringens egna uppgifter.
 - **En stor majoritet av AI-forskarna ansåg att forskning om AI-säkerhet borde prioriteras mer än den gör i dag.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-15](../påståenden/2024/FOR-15.yaml)
   > A large majority of respondents thought that AI safety research should be prioritized more than it currently is.
-  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843) · [arkivkopia](https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Andelen har ökat jämfört med tidigare enkäter, men bara lite sedan 2022.
 - **AI-forskarna var oense om huruvida snabbare eller långsammare AI-utveckling vore bäst för mänsklighetens framtid.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · styrning, röster · [FOR-17](../påståenden/2024/FOR-17.yaml)
   > There was disagreement about whether faster or slower AI progress would be better for the future of humanity.
-  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843) · [arkivkopia](https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Direkt relevant för frågan om paus. Det finns ingen forskarkonsensus åt något håll.
 - **Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina algoritmer för att upptäcka fusk.**
   Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, styrning · [BIA-03](../påståenden/2024/BIA-03.yaml)
   > Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.
-  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/) · [arkivkopia](https://web.archive.org/web/20260930113618/https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
 
   *Förbehåll:* Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.
 
@@ -590,24 +590,24 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Toppmötet om AI-säkerhet i Bletchley Park 2023 slutade med en deklaration om att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat missbruk, kontrollfrågor och cyberrisker.**
   Bletchley-deklarationen, återgiven i International AI Safety Report 2026 · 2023-11 · styrning · [TID-10](../påståenden/2023/TID-10.yaml)
   > The Bletchley Declaration, issued following the 2023 AI Safety Summit, emphasised that “particular safety risks arise at the ‘frontier’ of AI”, including risks from misuse, issues of control, and cybersecurity risks.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Toppmötet hölls 1–2 november 2023 i Storbritannien. Månaden står inte i citatet. Mötet gav upphov till den internationella AI-säkerhetsrapporten ([ISR-01](https://kanintespela.github.io/belagt/#ISR-01)) och följdes av toppmöten i Seoul (2024), Paris (2025) och Indien (2026).
 - **I Bletchley-deklarationen från november 2023, som bland annat USA, Kina och EU skrev under, konstaterade länderna att de mest kapabla AI-modellerna kan orsaka allvarlig, till och med katastrofal, skada, avsiktligt eller oavsiktligt.**
   Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, geopolitik · [TID-19](../påståenden/2023/TID-19.yaml)
   > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
-  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+  > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023) · [arkivkopia](https://web.archive.org/web/20261001115437/https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
   *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
 - **Akademikerförbundet SSR:s chefsekonom och ett antal forskare skrev 2023 att den offentliga förvaltningen är alltför oförberedd på AI-utvecklingen och krävde en algoritmpolitik.**
   Simon Vinge (chefsekonom, Akademikerförbundet SSR) och forskare, debattartikel i Dagens Industri · 2023 · styrning, röster, samhälle · [SVS-14](../påståenden/2023/SVS-14.yaml)
   > Den offentliga förvaltningen är alltför oförberedd på teknikutvecklingen
-  > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
+  > — [Debatt: Oreglerad AI farlig för demokratin](https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin) · [arkivkopia](https://web.archive.org/web/20261004190953/https://akademssr.se/post/debatt-oreglerad-ai-farlig-demokratin)
 
   *Förbehåll:* Skriven våren 2023, strax efter uppropet om en paus ([TID-07](https://kanintespela.github.io/belagt/#TID-07)). Artikeln fokuserar på välfärd, domstolar och offentlighetsprincipen. Jämför fallet med Försäkringskassan ([BIA-02](https://kanintespela.github.io/belagt/#BIA-02)).
 - **I november 2023 avsatte OpenAI:s styrelse vd:n Sam Altman med motiveringen att han inte konsekvent varit uppriktig mot styrelsen, vilket hindrade den från att utöva sitt ansvar.**
   OpenAI:s styrelse · 2023-11-17 · styrning · [TID-18](../påståenden/2023/TID-18.yaml)
   > Mr. Altman’s departure follows a deliberative review process by the board, which concluded that he was not consistently candid in his communications with the board, hindering its ability to exercise its responsibilities.
-  > — [OpenAI announces leadership transition](https://openai.com/index/openai-announces-leadership-transition/)
+  > — [OpenAI announces leadership transition](https://openai.com/index/openai-announces-leadership-transition/) · [arkivkopia](https://web.archive.org/web/20260914085842/https://openai.com/index/openai-announces-leadership-transition/)
 
   *Förbehåll:* Altman återkom som vd några dagar senare och styrelsen byttes ut. Det står inte i den här källan, som bara är styrelsens första meddelande. Händelsen används ofta som exempel på hur svårt det är att styra ett AI-företag inifrån.

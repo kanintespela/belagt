@@ -11,13 +11,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **I en pilotstudie gav experter på AI-prognoser en median på 20 procents sannolikhet för att de närmaste årens framsteg kan pressa ihop sex års utveckling (2018–2024) på två år. Så kallade superprognosmakare, skickliga generalister på prognoser, bedömde sannolikheten till 8 procent.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-02](../påståenden/2026/FOR-02.yaml)
   > AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist forecasters) estimated only 8%.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Frågan gällde om AI som hjälper till med AI-forskning kan få utvecklingen att accelerera dramatiskt. Att de två grupperna skiljer sig så mycket är i sig ett belägg för hur osäkert läget är.
 - **Rapporten bedömer att det fram till 2030 är rimligt att AI-utvecklingen antingen bromsar in eller planar ut, fortsätter i samma takt eller accelererar dramatiskt, till exempel om AI börjar snabba upp AI-forskningen själv.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, självförbättring · [ISR-06](../påståenden/2026/ISR-06.yaml)
   > Between now and 2030, it is plausible that progress could slow or plateau (e.g. due to bottlenecks in data or energy), continue at current rates, or accelerate dramatically (e.g. if AI systems begin to speed up AI research itself).
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att det saknas konsensus bland experter om vilken bana som är mest trolig. Möjliga flaskhalsar är data och energi.
 - **LeCun anser att dagens AI fortfarande är dålig på att resonera och att den inte kommer att nå mänsklig nivå på länge. Han påpekar att AI-forskare historiskt har varit för optimistiska om när det ska ske.**
@@ -71,25 +71,25 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **Samma prognosmakare höjde sin bedömning till 18 procent i scenarier där AI-system presterar bättre än mänskliga forskare på forskningsprojekt som tar en månad.**
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · tempo, självförbättring, röster · [FOR-03](../påståenden/2026/FOR-03.yaml)
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **Enligt rapporten har AI-förmågorna fortsatt att förbättras, främst genom att modellerna får använda mer beräkningskraft till mellansteg innan de svarar. Det har gett särskilt stora vinster i matematik, programmering och naturvetenskap.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · förmågor, tempo · [ISR-03](../påståenden/2026/ISR-03.yaml)
   > This technique has led to particularly large performance gains on more complex reasoning tasks in mathematics, software engineering, and science.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Tekniken kallas inference-time scaling. Rapporten täcker utvecklingen fram till början av 2026.
 - **AI-företagen har aviserat investeringar på hundratals miljarder dollar i datahallar, vilket visar att de satsar på att beräkningskraft förblir avgörande för utvecklingen.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo · [ISR-07](../påståenden/2026/ISR-07.yaml)
   > AI developers are betting that computing power will remain important, having announced hundreds of billions of dollars in data centre investments.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Jämför [TID-01](https://kanintespela.github.io/belagt/#TID-01) om hur snabbt beräkningskraften för träning har ökat.
 - **Enligt rapporten använde 700 miljoner människor OpenAI:s ChatGPT varje vecka, jämfört med 200 miljoner ett år tidigare.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · tempo, samhälle · [ISR-26](../påståenden/2026/ISR-26.yaml)
   > 700 million people using OpenAI’s ChatGPT every week, up from 200 million a year before
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Uppgiften kommer ursprungligen från OpenAI. Rapporten skriver också att användningen är mycket ojämnt fördelad i världen. Jämför [SVR-16](https://kanintespela.github.io/belagt/#SVR-16) om användningen i Sverige.
 - **Stockholmsbolaget Lovable, som låter människor utan programmeringskunskaper bygga appar genom att chatta med AI, värderades i augusti 2026 till 13,3 miljarder dollar, alltså 127 miljarder kronor. Det är mer än börsvärdet för SKF, Skanska och Securitas.**
@@ -132,7 +132,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **76 procent av de tillfrågade AI-forskarna i AAAI:s enkät bedömde att det är osannolikt eller mycket osannolikt att man når AGI genom att skala upp dagens AI-metoder.**
   AAAI:s ordförandepanel om AI-forskningens framtid (enkät med 475 svarande) · 2025-03 · förmågor, tempo, röster · [FOR-18](../påståenden/2025/FOR-18.yaml)
   > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
-  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
+  > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
   *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
@@ -144,13 +144,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **Forskarna Arvind Narayanan och Sayash Kapoor menar att AI är en ”normal teknik”, som elektricitet eller internet, och att dess stora samhällseffekter kommer att ta årtionden snarare än år.**
   Arvind Narayanan och Sayash Kapoor (datavetare, Princeton) · 2025-04 · tempo, röster · [BAL-08](../påståenden/2025/BAL-08.yaml)
   > we explain why we think that transformative economic and societal impacts will be slow (on the timescale of decades)
-  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology) · [arkivkopia](https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* Den mest genomarbetade akademiska motbilden till superintelligensperspektivet, och mycket spridd. Deras huvudpoäng är att tekniken kan uppfinnas snabbt men att den sprids och införs långsamt. Texten skrevs 2025, så fråga om 2026 års händelser ändrar deras bild.
 - **IEA räknar med att datacentrens elförbrukning mer än fördubblas till omkring 945 terawattimmar 2030, något mer än hela Japans elförbrukning i dag. AI är den viktigaste drivkraften.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, tempo · [ENE-02](../påståenden/2025/ENE-02.yaml)
   > Data centre electricity consumption is set to more than double to around 945 TWh by 2030. This is slightly more than Japan’s total electricity consumption today.
-  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary) · [arkivkopia](https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Osäkerheten är stor, se [ENE-10](https://kanintespela.github.io/belagt/#ENE-10).
 - **Kinas regering har som mål att över 70 procent ska använda nya generationens smarta enheter och AI-agenter till 2027.**
@@ -170,13 +170,13 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **De globala investeringarna i datacenter har nästan fördubblats sedan 2022 och uppgick till en halv biljon dollar 2024.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, tempo · [ENE-11](../påståenden/2025/ENE-11.yaml)
   > Global investment in data centres has nearly doubled since 2022 and amounted to half a trillion dollars in 2024.
-  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary)
+  > — [Executive summary – Energy and AI – Analysis - IEA](https://www.iea.org/reports/energy-and-ai/executive-summary) · [arkivkopia](https://web.archive.org/web/20260927123916/https://www.iea.org/reports/energy-and-ai/executive-summary)
 
   *Förbehåll:* Rapporten publicerades i april 2025; månaden står inte i den hämtade texten. Jämför [ISR-07](https://kanintespela.github.io/belagt/#ISR-07) om AI-företagens aviserade investeringar.
 - **Google uppger att energin per typisk textfråga till Gemini minskade 33 gånger och koldioxidavtrycket 44 gånger på ett år, tack vare effektivare programvara och köp av ren el.**
   Google (Elsworth m.fl., bland dem Jeff Dean) · 2025-08-21 · miljö, tempo · [ENE-15](../påståenden/2025/ENE-15.yaml)
   > Google’s software efficiency efforts and clean energy procurement have driven a 33x reduction in energy consumption and a 44x reduction in carbon footprint for the median Gemini Apps text prompt over one year.
-  > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734)
+  > — [Google: Measuring the environmental impact of delivering AI at Google scale (2025)](https://arxiv.org/abs/2508.15734) · [arkivkopia](https://web.archive.org/web/20260922143727/https://arxiv.org/abs/2508.15734)
 
   *Förbehåll:* Partsuppgift. Effektiviseringen per fråga kan ätas upp av att antalet frågor växer, vilket IEA:s prognoser ([ENE-02](https://kanintespela.github.io/belagt/#ENE-02)) tar hänsyn till.
 
@@ -185,7 +185,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **AI-forskarna i AI Impacts enkät bedömde att det är 10 procents chans att maskiner utan hjälp överträffar människor i alla tänkbara uppgifter till 2027, och 50 procents chans till 2047. Det är 13 år tidigare än i samma enkät ett år innan.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · tempo, röster · [FOR-11](../påståenden/2024/FOR-11.yaml)
   > the chance of unaided machines outperforming humans in every possible task was estimated at 10% by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey we conducted only one year earlier
-  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843) · [arkivkopia](https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Villkoret var att vetenskapen fortsätter ostört. Att bedömningen flyttades fram 13 år på ett år visar hur snabbt forskarnas förväntningar ändrades efter ChatGPT.
 - **Dario Amodei skrev i oktober 2024 att kraftfull AI skulle kunna komma redan 2026, men att det också kan ta mycket längre tid.**
@@ -206,7 +206,7 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **I mars 2023 presenterade OpenAI GPT-4, som klarade ett simulerat advokatprov bland de bästa tio procenten, medan föregångaren hamnade bland de sämsta tio procenten.**
   OpenAI · 2023-03-14 · förmågor, tempo · [TID-06](../påståenden/2023/TID-06.yaml)
   > it passes a simulated bar exam with a score around the top 10% of test takers; in contrast, GPT‑3.5’s score was around the bottom 10%.
-  > — [GPT-4](https://openai.com/index/gpt-4-research/)
+  > — [GPT-4](https://openai.com/index/gpt-4-research/) · [arkivkopia](https://web.archive.org/web/20260927035241/https://openai.com/index/gpt-4-research/)
 
   *Förbehåll:* Tidslinjekort. Uppgiften kommer från OpenAI själva.
 
@@ -215,6 +215,6 @@ Hur snabbt utvecklingen går och varför: beräkningskraft, investeringar och sk
 - **I maj 2020 presenterade OpenAI GPT-3, en språkmodell med 175 miljarder parametrar, tio gånger fler än någon tidigare språkmodell av samma slag.**
   OpenAI (Brown m.fl.) · 2020-05 · förmågor, tempo · [TID-17](../påståenden/2020/TID-17.yaml)
   > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
-  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165)
+  > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165) · [arkivkopia](https://web.archive.org/web/20260929162501/https://arxiv.org/abs/2005.14165)
 
   *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT ([TID-05](https://kanintespela.github.io/belagt/#TID-05)) byggde på en vidareutveckling.

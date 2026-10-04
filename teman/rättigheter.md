@@ -52,13 +52,13 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
 - **Enligt en skriftlig fråga i riksdagen konstaterade ISF 2018 att Försäkringskassans algoritm i sin dåvarande utformning inte uppfyllde kraven på likabehandling. Försäkringskassan ansåg att analysen var bristfällig.**
   Isabell Mixter (V), skriftlig fråga i riksdagen · 2025-01-28 · rättigheter, röster · [BIA-05](../påståenden/2025/BIA-05.yaml)
   > ISF konstaterade i en rapport från 2018 att den algoritm som används av myndigheten ”i sin nuvarande utformning inte uppfyller kraven på likabehandling”.
-  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/) · [arkivkopia](https://web.archive.org/web/20260114124538/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
 
   *Förbehåll:* Citatet ur ISF:s rapport är återgivet i frågan. Frågan tar också upp att ett tidigare dataskyddsombud 2020 varnade för att verksamheten saknade rättslig grund.
 - **Statsrådet Anna Tenje svarade att ärenden som Försäkringskassans system flaggar alltid kontrolleras manuellt innan beslut, och att regeringen gett myndigheten i uppdrag att redovisa sin AI-användning och riskerna med den.**
   Anna Tenje (M), statsråd, svar i riksdagen · 2025-02-05 · rättigheter, styrning · [BIA-06](../påståenden/2025/BIA-06.yaml)
   > Ett ärende som flaggas kontrolleras därför alltid manuellt innan beslut.
-  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
+  > — [Försäkringskassans användning av AI (Skriftlig fråga 2024/25:728 av Isabell Mixter (V))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/) · [arkivkopia](https://web.archive.org/web/20260114124538/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/skriftlig-fraga/forsakringskassans-anvandning-av-ai_hc11728/)
 
   *Förbehåll:* Tenje anger att 15–20 miljarder kronor betalas ut felaktigt varje år från välfärdssystemen. Svaret tar inte ställning till kritiken om diskriminering.
 - **Myndigheten avvisar argumentet att AI-träning är som när människor lär sig och därför i sig självt är tillåten.**
@@ -85,13 +85,13 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
 - **En granskning av Lighthouse Reports och Svenska Dagbladet visade att Försäkringskassans algoritm för att förutsäga fusk med tillfällig föräldrapenning diskriminerade kvinnor, personer med utländsk bakgrund, låginkomsttagare och personer utan universitetsutbildning.**
   Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, samhälle · [BIA-02](../påståenden/2024/BIA-02.yaml)
   > Analysis of the dataset revealed that the agency’s fraud prediction algorithm discriminated against women, migrants, low-income earners and people without a university education.
-  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/) · [arkivkopia](https://web.archive.org/web/20260930113618/https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
 
   *Förbehåll:* Analysen bygger på data om över 6 000 personer som flaggades 2017 och gjordes med stöd av åtta akademiska experter. Systemet har använts sedan 2013. Försäkringskassan har ifrågasatt analysen. Amnesty krävde att systemet skulle stoppas.
 - **Under tre år nekade Försäkringskassan nästan alla begäranden om att få ut handlingar om sina algoritmer för att upptäcka fusk.**
   Lighthouse Reports och Svenska Dagbladet (granskning) · 2024-11-27 · rättigheter, styrning · [BIA-03](../påståenden/2024/BIA-03.yaml)
   > Over the next three years, we exchanged hundreds of emails and sent dozens of freedom-of-information requests, nearly all of which were rejected.
-  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
+  > — [Sweden’s Suspicion Machine](https://www.lighthousereports.com/investigation/swedens-suspicion-machine/) · [arkivkopia](https://web.archive.org/web/20260930113618/https://www.lighthousereports.com/investigation/swedens-suspicion-machine/)
 
   *Förbehåll:* Myndigheten angav att öppenhet skulle göra det lättare att fuska. Exemplet används ofta i diskussionen om insyn i myndigheters AI-användning.
 
@@ -100,12 +100,12 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
 - **En studie från 2018 visade att kommersiella system för att känna igen kön i ansiktsbilder gjorde upp till 34,7 procent fel för kvinnor med mörk hy, men högst 0,8 procent fel för män med ljus hy.**
   Joy Buolamwini (MIT) och Timnit Gebru (Microsoft Research) · 2018 · rättigheter · [BIA-01](../påståenden/2018/BIA-01.yaml)
   > darker-skinned females are the most misclassified group (with error rates of up to 34.7%). The maximum error rate for lighter-skinned males is 0.8%.
-  > — [Buolamwini & Gebru: Gender Shades (2018)](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
+  > — [Buolamwini & Gebru: Gender Shades (2018)](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf) · [arkivkopia](https://web.archive.org/web/20260927084551/http://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf)
 
   *Förbehåll:* Studien heter Gender Shades och blev ett klassiskt exempel på hur AI kan vara partisk. Den testade tre kommersiella system. Flera av företagen förbättrade sina system efteråt, så siffrorna gäller 2018.
 - **Inspektionen för socialförsäkringen (ISF) påpekade redan 2018 att en kontrollmetod kan vara träffsäker utan att vara rättssäker, till exempel om två grupper gör fel lika ofta men bara den ena kontrolleras.**
   Inspektionen för socialförsäkringen (ISF) · 2018-06 · rättigheter · [BIA-04](../påståenden/2018/BIA-04.yaml)
   > En kontrollmetod kan vara träffsäker, det vill säga att en stor andel av de kontroller som görs innehåller felaktigheter, utan att vara rättssäker.
-  > — [ISF - Riskbaserade urvalsprofiler och likabehandling](https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling)
+  > — [ISF - Riskbaserade urvalsprofiler och likabehandling](https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling) · [arkivkopia](https://web.archive.org/web/20260514044615/https://isf.se/publikationer/rapporter/2018/2018-06-15-riskbaserade-urvalsprofiler-och-likabehandling)
 
   *Förbehåll:* Rapporten gjordes inom ett regeringsuppdrag om Försäkringskassans urvalsprofiler. Den förklarar på ett begripligt sätt varför en algoritm kan diskriminera trots att den är träffsäker.

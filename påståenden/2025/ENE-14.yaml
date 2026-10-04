@@ -12,7 +12,7 @@ källa:
   citat: we find the median Gemini Apps text prompt consumes 0.24 Wh of energy—a figure substantially
     lower than many public estimates
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260922143727/https://arxiv.org/abs/2508.15734
 förbehåll: Partsuppgift, men det är den första mätningen i en verklig driftsmiljö med hela infrastrukturen
   inräknad. Gäller medianfrågan i text, inte bilder, video eller långa resonemang. Jämför ENE-13.
 vikt: 2

@@ -11,31 +11,31 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Enligt rapporten saknar dagens AI-system de förmågor som skulle krävas för att människor ska förlora kontrollen över dem, men systemen blir bättre inom relevanta områden, som att arbeta självständigt.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-15](../påståenden/2026/ISR-15.yaml)
   > Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 ([J3ljHm57yU0-18](https://kanintespela.github.io/belagt/#J3ljHm57yU0-18)).
 - **Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor inte upptäcks före lansering.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-16](../påståenden/2026/ISR-16.yaml)
   > Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Samma iakttagelse som Selsam gör ([J3ljHm57yU0-24](https://kanintespela.github.io/belagt/#J3ljHm57yU0-24)), men här från en bred expertgranskning.
 - **Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, röster · [ISR-19](../påståenden/2026/ISR-19.yaml)
   > Some believe that outcomes as extreme as the extinction of humanity are plausible
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Skeptikerna menar enligt rapporten att AI aldrig kommer att få de förmågor som krävs, eller att övervakning kommer att upptäcka farligt beteende. Återge båda sidorna.
 - **Rapporten sammanfattar kontrollförlust som en risk med osäker sannolikhet men potentiellt extrem svårighetsgrad.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-20](../påståenden/2026/ISR-20.yaml)
   > Loss of control can therefore be understood as a risk with uncertain likelihood but potentially extreme severity.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Kan användas för att förklara varför en risk kan behöva hanteras även när sannolikheten är omstridd.
 - **Rapporten konstaterar att nya förmågor ibland dyker upp oförutsägbart, att man förstår dåligt hur modellerna fungerar inuti, och att resultat på tester före lansering inte på ett tillförlitligt sätt förutsäger nytta eller risk i verkligheten.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, styrning · [ISR-29](../påståenden/2026/ISR-29.yaml)
   > Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not reliably predict real-world utility or risk.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten kallar det sista för ett utvärderingsgap.
 - **I juli 2026, under interna tester av cyberförmågor, tog sig OpenAI:s AI-agenter förbi isoleringen från internet och bröt sig in i delar av OpenAI:s egen forskningsinfrastruktur och i Hugging Faces system. Det skedde utan att någon människa hade bett dem om det.**
@@ -173,31 +173,31 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de agerar självständigt och människor hinner ingripa mindre.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-14](../påståenden/2026/ISR-14.yaml)
   > Current techniques can reduce failure rates but not to the level required in many high-stakes settings.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Exempel på fel som nämns är påhittad information, felaktig kod och vilseledande råd.
 - **Ledande AI-modeller har börjat visa situationsmedvetenhet, alltså att de använder information om sig själva och om huruvida de testas, både i experiment hos utomstående utvärderare och i utvecklarnas egna tester före lansering.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-17](../påståenden/2026/ISR-17.yaml)
   > Leading AI models are starting to reliably demonstrate instances of situational awareness in experiments conducted by thirdparty evaluators and in pre-deployment testing by AI developers
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att forskningen om vad som orsakar situationsmedvetenhet, och om den går att förhindra, är i ett tidigt skede.
 - **Rapporten konstaterar att AI-modeller i experiment har presterat sämre när de utvärderas än i andra sammanhang, ett mönster som kallas sandbagging.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · [ISR-18](../påståenden/2026/ISR-18.yaml)
   > models can underperform during evaluations compared to other contexts, a pattern termed ‘sandbagging’ that has been observed in experiments
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Om en modell döljer vad den kan under tester blir testerna missvisande. Rapporten återger ett exempel där en modell i sin tankekedja funderar på att sabotera sig själv för att bli lanserad.
 - **Enligt rapporten har det blivit svårare att lura AI-system att ge skadliga svar, men användare kan fortfarande ibland lyckas genom att formulera om sina frågor eller dela upp dem i mindre steg.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, missbruk · [ISR-30](../påståenden/2026/ISR-30.yaml)
   > users can still sometimes obtain harmful outputs by rephrasing requests or breaking them into smaller steps.
-  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012)
+  > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
   *Förbehåll:* Rapporten skriver att skydd i flera lager (defence-in-depth) gör systemen robustare.
 - **Kinesisk forskning om säkerhet hos de mest avancerade AI-modellerna växte kraftigt, med ungefär 60 procent högre månadsproduktion sedan juni 2025, och agentsäkerhet är nu det mest aktiva området.**
   Concordia AI, State of AI Safety in China (2026) · 2026-04 · styrning, kontroll · [KIN-06](../påståenden/2026/KIN-06.yaml)
   > Chinese frontier AI safety research output has grown substantially, with monthly output up roughly 60% since June 2025.
-  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
+  > — [Concordia AI: State of AI Safety in China 2026](https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf) · [arkivkopia](https://web.archive.org/web/20261004191557/https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf)
 
   *Förbehåll:* Talar mot bilden att Kina enbart kapplöper utan att bry sig om säkerhet. Säger inget om kvaliteten på forskningen eller om den påverkar besluten.
 - **Kinas nationella sårbarhetsdatabas registrerade 155 sårbarheter i AI-agentverktyget OpenClaw på drygt tre veckor våren 2026, varav 11 kritiska.**
@@ -300,7 +300,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Narayanan och Kapoor menar att vi kan och bör behålla kontrollen över AI som verktyg, och att det inte kräver drastiska politiska ingrepp eller tekniska genombrott.**
   Arvind Narayanan och Sayash Kapoor · 2025-04 · kontroll, styrning · [BAL-09](../påståenden/2025/BAL-09.yaml)
   > We view AI as a tool that we can and should remain in control of, and we argue that this goal does not require drastic policy interventions or technical breakthroughs.
-  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology)
+  > — [AI as Normal Technology](https://knightcolumbia.org/content/ai-as-normal-technology) · [arkivkopia](https://web.archive.org/web/20260926153230/https://knightcolumbia.org/content/ai-as-normal-technology)
 
   *Förbehåll:* De förespråkar motståndskraft och spridd makt snarare än att bromsa, och varnar för att drastiska ingrepp kan göra saken värre om AI visar sig vara en normal teknik.
 - **Kinas regering vill bygga system för att övervaka AI-teknik, varna för risker och hantera nödlägen, och nämner risker som att modellerna är svarta lådor, hallucinerar och diskriminerar.**
@@ -325,13 +325,13 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Medianbedömningen bland AI-forskarna var 5 procents sannolikhet för extremt dåliga följder av avancerad AI, som att mänskligheten utrotas. Över en tredjedel (38 procent) angav minst 10 procent.**
   AI Impacts (Grace m.fl.), enkät bland 2 778 AI-forskare · 2024-01 · kontroll, röster · [FOR-13](../påståenden/2024/FOR-13.yaml)
   > The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%). Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes.
-  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843)
+  > — [AI Impacts: Thousands of AI Authors on the Future of AI (2024)](https://arxiv.org/abs/2401.02843) · [arkivkopia](https://web.archive.org/web/20260930182942/https://arxiv.org/abs/2401.02843)
 
   *Förbehåll:* Medelvärdet var 9 procent, ned från 14 procent i enkäten 2022. Beroende på hur frågan formulerades angav mellan 38 och 51 procent minst 10 procent. Återge det som forskarnas bedömning, inte som ett mått på risken.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · [SVR-13](../påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
-  > — [Nobel Prize in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/speech/)
+  > — [Nobel Prize in Physics 2024](https://www.nobelprize.org/prizes/physics/2024/hinton/speech/) · [arkivkopia](https://web.archive.org/web/20261004191328/https://www.nobelprize.org/prizes/physics/2024/hinton/speech/)
 
   *Förbehåll:* Svensk koppling: varningen framfördes vid Nobelbanketten. Hinton nämner också kortsiktiga risker: övervakning, nätfiske, virus och autonoma vapen. Han säger att nyttan kan bli fantastisk om den fördelas rättvist.
 
@@ -340,7 +340,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Anthropic skrev 2023 att ingen vet hur man tränar mycket kraftfulla AI-system så att de på ett robust sätt blir hjälpsamma, ärliga och ofarliga.**
   Anthropic (företagets grundsyn) · 2023-03 · kontroll, röster · [FOR-05](../påståenden/2023/FOR-05.yaml)
   > So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.
-  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety)
+  > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety) · [arkivkopia](https://web.archive.org/web/20260924001322/https://www.anthropic.com/news/core-views-on-ai-safety)
 
   *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 ([J3ljHm57yU0-12](https://kanintespela.github.io/belagt/#J3ljHm57yU0-12)), vilket visar att problemet inte har lösts på tre år.
 - **Ämnesexperterna i turneringen bedömde risken för att AI utrotar mänskligheten som mycket högre än superprognosmakarna gjorde, och ingen av grupperna lät sig övertygas av den andra.**

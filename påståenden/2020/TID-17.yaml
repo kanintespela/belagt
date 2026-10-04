@@ -13,7 +13,7 @@ källa:
   citat: we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any
     previous non-sparse language model
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260929162501/https://arxiv.org/abs/2005.14165
 förbehåll: GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT
   (TID-05) byggde på en vidareutveckling.
 vikt: 2
