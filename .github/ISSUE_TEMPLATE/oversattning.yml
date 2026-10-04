@@ -1,0 +1,36 @@
+name: Granska en översättning
+description: Du läser kinesiska (eller ett annat språk i arkivet) och har kontrollerat en översättning.
+labels: [översättning]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Citat på andra språk står i original och översättningen bredvid. Översättningarna är gjorda av AI
+        och visas som *inte granskade* tills någon som läser språket har läst dem.
+        [Här är alla ogranskade](https://kanintespela.github.io/belagt/?q=ogranskad).
+  - type: input
+    id: id
+    attributes:
+      label: Id
+      description: Ett eller flera, till exempel KIN-09, KIN-10.
+    validations:
+      required: true
+  - type: dropdown
+    id: bedömning
+    attributes:
+      label: Stämmer översättningen?
+      options:
+        - Ja, den är korrekt
+        - Nästan, med ändringen nedan
+        - Nej, den behöver göras om
+    validations:
+      required: true
+  - type: textarea
+    id: förslag
+    attributes:
+      label: Förslag eller kommentar
+  - type: input
+    id: namn
+    attributes:
+      label: Namn att ange som granskare
+      description: Står i posten som granskad_av. Skriv det du vill ska synas, eller lämna tomt för ditt GitHub-namn.

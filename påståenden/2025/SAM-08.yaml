@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/gdpval/
   titel: Measuring the performance of our models on real-world tasks
+  typ: partsuppgift
   citat: We found that today’s best frontier models are already approaching the quality of work produced
     by industry experts.
   hämtad: '2026-09-22'

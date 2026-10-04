@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: In 2025, multiple developers released new models with additional safeguards after they could
     not exclude the possibility that these models could assist novices in developing such weapons.
   hämtad: '2026-09-24'

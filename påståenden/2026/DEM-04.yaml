@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://chatgpt.com/pricing
   titel: Pricing | ChatGPT
+  typ: partsuppgift
   citat: 'Plan: Free, Feature: Content is used to train our models, Opt-out available'
   hämtad: '2026-09-22'
   arkiv: null

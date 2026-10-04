@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Some believe that outcomes as extreme as the extinction of humanity are plausible
   hämtad: '2026-09-24'
   arkiv: null

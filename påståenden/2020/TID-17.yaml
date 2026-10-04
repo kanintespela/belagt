@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2005.14165
   titel: 'GPT-3: Language Models are Few-Shot Learners (2020)'
+  typ: partsuppgift
   citat: we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any
     previous non-sparse language model
   hämtad: '2026-09-28'

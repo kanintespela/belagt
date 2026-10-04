@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
   titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  typ: rapport
   citat: The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI
     is “unlikely” or “very unlikely” to succeed
   hämtad: '2026-09-28'

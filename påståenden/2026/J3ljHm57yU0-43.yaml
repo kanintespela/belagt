@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: agents would then set about the process of autonomously modifying and rebuilding the malware
     to evade the existing detections.
   hämtad: '2026-09-22'

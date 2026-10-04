@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk
   titel: 'Professorn om AI-hotet: ”Låg risk”'
+  typ: media
   citat: Det finns en stor utmaning idag i att vi har väldigt lite insyn och externa tredjepartsobservatörer
     som utvärderar systemen.
   hämtad: '2026-09-22'

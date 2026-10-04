@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
   titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  typ: rapport
   citat: Projections suggest that by 2028, data centers could account for between 7% and 12% of U.S. electricity
     demand, depending on AI growth scenarios
   hämtad: '2026-09-28'

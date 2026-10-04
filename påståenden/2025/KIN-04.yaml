@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
   titel: 'Concordia AI: State of AI Safety in China 2026'
+  typ: rapport
   citat: the rise of multimodal models moved the regulatory focus toward images, videos, and audio, prompting
     strict rules around labeling AI-generated content.
   hämtad: '2026-09-24'

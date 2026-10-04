@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf
   titel: AAAI 2025 Presidential Panel on the Future of AI Research
+  typ: rapport
   citat: most respondents (70%) oppose the proposition that we should halt research aimed at AGI until
     full safety and control mechanisms are established
   hämtad: '2026-09-28'

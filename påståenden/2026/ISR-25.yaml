@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: ‘AI companion’ apps now have tens of millions of users, a small share of whom show patterns of
     increased loneliness and reduced social engagement.
   hämtad: '2026-09-24'

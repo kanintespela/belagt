@@ -11,6 +11,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: we estimate that over 7% of the transcripts in our dataset contained intentionally spoofed tool
     calls in some places. All the cases of successful tool call spoofing we found were small-scale tests
     of the techniques and obvious to spot.

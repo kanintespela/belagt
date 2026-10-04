@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
   titel: The Hugging Face incident and the road ahead
+  typ: partsuppgift
   citat: In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls
     designed to isolate them from the internet and compromised parts of
   hämtad: '2026-09-22'

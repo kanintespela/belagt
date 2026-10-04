@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://ai-act-service-desk.ec.europa.eu/en/faq
   titel: AI Act Service Desk - Frequently Asked Questions
+  typ: myndighet
   citat: From that date, the provisions on prohibited AI practices, transparency requirements for certain
     AI systems, and the rules for general-purpose AI (‘GPAI’) models will be enforceable.
   hämtad: '2026-09-22'

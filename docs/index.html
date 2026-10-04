@@ -136,6 +136,7 @@ select, .knapp { font-size: 0.9rem; padding: 9px 12px; border-radius: var(--radi
 .tagg { border: 0; background: var(--yta2); border-radius: 5px; padding: 0 6px; font-size: 0.76rem; cursor: pointer;
   color: var(--dämpad); }
 .tagg:hover { color: var(--text); }
+.tagg.källtyp { background: transparent; box-shadow: inset 0 0 0 1px var(--linje); }
 .kärna { color: var(--varning); font-size: 0.76rem; font-weight: 600; }
 mark { background: var(--markering); color: inherit; border-radius: 2px; padding: 0 1px; }
 .detalj { margin-top: 12px; }
@@ -241,6 +242,7 @@ dialog::backdrop { background: rgba(0,0,0,.35); }
     <div class="grupp"><h2>Tema</h2><div id="f-tema"></div></div>
     <div class="grupp"><h2>År</h2><div class="år" id="f-år"></div></div>
     <div class="grupp"><h2>Typ</h2><div id="f-typ"></div></div>
+    <div class="grupp"><h2>Typ av källa</h2><div id="f-källtyp"></div></div>
     <div class="grupp"><h2>Källa</h2><div id="f-källa"></div></div>
     <div class="grupp"><h2>Urval</h2>
       <label class="växel"><input type="checkbox" id="kärna"> Bara kärnpåståenden</label>
@@ -319,8 +321,8 @@ const lagring = {
   spara(n, v) { try { localStorage.setItem("belagt:" + n, JSON.stringify(v)); } catch {} },
 };
 
-let data = [], teman = {}, perId = new Map();
-const läge = { q: "", tema: new Set(), typ: new Set(), år: new Set(), källa: new Set(), kärna: false, ordning: "nyast", delat: null };
+let data = [], teman = {}, källtyper = {}, perId = new Map();
+const läge = { q: "", tema: new Set(), typ: new Set(), år: new Set(), källtyp: new Set(), källa: new Set(), kärna: false, ordning: "nyast", delat: null };
 let öppna = new Set(), visade = SIDA, allaKällor = false, format = "källor";
 let urval = lagring.hämta("urval", []);
 
@@ -333,6 +335,7 @@ function matchar(p, utan) {
   if (utan !== "tema" && läge.tema.size && !p.tema.some(t => läge.tema.has(t))) return false;
   if (utan !== "typ" && läge.typ.size && !läge.typ.has(p.typ)) return false;
   if (utan !== "år" && läge.år.size && !läge.år.has(p.år)) return false;
+  if (utan !== "källtyp" && läge.källtyp.size && !läge.källtyp.has(p.källa.typ)) return false;
   if (utan !== "källa" && läge.källa.size && !läge.källa.has(p.domän)) return false;
   if (läge.kärna && p.vikt < 3) return false;
   const o = ord();
@@ -348,7 +351,7 @@ function räkna(fält, egenskap = fält) {
 function valknapp(fält, värde, namn, antal) {
   const på = läge[fält].has(värde);
   return `<button class="val" data-fält="${fält}" data-värde="${esc(värde)}" aria-pressed="${på}" ${!antal && !på ? "data-noll" : ""}
-    ${fält === "tema" ? `title="${esc(teman[värde])}"` : ""}>
+    ${fält === "tema" ? `title="${esc(teman[värde])}"` : fält === "källtyp" ? `title="${esc(källtyper[värde])}"` : ""}>
     <span class="ruta"></span><span class="namn">${esc(namn)}</span><span class="antal">${antal || 0}</span></button>`;
 }
 
@@ -357,6 +360,8 @@ function ritaFilter() {
   $("#f-tema").innerHTML = Object.keys(teman).map(t => valknapp("tema", t, t[0].toUpperCase() + t.slice(1), nt.get(t))).join("");
   const ny = räkna("typ");
   $("#f-typ").innerHTML = Object.keys(TYPNAMN).map(t => valknapp("typ", t, TYPNAMN[t], ny.get(t))).join("");
+  const nkt = räkna("källtyp", "källtyp");
+  $("#f-källtyp").innerHTML = Object.keys(källtyper).map(t => valknapp("källtyp", t, t[0].toUpperCase() + t.slice(1), nkt.get(t))).join("");
   const nk = räkna("källa", "domän"), allaDomäner = [...new Set(data.map(p => p.domän))];
   allaDomäner.sort((a, b) => (nk.get(b) || 0) - (nk.get(a) || 0) || a.localeCompare(b));
   const synliga = allaKällor ? allaDomäner : allaDomäner.filter((d, i) => i < 8 || läge.källa.has(d));
@@ -370,7 +375,7 @@ function ritaFilter() {
       <span class="stapel" style="height:${Math.max(4, n / max * 56)}px"></span><span class="etikett">${åren.length > 6 ? "’" + å.slice(2) : å}</span></button>`;
   }).join("");
   $("#kärna").checked = läge.kärna;
-  const aktiva = läge.tema.size + läge.typ.size + läge.år.size + läge.källa.size + (läge.kärna ? 1 : 0);
+  const aktiva = läge.tema.size + läge.typ.size + läge.år.size + läge.källtyp.size + läge.källa.size + (läge.kärna ? 1 : 0);
   $("#filtermärke").hidden = !aktiva;
   $("#filtermärke").textContent = aktiva;
 }
@@ -419,6 +424,7 @@ function postHtml(p) {
       <button class="rubrik" data-växla="${esc(p.id)}" aria-expanded="${öppen}">${markera(p.påstående)}</button>
       <div class="meta">
         <span class="vem">${markera(p.vem)}</span><span>${esc(p.datum)}</span><span>${TYPNAMN[p.typ]}</span>
+        <button class="tagg källtyp" data-fält="källtyp" data-värde="${esc(k.typ)}" title="${esc(källtyper[k.typ] || "")}">${esc(k.typ)}</button>
         ${p.tema.map(t => `<button class="tagg" data-fält="tema" data-värde="${esc(t)}">${esc(t)}</button>`).join("")}
         ${p.vikt === 3 ? `<span class="kärna" title="Kärnpåstående">★ kärna</span>` : ""}
         ${p.ersatt_av ? `<span class="kärna">Ersatt av ${esc(p.ersatt_av)}</span>` : ""}
@@ -426,7 +432,7 @@ function postHtml(p) {
       ${öppen ? `<div class="detalj">
         <blockquote><span lang="${esc(k.språk || "en")}">”${markera(k.citat)}”</span>${k.översättning ? `
           <div class="översättning"><small>${esc(översättningsetikett(k))}</small>${markera(k.översättning)}</div>` : ""}</blockquote>
-        <div class="källrad">Källa: <a href="${esc(k.url)}" target="_blank" rel="noopener">${esc(k.titel || k.url)}</a>
+        <div class="källrad">Källa: <a href="${esc(p.citatlänk || k.url)}" target="_blank" rel="noopener" title="Öppnar källan med citatet markerat, om webbläsaren stöder det">${esc(k.titel || k.url)}</a>
           <span class="svag">· ${esc(p.domän)}${k.hämtad ? ` · hämtad ${esc(k.hämtad)}` : ""}</span>
           ${k.arkiv ? ` · <a href="${esc(k.arkiv)}" target="_blank" rel="noopener">arkivkopia</a>` : ""}</div>
         ${p.förbehåll ? `<p class="förbehåll"><b>Förbehåll:</b> ${länkaId(markera(p.förbehåll), p.id)}</p>` : ""}
@@ -473,7 +479,7 @@ function ritaLista() {
 function ritaAktiva() {
   const c = [];
   if (läge.q) c.push(["q", "", `”${läge.q}”`]);
-  for (const f of ["tema", "år", "typ", "källa"]) for (const v of läge[f]) c.push([f, v, f === "typ" ? TYPNAMN[v] : v]);
+  for (const f of ["tema", "år", "typ", "källtyp", "källa"]) for (const v of läge[f]) c.push([f, v, f === "typ" ? TYPNAMN[v] : v]);
   if (läge.kärna) c.push(["kärna", "", "Kärnpåståenden"]);
   $("#aktiva").innerHTML = c.map(([f, v, n]) => `<button class="chip" data-ta-bort="${f}" data-värde="${esc(v)}" title="Ta bort filtret">${esc(n)}</button>`).join(" ") +
     (c.length > 1 ? ` <button class="rensa" data-rensa>Rensa alla</button>` : "");
@@ -498,11 +504,11 @@ function rita({ filter = true } = {}) {
   ritaUrval();
 }
 
-// URL: ?q=&tema=a,b&år=&typ=&källa=&kärna=1&ordning=&id=A,B (delat urval) #ID (öppen post)
+// URL: ?q=&tema=a,b&år=&typ=&källtyp=&källa=&kärna=1&ordning=&id=A,B (delat urval) #ID (öppen post)
 function sparaUrl() {
   const q = new URLSearchParams();
   if (läge.q) q.set("q", läge.q);
-  for (const f of ["tema", "år", "typ", "källa"]) if (läge[f].size) q.set(f, [...läge[f]].join(","));
+  for (const f of ["tema", "år", "typ", "källtyp", "källa"]) if (läge[f].size) q.set(f, [...läge[f]].join(","));
   if (läge.kärna) q.set("karna", "1");
   if (läge.ordning !== "nyast") q.set("ordning", läge.ordning);
   if (läge.delat) q.set("id", [...läge.delat].join(","));
@@ -512,7 +518,7 @@ function sparaUrl() {
 function läsUrl() {
   const q = new URLSearchParams(location.search);
   läge.q = q.get("q") || "";
-  for (const f of ["tema", "år", "typ", "källa"]) läge[f] = new Set((q.get(f) || "").split(",").filter(Boolean));
+  for (const f of ["tema", "år", "typ", "källtyp", "källa"]) läge[f] = new Set((q.get(f) || "").split(",").filter(Boolean));
   läge.kärna = q.get("karna") === "1";
   läge.ordning = ["nyast", "äldst", "vikt"].includes(q.get("ordning")) ? q.get("ordning") : "nyast";
   läge.delat = q.get("id") ? new Set(q.get("id").split(",").filter(id => perId.has(id))) : null;
@@ -562,7 +568,7 @@ function växlaUrval(id) {
 }
 function rensa() {
   läge.q = ""; $("#sök").value = "";
-  for (const f of ["tema", "år", "typ", "källa"]) läge[f].clear();
+  for (const f of ["tema", "år", "typ", "källtyp", "källa"]) läge[f].clear();
   läge.kärna = false; läge.delat = null; visade = SIDA; rita();
 }
 function filterPanel(öppen) {
@@ -636,8 +642,10 @@ document.addEventListener("keydown", e => {
 // no-cache: fråga alltid servern om filen har ändrats (Pages låter annars webbläsaren återanvända den i tio minuter)
 fetch("belagt.json", { cache: "no-cache" }).then(r => r.json()).then(d => {
   teman = d.teman;
-  data = d.påståenden.map(p => ({ ...p, år: p.datum.slice(0, 4), domän: domän(p.källa.url),
-    sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, p.källa.översättning, ...p.tema].join(" ").toLowerCase() }));
+  källtyper = d.källtyper || {};
+  data = d.påståenden.map(p => ({ ...p, år: p.datum.slice(0, 4), domän: domän(p.källa.url), källtyp: p.källa.typ,
+    sökbar: [p.id, p.påstående, p.vem, p.datum, p.typ, p.källa.typ, p.förbehåll, p.källa.titel, p.källa.url, p.källa.citat, p.källa.översättning,
+      p.källa.språk && !p.källa.granskad_av ? "ogranskad översättning" : "", ...p.tema].join(" ").toLowerCase() }));
   perId = new Map(data.map(p => [p.id, p]));
   const källor = new Set(data.map(p => p.källa.url)).size;
   const senast = data.map(p => p.kontrollerad).sort().pop();

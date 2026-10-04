@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Since the last Report, it has become more common for models to distinguish between test settings
     and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities
     to go undetected before deployment.

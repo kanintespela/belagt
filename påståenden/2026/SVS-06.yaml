@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf
   titel: 'Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet'
+  typ: rapport
   citat: Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
   hämtad: '2026-09-28'
   arkiv: null

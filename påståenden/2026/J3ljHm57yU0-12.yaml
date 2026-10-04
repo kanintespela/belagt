@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://openai.com/index/an-alien-mind/
   titel: An Alien Mind
+  typ: partsuppgift
   citat: Currently I believe that no lab has solved alignment and monitoring to a sufficient degree to
     continue responsibly scaling at maximum speed for much longer.
   hämtad: '2026-09-22'

@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://folketsai.se/remissvar/
   titel: Remissvar över SOU 2025:12 AI-kommissionens Färdplan för Sverige
+  typ: opinion
   citat: gör att AI-kommissionen förvandlar AI från en samhällsfråga till en teknisk-ekonomisk optimeringsfråga
   hämtad: '2026-09-22'
   arkiv: null

@@ -9,8 +9,14 @@ tema:
 källa:
   url: http://haggstrom.blogspot.com/2026/07/skandinavien-sover.html
   titel: Skandinavien sover
+  typ: opinion
   citat: Diskusjonen om den uakseptable risikoen selskaper som OpenAI og Anthropic tar med alles vår fremtid
     i kappløpet mot superintelligent KI, har kommet et stykke på vei i USA.
+  språk: 'no'
+  översättning: Diskussionen om den oacceptabla risk som företag som OpenAI och Anthropic tar med allas
+    vår framtid i kapplöpningen mot superintelligent AI har kommit en bit på väg i USA.
+  översatt_av: Claude (AI)
+  granskad_av: null
   hämtad: '2026-09-28'
   arkiv: null
 förbehåll: Artikeln heter Skandinavien sover i AI-debatten och är skriven på norska. Häggström vill att

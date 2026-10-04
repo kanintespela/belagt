@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157
   titel: ”Sverige riskerar att bli en datacenterpark utan ai-förmåga”
+  typ: opinion
   citat: Enligt SCB använder 65 procent av de svenska företagen inte ai alls.
   hämtad: '2026-09-28'
   arkiv: null

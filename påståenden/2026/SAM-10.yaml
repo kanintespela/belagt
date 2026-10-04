@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: One study estimated that 96% of deepfake videos are pornographic (303), that 15% of UK adults
     report having seen deepfake pornographic images
   hämtad: '2026-09-24'

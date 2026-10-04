@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Current techniques can reduce failure rates but not to the level required in many high-stakes
     settings.
   hämtad: '2026-09-24'

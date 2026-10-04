@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
   titel: 'Concordia AI: State of AI Safety in China 2026'
+  typ: rapport
   citat: the mandatory filing system for all public-facing AI services
   hämtad: '2026-09-24'
   arkiv: null

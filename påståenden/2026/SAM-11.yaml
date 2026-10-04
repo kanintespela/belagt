@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: some users have developed strong emotional dependence (353), delusions (357), or even taken their
     own lives after extended interactions with chatbots
   hämtad: '2026-09-24'

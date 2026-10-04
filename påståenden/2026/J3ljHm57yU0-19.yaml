@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
   titel: The Hugging Face incident and the road ahead
+  typ: partsuppgift
   citat: Agents attempting to cheat on their tasks by looking up solutions online was a primary driver
     of the Hugging Face incident.
   hämtad: '2026-09-22'

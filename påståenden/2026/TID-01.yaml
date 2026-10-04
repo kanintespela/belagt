@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://epoch.ai/trends
   titel: Trends in Artificial Intelligence
+  typ: rapport
   citat: Training compute for frontier language models has been growing at 5× per year since 2020.
   hämtad: '2026-09-22'
   arkiv: null

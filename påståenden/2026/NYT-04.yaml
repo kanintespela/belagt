@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.lunduniversity.lu.se/article/ai-support-breast-cancer-screening-fewer-missed-cancer-cases
   titel: 'AI support in breast cancer screening: Fewer missed cancer cases'
+  typ: rapport
   citat: Many regions in Sweden have already started to implement AI-supported mammography screening,
     and more are expected to join. It is a rather low bar to get started, in principle it is merely to
     integrate an AI software into existing IT systems

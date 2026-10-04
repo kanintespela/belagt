@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2311.16863
   titel: 'Luccioni m.fl.: Power Hungry Processing (2023)'
+  typ: granskad
   citat: We find that multi-purpose, generative architectures are orders of magnitude more expensive than
     task-specific systems for a variety of tasks, even when controlling for the number of model parameters.
   hämtad: '2026-09-28'

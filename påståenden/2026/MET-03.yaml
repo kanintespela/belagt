@@ -10,6 +10,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: The Hugging Face attack grew out of these workstreams, and seemed primarily motivated by understanding
     the implementation of the scorer rather than stealing answer keys.
   hämtad: '2026-09-22'

@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset
   titel: 'Varningen: Stora datacenter kan höja elpriset | Sveriges Radio'
+  typ: media
   citat: Vi har idag ansökningar på 5000 MW bara i Mellansverige. Det är ungefär så mycket som 20 stycken
     städer av Uppsalas storlek, eller motsvarande produktionen från fem kärnkraftsreaktorer.
   hämtad: '2026-09-28'

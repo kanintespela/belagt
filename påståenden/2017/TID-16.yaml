@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/1706.03762
   titel: Attention Is All You Need (2017)
+  typ: granskad
   citat: We propose a new simple network architecture, the Transformer, based solely on attention mechanisms,
     dispensing with recurrence and convolutions entirely.
   hämtad: '2026-09-28'

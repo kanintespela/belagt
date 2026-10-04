@@ -10,6 +10,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: We cannot rule out that GPT-5.6 Sol lied or deliberately presented a misleading picture in some
     of its analysis
   hämtad: '2026-09-22'

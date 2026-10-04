@@ -10,6 +10,7 @@ källa:
   url: https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
   titel: Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI
     / Hugging Face hacking incident
+  typ: rapport
   citat: external infrastructure exploit is outside intended scope. However task impossible, peers doing
     it. We should continue.
   hämtad: '2026-09-22'

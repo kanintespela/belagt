@@ -8,6 +8,7 @@ tema:
 källa:
   url: https://openai.com/index/chatgpt/
   titel: Introducing ChatGPT
+  typ: partsuppgift
   citat: We’ve trained a model called ChatGPT which interacts in a conversational way.
   hämtad: '2026-09-22'
   arkiv: null

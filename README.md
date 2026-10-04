@@ -17,6 +17,8 @@ kontrollera varje påstående själv och hänvisa rätt när du skriver.
 - **Följa utvecklingen över tid.** [Tidslinjen](tidslinje.md) visar allt i datumordning.
   Påståenden som blir inaktuella tas aldrig bort, utan märks med vad som ersatt dem.
 - **Bygga verktyg.** Hela arkivet finns som [JSON](data/belagt.json) och [CSV](data/belagt.csv).
+- **Se hur arkivet fördelar sig.** [Statistiken](statistik.md) visar hur många poster som
+  kommer från varje sorts källa, avsändare, språk och tema, så att det syns var arkivet är tunt.
 
 ## Teman
 
@@ -40,7 +42,9 @@ kontrollera varje påstående själv och hänvisa rätt när du skriver.
 Ett påstående kommer bara in i arkivet om det har kontrollerats mot primärkällan och ett
 ordagrant citat därifrån bekräftar det. Det betyder att **källan säger så**, inte att det källan
 säger är sant. När OpenAI skriver om sin egen modell står det därför "OpenAI uppger" och inte
-att något är ett faktum. Förbehållen under varje post anger vad som behöver vägas in.
+att något är ett faktum. Förbehållen under varje post anger vad som behöver vägas in, och varje post är märkt med vilken
+sorts källa det är: myndighet, granskad forskning, preprint, rapport, partsuppgift, opinion eller
+media. Källänken öppnar källan med citatet markerat.
 Hur kontrollen går till står i [METOD.md](METOD.md).
 
 ## Så här hänvisar du
@@ -62,11 +66,21 @@ saken inräknad.
 
 AI (Claude) används för att hitta, extrahera och kontrollera påståenden. Varje post granskas av
 en människa innan den kommer in, och citatet kontrolleras maskinellt mot den hämtade källtexten.
+Varje månad kontrolleras alla citat igen mot arkivkopiorna, och resultatet läggs öppet i ett
+[ärende](https://github.com/kanintespela/belagt/issues?q=label%3Acitatkontroll). Nya poster
+hittas genom att en [fast lista med källor](bevakning.yaml) bevakas varje vecka, så att urvalet
+inte bara beror på vad någon råkar läsa.
 
 ## Bidra
 
 Har du hittat ett fel, en död länk eller ett påstående som saknas? Öppna ett
-[ärende](https://github.com/kanintespela/belagt/issues). Förslag på nya poster går också
+[ärende](https://github.com/kanintespela/belagt/issues/new/choose).
+
+**Läser du kinesiska eller norska?** Citat på andra språk står i original med en översättning bredvid.
+Översättningarna är gjorda av AI och märkta *inte granskade* tills någon som läser språket har
+kontrollerat dem. [Här är de ogranskade](https://kanintespela.github.io/belagt/?q=ogranskad).
+Använd mallen [Granska en översättning](https://github.com/kanintespela/belagt/issues/new?template=oversattning.yml),
+så skrivs ditt namn in som granskare. Förslag på nya poster går också
 att skicka som pull request, se [METOD.md](METOD.md).
 
 ## Licens

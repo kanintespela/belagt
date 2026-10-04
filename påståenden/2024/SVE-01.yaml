@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.riksdagen.se/sv/dokument-och-lagar/dokument/statens-offentliga-utredningar/ai-kommissionens-fardplan-for-sverige_hdb312/html/
   titel: AI-kommissionens Färdplan för Sverige (Statens offentliga utredningar 2025:12)
+  typ: myndighet
   citat: I de fall institutets forskning visar att en viss säkerhetsrisk är imaginär eller överdriven
     bör den ha ett tydligt uppdrag att påtala det.
   hämtad: '2026-09-22'

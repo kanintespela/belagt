@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: We estimate that emissions reductions from the broad application of existing AI-led solutions
     to be equivalent to around 5% of energy-related emissions in 2035.
   hämtad: '2026-09-28'

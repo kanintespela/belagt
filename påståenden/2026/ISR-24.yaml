@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Early evidence suggests that reliance on AI tools can weaken critical thinking skills and encourage
     ‘automation bias’, the tendency to trust AI system outputs without sufficient scrutiny.
   hämtad: '2026-09-24'

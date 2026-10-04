@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset
   titel: 'Varningen: Stora datacenter kan höja elpriset | Sveriges Radio'
+  typ: media
   citat: Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
   hämtad: '2026-09-28'
   arkiv: null

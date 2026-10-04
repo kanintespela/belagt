@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: a population-scale domestic surveillance platform that monitors roughly 25 million SIM cards
   hämtad: '2026-09-22'
   arkiv: null

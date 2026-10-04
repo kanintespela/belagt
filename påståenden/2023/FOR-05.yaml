@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.anthropic.com/news/core-views-on-ai-safety
   titel: 'Core views on AI safety: When, why, what, and how'
+  typ: partsuppgift
   citat: So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and
     harmless.
   hämtad: '2026-09-22'

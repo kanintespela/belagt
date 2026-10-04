@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/pdf/2503.14499
   titel: METR Time Horizon
+  typ: preprint
   citat: We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks,
     with a doubling time of approximately seven months (Figure 1).
   hämtad: '2026-09-22'

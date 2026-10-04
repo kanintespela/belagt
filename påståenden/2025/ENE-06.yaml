@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: around 20% of planned data centre projects could be at risk of delays
   hämtad: '2026-09-28'
   arkiv: null

@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Yet they struggle with some tasks that seem more straightforward, such as counting objects in
     an image, reasoning about physical space, and recovering from basic errors in longer workflows.
   hämtad: '2026-09-24'

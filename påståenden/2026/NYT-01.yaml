@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: While this Report focuses on risks, generalpurpose AI can also deliver significant benefits.
     These systems are already being usefully applied in healthcare, scientific research, education, and
     other sectors, albeit at highly uneven rates globally.

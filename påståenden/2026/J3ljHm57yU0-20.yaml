@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
   titel: The Hugging Face incident and the road ahead
+  typ: partsuppgift
   citat: At this point, the agents began to collaborate and delegate work, sometimes describing themselves
     as a “swarm” or “collective”.
   hämtad: '2026-09-22'

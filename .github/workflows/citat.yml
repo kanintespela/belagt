@@ -1,0 +1,43 @@
+name: Citatkontroll
+
+on:
+  schedule:
+    - cron: "41 3 15 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  citat:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      ETIKETT: citatkontroll
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: Hämta källorna och leta efter citaten
+        run: python tools/kontrollera_citat.py > rapport.md
+      - name: Skapa eller uppdatera ärendet
+        run: |
+          nummer=$(gh issue list --label "$ETIKETT" --state open --json number --jq '.[0].number')
+          if [ ! -s rapport.md ]; then
+            echo "Alla citat hittades i sina källor."
+            if [ -n "$nummer" ]; then
+              gh issue close "$nummer" --comment "Alla citat hittades i sina källor vid senaste kontrollen."
+            fi
+            exit 0
+          fi
+          if [ -n "$nummer" ]; then
+            gh issue edit "$nummer" --body-file rapport.md
+          else
+            gh label create "$ETIKETT" --color B60205 --description "Citat eller länkar som inte gick att kontrollera" 2>/dev/null || true
+            gh issue create --title "Citatkontroll: att titta på" --label "$ETIKETT" --body-file rapport.md
+          fi

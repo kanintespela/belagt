@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: In 2025, 12 companies published or updated their Frontier AI Safety Frameworks – documents that
     describe how they plan to manage risks as they build more capable models.
   hämtad: '2026-09-24'

@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: A typical AI-focused data centre consumes as much electricity as 100 000 households, but the
     largest ones under construction today will consume 20 times as much.
   hämtad: '2026-09-28'

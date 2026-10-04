@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2401.02843
   titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  typ: preprint
   citat: the chance of unaided machines outperforming humans in every possible task was estimated at 10%
     by 2027, and 50% by 2047. The latter estimate is 13 years earlier than that reached in a similar survey
     we conducted only one year earlier

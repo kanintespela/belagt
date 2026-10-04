@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Documented incidents include executives authorising transfers of millions to fraudsters, as well
     as ordinary people sending smaller amounts to impostors posing as a loved one
   hämtad: '2026-09-24'

@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: 'Technically, new capabilities sometimes emerge unpredictably, the inner workings of models remain
     poorly understood, and there is an ‘evaluation gap’: performance on pre-deployment tests does not
     reliably predict real-world utility or risk.'

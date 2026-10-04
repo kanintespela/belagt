@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/hugging-face-incident-and-the-road-ahead/
   titel: The Hugging Face incident and the road ahead
+  typ: partsuppgift
   citat: If our currently deployed CoT monitoring system was running at the time of the incident, it would
     have caught the initial relevant activity and paged our security team more than a day before models
     breached Hugging Face systems.

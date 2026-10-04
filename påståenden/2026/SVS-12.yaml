@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.opulens.se/opinion/debatt/ar-ai-ett-hot-stigsson-svarar-haggstrom/
   titel: Är AI ett hot? – Stigsson svarar Häggström - Opulens
+  typ: opinion
   citat: Antagandet att en superintelligent AI med nödvändighet utgör ett existentiellt hot är inte ett
     faktum, det är en hypotes.
   hämtad: '2026-09-22'

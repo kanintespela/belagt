@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Institutionally, developers have incentives to keep important information proprietary, and the
     pace of development can create pressure to prioritise speed over risk management
   hämtad: '2026-09-24'

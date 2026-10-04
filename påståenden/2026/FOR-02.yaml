@@ -12,6 +12,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: AI forecasting experts gave a median 20% probability, while superforecasters (skilled generalist
     forecasters) estimated only 8%.
   hämtad: '2026-09-24'

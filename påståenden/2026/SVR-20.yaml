@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.regeringen.se/regeringens-politik/sveriges-ai-strategi/
   titel: Sveriges AI-strategi
+  typ: myndighet
   citat: vara nationell kontaktpunkt för företag som gör avancerade modeller för artificiell intelligens
     (AI)
   hämtad: '2026-09-22'

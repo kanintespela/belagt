@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: Current systems lack the capabilities to pose such risks, but they are improving in relevant
     areas such as autonomous operation.
   hämtad: '2026-09-24'

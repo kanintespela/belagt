@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: we discovered more than 4,700 distinct AI personas that engaged in conversations with at least
     25,000 unique individuals.
   hämtad: '2026-09-22'

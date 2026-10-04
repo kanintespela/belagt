@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.tv4.se/artikel/6I17x4luQZ6OJR9qxkIPZL/varnar-bedraegerier-med-ai-klonade-roester-sker-redan-i-sverige
   titel: Polisen varnar för AI-klonade röster hos bedragare
+  typ: media
   citat: I Sverige har polisen upptäckt flera fall där bedragare använder AI-klonade röster för att begå
     brott.
   hämtad: '2026-09-22'

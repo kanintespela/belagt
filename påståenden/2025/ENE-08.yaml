@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: Concerns that AI could accelerate climate change appear overstated, as do expectations that AI
     alone will address the issue
   hämtad: '2026-09-28'

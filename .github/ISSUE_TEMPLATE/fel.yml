@@ -1,0 +1,31 @@
+name: Fel i en post
+description: Ett citat som inte stämmer, en död länk, ett felaktigt datum eller ett påstående som säger mer än källan.
+labels: [fel]
+body:
+  - type: input
+    id: id
+    attributes:
+      label: Id
+      description: Står på posten, till exempel TID-01.
+    validations:
+      required: true
+  - type: dropdown
+    id: vad
+    attributes:
+      label: Vad är fel?
+      options:
+        - Citatet står inte i källan
+        - Påståendet säger mer än citatet
+        - Död länk eller fel källa
+        - Fel datum, avsändare eller källtyp
+        - Förbehåll saknas
+        - Något annat
+    validations:
+      required: true
+  - type: textarea
+    id: beskrivning
+    attributes:
+      label: Beskrivning
+      description: Vad står det, och vad borde det stå? Länka gärna till det som visar felet.
+    validations:
+      required: true

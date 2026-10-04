@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.gp.se/nyheter/sverige/varnar-racker-inte-att-bromsa-ai-maste-stoppas.b2b188b5-1155-5546-9e38-a4021113042d
   titel: 'Varnar: Räcker inte att bromsa – AI måste stoppas'
+  typ: media
   citat: Vi behöver ett fullständigt stopp för frontier-modellerna
   hämtad: '2026-09-22'
   arkiv: null

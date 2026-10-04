@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2401.02843
   titel: 'AI Impacts: Thousands of AI Authors on the Future of AI (2024)'
+  typ: preprint
   citat: The median prediction for extremely bad outcomes, such as human extinction, was 5% (mean 9%).
     Over a third of participants (38%) put at least a 10% chance on extremely bad outcomes.
   hämtad: '2026-09-28'

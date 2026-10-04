@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: None of the misuse cases involved the use of Claude Fable or Mythos-class models, with the exception
     of one illicit distillation case.
   hämtad: '2026-09-22'

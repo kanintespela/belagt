@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://concordia-ai.com/wp-content/uploads/2026/07/State-of-AI-Safety-in-China-2026.pdf
   titel: 'Concordia AI: State of AI Safety in China 2026'
+  typ: rapport
   citat: Chinese frontier AI safety research output has grown substantially, with monthly output up roughly
     60% since June 2025.
   hämtad: '2026-09-24'

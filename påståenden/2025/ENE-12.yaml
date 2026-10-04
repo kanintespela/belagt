@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: China currently accounts for around 99% of global refined gallium supply.
   hämtad: '2026-09-28'
   arkiv: null

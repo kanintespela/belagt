@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.anthropic.com/threat-intelligence-report-september-2026
   titel: 'Countering misuse of AI: September 2026 / Anthropic'
+  typ: partsuppgift
   citat: the platform developer modified the service to route biology prompts to other, more permissive
     models.
   hämtad: '2026-09-22'

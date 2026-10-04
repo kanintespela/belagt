@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://pauseai.info/proposal
   titel: PauseAI Proposal
+  typ: partsuppgift
   citat: The most dangerous models will be *general* AI models that can understand language and complete
     a wide range of tasks across many different domains.
   hämtad: '2026-09-22'

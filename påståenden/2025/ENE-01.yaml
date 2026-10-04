@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.iea.org/reports/energy-and-ai/executive-summary
   titel: Executive summary – Energy and AI – Analysis - IEA
+  typ: myndighet
   citat: Data centres accounted for around 1.5% of the world’s electricity consumption in 2024, or 415
     terawatt-hours (TWh).
   hämtad: '2026-09-28'

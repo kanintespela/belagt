@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://www.anthropic.com/news/core-views-on-ai-safety
   titel: 'Core views on AI safety: When, why, what, and how'
+  typ: partsuppgift
   citat: We founded Anthropic because we believe the impact of AI might be comparable to that of the industrial
     and scientific revolutions, but we aren’t confident it will go well.
   hämtad: '2026-09-22'

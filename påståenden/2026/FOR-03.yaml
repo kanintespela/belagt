@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better
     than human researchers on month-long research projects
   hämtad: '2026-09-24'

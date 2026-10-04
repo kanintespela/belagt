@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: However, they cannot be recalled once released, their safeguards are easier to remove, and actors
     can use them outside of monitored environments
   hämtad: '2026-09-24'

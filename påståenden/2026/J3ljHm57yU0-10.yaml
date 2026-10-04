@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://openai.com/index/navier-stokes-solution/
   titel: On the Navier–Stokes Millennium Prize Problem
+  typ: partsuppgift
   citat: Since August 28 we have been training a new internal model that has exhibited unprecedented performance
     in our benchmarks, including mathematics.
   hämtad: '2026-09-22'

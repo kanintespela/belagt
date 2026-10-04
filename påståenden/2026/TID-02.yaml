@@ -9,6 +9,7 @@ tema:
 källa:
   url: https://epoch.ai/trends
   titel: Trends in Artificial Intelligence
+  typ: rapport
   citat: each year, the same performance can be achieved with 3× less compute.
   hämtad: '2026-09-22'
   arkiv: null

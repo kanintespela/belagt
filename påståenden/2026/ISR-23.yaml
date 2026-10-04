@@ -10,6 +10,7 @@ tema:
 källa:
   url: https://arxiv.org/abs/2602.21012
   titel: International AI Safety Report 2026
+  typ: rapport
   citat: One study estimates that around 60% of jobs in advanced economies and 40% in emerging economies
     are highly exposed to generalpurpose AI
   hämtad: '2026-09-24'

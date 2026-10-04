@@ -11,6 +11,7 @@ tema:
 källa:
   url: https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/
   titel: How a Gemma model helped discover a new potential cancer therapy pathway
+  typ: partsuppgift
   citat: This required a level of conditional reasoning that appeared to be an emergent capability of
     scale; our smaller models could not resolve this context-dependent effect.
   hämtad: '2026-09-24'
