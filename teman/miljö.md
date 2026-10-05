@@ -11,31 +11,31 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
 - **Svenska kraftnät fick 2025 in ansökningar om att ta ut drygt 9 000 megawatt el ur stamnätet, och hälften av det gällde datacenter.**
   Svenska kraftnät · 2026-02 · miljö · myndighet · [SVS-03](../påståenden/2026/SVS-03.yaml)
   > Förra året kom det in 43 nya anslutningsärenden, fördelat på drygt 13 000 MW inmatning och drygt 9 000 MW uttag (varav hälften avser datacenter).
-  > — [Nära 5000 MW nya anslutningar beviljades 2025](https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/#:~:text=F%C3%B6rra%20%C3%A5ret%20kom%20det,%28varav%20h%C3%A4lften%20avser%20datacenter)
+  > — [Nära 5000 MW nya anslutningar beviljades 2025](https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/#:~:text=F%C3%B6rra%20%C3%A5ret%20kom%20det,%28varav%20h%C3%A4lften%20avser%20datacenter) · [arkivkopia](https://web.archive.org/web/20260928113203/https://www.svk.se/press-och-nyheter/nyheter/allmanna-nyheter/2026/nara-5000-mw-nya-anslutningar-beviljades-2025/)
 
   *Förbehåll:* Nyheten publicerades i början av 2026, men datumet står inte i den hämtade texten. Alla ansökningar leder inte till bygge: kön minskade samtidigt eftersom projekt som inte kommit vidare har rensats ut.
 - **Socialdemokraten Isak From varnade i riksdagen 2026 för att datacenter kan leda till effektbrist, skenande elpriser och att annan industri trängs undan, om politiken inte är förberedd.**
   Isak From (S), interpellation i riksdagen · 2026-03-24 · miljö, röster · myndighet · [SVS-07](../påståenden/2026/SVS-07.yaml)
   > Om politiken inte är redo riskerar vi effektbrist, att elpriserna skenar och att annan industri riskerar att trängas ut.
-  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/#:~:text=Om%20politiken%20inte%20%C3%A4r,riskerar%20att%20tr%C3%A4ngas%20ut)
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/#:~:text=Om%20politiken%20inte%20%C3%A4r,riskerar%20att%20tr%C3%A4ngas%20ut) · [arkivkopia](https://web.archive.org/web/20260823050203/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
 
   *Förbehåll:* Socialdemokraterna vill ha en nationell plan för var datacenter byggs. From skriver samtidigt att datacenter kan vara en vinstaffär för Sverige.
 - **Enligt Svenskt Näringsliv, med siffror från RISE, använder datacenter i Sverige 3–4 terawattimmar el per år, omkring 2,9 procent av landets totala elanvändning.**
   Svenskt Näringsliv (med siffror från RISE) · 2026-04 · miljö · rapport · [SVS-06](../påståenden/2026/SVS-06.yaml)
   > Det betyder att datacenter konsumerar cirka 2,9 procent av den totala elanvändningen
-  > — [Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet](https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf)
+  > — [Svenskt Näringsliv: effekter av datacenterutbyggnaden för elsystemet](https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf) · [arkivkopia](https://web.archive.org/web/20261001073543/https://www.svensktnaringsliv.se/bilder_och_dokument/rapporter/fj6eis_svn_rapport__dc_digital_v001pdf_1253038.html/SvN_Rapport__DC_DIGITAL_V001.pdf)
 
   *Förbehåll:* Sverige hade samtidigt ett elöverskott och exporterade netto 33,4 terawattimmar 2024. Jämför [ENE-01](https://kanintespela.github.io/belagt/#ENE-01): globalt står datacenter för omkring 1,5 procent av elanvändningen.
 - **Energi- och näringsminister Ebba Busch svarade att regeringens AI-strategi från februari 2026 fastslår att utbyggnaden av beräkningskapacitet måste ta hänsyn till tillgången på elnät och elproduktion.**
   Ebba Busch (KD), energi- och näringsminister, svar i riksdagen · 2026-04-13 · miljö, styrning · myndighet · [SVS-08](../påståenden/2026/SVS-08.yaml)
   > Den 20 februari i år presenterade regeringen en AI-strategi som bland annat fastslår att utbyggnaden av beräkningskapacitet behöver beakta tillgången till elnät och elproduktion.
-  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/#:~:text=Den%2020%20februari%20i,till%20eln%C3%A4t%20och%20elproduktion)
+  > — [Nationell plan för nya datacenter (Interpellation 2025/26:414 av Isak From (S))](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/#:~:text=Den%2020%20februari%20i,till%20eln%C3%A4t%20och%20elproduktion) · [arkivkopia](https://web.archive.org/web/20260823050203/https://www.riksdagen.se/sv/dokument-och-lagar/dokument/interpellation/nationell-plan-for-nya-datacenter_hd10414/)
 
   *Förbehåll:* Busch hänvisar också till uppdrag till Svenska kraftnät om att effektivisera anslutningsprocessen.
 - **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · opinion · [SVS-09](../påståenden/2026/SVS-09.yaml)
   > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.
-  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157#:~:text=Privata%20akt%C3%B6rer%20investerar%20%C3%B6ver,479%20miljoner%20p%C3%A5%20ai)
+  > — [”Sverige riskerar att bli en datacenterpark utan ai-förmåga”](https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157#:~:text=Privata%20akt%C3%B6rer%20investerar%20%C3%B6ver,479%20miljoner%20p%C3%A5%20ai) · [arkivkopia](https://web.archive.org/web/20261002074425/https://www.nyteknik.se/debatt/sverige-riskerar-att-bli-en-datacenterpark-utan-ai-foermaga/4492157)
 
   *Förbehåll:* Skribenten arbetar på ett databasföretag och argumenterar för mer satsningar på data, inte beräkningskraft. Siffrorna är hans egna sammanställningar.
 
@@ -44,7 +44,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
 - **Svenska kraftnät uppgav 2025 att ansökningarna från datacenter bara i Mellansverige motsvarade över 5 000 megawatt, ungefär lika mycket som 20 städer av Uppsalas storlek eller produktionen från fem kärnkraftsreaktorer.**
   Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · media · [SVS-04](../påståenden/2025/SVS-04.yaml)
   > Vi har idag ansökningar på 5000 MW bara i Mellansverige. Det är ungefär så mycket som 20 stycken städer av Uppsalas storlek, eller motsvarande produktionen från fem kärnkraftsreaktorer.
-  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset#:~:text=Vi%20har%20idag%20ans%C3%B6kningar,produktionen%20fr%C3%A5n%20fem%20k%C3%A4rnkraftsreaktorer)
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset#:~:text=Vi%20har%20idag%20ans%C3%B6kningar,produktionen%20fr%C3%A5n%20fem%20k%C3%A4rnkraftsreaktorer) · [arkivkopia](https://web.archive.org/web/20260902183549/https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
 
   *Förbehåll:* Året står inte i den hämtade texten, men ansökningarna jämförs med 2024. Ansökningarna i elområde 3 ökade från 1 310 megawatt 2024 till 6 692 megawatt, och huvuddelen gällde ett trettiotal datacenter.
 - **Epoch AI uppskattar att en typisk fråga till ChatGPT med GPT-4o drar omkring 0,3 wattimmar, en tiondel av den ofta citerade siffran 3 wattimmar.**
@@ -92,7 +92,7 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
 - **Svenska kraftnät varnar för att elpriset i Mellansverige kommer att stiga om datacentren byggs snabbare än den nya elproduktionen.**
   Daniel Gustafsson (Svenska kraftnät), intervjuad av Ekot · 2025 · miljö · media · [SVS-05](../påståenden/2025/SVS-05.yaml)
   > Datacentren måste byggas i takt med produktion, annars kommer elpriset öka för mycket
-  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset#:~:text=Datacentren%20m%C3%A5ste%20byggas%20i,elpriset%20%C3%B6ka%20f%C3%B6r%20mycket)
+  > — [Varningen: Stora datacenter kan höja elpriset | Sveriges Radio](https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset#:~:text=Datacentren%20m%C3%A5ste%20byggas%20i,elpriset%20%C3%B6ka%20f%C3%B6r%20mycket) · [arkivkopia](https://web.archive.org/web/20260902183549/https://www.sverigesradio.se/artikel/varningen-stora-datacenter-kan-hoja-elpriset)
 
   *Förbehåll:* Svenska kraftnät kan komma att kräva att datacenter har egen elproduktion eller avtal om produktion på plats.
 - **AAAI:s panelrapport hänvisar till prognoser om att datacenter 2028 kan stå för mellan 7 och 12 procent av USA:s elbehov, beroende på hur snabbt AI växer.**
@@ -161,6 +161,6 @@ Energi, klimat och vatten: hur mycket el och vatten AI kräver och vad det betyd
 - **Generella generativa AI-modeller drar storleksordningar mer energi än modeller som är tränade för en enda uppgift, även när man tar hänsyn till modellernas storlek.**
   Luccioni och Jernite (Hugging Face) samt Strubell (Carnegie Mellon) · 2023-11 · miljö · granskad · [ENE-16](../påståenden/2023/ENE-16.yaml)
   > We find that multi-purpose, generative architectures are orders of magnitude more expensive than task-specific systems for a variety of tasks, even when controlling for the number of model parameters.
-  > — [Luccioni m.fl.: Power Hungry Processing (2023)](https://arxiv.org/abs/2311.16863#:~:text=We%20find%20that%20multi%2Dpurpose%2C,number%20of%20model%20parameters)
+  > — [Luccioni m.fl.: Power Hungry Processing (2023)](https://arxiv.org/abs/2311.16863#:~:text=We%20find%20that%20multi%2Dpurpose%2C,number%20of%20model%20parameters) · [arkivkopia](https://web.archive.org/web/20260926023615/https://arxiv.org/abs/2311.16863)
 
   *Förbehåll:* Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför [NYT-07](https://kanintespela.github.io/belagt/#NYT-07) om att PauseAI:s förslag inte omfattar smal AI.

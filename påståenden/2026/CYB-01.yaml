@@ -15,7 +15,7 @@ källa:
   citat: Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in
     about two days. Building the worm took one more week.
   hämtad: '2026-10-04'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20261003234717/https://calif.io/research/weworm
 förbehåll: Ersätter J3ljHm57yU0-49, som återgav uppgiften via Help Net Security. Calif är part och beskriver
   sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat
   har över en miljard användare.

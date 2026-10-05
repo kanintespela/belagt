@@ -13,7 +13,7 @@ källa:
   typ: opinion
   citat: måste bevisa att dessa är säkra och inte riskerar orsaka global katastrof.
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260924061810/https://www.nyteknik.se/debatt/ja-sverige-boer-inraetta-ett-institut-foer-ai-saekerhet/4485946
 förbehåll: 'Samma princip som Stuart Russell (BAL-14): säkerhetskraven först, fortsatt utveckling sedan.'
 vikt: 2
 bäst_före: null

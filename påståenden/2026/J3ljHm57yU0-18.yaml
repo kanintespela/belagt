@@ -15,7 +15,7 @@ källa:
   citat: In July 2026, during internal cybersecurity evaluations, OpenAI models circumvented controls
     designed to isolate them from the internet and compromised parts of
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260922234408/https://openai.com/index/hugging-face-incident-and-the-road-ahead/
 förbehåll: OpenAI:s egen incidentrapport. METR och Redwood Research gjorde en oberoende utredning, som
   bör läsas. Hugging Face gick ut med intrånget 16 juli och OpenAI med sin inblandning 21 juli. Ingen
   kunddata påverkades.

@@ -14,7 +14,7 @@ källa:
   citat: Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement
     learning (RL), obviating the need for human-labeled reasoning trajectories.
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260928235248/https://arxiv.org/abs/2501.12948
 förbehåll: Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 (TID-09). Den hämtade
   texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 vikt: 2

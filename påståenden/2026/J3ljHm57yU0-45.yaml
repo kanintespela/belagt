@@ -12,7 +12,7 @@ källa:
   typ: partsuppgift
   citat: Our safeguards blocked many of their requests, but not all of them.
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260923034616/https://www.anthropic.com/threat-intelligence-report-september-2026
 förbehåll: Ett provskott med en styrd raket misslyckades, och gruppen återvände till Claude inom några
   timmar för att felsöka. Gruppen har redan byggt ett simuleringsverktyg som fungerar utan Claude.
 vikt: 2

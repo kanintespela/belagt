@@ -13,7 +13,7 @@ källa:
   citat: the platform developer modified the service to route biology prompts to other, more permissive
     models.
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260923034616/https://www.anthropic.com/threat-intelligence-report-september-2026
 förbehåll: Visar att ett företags spärrar inte räcker när användare kan byta till en annan modell, vilket
   är ett argument för gemensamma regler. Ironiskt nog skrev Claude själv mycket av koden, eftersom uppgiften
   beskrevs som att minska onödiga vägranden.

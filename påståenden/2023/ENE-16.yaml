@@ -13,7 +13,7 @@ källa:
   citat: We find that multi-purpose, generative architectures are orders of magnitude more expensive than
     task-specific systems for a variety of tasks, even when controlling for the number of model parameters.
   hämtad: '2026-09-28'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260926023615/https://arxiv.org/abs/2311.16863
 förbehåll: Författarna uppmanar till att väga nyttan av generella modeller mot deras energikostnad. Jämför
   NYT-07 om att PauseAI:s förslag inte omfattar smal AI.
 vikt: 2

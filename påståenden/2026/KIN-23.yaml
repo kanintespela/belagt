@@ -13,7 +13,7 @@ källa:
   typ: media
   citat: 自3月10日至4月2日，共采集OpenClaw漏洞155个，其中超危漏洞11个、高危漏洞53个
   hämtad: '2026-09-29'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260710203516/https://www.news.cn/tech/20260407/dcae7c4e487d4cac87dea510d65ab03f/c.html
   språk: zh
   översättning: från 10 mars till 2 april samlades totalt 155 sårbarheter i OpenClaw in, varav 11 kritiska
     och 53 allvarliga

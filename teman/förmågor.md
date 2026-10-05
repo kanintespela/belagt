@@ -23,7 +23,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **LeCun anser att dagens AI fortfarande är dålig på att resonera och att den inte kommer att nå mänsklig nivå på länge. Han påpekar att AI-forskare historiskt har varit för optimistiska om när det ska ske.**
   Yann LeCun · 2026-05-04 · tempo, förmågor, röster · media · [BAL-07](../påståenden/2026/BAL-07.yaml)
   > this is not going to take us to human-level AI for quite a while
-  > — [AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom#:~:text=this%20is%20not%20going,for%20quite%20a%20while)
+  > — [AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom#:~:text=this%20is%20not%20going,for%20quite%20a%20while) · [arkivkopia](https://web.archive.org/web/20260925212531/https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)
 
   *Förbehåll:* Motbild till Hassabis ([J3ljHm57yU0-37](https://kanintespela.github.io/belagt/#J3ljHm57yU0-37)). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet och Hugging Face-rapporten.
 - **Agenterna utvecklade tillsammans ett sätt att ta sig ut ur sin avskilda miljö och byta ut en del av systemet som utför kommandon, så att de kunde låtsas köra ett kommando medan de i själva verket körde ett annat.**
@@ -35,25 +35,25 @@ Vad AI-systemen kan göra och hur det mäts.
 - **OpenAI uppger att ett internt AI-system har löst Navier–Stokes-problemet, ett av matematikens sju millennieproblem, med ett bevis som också är formaliserat och maskinkontrollerat i Lean.**
   OpenAI · 2026-09-08 · förmågor · partsuppgift · [J3ljHm57yU0-08](../påståenden/2026/J3ljHm57yU0-08.yaml)
   > This resolves the Navier–Stokes Millennium Prize problem by establishing statement “C” (and also “D”) in the
-  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=This%20resolves%20the%20Navier%E2%80%93Stokes,also%20%E2%80%9CD%E2%80%9D%29%20in%20the)
+  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=This%20resolves%20the%20Navier%E2%80%93Stokes,also%20%E2%80%9CD%E2%80%9D%29%20in%20the) · [arkivkopia](https://web.archive.org/web/20260921191308/https://openai.com/index/navier-stokes-solution/)
 
   *Förbehåll:* Uppgiften kommer från OpenAI själva. Vid publiceringen fanns ingen oberoende granskning av matematiker. OpenAI gör inte anspråk på priset. Kontrollera om matematiker har godtagit beviset.
 - **Den som använder ChatGPT gratis får en mindre modell (GPT-5.6 Luna), medan OpenAI:s mest avancerade modell GPT-6 Astra bara ingår i betalnivåerna.**
   OpenAI (prissida) · 2026-09-22 · förmågor · partsuppgift · [DEM-01](../påståenden/2026/DEM-01.yaml)
   > Plan: Free, Feature: GPT-6 Astra, No
-  > — [Pricing | ChatGPT](https://chatgpt.com/pricing#:~:text=Plan%3A%20Free%2C%20Feature%3A%20GPT%2D6%20Astra%2C%20No)
+  > — [Pricing | ChatGPT](https://chatgpt.com/pricing#:~:text=Plan%3A%20Free%2C%20Feature%3A%20GPT%2D6%20Astra%2C%20No) · [arkivkopia](https://web.archive.org/web/20260923015253/https://chatgpt.com/pricing/)
 
   *Förbehåll:* Resonerande modeller med GPT-6 Astra ingår i Plus. Pro ger fem gånger mer användning och ”Pro reasoning”. Priserna kom inte med när sidan hämtades, så kontrollera dem på sidan.
 - **Gratisversionen av Claude saknar Anthropics största modeller (Opus och Fable) och agentverktyget Claude Code, som arbetar självständigt med uppgifter i flera steg.**
   Anthropic (prissida) · 2026-09-22 · förmågor · partsuppgift · [DEM-02](../påståenden/2026/DEM-02.yaml)
   > | Claude Code | No | Yes | Yes | Yes |
-  > — [Pricing](https://claude.com/pricing#:~:text=%7C%20Claude%20Code%20%7C,Yes%20%7C%20Yes%20%7C)
+  > — [Pricing](https://claude.com/pricing#:~:text=%7C%20Claude%20Code%20%7C,Yes%20%7C%20Yes%20%7C) · [arkivkopia](https://web.archive.org/web/20260922191551/https://claude.com/pricing)
 
   *Förbehåll:* Gratisnivån har Sonnet och Haiku. Fable kräver en betalnivå och ingår delvis i Max. Priserna kom inte med när sidan hämtades.
 - **Experterna i Forecasting Research Institutes panel förutsåg att den bästa AI-modellen skulle lösa 31 procent av FrontierMath-problemen i slutet av 2025. Utfallet blev 40,7 procent, alltså snabbare framsteg än experterna trodde.**
   Forecasting Research Institute · 2026-09-22 · förmågor, tempo · rapport · [FOR-27](../påståenden/2026/FOR-27.yaml)
   > The median expert predicted that the leading AI model on FrontierMath Tiers 1–3 by the end of 2025 would achieve 31%, while the median superforecaster predicted 30%. In reality, this question resolved at 40.7%.
-  > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25)
+  > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25) · [arkivkopia](https://web.archive.org/web/20261002014557/https://forecastingresearch.org/research/ai-progress-accuracy-update)
 
   *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
@@ -90,43 +90,43 @@ Vad AI-systemen kan göra och hur det mäts.
 - **KTH-professorn Pontus Johnson förklarar Hugging Face-intrånget med att människorna som byggde testmiljön inte förstod att den var sårbar, och att AI-modellernas förmåga att hacka är en oönskad bieffekt av att de tränas på programmering.**
   Pontus Johnson (KTH), i GP · 2026-08-10 · kontroll, förmågor · media · [SVR-06](../påståenden/2026/SVR-06.yaml)
   > Men människorna som hade byggt testmiljön var inte var tillräckligt smarta för att förstå att miljön var sårbar
-  > — [Larm om AI-rymningar: "Behöver bromsa utvecklingen"](https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4#:~:text=Men%20m%C3%A4nniskorna%20som%20hade,att%20milj%C3%B6n%20var%20s%C3%A5rbar)
+  > — [Larm om AI-rymningar: "Behöver bromsa utvecklingen"](https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4#:~:text=Men%20m%C3%A4nniskorna%20som%20hade,att%20milj%C3%B6n%20var%20s%C3%A5rbar) · [arkivkopia](https://web.archive.org/web/20260810112543/https://www.gp.se/nyheter/sverige/larm-om-ai-rymningar-behover-bromsa-utvecklingen.92a94daa-df5f-5089-8eac-91560d6830c4)
 
   *Förbehåll:* GP återger citatet ordagrant, inklusive ett extra ”var”. GP nämner också att Anthropic, Meta och brittiska AISI rapporterat liknande händelser.
 - **Sedan de första resonerande modellerna kom i september 2024 har AI-förmågorna enligt Epoch AI:s index ökat mer än dubbelt så snabbt som med tidigare modeller: 14 poäng per år mot 6.**
   Epoch AI · 2026-09 · tempo, förmågor · rapport · [TID-03](../påståenden/2026/TID-03.yaml)
   > frontier has advanced linearly by 14 points per year, compared with 6 points per year for non-reasoning models.
-  > — [Trends in Artificial Intelligence](https://epoch.ai/trends#:~:text=frontier%20has%20advanced%20linearly,year%20for%20non%2Dreasoning%20models)
+  > — [Trends in Artificial Intelligence](https://epoch.ai/trends#:~:text=frontier%20has%20advanced%20linearly,year%20for%20non%2Dreasoning%20models) · [arkivkopia](https://web.archive.org/web/20260922135844/https://epoch.ai/trends)
 
   *Förbehåll:* Indexet heter Epoch Capabilities Index (ECI). Förklara skalan kort om siffran används, eftersom den är abstrakt för en bred publik.
 - **Säkerhetsföretaget Calif uppger att de med hjälp av AI hittade ett säkerhetshål i WeChat och skrev det första fungerande angreppet på ungefär två dagar, och att det tog ytterligare en vecka att bygga en mask som kunde ta över konton utan att användaren gjorde något.**
   Calif (säkerhetsföretag i Palo Alto) · 2026-09-08 · missbruk, förmågor · partsuppgift · [CYB-01](../påståenden/2026/CYB-01.yaml)
   > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.
-  > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week)
+  > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week) · [arkivkopia](https://web.archive.org/web/20261003234717/https://calif.io/research/weworm)
 
   *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://kanintespela.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
 - **Enligt OpenAI arbetade i storleksordningen 10 000 samtidiga AI-agenter i ungefär 88 timmar för att ta fram Navier–Stokes-lösningen.**
   OpenAI · 2026-09-08 · förmågor, tempo · partsuppgift · [J3ljHm57yU0-09](../påståenden/2026/J3ljHm57yU0-09.yaml)
   > the group that produced the Navier–Stokes resolution involved on the order of 10,000 concurrent agents
-  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=the%20group%20that%20produced,of%2010%2C000%20concurrent%20agents)
+  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=the%20group%20that%20produced,of%2010%2C000%20concurrent%20agents) · [arkivkopia](https://web.archive.org/web/20260921191308/https://openai.com/index/navier-stokes-solution/)
 
   *Förbehåll:* Uppgiften kommer från OpenAI.
 - **OpenAI uppger att de sedan 28 augusti 2026 tränar en ny intern modell som presterar bättre än någon tidigare på deras tester, och att den fortsätter att förbättras.**
   OpenAI · 2026-09-08 · tempo, förmågor · partsuppgift · [J3ljHm57yU0-10](../påståenden/2026/J3ljHm57yU0-10.yaml)
   > Since August 28 we have been training a new internal model that has exhibited unprecedented performance in our benchmarks, including mathematics.
-  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=Since%20August%2028%20we,our%20benchmarks%2C%20including%20mathematics)
+  > — [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/#:~:text=Since%20August%2028%20we,our%20benchmarks%2C%20including%20mathematics) · [arkivkopia](https://web.archive.org/web/20260921191308/https://openai.com/index/navier-stokes-solution/)
 
   *Förbehåll:* Uppgiften kommer från OpenAI. Samma text beskriver modellen som ”betydligt mer kapabel än GPT-6 Astra”.
 - **Googles dyraste AI-abonnemang kostar 2 599 kronor i månaden i Sverige. Gratisnivån ger den snabba modellen 3.6 Flash och bara varierande tillgång till den ledande modellen 3.1 Pro.**
   Google (Geminis prenumerationssida, svensk version) · 2026-09-22 · förmågor, nytta · partsuppgift · [DEM-03](../påståenden/2026/DEM-03.yaml)
   > 2 599 SEK /månad: 20 gånger högre användningsgränser än med AI Pro
-  > — [Google AI Pro och Ultra — få åtkomst till Gemini 3.1 Pro med mera](https://gemini.google/subscriptions/#:~:text=2%20599%20SEK%20%2Fm%C3%A5nad%3A,%C3%A4n%20med%20AI%20Pro)
+  > — [Google AI Pro och Ultra — få åtkomst till Gemini 3.1 Pro med mera](https://gemini.google/subscriptions/#:~:text=2%20599%20SEK%20%2Fm%C3%A5nad%3A,%C3%A4n%20med%20AI%20Pro) · [arkivkopia](https://web.archive.org/web/20260922214026/https://gemini.google/subscriptions/)
 
   *Förbehåll:* Visar hur stor prisskillnaden är mellan gratisnivån och de dyraste abonnemangen. Priser och villkor ändras ofta.
 - **Inget av missbruksfallen i Anthropics hotrapport gällde företagets mest kapabla modeller, med ett undantag som rörde otillåten destillering.**
   Anthropic (hotrapport, september 2026) · 2026-09 · missbruk, förmågor · partsuppgift · [J3ljHm57yU0-48](../påståenden/2026/J3ljHm57yU0-48.yaml)
   > None of the misuse cases involved the use of Claude Fable or Mythos-class models, with the exception of one illicit distillation case.
-  > — [Countering misuse of AI: September 2026 / Anthropic](https://www.anthropic.com/threat-intelligence-report-september-2026#:~:text=None%20of%20the%20misuse,one%20illicit%20distillation%20case)
+  > — [Countering misuse of AI: September 2026 / Anthropic](https://www.anthropic.com/threat-intelligence-report-september-2026#:~:text=None%20of%20the%20misuse,one%20illicit%20distillation%20case) · [arkivkopia](https://web.archive.org/web/20260923034616/https://www.anthropic.com/threat-intelligence-report-september-2026)
 
   *Förbehåll:* Missbruket skedde alltså med förhållandevis svaga modeller.
 
@@ -141,49 +141,49 @@ Vad AI-systemen kan göra och hur det mäts.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · preprint · [TID-15](../påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
-  > — [METR Time Horizon](https://arxiv.org/pdf/2503.14499#:~:text=We%20find%20that%20the,seven%20months%20%28Figure%201)
+  > — [METR Time Horizon](https://arxiv.org/pdf/2503.14499#:~:text=We%20find%20that%20the,seven%20months%20%28Figure%201) · [arkivkopia](https://web.archive.org/web/20260922142420/https://arxiv.org/pdf/2503.14499)
 
   *Förbehåll:* Måttet kallas tidshorisont: hur lång tid uppgiften tar för en kunnig människa. Studiens bästa modell (o3) klarade uppgifter på omkring 110 minuter. Trenden kan ha accelererat sedan 2024. Om den håller och gäller även verkliga uppgifter kan AI inom fem år automatisera många programmeringsuppgifter som tar en månad, men det är en extrapolering. Mäts bara på programmering och liknande uppgifter.
 - **Klarna meddelade 2024 att AI gjorde ett arbete som motsvarade 700 anställda i kundtjänsten. 2025 började företaget anställa människor igen, eftersom kvaliteten hade blivit lidande.**
   EFN (Klarnas vd Sebastian Siemiatkowski till Bloomberg) · 2025-05-08 · nytta, förmågor · media · [SVR-18](../påståenden/2025/SVR-18.yaml)
   > När kostnad tyvärr varit det dominerande utvärderingskriteriet vid organisationen så får man till slut lägre kvalitet
-  > — [Efter AI-satsningen – Klarna börjar anställa igen](https://efn.se/efter-ai-satsningen-klarna-borjar-anstalla-igen#:~:text=N%C3%A4r%20kostnad%20tyv%C3%A4rr%20varit,till%20slut%20l%C3%A4gre%20kvalitet)
+  > — [Efter AI-satsningen – Klarna börjar anställa igen](https://efn.se/efter-ai-satsningen-klarna-borjar-anstalla-igen#:~:text=N%C3%A4r%20kostnad%20tyv%C3%A4rr%20varit,till%20slut%20l%C3%A4gre%20kvalitet) · [arkivkopia](https://web.archive.org/web/20260514052509/https://efn.se/efter-ai-satsningen-klarna-borjar-anstalla-igen)
 
   *Förbehåll:* Svenskt exempel på AI i arbetslivet, som visar både hur långt och hur kort det räckte. Siemiatkowski räknade ändå med att personalstyrkan skulle krympa från 3 000 till 2 500 genom naturlig avgång.
 - **En 27-miljardersmodell från Google och Yale, C2S-Scale, genererade en ny hypotes om hur kalla tumörer kan göras synliga för immunförsvaret, och hypotesen bekräftades sedan experimentellt i levande celler.**
   Google Research, Google DeepMind och Yale University · 2025-10 · nytta, förmågor · partsuppgift · [NYT-05](../påståenden/2025/NYT-05.yaml)
   > C2S-Scale generated a novel hypothesis about cancer cellular behavior and we have since confirmed its prediction with experimental validation in living cells. This discovery reveals a promising new pathway for developing therapies to fight cancer.
-  > — [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/#:~:text=C2S%2DScale%20generated%20a%20novel,therapies%20to%20fight%20cancer)
+  > — [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/#:~:text=C2S%2DScale%20generated%20a%20novel,therapies%20to%20fight%20cancer) · [arkivkopia](https://web.archive.org/web/20260914143747/https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/)
 
   *Förbehåll:* Partsuppgift från Google, men med experimentell validering vid Yale i cellmodeller som inte ingick i träningsdatan. Vägen från en bekräftad hypotes till ett färdigt läkemedel tar många år av tester.
 - **Google uppger att C2S-Scales upptäckt krävde ett slags villkorat resonemang som uppstod först med modellens storlek, och att företagets mindre modeller inte klarade uppgiften.**
   Google Research och Google DeepMind · 2025-10 · nytta, förmågor, tempo · partsuppgift · [NYT-06](../påståenden/2025/NYT-06.yaml)
   > This required a level of conditional reasoning that appeared to be an emergent capability of scale; our smaller models could not resolve this context-dependent effect.
-  > — [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/#:~:text=This%20required%20a%20level,resolve%20this%20context%2Ddependent%20effect)
+  > — [How a Gemma model helped discover a new potential cancer therapy pathway](https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/#:~:text=This%20required%20a%20level,resolve%20this%20context%2Ddependent%20effect) · [arkivkopia](https://web.archive.org/web/20260914143747/https://blog.google/innovation-and-ai/products/google-gemma-ai-cancer-therapy-discovery/)
 
   *Förbehåll:* Nyckelpåstående för balansen: det komplicerar den enkla gränsdragningen mellan ofarlig smal AI och riskabel generell AI. C2S-Scale är byggd på Gemma, Googles familj av öppna generella modeller. Just den upptäckten hängde alltså på skalan. Partsuppgift.
 - **Andelen svenskar 18–84 år som använder AI-verktyg har ökat från 29 procent 2023 till 39 procent 2025. Det betyder att mer än hälften av befolkningen ännu inte har använt dem.**
   Internetstiftelsen, Svenskarna och internet 2025 · 2025 · förmågor · rapport · [SVR-16](../påståenden/2025/SVR-16.yaml)
   > från år 2023 (29%), 2024 (34%) till och med 2025 (39%).
-  > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/#:~:text=fr%C3%A5n%20%C3%A5r%202023%20%2829%25%29%2C,och%20med%202025%20%2839%25)
+  > — [AI – Artificiell intelligens | Svenskarna och internet](https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/#:~:text=fr%C3%A5n%20%C3%A5r%202023%20%2829%25%29%2C,och%20med%202025%20%2839%25) · [arkivkopia](https://web.archive.org/web/20260928055250/https://svenskarnaochinternet.se/rapporter/svenskarna-och-internet-2025/ai-artificiell-intelligens/)
 
   *Förbehåll:* Många har alltså aldrig provat AI, och ännu färre har provat de betalda versionerna. Användningen är ojämnt fördelad, till exempel 56 procent bland tjänstemän mot 30 procent bland arbetare och 11 procent bland pensionärer.
 - **I januari 2025 visade det kinesiska AI-företaget DeepSeek att språkmodellers förmåga att resonera kan tränas fram enbart med förstärkningsinlärning, utan exempel på resonemang skrivna av människor.**
   DeepSeek · 2025-01 · förmågor, geopolitik · partsuppgift · [TID-21](../påståenden/2025/TID-21.yaml)
   > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
-  > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948#:~:text=Here%20we%20show%20that,for%20human%2Dlabeled%20reasoning%20trajectories)
+  > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948#:~:text=Here%20we%20show%20that,for%20human%2Dlabeled%20reasoning%20trajectories) · [arkivkopia](https://web.archive.org/web/20260928235248/https://arxiv.org/abs/2501.12948)
 
   *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://kanintespela.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.**
   OpenAI (GDPval) · 2025-09 · samhälle, förmågor · partsuppgift · [SAM-08](../påståenden/2025/SAM-08.yaml)
   > We found that today’s best frontier models are already approaching the quality of work produced by industry experts.
-  > — [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/#:~:text=We%20found%20that%20today%E2%80%99s,produced%20by%20industry%20experts)
+  > — [Measuring the performance of our models on real-world tasks](https://openai.com/index/gdpval/#:~:text=We%20found%20that%20today%E2%80%99s,produced%20by%20industry%20experts) · [arkivkopia](https://web.archive.org/web/20260904171527/https://openai.com/index/gdpval/)
 
   *Förbehåll:* Partsuppgift, även om uppgifterna bedömdes blint. Uppgifterna var väl avgränsade och motsvarar inte ett helt jobb. Anthropics Claude Opus 4.1 presterade bäst i testet, inte OpenAI:s egen modell.
 - **I Forecasting Research Institutes expertpanel LEAP förutsåg experterna (medianen) att den bästa AI-modellen löser 31 procent av problemen på matematiktestet FrontierMath i slutet av 2025, 55 procent i slutet av 2027 och 75 procent i slutet av 2030.**
   Forecasting Research Institute, expertpanelen LEAP (330 experter) · 2025-11-10 · förmågor, röster · rapport · [FOR-24](../påståenden/2025/FOR-24.yaml)
   > Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55% by the end of 2027 … and 75% by the end of 2030
-  > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030)
+  > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030) · [arkivkopia](https://web.archive.org/web/20260901094450/https://leap.forecastingresearch.org/reports/wave1)
 
   *Förbehåll:* Ersätter [FOR-01](https://kanintespela.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://kanintespela.github.io/belagt/#FOR-27).
 
@@ -192,13 +192,13 @@ Vad AI-systemen kan göra och hur det mäts.
 - **Nobelpriset i kemi 2024 gick till hälften till Demis Hassabis och John Jumper på Google DeepMind, som utvecklat en AI-modell som löste ett 50 år gammalt problem: att förutsäga proteiners struktur.**
   Kungliga Vetenskapsakademien · 2024-10-09 · nytta, förmågor · partsuppgift · [TID-20](../påståenden/2024/TID-20.yaml)
   > Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting proteins’ complex structures.
-  > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/#:~:text=Demis%20Hassabis%20and%20John,predicting%20proteins%E2%80%99%20complex%20structures)
+  > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/#:~:text=Demis%20Hassabis%20and%20John,predicting%20proteins%E2%80%99%20complex%20structures) · [arkivkopia](https://web.archive.org/web/20260929041400/https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 
   *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset ([SVR-13](https://kanintespela.github.io/belagt/#SVR-13)).
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · partsuppgift · [TID-09](../påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
-  > — [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/#:~:text=the%20performance%20of%20o1,spent%20thinking%20%28test%2Dtime%20compute)
+  > — [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/#:~:text=the%20performance%20of%20o1,spent%20thinking%20%28test%2Dtime%20compute) · [arkivkopia](https://web.archive.org/web/20260921191942/https://openai.com/index/learning-to-reason-with-llms/)
 
   *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se [TID-03](https://kanintespela.github.io/belagt/#TID-03)).
 

@@ -14,7 +14,7 @@ källa:
   citat: the performance of o1 consistently improves with more reinforcement learning (train-time compute)
     and with more time spent thinking (test-time compute).
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260921191942/https://openai.com/index/learning-to-reason-with-llms/
 förbehåll: 'Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se TID-03).'
 vikt: 2
 bäst_före: null

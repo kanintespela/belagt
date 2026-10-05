@@ -13,13 +13,13 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
   > 生成危害国家安全、荣誉和利益，煽动颠覆国家政权、推翻社会主义制度
   >
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* att generera innehåll som skadar statens säkerhet, heder och intressen, eller som uppviglar till att undergräva statsmakten eller störta det socialistiska systemet
-  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E7%94%9F%E6%88%90%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E3%80%81%E8%8D%A3%E8%AA%89%E5%92%8C,%E5%AE%B6%E6%94%BF%E6%9D%83%E3%80%81%E6%8E%A8%E7%BF%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%88%B6%E5%BA%A6)
+  > — [人工智能拟人化互动服务管理暂行办法](https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm#:~:text=%E7%94%9F%E6%88%90%E5%8D%B1%E5%AE%B3%E5%9B%BD%E5%AE%B6%E5%AE%89%E5%85%A8%E3%80%81%E8%8D%A3%E8%AA%89%E5%92%8C,%E5%AE%B6%E6%94%BF%E6%9D%83%E3%80%81%E6%8E%A8%E7%BF%BB%E7%A4%BE%E4%BC%9A%E4%B8%BB%E4%B9%89%E5%88%B6%E5%BA%A6) · [arkivkopia](https://web.archive.org/web/20260929120757/https://www.cac.gov.cn/2026-04/10/c_1777558395078289.htm)
 
   *Förbehåll:* Visar att kinesisk AI-reglering har två syften: att skydda användare och att kontrollera information. Båda behöver nämnas när reglerna används som exempel. Jämför [KIN-09](https://kanintespela.github.io/belagt/#KIN-09) och [KIN-10](https://kanintespela.github.io/belagt/#KIN-10), som står i samma paragraf respektive samma regelverk.
 - **En amerikansk domstol gav i juli 2026 sitt slutliga godkännande av förlikningen på 1,5 miljarder dollar mellan författare och Anthropic, omkring 3 000 dollar per verk.**
   Authors Guild (författarorganisation) · 2026-07-20 · rättigheter · partsuppgift · [URH-05](../påståenden/2026/URH-05.yaml)
   > On July 20, 2026, Judge Araceli Martínez-Olguín of the U.S. District Court for the Northern District of California granted final approval of the landmark $1.5 billion class action settlement in Bartz v. Anthropic and entered final judgment in the case.
-  > — [Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement](https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/#:~:text=On%20July%2020%2C%202026%2C,judgment%20in%20the%20case)
+  > — [Court Grants Final Approval of $1.5 Billion Anthropic Copyright Settlement](https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/#:~:text=On%20July%2020%2C%202026%2C,judgment%20in%20the%20case) · [arkivkopia](https://web.archive.org/web/20260914220444/https://authorsguild.org/news/court-grants-final-approval-anthropic-copyright-settlement/)
 
   *Förbehåll:* Enligt domstolen är 3 000 dollar per verk fyra gånger det lagstadgade minimibeloppet. Författarna behåller rätten att stämma för framtida handlingar och för vad modellerna skapar.
 
@@ -28,25 +28,25 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
 - **USA:s upphovsrättsmyndighet bedömer att den kopiering som sker när AI tränas hotar att allvarligt skada marknaden för eller värdet av upphovsrättsskyddade verk.**
   USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · myndighet · [URH-01](../påståenden/2025/URH-01.yaml)
   > The copying involved in AI training threatens significant potential harm to the market for or value of copyrighted works.
-  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf) · [arkivkopia](https://web.archive.org/web/20260930181037/https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
 
   *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten pekar på både direkt konkurrens från liknande verk och på att AI-genererat material i samma stil kan späda ut marknaden.
 - **Enligt myndigheten går det utöver gränserna för tillåten användning (fair use) att kommersiellt använda stora mängder skyddade verk för att skapa innehåll som konkurrerar med dem, särskilt om verken har hämtats olagligt.**
   USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · myndighet · [URH-03](../påståenden/2025/URH-03.yaml)
   > But making commercial use of vast troves of copyrighted works to produce expressive content that competes with them in existing markets, especially where this is accomplished through illegal access, goes beyond established fair use boundaries.
-  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf) · [arkivkopia](https://web.archive.org/web/20260930181037/https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
 
   *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten skriver samtidigt att användning för analys och forskning sannolikt är tillåten, och att det är för tidigt för ny lagstiftning. Licenser bör i stället få växa fram.
 - **Anthropic gick 2025 med på att betala 1,5 miljarder dollar i en förlikning med författare. Förlikningen omfattar nästan 500 000 piratkopierade böcker som företaget använt för att träna sina AI-modeller.**
   Copyright Alliance (organisation för upphovsrättsinnehavare) · 2025-08 · rättigheter · partsuppgift · [URH-04](../påståenden/2025/URH-04.yaml)
   > The settlement covers almost 500,000 pirated works that were illicitly used by Anthropic from the LibGen and PiLilMi datasets.
-  > — [What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance](https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/#:~:text=The%20settlement%20covers%20almost,LibGen%20and%20PiLilMi%20datasets)
+  > — [What to Know About the $1.5 Billion Bartz v. Anthropic Settlement | Copyright Alliance](https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/#:~:text=The%20settlement%20covers%20almost,LibGen%20and%20PiLilMi%20datasets) · [arkivkopia](https://web.archive.org/web/20260919081833/https://copyrightalliance.org/participating-bartz-v-anthropic-settlement/)
 
   *Förbehåll:* Målet heter Bartz mot Anthropic och förlikningen är den största i USA:s upphovsrättshistoria. Den gäller bara Anthropics tidigare nedladdning av piratkopior, inte själva träningen eller vad modellerna skapar. Källan företräder upphovsrättsinnehavare.
 - **Enligt Stim är AI-genererad musik och text inte upphovsrättsligt skyddad, eftersom skyddet bara gäller verk skapade av en människa.**
   Stim (svensk upphovsrättsorganisation för musik) · 2025 · rättigheter · partsuppgift · [URH-08](../påståenden/2025/URH-08.yaml)
   > Detta innebär att musik eller text till musik som är AI-genererad inte är upphovsrättsligt skyddat.
-  > — [Stim och AI – därför skyddas inte AI-genererad musik | Stim.se](https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai#:~:text=Detta%20inneb%C3%A4r%20att%20musik,inte%20%C3%A4r%20upphovsr%C3%A4ttsligt%20skyddat)
+  > — [Stim och AI – därför skyddas inte AI-genererad musik | Stim.se](https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai#:~:text=Detta%20inneb%C3%A4r%20att%20musik,inte%20%C3%A4r%20upphovsr%C3%A4ttsligt%20skyddat) · [arkivkopia](https://web.archive.org/web/20260824230705/https://www.stim.se/musikskapare/upphovsratt-musikskapare/ai)
 
   *Förbehåll:* Om en människa använder AI som hjälpmedel men själv gör de fria och kreativa valen kan verket fortfarande vara skyddat, skriver Stim.
 - **Enligt en skriftlig fråga i riksdagen konstaterade ISF 2018 att Försäkringskassans algoritm i sin dåvarande utformning inte uppfyllde kraven på likabehandling. Försäkringskassan ansåg att analysen var bristfällig.**
@@ -64,7 +64,7 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
 - **Myndigheten avvisar argumentet att AI-träning är som när människor lär sig och därför i sig självt är tillåten.**
   USA:s upphovsrättsmyndighet (U.S. Copyright Office) · 2025-05 · rättigheter · myndighet · [URH-02](../påståenden/2025/URH-02.yaml)
   > Nor do we agree that AI training is inherently transformative because it is like human learning.
-  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
+  > — [US Copyright Office: Generative AI Training (maj 2025)](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf) · [arkivkopia](https://web.archive.org/web/20260930181037/https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-3-Generative-AI-Training-Report-Pre-Publication-Version.pdf)
 
   *Förbehåll:* Rapportens förhandsversion publicerades i maj 2025; datumet står inte i citatet. Myndigheten jämför med att en student inte heller får kopiera alla böcker på biblioteket för att lära sig.
 - **Danmarks regering och de flesta av Folketingets partier enades i juni 2025 om att det ska bli olagligt att dela deepfakes och andra digitala efterbildningar av en persons utseende och röst. Parodi och satir ska fortfarande vara tillåtet.**
@@ -72,19 +72,19 @@ Upphovsrätt, diskriminering och integritet: hur AI påverkar enskildas rättigh
   > Den politiske aftale vil blive udmøntet i et lovforslag, som skal gøre det ulovligt at dele eksempelvis deepfakes og andre digitale efterligner af personlige kendetegn. … Parodier og satire vil naturligvis fortsat være mulige at lave.
   >
   > *Översatt från danska av Claude (AI), inte granskad av någon som läser danska:* Den politiska överenskommelsen ska omsättas i ett lagförslag som ska göra det olagligt att dela till exempel deepfakes och andra digitala efterbildningar av personliga kännetecken. … Parodier och satir ska naturligtvis fortfarande gå att göra.
-  > — [Bred aftale om deepfakes giver alle ret til egen krop og egen stemme](https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme#:~:text=Den%20politiske%20aftale%20vil,v%C3%A6re%20mulige%20at%20lave)
+  > — [Bred aftale om deepfakes giver alle ret til egen krop og egen stemme](https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme#:~:text=Den%20politiske%20aftale%20vil,v%C3%A6re%20mulige%20at%20lave) · [arkivkopia](https://web.archive.org/web/20260427041702/https://kum.dk/aktuelt/nyheder/bred-aftale-om-deepfakes-giver-alle-ret-til-egen-krop-og-egen-stemme)
 
   *Förbehåll:* Ändringen görs i den danska upphovsrättslagen. Det är en överenskommelse om ett lagförslag, inte en antagen lag. Kontrollera om lagen har trätt i kraft.
 - **Stim lanserade 2025 vad organisationen kallar världens första kollektiva AI-licens för musik. AI-företag får träna på musiken, men bara med uttryckligt samtycke från upphovspersonerna, som får ersättning.**
   Stim (svensk upphovsrättsorganisation för musik) · 2025-09 · rättigheter, samhälle · partsuppgift · [URH-06](../påståenden/2025/URH-06.yaml)
   > Nu tar Stim ett banbrytande steg i den digitala utvecklingen av musikbranschen – med världens första kollektiva AI-licens för musik.
-  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=Nu%20tar%20Stim%20ett,kollektiva%20AI%2Dlicens%20f%C3%B6r%20musik)
+  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=Nu%20tar%20Stim%20ett,kollektiva%20AI%2Dlicens%20f%C3%B6r%20musik) · [arkivkopia](https://web.archive.org/web/20261001155451/https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik)
 
   *Förbehåll:* Lanseringen skedde i september 2025, men månaden står inte i den hämtade texten. Upphovspersonerna får ersättning både när modellen tränas, när tjänsten används och när den genererade musiken används. Ett svenskt exempel på en licensmodell.
 - **Stim uppger att upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028.**
   Stim (svensk upphovsrättsorganisation för musik) · 2025-09 · rättigheter, samhälle · partsuppgift · [URH-07](../påståenden/2025/URH-07.yaml)
   > När upp till 24 procent av musikskaparnas intäkter riskerar att försvinna till följd av AI-utvecklingen fram till 2028
-  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=N%C3%A4r%20upp%20till%2024,AI%2Dutvecklingen%20fram%20till%202028)
+  > — [Stim lanserar AI-licens som sätter musikskaparnas rättigheter först | Stim.se](https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik#:~:text=N%C3%A4r%20upp%20till%2024,AI%2Dutvecklingen%20fram%20till%202028) · [arkivkopia](https://web.archive.org/web/20261001155451/https://www.stim.se/nyheter/stim-lanserar-varldens-forsta-ai-licens-for-musik)
 
   *Förbehåll:* Stim anger inte källan i texten. Siffran kommer sannolikt från en internationell studie för upphovsrättsorganisationerna, men det har inte kontrollerats här. Stim är part i frågan.
 
