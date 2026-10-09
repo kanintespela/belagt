@@ -24,6 +24,7 @@ ROOT = Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-bevakning; +https://github.com/kanintespela/belagt)"}
 ATOM = "{http://www.w3.org/2005/Atom}"
 MAX_PER_KÄLLA = 15
+MAX_TECKEN = 60000  # GitHub tar högst 65 536 tecken i ett ärende
 
 
 def hämta(url, timeout=60):
@@ -99,23 +100,35 @@ def main():
                if t and l and l not in kända and l not in sedda and (d is None or d >= gräns)]
         nya.sort(key=lambda x: x[2] or datetime.date.min, reverse=True)
         if nya:
-            per_grupp[k["grupp"]].append((k, nya[:MAX_PER_KÄLLA]))
+            per_grupp[k["grupp"]].append((k, nya))
         sedda.update(l for _, l, _ in nya)
     if not per_grupp and not trasiga:
         return
+    # Färre tips per källa tills ärendet ryms, så att alla källor syns.
+    for högst in range(MAX_PER_KÄLLA, 0, -1):
+        text_ut = rapport(gräns, per_grupp, trasiga, högst)
+        if len(text_ut) <= MAX_TECKEN:
+            break
+    print(text_ut[:MAX_TECKEN], end="")
+
+
+def rapport(gräns, per_grupp, trasiga, högst):
+    utelämnade = sum(max(len(nya) - högst, 0) for rader in per_grupp.values() for _, nya in rader)
     ut = [f"Nytt i de bevakade källorna sedan {gräns}. Det här är tips: följ länken till primärkällan, "
           "hämta den och skriv en post bara om ett ordagrant citat bekräftar påståendet "
           "([METOD.md](https://github.com/kanintespela/belagt/blob/main/METOD.md)). Listan över källor finns i "
           "[bevakning.yaml](https://github.com/kanintespela/belagt/blob/main/bevakning.yaml).\n"]
+    if utelämnade:
+        ut.append(f"\nÄrendet rymmer högst {högst} tips per källa, så {utelämnade} äldre tips är utelämnade.\n")
     for grupp, rader in per_grupp.items():
         ut.append(f"\n## {grupp}\n")
         for k, nya in rader:
             ut.append(f"\n**{k['namn']}**\n\n")
-            ut += [f"- [ ] {d or 'okänt datum'}: [{t}]({l})\n" for t, l, d in nya]
+            ut += [f"- [ ] {d or 'okänt datum'}: [{t}]({l})\n" for t, l, d in nya[:högst]]
     if trasiga:
         ut.append("\n## Flöden som inte gick att läsa\n\nAdressen kan ha ändrats. Rätta den i bevakning.yaml.\n\n")
         ut.append("\n".join(trasiga) + "\n")
-    print("".join(ut), end="")
+    return "".join(ut)
 
 
 if __name__ == "__main__":
