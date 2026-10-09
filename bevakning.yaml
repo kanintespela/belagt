@@ -10,6 +10,8 @@
 #   grupp:   rubrik i veckans ärende
 #   url:     RSS-, Atom- eller JSON-flöde
 #   format:  rss (RSS eller Atom, standard) eller riksdagen (riksdagens öppna data, JSON)
+#   kräv_ai: true om bara poster med AI i titeln ska tas med (sökningar som annars ger brus)
+#   kräv_ord: ord som också måste stå i titeln, åtskilda med | (till exempel landets namn)
 #   varför:  varför källan finns med
 #
 # Nyhetssökningarna (news.google.com) ger tips, inte primärkällor. Följ länken bakåt till
@@ -17,28 +19,35 @@
 
 - namn: Riksdagen, dokument om artificiell intelligens
   grupp: Sverige
-  url: https://data.riksdagen.se/dokumentlista/?sok=artificiell+intelligens&sort=datum&sortorder=desc&utformat=json&a=s
+  url: https://data.riksdagen.se/dokumentlista/?sok=artificiell+intelligens&sort=datum&sortorder=desc&utformat=json&a=s&sz=200
   format: riksdagen
+  kräv_ai: true
   varför: Motioner, interpellationer, frågor, utredningar och propositioner i primärkälla.
 
 - namn: Svenska nyheter om AI-politik och myndigheter
   grupp: Sverige
   url: https://news.google.com/rss/search?q=AI+(regeringen+OR+myndighet+OR+riksdagen+OR+utredning)+when:7d&hl=sv&gl=SE&ceid=SE:sv
+  kräv_ai: true
   varför: Tips om regeringsuppdrag, myndighetsrapporter och svenska röster.
 
 - namn: Storbritanniens regering om artificiell intelligens
   grupp: Myndigheter och mellanstatligt
   url: https://www.gov.uk/search/all.atom?keywords=artificial+intelligence&order=updated-newest
+  kräv_ai: true
   varför: AI Security Institute och DSIT publicerar på gov.uk.
 
 - namn: EU och AI-förordningen
   grupp: Myndigheter och mellanstatligt
   url: https://news.google.com/rss/search?q=%22AI+Act%22+(Commission+OR+%22AI+Office%22)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "EU|Europe|Brussels|Commission|AI Act|Virkkunen"
   varför: Genomförandet av AI-förordningen, riktlinjer och uppförandekoder.
 
 - namn: FN, OECD och internationella paneler
   grupp: Myndigheter och mellanstatligt
   url: https://news.google.com/rss/search?q=(OECD+OR+%22United+Nations%22+OR+UNESCO)+%22artificial+intelligence%22+report+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "UN|United Nations|OECD|UNESCO|UNDP|ITU|G7|G20"
   varför: Mellanstatliga rapporter och FN:s vetenskapliga panel för AI.
 
 - namn: arXiv, AI-säkerhet
@@ -59,39 +68,53 @@
 - namn: Kritiker och skeptiker
   grupp: Motröster
   url: https://news.google.com/rss/search?q=AI+(hype+OR+skeptic+OR+overblown+OR+%22normal+technology%22)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
   varför: Arkivet ska också ha röster som tror att riskerna eller tempot är överdrivna.
 
 - namn: Kina
   grupp: Regioner
   url: https://news.google.com/rss/search?q=China+AI+(regulation+OR+CAC+OR+%22State+Council%22)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "China|Chinese|Beijing|CAC|Kina"
   varför: Tips som leder till CAC:s, statsrådets och utrikesministeriets egna texter.
 
 - namn: Indien
   grupp: Regioner
   url: https://news.google.com/rss/search?q=India+AI+(MeitY+OR+governance+OR+%22IndiaAI%22)+when:7d&hl=en&gl=IN&ceid=IN:en
+  kräv_ai: true
+  kräv_ord: "India|MeitY"
   varför: Världens folkrikaste land saknas helt i arkivet.
 
 - namn: Japan
   grupp: Regioner
   url: https://news.google.com/rss/search?q=Japan+AI+(law+OR+%22AI+Promotion+Act%22+OR+%22AI+Safety+Institute%22)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "Japan"
   varför: Japan har en egen AI-lag och ett eget AI-säkerhetsinstitut.
 
 - namn: Sydkorea
   grupp: Regioner
   url: https://news.google.com/rss/search?q=Korea+%22AI+Basic+Act%22+OR+(Korea+AI+regulation)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "Korea"
   varför: Sydkoreas AI-grundlag är en av få heltäckande AI-lagar utanför EU.
 
 - namn: Afrika
   grupp: Regioner
   url: https://news.google.com/rss/search?q=(%22African+Union%22+OR+Africa)+%22artificial+intelligence%22+(strategy+OR+policy)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "Africa|Nigeria|Kenya|Ghana|Rwanda|Egypt|Ethiopia|Morocco|Senegal|Uganda|Tanzania|Zambia"
   varför: Afrikanska unionens AI-strategi och länder som Kenya, Nigeria och Sydafrika.
 
 - namn: Latinamerika
   grupp: Regioner
   url: https://news.google.com/rss/search?q=(Brazil+OR+Chile+OR+Mexico)+%22artificial+intelligence%22+(bill+OR+law+OR+regulation)+when:7d&hl=en&gl=US&ceid=US:en
+  kräv_ai: true
+  kräv_ord: "Brazil|Brasil|Chile|(?<!New )Mexic|Argentin|Colombia|Peru|Uruguay|Latin America|LatAm"
   varför: Brasiliens AI-lag och regionens regleringsarbete.
 
 - namn: Norden
   grupp: Regioner
   url: https://news.google.com/rss/search?q=%22kunstig+intelligens%22+(regjeringen+OR+regeringen+OR+Stortinget+OR+Folketinget)+when:7d&hl=no&gl=NO&ceid=NO:no
+  kräv_ai: true
   varför: Norge och Danmark, som ligger nära svenska förhållanden.

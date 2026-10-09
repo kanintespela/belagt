@@ -12,7 +12,10 @@ citat bekräftar påståendet.
 import argparse
 import datetime
 import email.utils
+import gzip
 import json
+import re
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from collections import defaultdict
@@ -23,14 +26,24 @@ import yaml
 ROOT = Path(__file__).resolve().parent.parent
 UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-bevakning; +https://github.com/kanintespela/belagt)"}
 ATOM = "{http://www.w3.org/2005/Atom}"
-MAX_PER_KÄLLA = 15
+MAX_PER_KÄLLA = 5
+# Källor med kräv_ai: true tar bara med poster där något av orden står i titeln.
+AI_ORD = re.compile(r"\b(AI|KI|A\.I\.|AGI)\b|artificiell intelligens|artificial intelligence|kunstig intelligens"
+                    r"|maskininlärning|machine learning|språkmodell|language model|chatbot|chattbot|generativ",
+                    re.IGNORECASE)
+# Sajter som maskinöversätter sina artiklar till många språk och fyller nyhetssökningarna.
+BLOCKERADE = {"vietnam.vn"}
+# Riksdagsdokument som kan bära ett påstående. Protokoll, dagordningar och EU-dokument hoppas över.
+RIKSDAGSTYPER = {"mot", "ip", "fr", "frs", "prop", "sou", "ds", "dir", "bet", "skr", "rir"}
 MAX_TECKEN = 60000  # GitHub tar högst 65 536 tecken i ett ärende
 
 
 def hämta(url, timeout=60):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read()
+        data = r.read()
+    # deepmind.google skickar gzip även när ingen har bett om det
+    return gzip.decompress(data) if data[:2] == b"\x1f\x8b" else data
 
 
 def datum(s):
@@ -56,10 +69,18 @@ def text(el, *namn):
     return ""
 
 
+def blockerad(url):
+    värd = urllib.parse.urlparse(url or "").hostname or ""
+    return any(värd == b or värd.endswith("." + b) for b in BLOCKERADE)
+
+
 def läs_flöde(data):
     """Poster ur ett RSS- eller Atom-flöde som (titel, länk, datum)."""
     rot = ET.fromstring(data)
     for item in rot.iter("item"):  # RSS
+        källa = item.find("source")  # Google News anger den egentliga sajten här
+        if källa is not None and blockerad(källa.get("url")):
+            continue
         yield text(item, "title"), text(item, "link"), datum(text(item, "pubDate", "{http://purl.org/dc/elements/1.1/}date"))
     for entry in rot.iter(f"{ATOM}entry"):  # Atom
         länk = next((l.get("href") for l in entry.findall(f"{ATOM}link") if l.get("rel") in (None, "alternate")), "")
@@ -69,6 +90,8 @@ def läs_flöde(data):
 def läs_riksdagen(data):
     lista = json.loads(data).get("dokumentlista", {}).get("dokument") or []
     for d in lista:
+        if d.get("typ") not in RIKSDAGSTYPER:
+            continue
         titel = " – ".join(x for x in (d.get("titel"), d.get("undertitel")) if x)
         länk = d.get("dokument_url_html") or ""
         if länk.startswith("//"):
@@ -97,7 +120,9 @@ def main():
             trasiga.append(f"- {k['namn']}: {type(e).__name__}: {e} ({k['url']})")
             continue
         nya = [(t, l, d) for t, l, d in poster
-               if t and l and l not in kända and l not in sedda and (d is None or d >= gräns)]
+               if t and l and l not in kända and l not in sedda and (d is None or d >= gräns)
+               and not blockerad(l) and (not k.get("kräv_ai") or AI_ORD.search(t))
+               and (not k.get("kräv_ord") or re.search(rf"\b({k['kräv_ord']})", t, re.IGNORECASE))]
         nya.sort(key=lambda x: x[2] or datetime.date.min, reverse=True)
         if nya:
             per_grupp[k["grupp"]].append((k, nya))
