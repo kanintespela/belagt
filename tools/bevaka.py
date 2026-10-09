@@ -15,6 +15,8 @@ import email.utils
 import gzip
 import json
 import re
+import time
+import urllib.error
 import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -31,17 +33,36 @@ MAX_PER_KÄLLA = 5
 AI_ORD = re.compile(r"\b(AI|KI|A\.I\.|AGI)\b|artificiell intelligens|artificial intelligence|kunstig intelligens"
                     r"|maskininlärning|machine learning|språkmodell|language model|chatbot|chattbot|generativ",
                     re.IGNORECASE)
-# Sajter som maskinöversätter sina artiklar till många språk och fyller nyhetssökningarna.
-BLOCKERADE = {"vietnam.vn"}
+# Sajter som aldrig kan vara källa enligt METOD.md (avsnittet Vilka avsändare som kan vara källa):
+# maskinöversatta eller troligen automatgenererade sajter, återpublicering av andras texter och
+# tjänster för betalda pressmeddelanden.
+BLOCKERADE = {
+    # maskinöversatt, automatgenererat eller utan identifierbar redaktion
+    "vietnam.vn", "news55.se", "news.lavx.hu", "streamlinefeed.co.ke", "powersofafrica.com", "inyheter.no",
+    # återpublicerar andras texter, gå till originalet
+    "tradingview.com",
+    # kryptonyheter och fackpress inom reklam och tv
+    "tokenpost.com", "adgully.com", "indiantelevision.com",
+    # betalda pressmeddelanden
+    "markets.businessinsider.com", "prnewswire.com", "globenewswire.com", "businesswire.com",
+    "einpresswire.com", "openpr.com", "accessnewswire.com", "newsfilecorp.com",
+}
 # Riksdagsdokument som kan bära ett påstående. Protokoll, dagordningar och EU-dokument hoppas över.
 RIKSDAGSTYPER = {"mot", "ip", "fr", "frs", "prop", "sou", "ds", "dir", "bet", "skr", "rir"}
 MAX_TECKEN = 60000  # GitHub tar högst 65 536 tecken i ett ärende
 
 
-def hämta(url, timeout=60):
+def hämta(url, timeout=60, försök=2):
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        data = r.read()
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            data = r.read()
+    except (urllib.error.URLError, TimeoutError) as e:
+        # Tillfälliga fel (till exempel 503 från news.google.com) får ett nytt försök.
+        if försök <= 1 or (isinstance(e, urllib.error.HTTPError) and e.code < 500):
+            raise
+        time.sleep(10)
+        return hämta(url, timeout, försök - 1)
     # deepmind.google skickar gzip även när ingen har bett om det
     return gzip.decompress(data) if data[:2] == b"\x1f\x8b" else data
 
@@ -74,12 +95,16 @@ def blockerad(url):
     return any(värd == b or värd.endswith("." + b) for b in BLOCKERADE)
 
 
-def läs_flöde(data):
-    """Poster ur ett RSS- eller Atom-flöde som (titel, länk, datum)."""
+def läs_flöde(data, kategorier=None):
+    """Poster ur ett RSS- eller Atom-flöde som (titel, länk, datum).
+
+    Med kategorier tas bara RSS-poster med någon av de kategorierna med."""
     rot = ET.fromstring(data)
     for item in rot.iter("item"):  # RSS
         källa = item.find("source")  # Google News anger den egentliga sajten här
         if källa is not None and blockerad(källa.get("url")):
+            continue
+        if kategorier and not {c.text for c in item.findall("category")} & set(kategorier):
             continue
         yield text(item, "title"), text(item, "link"), datum(text(item, "pubDate", "{http://purl.org/dc/elements/1.1/}date"))
     for entry in rot.iter(f"{ATOM}entry"):  # Atom
@@ -115,7 +140,10 @@ def main():
     for k in källor:
         try:
             data = hämta(k["url"])
-            poster = list((läs_riksdagen if k.get("format") == "riksdagen" else läs_flöde)(data))
+            if k.get("format") == "riksdagen":
+                poster = list(läs_riksdagen(data))
+            else:
+                poster = list(läs_flöde(data, k.get("kategorier")))
         except Exception as e:  # nätverksfel, flytt eller ändrat format: syns i ärendet
             trasiga.append(f"- {k['namn']}: {type(e).__name__}: {e} ({k['url']})")
             continue
