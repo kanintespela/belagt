@@ -8280,6 +8280,31 @@
    "ersatt_av": null,
    "citera": "Forecasting Research Institute, 2026-09-22. How Accurate Have AI Progress Forecasts Been So Far?. https://forecastingresearch.org/research/ai-progress-accuracy-update. Via Belagt FOR-27: https://kanintespela.github.io/belagt/#FOR-27",
    "citatlänk": "https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25"
+  },
+  {
+   "id": "BID-01",
+   "påstående": "Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.",
+   "typ": "bedömning",
+   "vem": "Leo Zeitler, Jack Richings och Victoria Nockles (forskare)",
+   "datum": "2026-10-07",
+   "tema": [
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2610.10285",
+    "titel": "AI Safety Considerations for Agents With Limited Time to Act",
+    "typ": "preprint",
+    "citat": "In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.",
+    "hämtad": "2026-10-11",
+    "arkiv": null
+   },
+   "förbehåll": "Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.",
+   "vikt": 1,
+   "bäst_före": null,
+   "kontrollerad": "2026-10-11",
+   "ersatt_av": null,
+   "citera": "Leo Zeitler, Jack Richings och Victoria Nockles (forskare), 2026-10-07. AI Safety Considerations for Agents With Limited Time to Act. https://arxiv.org/abs/2610.10285. Via Belagt BID-01: https://kanintespela.github.io/belagt/#BID-01",
+   "citatlänk": "https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour"
   }
  ]
 }

@@ -4,9 +4,9 @@
 
 Varje påstående i arkivet är kontrollerat mot sin källa. Men arkivet kan ändå ge en skev bild om *urvalet* är skevt, till exempel om en enda rapport eller ett enda företag står för en stor del av posterna. Den här sidan visar hur arkivet fördelar sig, så att det syns var det är tunt.
 
-- **317** påståenden, varav 304 aktuella och 13 ersatta
-- **124** olika källor och **81** olika webbplatser
-- **23** poster saknar ännu arkivkopia
+- **318** påståenden, varav 305 aktuella och 13 ersatta
+- **125** olika källor och **81** olika webbplatser
+- **24** poster saknar ännu arkivkopia
 - **37** översättningar är inte granskade av någon som läser språket
 - **8** aktuella poster bygger på att någon annan återger primärkällan: BAL-13, BAL-14, BAL-15, J3ljHm57yU0-01, KIN-23, SVR-14, SVR-15, SVS-13. Intervjuer i medier räknas med här, men duger enligt [metoden](METOD.md) när tidningen själv har gjort intervjun.
 
@@ -19,10 +19,10 @@ Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.
 | förmågor | 36 | 11 % |
 | tempo | 38 | 12 % |
 | självförbättring | 11 | 3 % |
-| kontroll | 57 | 18 % |
+| kontroll | 58 | 18 % |
 | missbruk | 33 | 10 % |
 | styrning | 113 | 36 % |
-| geopolitik | 27 | 9 % |
+| geopolitik | 27 | 8 % |
 | nytta | 20 | 6 % |
 | röster | 88 | 28 % |
 | samhälle | 36 | 11 % |
@@ -33,7 +33,7 @@ Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.
 
 | | Antal | Andel |
 |---|---:|---:|
-| bedömning | 99 | 31 % |
+| bedömning | 100 | 31 % |
 | händelse | 89 | 28 % |
 | mätning | 69 | 22 % |
 | prognos | 34 | 11 % |
@@ -47,7 +47,7 @@ Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.
 |---|---:|---:|
 | myndighet | 66 | 21 % |
 | granskad | 3 | 1 % |
-| preprint | 10 | 3 % |
+| preprint | 11 | 3 % |
 | rapport | 96 | 30 % |
 | partsuppgift | 61 | 19 % |
 | opinion | 45 | 14 % |
@@ -57,8 +57,8 @@ Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.
 
 | | Antal | Andel |
 |---|---:|---:|
-| engelska eller svenska | 280 | 88 % |
-| kinesiska | 27 | 9 % |
+| engelska eller svenska | 281 | 88 % |
+| kinesiska | 27 | 8 % |
 | koreanska | 3 | 1 % |
 | portugisiska | 2 | 1 % |
 | japanska | 2 | 1 % |
@@ -69,7 +69,7 @@ Ett påstående kan ha flera teman, så andelarna summerar till mer än 100 %.
 
 | | Antal | Andel |
 |---|---:|---:|
-| 2026 | 191 | 60 % |
+| 2026 | 192 | 60 % |
 | 2025 | 79 | 25 % |
 | 2024 | 24 | 8 % |
 | 2023 | 17 | 5 % |
@@ -105,7 +105,7 @@ De 15 som står bakom flest påståenden.
 
 | | Antal | Andel |
 |---|---:|---:|
-| arxiv.org | 58 | 18 % |
+| arxiv.org | 59 | 19 % |
 | openai.com | 26 | 8 % |
 | metr.org | 16 | 5 % |
 | cac.gov.cn | 15 | 5 % |
