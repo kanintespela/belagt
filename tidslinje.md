@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 317 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 318 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -2001,3 +2001,9 @@ Alla 317 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25) · [arkivkopia](https://web.archive.org/web/20261002014557/https://forecastingresearch.org/research/ai-progress-accuracy-update)
 
   *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
+- **Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.**
+  Leo Zeitler, Jack Richings och Victoria Nockles (forskare) · 2026-10-07 · kontroll · preprint · [BID-01](./påståenden/2026/BID-01.yaml)
+  > In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.
+  > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.

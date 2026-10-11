@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-57 påståenden, de viktigaste först inom varje år.
+58 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -278,6 +278,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Personal Statement on AI Risk](https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub#:~:text=the%20argument%E2%80%94that%20if%20we,very%20strong%20to%20me) · [arkivkopia](https://web.archive.org/web/20260923141050/https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub)
 
   *Förbehåll:* Selsam skriver samtidigt att han fortfarande brottas med frågan och inte har några svar.
+- **Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.**
+  Leo Zeitler, Jack Richings och Victoria Nockles (forskare) · 2026-10-07 · kontroll · preprint · [BID-01](../påståenden/2026/BID-01.yaml)
+  > In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.
+  > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
 
 ## 2025
 

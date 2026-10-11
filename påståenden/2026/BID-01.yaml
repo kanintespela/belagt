@@ -1,0 +1,22 @@
+id: BID-01
+påstående: Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende
+  i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.
+typ: bedömning
+vem: Leo Zeitler, Jack Richings och Victoria Nockles (forskare)
+datum: '2026-10-07'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2610.10285
+  titel: AI Safety Considerations for Agents With Limited Time to Act
+  typ: preprint
+  citat: In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.
+  hämtad: '2026-10-11'
+  arkiv: null
+förbehåll: Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna
+  (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar
+  slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-10-11'
+ersatt_av: null
