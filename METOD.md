@@ -21,6 +21,31 @@ den gamla får `ersatt_av`.
 Källor bakom betalvägg eller inloggning (till exempel x.com) kan inte kontrolleras på det här
 sättet, och påståenden som bara bygger på sådana källor tas inte med.
 
+## Vilka avsändare som kan vara källa
+
+Arkivet har ingen lista över godkända källor. Varje påstående prövas för sig, och källans tyngd
+redovisas med `källa.typ` och i hur påståendet attribueras. Men ett ordagrant citat räcker inte om
+avsändaren inte är värd att citera. Därför gäller också:
+
+- **Avsändaren ska gå att identifiera.** En namngiven myndighet, organisation, forskargrupp,
+  person eller redaktion med ansvarig utgivare. Anonyma sajter och sajter som ser
+  automatgenererade eller maskinöversatta ut tas inte med.
+- **Betalda pressmeddelanden och annonser är aldrig källa**, inte heller när de publiceras på en
+  känd nyhetssajt. Ett företags pressmeddelande på den egna webbplatsen kan vara källa, som
+  `partsuppgift`.
+- **Återpublicering är inte källa.** Sajter som publicerar andras texter igen (till exempel
+  TradingView) leder vidare till originalet, som är det som citeras.
+- **Åsikter tas med från avsändare med relevans.** En `opinion` ska komma från någon vars
+  bedömning väger i frågan: forskare inom området, beslutsfattare, eller ledande företrädare för
+  företag, myndigheter eller organisationer. Inte vem som helst som skriver om AI.
+- **Statliga medier och partsuppgifter kan vara källa för vad avsändaren hävdar**, men aldrig
+  för att något är sant. De återges som det de är (se *Källor på andra språk* nedan).
+
+Sajter som aldrig kan vara källa spärras i bevakningen (`BLOCKERADE` i
+[tools/bevaka.py](tools/bevaka.py)), så att de inte heller dyker upp som tips. Samma regler gäller
+för poster som tas fram automatiskt: de kommer in via en pull request som en människa granskar
+mot den här metoden.
+
 ## Källor på andra språk
 
 Citatet står alltid på **originalspråket**, till exempel kinesiska, eftersom det är det som kontrolleras
@@ -47,7 +72,8 @@ källa:
 Varje enskild post kan vara korrekt och arkivet ändå ge en skev bild, om urvalet är skevt. Därför:
 
 - **Källor bevakas systematiskt.** [bevakning.yaml](bevakning.yaml) är en fast lista med
-  myndigheter, forskning, företag, kritiker och regioner. Varje vecka läser
+  myndigheter, forskning, företag, kritiker och regioner. Primärkällornas egna flöden går före
+  nyhetssökningar, som bara används där sådana flöden saknas. Varje vecka läser
   [tools/bevaka.py](tools/bevaka.py) flödena och lägger det som är nytt i ärendet *Nytt att granska*.
   Listan är medvetet blandad och vem som helst kan föreslå tillägg.
 - **Motröster tas med.** Bedömningar som går emot varandra tas med på samma villkor. Ett påstående

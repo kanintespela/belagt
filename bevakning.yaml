@@ -12,10 +12,13 @@
 #   format:  rss (RSS eller Atom, standard) eller riksdagen (riksdagens öppna data, JSON)
 #   kräv_ai: true om bara poster med AI i titeln ska tas med (sökningar som annars ger brus)
 #   kräv_ord: ord som också måste stå i titeln, åtskilda med | (till exempel landets namn)
+#   kategorier: bara poster i någon av de här kategorierna i flödet (till exempel utan kundcase)
 #   varför:  varför källan finns med
 #
-# Nyhetssökningarna (news.google.com) ger tips, inte primärkällor. Följ länken bakåt till
-# myndighetens, företagets eller forskarnas egen text.
+# Primärkällornas egna flöden står först. Där sådana saknas används nyhetssökningar
+# (news.google.com), som ger tips, inte primärkällor: följ länken bakåt till myndighetens,
+# företagets eller forskarnas egen text. Sajter som aldrig kan vara källa spärras i
+# tools/bevaka.py (BLOCKERADE), se METOD.md.
 
 - namn: Riksdagen, dokument om artificiell intelligens
   grupp: Sverige
@@ -24,11 +27,52 @@
   kräv_ai: true
   varför: Motioner, interpellationer, frågor, utredningar och propositioner i primärkälla.
 
+- namn: Regeringen, pressmeddelanden
+  grupp: Sverige
+  url: https://www.regeringen.se/Filter/RssFeed?filterType=Taxonomy&filterByType=FilterablePageBase&preFilteredCategories=1292&rootPageReference=0&filteredContentCategories=1324&filteredPoliticalLevelCategories=&filteredPoliticalAreaCategories=&filteredPublisherCategories=
+  kräv_ai: true
+  varför: Regeringens beslut, uppdrag och utredningar i primärkälla.
+
 - namn: Svenska nyheter om AI-politik och myndigheter
   grupp: Sverige
   url: https://news.google.com/rss/search?q=AI+(regeringen+OR+myndighet+OR+riksdagen+OR+utredning)+when:7d&hl=sv&gl=SE&ceid=SE:sv
   kräv_ai: true
   varför: Tips om regeringsuppdrag, myndighetsrapporter och svenska röster.
+
+- namn: EU-kommissionen, digital strategi
+  grupp: Myndigheter och mellanstatligt
+  url: https://digital-strategy.ec.europa.eu/en/rss.xml
+  kräv_ai: true
+  varför: AI-byrån och kommissionens arbete med AI-förordningen, i primärkälla.
+
+- namn: Europaparlamentet, pressmeddelanden
+  grupp: Myndigheter och mellanstatligt
+  url: https://www.europarl.europa.eu/rss/doc/press-releases/en.xml
+  kräv_ai: true
+  varför: Parlamentets beslut och omröstningar om AI.
+
+- namn: Europeiska datatillsynsmannen (EDPS)
+  grupp: Myndigheter och mellanstatligt
+  url: https://www.edps.europa.eu/feed/news_en
+  kräv_ai: true
+  varför: Dataskydd och AI i EU:s institutioner.
+
+- namn: FN, pressmeddelanden och mötesreferat
+  grupp: Myndigheter och mellanstatligt
+  url: https://press.un.org/en/rss.xml
+  kräv_ai: true
+  varför: Generalförsamlingen, säkerhetsrådet och FN:s vetenskapliga panel för AI, i primärkälla.
+
+- namn: Storbritanniens AI Security Institute
+  grupp: Myndigheter och mellanstatligt
+  url: https://www.gov.uk/government/organisations/ai-security-institute.atom
+  varför: Institutets egna utvärderingar och avtal.
+
+- namn: NIST (USA)
+  grupp: Myndigheter och mellanstatligt
+  url: https://www.nist.gov/news-events/news/rss.xml
+  kräv_ai: true
+  varför: USA:s standardiseringsmyndighet och dess AI-säkerhetscenter (CAISI).
 
 - namn: Storbritanniens regering om artificiell intelligens
   grupp: Myndigheter och mellanstatligt
@@ -58,7 +102,8 @@
 - namn: OpenAI
   grupp: Företag
   url: https://openai.com/news/rss.xml
-  varför: Partsuppgifter om modeller, mätningar och incidenter.
+  kategorier: [Research, Safety, Safety & Alignment, Security, Global Affairs, Publication]
+  varför: Partsuppgifter om modeller, mätningar och incidenter. Kundcase och produktnyheter tas inte med.
 
 - namn: Google DeepMind
   grupp: Företag
@@ -70,6 +115,18 @@
   url: https://news.google.com/rss/search?q=AI+(hype+OR+skeptic+OR+overblown+OR+%22normal+technology%22)+when:7d&hl=en&gl=US&ceid=US:en
   kräv_ai: true
   varför: Arkivet ska också ha röster som tror att riskerna eller tempot är överdrivna.
+
+- namn: Japans digitalmyndighet
+  grupp: Regioner
+  url: https://www.digital.go.jp/en/rss/news.xml
+  kräv_ai: true
+  varför: Japans egen myndighet för digitalisering och statens AI-användning.
+
+- namn: Norges regering
+  grupp: Regioner
+  url: https://www.regjeringen.no/no/rss/Rss/2581966/?documentType=aktuelt/nyheter
+  kräv_ai: true
+  varför: Norska regeringens beslut och strategier om KI, i primärkälla.
 
 - namn: Kina
   grupp: Regioner
