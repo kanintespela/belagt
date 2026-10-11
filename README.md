@@ -7,7 +7,7 @@ mätts, bedömts eller föreslagits inom AI-utvecklingen. Till varje påstående
 bakom det, när det hände och ett ordagrant citat ur primärkällan. Tanken är att du ska kunna
 kontrollera varje påstående själv och hänvisa rätt när du skriver.
 
-👉 **Sök i arkivet: [kanintespela.github.io/belagt](https://kanintespela.github.io/belagt/)**
+👉 **Sök i arkivet: [pauseai-sverige.github.io/belagt](https://pauseai-sverige.github.io/belagt/)**
 
 ## Vad kan jag använda det till?
 
@@ -51,7 +51,7 @@ Hur kontrollen går till står i [METOD.md](METOD.md).
 
 Hänvisa till primärkällan och gärna till posten här, till exempel:
 
-> Epoch AI (oberoende forskningsinstitut), 2026-09. Trends in Artificial Intelligence. https://epoch.ai/trends. Via Belagt TID-01: https://kanintespela.github.io/belagt/#TID-01
+> Epoch AI (oberoende forskningsinstitut), 2026-09. Trends in Artificial Intelligence. https://epoch.ai/trends. Via Belagt TID-01: https://pauseai-sverige.github.io/belagt/#TID-01
 
 Knappen *Kopiera källhänvisning* på webbsidan ger den texten. Id:t (`TID-01`) ändras aldrig.
 
@@ -67,19 +67,19 @@ saken inräknad.
 AI (Claude) används för att hitta, extrahera och kontrollera påståenden. Varje post granskas av
 en människa innan den kommer in, och citatet kontrolleras maskinellt mot den hämtade källtexten.
 Varje månad kontrolleras alla citat igen mot arkivkopiorna, och resultatet läggs öppet i ett
-[ärende](https://github.com/kanintespela/belagt/issues?q=label%3Acitatkontroll). Nya poster
+[ärende](https://github.com/pauseai-sverige/belagt/issues?q=label%3Acitatkontroll). Nya poster
 hittas genom att en [fast lista med källor](bevakning.yaml) bevakas varje vecka, så att urvalet
 inte bara beror på vad någon råkar läsa.
 
 ## Bidra
 
 Har du hittat ett fel, en död länk eller ett påstående som saknas? Öppna ett
-[ärende](https://github.com/kanintespela/belagt/issues/new/choose).
+[ärende](https://github.com/pauseai-sverige/belagt/issues/new/choose).
 
 **Läser du kinesiska, japanska, koreanska, portugisiska, norska eller danska?** Citat på andra språk står i original med en översättning bredvid.
 Översättningarna är gjorda av AI och märkta *inte granskade* tills någon som läser språket har
-kontrollerat dem. [Här är de ogranskade](https://kanintespela.github.io/belagt/?q=ogranskad).
-Använd mallen [Granska en översättning](https://github.com/kanintespela/belagt/issues/new?template=oversattning.yml),
+kontrollerat dem. [Här är de ogranskade](https://pauseai-sverige.github.io/belagt/?q=ogranskad).
+Använd mallen [Granska en översättning](https://github.com/pauseai-sverige/belagt/issues/new?template=oversattning.yml),
 så skrivs ditt namn in som granskare. Förslag på nya poster går också
 att skicka som pull request, se [METOD.md](METOD.md).
 

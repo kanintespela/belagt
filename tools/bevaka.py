@@ -26,7 +26,7 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-bevakning; +https://github.com/kanintespela/belagt)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-bevakning; +https://github.com/pauseai-sverige/belagt)"}
 ATOM = "{http://www.w3.org/2005/Atom}"
 MAX_PER_KÄLLA = 5
 # Källor med kräv_ai: true tar bara med poster där något av orden står i titeln.
@@ -169,8 +169,8 @@ def rapport(gräns, per_grupp, trasiga, högst):
     utelämnade = sum(max(len(nya) - högst, 0) for rader in per_grupp.values() for _, nya in rader)
     ut = [f"Nytt i de bevakade källorna sedan {gräns}. Det här är tips: följ länken till primärkällan, "
           "hämta den och skriv en post bara om ett ordagrant citat bekräftar påståendet "
-          "([METOD.md](https://github.com/kanintespela/belagt/blob/main/METOD.md)). Listan över källor finns i "
-          "[bevakning.yaml](https://github.com/kanintespela/belagt/blob/main/bevakning.yaml).\n"]
+          "([METOD.md](https://github.com/pauseai-sverige/belagt/blob/main/METOD.md)). Listan över källor finns i "
+          "[bevakning.yaml](https://github.com/pauseai-sverige/belagt/blob/main/bevakning.yaml).\n"]
     if utelämnade:
         ut.append(f"\nÄrendet rymmer högst {högst} tips per källa, så {utelämnade} äldre tips är utelämnade.\n")
     for grupp, rader in per_grupp.items():

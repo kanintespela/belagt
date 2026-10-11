@@ -4,8 +4,8 @@ title: "Belagt: verifierade påståenden om AI-utvecklingen"
 type: dataset
 authors:
   - name: "kanintespela"
-repository-code: "https://github.com/kanintespela/belagt"
-url: "https://kanintespela.github.io/belagt/"
+repository-code: "https://github.com/pauseai-sverige/belagt"
+url: "https://pauseai-sverige.github.io/belagt/"
 license: CC-BY-4.0
 keywords:
   - AI

@@ -24,8 +24,8 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 PÅST = ROOT / "påståenden"
-REPO_URL = "https://github.com/kanintespela/belagt"
-SIDA_URL = "https://kanintespela.github.io/belagt/"
+REPO_URL = "https://github.com/pauseai-sverige/belagt"
+SIDA_URL = "https://pauseai-sverige.github.io/belagt/"
 
 TYPER = {"händelse", "mätning", "bedömning", "prognos", "förslag"}
 TEMAN = {

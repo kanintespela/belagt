@@ -19,7 +19,7 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-UA = {"User-Agent": "belagt-arkivering (+https://github.com/kanintespela/belagt)"}
+UA = {"User-Agent": "belagt-arkivering (+https://github.com/pauseai-sverige/belagt)"}
 
 
 def hämta(url, timeout=60):

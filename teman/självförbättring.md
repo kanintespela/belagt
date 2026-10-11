@@ -32,7 +32,7 @@ AI som används för att utveckla AI.
   > that he had quit his job because Anthropic and his previous employer, OpenAI, were ignoring or mishandling their response to the threat AI posed.
   > — [OpenAI boss and Elon Musk back calls to put brakes on ‘reckless’ AI development](https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development#:~:text=that%20he%20had%20quit,the%20threat%20AI%20posed) · [arkivkopia](https://web.archive.org/web/20261005113840/https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development)
 
-  *Förbehåll:* Originalinlägget ligger på x.com och går inte att hämta, så The Guardians återgivning används. Coxons eget citat om vad de som bygger AI tror finns i [J3ljHm57yU0-02](https://kanintespela.github.io/belagt/#J3ljHm57yU0-02).
+  *Förbehåll:* Originalinlägget ligger på x.com och går inte att hämta, så The Guardians återgivning används. Coxons eget citat om vad de som bygger AI tror finns i [J3ljHm57yU0-02](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-02).
 - **Amodei skriver att AI sedan ungefär sommaren 2026 har utvecklats drastiskt snabbare, främst för att AI allt mer kan bygga nästa generation AI, och att detta sker i hela branschen, inklusive på Anthropic.**
   Dario Amodei (vd, Anthropic) · 2026-09 · självförbättring, tempo · opinion · [J3ljHm57yU0-29](../påståenden/2026/J3ljHm57yU0-29.yaml)
   > since roughly this summer, AI has been advancing drastically faster, driven primarily by AI’s growing ability to build the next generation of AI.
@@ -53,7 +53,7 @@ AI som används för att utveckla AI.
   > However, forecasters’ estimates increased to 18% in scenarios where AI systems perform better than human researchers on month-long research projects
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=However%2C%20forecasters%E2%80%99%20estimates%20increased,on%20month%2Dlong%20research%20projects) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
+  *Förbehåll:* Jämför [OAI-03](https://pauseai-sverige.github.io/belagt/#OAI-03): OpenAI säger sig 2026 ha nått en automatiserad forskningspraktikant och siktar på en automatiserad AI-forskare 2028.
 - **OpenAI uppger att AI hjälpte till att utveckla företagets första egna inferenschip, så att det gick nio månader från första design till färdig konstruktion.**
   OpenAI · 2026-08 · självförbättring · partsuppgift · [J3ljHm57yU0-15](../påståenden/2026/J3ljHm57yU0-15.yaml)
   > AI played a direct role in Jalapeño’s development, enabling the team to move from initial design to tapeout in nine months
@@ -68,10 +68,10 @@ AI som används för att utveckla AI.
   > Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by 2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.
   > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=Experts%20and%20superforecasters%20both,chance%20and%20superforecasters%208%25)
 
-  *Förbehåll:* Ersätter [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.
+  *Förbehåll:* Ersätter [FOR-02](https://pauseai-sverige.github.io/belagt/#FOR-02), som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.
 - **I samma pilotstudie höjdes bedömningarna till en median på 20,5 procent för experterna och 18 procent för superprognosmakarna, om AI-system skulle visa sig bättre än mänskliga forskare på öppna forskningsprojekt som tar en månad.**
   METR och Forecasting Research Institute (pilotstudie med 8 experter och 10 superprognosmakare) · 2025-08-20 · tempo, självförbättring, röster · rapport · [FOR-26](../påståenden/2025/FOR-26.yaml)
   > experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems doing better than human researchers at open-ended month-long research projects.
   > — [Forecasting the Impacts of AI R&D Acceleration: Results of a Pilot Study](https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/#:~:text=experts%20and%20superforecasters%20converge,open%2Dended%20month%2Dlong%20research%20projects)
 
-  *Förbehåll:* Ersätter [FOR-03](https://kanintespela.github.io/belagt/#FOR-03), som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför [OAI-03](https://kanintespela.github.io/belagt/#OAI-03).
+  *Förbehåll:* Ersätter [FOR-03](https://pauseai-sverige.github.io/belagt/#FOR-03), som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför [OAI-03](https://pauseai-sverige.github.io/belagt/#OAI-03).

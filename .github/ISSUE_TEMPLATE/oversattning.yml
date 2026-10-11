@@ -7,7 +7,7 @@ body:
       value: |
         Citat på andra språk står i original och översättningen bredvid. Översättningarna är gjorda av AI
         och visas som *inte granskade* tills någon som läser språket har läst dem.
-        [Här är alla ogranskade](https://kanintespela.github.io/belagt/?q=ogranskad).
+        [Här är alla ogranskade](https://pauseai-sverige.github.io/belagt/?q=ogranskad).
   - type: input
     id: id
     attributes:
