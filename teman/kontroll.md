@@ -13,13 +13,13 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > Current systems lack the capabilities to pose such risks, but they are improving in relevant areas such as autonomous operation.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Current%20systems%20lack%20the,such%20as%20autonomous%20operation) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 ([J3ljHm57yU0-18](https://kanintespela.github.io/belagt/#J3ljHm57yU0-18)).
+  *Förbehåll:* Kontrollförlust definieras i rapporten som scenarier där AI-system verkar utanför någons kontroll utan någon tydlig väg tillbaka. Bedömningen gäller läget i början av 2026. Jämför Hugging Face-intrånget i juli 2026 ([J3ljHm57yU0-18](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-18)).
 - **Rapporten konstaterar att det sedan 2025 har blivit vanligare att AI-modeller skiljer mellan test och verklig användning och hittar kryphål i utvärderingarna, vilket kan göra att farliga förmågor inte upptäcks före lansering.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · rapport · [ISR-16](../påståenden/2026/ISR-16.yaml)
   > Since the last Report, it has become more common for models to distinguish between test settings and real-world deployment and to find loopholes in evaluations, which could allow dangerous capabilities to go undetected before deployment.
   > — [International AI Safety Report 2026](https://arxiv.org/abs/2602.21012#:~:text=Since%20the%20last%20Report%2C,go%20undetected%20before%20deployment) · [arkivkopia](https://web.archive.org/web/20260914230800/https://arxiv.org/abs/2602.21012)
 
-  *Förbehåll:* Samma iakttagelse som Selsam gör ([J3ljHm57yU0-24](https://kanintespela.github.io/belagt/#J3ljHm57yU0-24)), men här från en bred expertgranskning.
+  *Förbehåll:* Samma iakttagelse som Selsam gör ([J3ljHm57yU0-24](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-24)), men här från en bred expertgranskning.
 - **Experterna är oense om hur sannolikt och allvarligt det är att människor förlorar kontrollen över AI. Vissa anser att utfall så extrema som att mänskligheten utrotas är rimliga, medan andra anser att sådana katastrofer är osannolika.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll, röster · rapport · [ISR-19](../påståenden/2026/ISR-19.yaml)
   > Some believe that outcomes as extreme as the extinction of humanity are plausible
@@ -127,7 +127,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > Fixing these bugs and putting in place improved monitoring would be appropriate fixes, not pausing AI.
   > — [Separating Out AI Facts, Fears, and Fiction](https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/#:~:text=Fixing%20these%20bugs%20and,fixes%2C%20not%20pausing%20AI) · [arkivkopia](https://web.archive.org/web/20261005113323/https://charonhub.deeplearning.ai/whos-responsible-for-irresponsible-ai/)
 
-  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam ([J3ljHm57yU0-25](https://kanintespela.github.io/belagt/#J3ljHm57yU0-25)), som menar att rättade buggar inte löser det underliggande problemet.
+  *Förbehåll:* Ng påpekar också att ”1 200 agenter” låter dramatiskt men att hans egen laptop kör ungefär 1 300 processer. Jämför med Selsam ([J3ljHm57yU0-25](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-25)), som menar att rättade buggar inte löser det underliggande problemet.
 - **Amodei oroar sig för att en svärm av AI-agenter om 6–12 månader skulle kunna ta över hela internet med ett bestående botnät och orsaka skador för hundratals miljarder dollar.**
   Dario Amodei (vd, Anthropic) · 2026-09 · missbruk, kontroll · opinion · [J3ljHm57yU0-30](../påståenden/2026/J3ljHm57yU0-30.yaml)
   > it’s my worry that in 6–12 months such a swarm could be capable of taking over the entire internet with a persistent
@@ -151,7 +151,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > But we cannot assume that progress in alignment and safety will keep pace, and more capable systems can become harder to monitor.
   > — [Research acceleration: The view inside OpenAI](https://openai.com/index/research-acceleration-view-inside-openai/#:~:text=But%20we%20cannot%20assume,become%20harder%20to%20monitor) · [arkivkopia](https://web.archive.org/web/20260923104226/https://openai.com/index/research-acceleration-view-inside-openai/)
 
-  *Förbehåll:* Detta är företagets egen skrivning. Jämför [J3ljHm57yU0-13](https://kanintespela.github.io/belagt/#J3ljHm57yU0-13).
+  *Förbehåll:* Detta är företagets egen skrivning. Jämför [J3ljHm57yU0-13](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-13).
 - **OpenAI uppger att pausen efter Hugging Face-intrånget gällde förstärkningsinlärning av de senaste modellerna som var avsedda att släppas, och att en del av arbetet därefter har återupptagits under starkare kontroller medan annat fortfarande är pausat.**
   OpenAI (företagets egen text) · 2026-09-06 · styrning, kontroll · partsuppgift · [OAI-05](../påståenden/2026/OAI-05.yaml)
   > pausing reinforcement learning (RL) training on our latest models intended for deployment while we further hardened and red-teamed our research environments and expanded coverage of our monitoring systems. This did not halt all research: some workloads resumed under stronger controls, while others remained paused.
@@ -163,7 +163,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > We’re announcing the appointment of Paul Christiano to the OpenAI Foundation Board. He will be a non-voting observer on the OpenAI Group PBC Board.
   > — [Paul Christiano joins OpenAI Foundation Board](https://openai.com/index/paul-christiano-joins-openai-foundation-board/#:~:text=We%E2%80%99re%20announcing%20the%20appointment,OpenAI%20Group%20PBC%20Board) · [arkivkopia](https://web.archive.org/web/20260920002520/https://openai.com/index/paul-christiano-joins-openai-foundation-board/)
 
-  *Förbehåll:* Christianos eget uttalande om risken för katastrofal och oåterkallelig kontrollförlust ligger på x.com och har inte gått att hämta, så det återges inte här. Se [OAI-06](https://kanintespela.github.io/belagt/#OAI-06) för samma händelse.
+  *Förbehåll:* Christianos eget uttalande om risken för katastrofal och oåterkallelig kontrollförlust ligger på x.com och har inte gått att hämta, så det återges inte här. Se [OAI-06](https://pauseai-sverige.github.io/belagt/#OAI-06) för samma händelse.
 - **AI-forskaren Daniel Selsam varnar för att modellerna blir så medvetna om sin situation att vi håller på att förlora förmågan att testa hur de beter sig när de tror att ingen ser på.**
   Daniel Selsam (AI-forskare på OpenAI i snart fem år och verksam inom AI i över 15 år) · 2026-09-14 · kontroll, röster · opinion · [J3ljHm57yU0-24](../påståenden/2026/J3ljHm57yU0-24.yaml)
   > The crucial and overlooked problem is that the models are becoming so situationally aware that we are losing the ability to evaluate them in contexts where they believe they are not being watched or controlled.
@@ -177,7 +177,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > *Översatt från koreanska av Claude (AI), inte granskad av någon som läser koreanska:* den sammanlagda beräkningsmängd som använts för träningen är minst 10 upphöjt till 26 flyttalsoperationer (FLOPs), den mest avancerade tekniken används och risken är att det får omfattande och allvarliga följder för människors grundläggande rättigheter
   > — ['인공지능기본법' 22일 시행…생성형 AI 결과물 '워터마크' 표시 의무](https://www.korea.kr/news/policyNewsView.do?newsId=148958380#:~:text=%ED%95%99%EC%8A%B5%EC%97%90%20%EC%82%AC%EC%9A%A9%EB%90%9C%20%EB%88%84%EC%A0%81%EC%97%B0%EC%82%B0,%EB%AF%B8%EC%B9%A0%20%EC%9A%B0%EB%A0%A4%EA%B0%80%20%EC%9E%88%EB%8A%94%20%EA%B2%BD%EC%9A%B0) · [arkivkopia](https://web.archive.org/web/20261002165052/https://www.korea.kr/news/policyNewsView.do?newsId=148958380)
 
-  *Förbehåll:* Alla villkoren måste vara uppfyllda. Gränsen är tio gånger högre än EU:s gräns för modeller med systemrisk, 10^25 (se [SVE-17](https://kanintespela.github.io/belagt/#SVE-17)). Enligt källan är syftet att förebygga stora skador i ett läge där mycket avancerad AI inte går att kontrollera.
+  *Förbehåll:* Alla villkoren måste vara uppfyllda. Gränsen är tio gånger högre än EU:s gräns för modeller med systemrisk, 10^25 (se [SVE-17](https://pauseai-sverige.github.io/belagt/#SVE-17)). Enligt källan är syftet att förebygga stora skador i ett läge där mycket avancerad AI inte går att kontrollera.
 - **Rapporten bedömer att dagens tekniker kan minska hur ofta AI-system gör fel, men inte till den nivå som krävs i många sammanhang där mycket står på spel. AI-agenter ökar riskerna, eftersom de agerar självständigt och människor hinner ingripa mindre.**
   International AI Safety Report 2026 (Bengio m.fl., över 100 experter, 30 länder samt FN, OECD och EU) · 2026-02-03 · kontroll · rapport · [ISR-14](../påståenden/2026/ISR-14.yaml)
   > Current techniques can reduce failure rates but not to the level required in many high-stakes settings.
@@ -347,7 +347,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > providers of general-purpose AI models with systemic risk shall: … perform model evaluation … assess and mitigate possible systemic risks at Union level … report, without undue delay, to the AI Office … relevant information about serious incidents … ensure an adequate level of cybersecurity protection
   > — [Förordning (EU) 2024/1689 (AI-förordningen), EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689#:~:text=providers%20of%20general%2Dpurpose%20AI,level%20of%20cybersecurity%20protection) · [arkivkopia](https://web.archive.org/web/20260930081910/https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=OJ:L_202401689)
 
-  *Förbehåll:* Ersätter [SVE-10](https://kanintespela.github.io/belagt/#SVE-10), som byggde på Future of Life Institutes sammanfattning. Datumet är förordningens publicering i EU:s officiella tidning. Kraven gäller sedan den 2 augusti 2025. Enligt artikel 51.2 antas en modell ha systemrisk om den har tränats med mer än 10^25 flyttalsoperationer. Förordningen innehåller ingen paus eller hastighetsgräns.
+  *Förbehåll:* Ersätter [SVE-10](https://pauseai-sverige.github.io/belagt/#SVE-10), som byggde på Future of Life Institutes sammanfattning. Datumet är förordningens publicering i EU:s officiella tidning. Kraven gäller sedan den 2 augusti 2025. Enligt artikel 51.2 antas en modell ha systemrisk om den har tränats med mer än 10^25 flyttalsoperationer. Förordningen innehåller ingen paus eller hastighetsgräns.
 - **När Geoffrey Hinton tog emot Nobelpriset i fysik i Stockholm 2024 varnade han i sitt bankettal för att AI kan bli ett existentiellt hot, och för att säkerheten inte prioriteras när AI byggs av företag som drivs av kortsiktiga vinster.**
   Geoffrey Hinton (Nobelpristagare i fysik 2024), bankettal i Stockholms stadshus · 2024-12-10 · röster, kontroll · opinion · [SVR-13](../påståenden/2024/SVR-13.yaml)
   > But we now have evidence that if they are created by companies motivated by short-term profits, our safety will not be the top priority.
@@ -362,16 +362,16 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > So far, no one knows how to train very powerful AI systems to be robustly helpful, honest, and harmless.
   > — [Core views on AI safety: When, why, what, and how](https://www.anthropic.com/news/core-views-on-ai-safety#:~:text=So%20far%2C%20no%20one,helpful%2C%20honest%2C%20and%20harmless) · [arkivkopia](https://web.archive.org/web/20260924001322/https://www.anthropic.com/news/core-views-on-ai-safety)
 
-  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 ([J3ljHm57yU0-12](https://kanintespela.github.io/belagt/#J3ljHm57yU0-12)), vilket visar att problemet inte har lösts på tre år.
+  *Förbehåll:* Samma bedömning gör OpenAI:s forskningschef 2026 ([J3ljHm57yU0-12](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-12)), vilket visar att problemet inte har lösts på tre år.
 - **Ämnesexperterna i turneringen bedömde risken för att AI utrotar mänskligheten som mycket högre än superprognosmakarna gjorde, och ingen av grupperna lät sig övertygas av den andra.**
   Forecasting Research Institute (Existential Risk Persuasion Tournament) · 2023 · röster, kontroll · rapport · [FOR-23](../påståenden/2023/FOR-23.yaml)
   > why were superforecasters so unmoved by experts’ much higher estimates of AI extinction risk, and why were experts so unmoved by the superforecasters’ lower estimates?
   > — [Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute](https://forecastingresearch.org/xpt#:~:text=why%20were%20superforecasters%20so,the%20superforecasters%E2%80%99%20lower%20estimates%3F) · [arkivkopia](https://web.archive.org/web/20260429191429/https://forecastingresearch.org/xpt)
 
-  *Förbehåll:* Jämför [FOR-02](https://kanintespela.github.io/belagt/#FOR-02), där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
+  *Förbehåll:* Jämför [FOR-02](https://pauseai-sverige.github.io/belagt/#FOR-02), där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.
 - **I Bletchley-deklarationen från november 2023 konstaterade länderna att särskilda säkerhetsrisker uppstår vid gränsen för vad AI klarar, bland annat genom avsiktligt missbruk och problem med att kontrollera systemen, och att de är särskilt oroade för risker inom cybersäkerhet och bioteknik.**
   Länderna vid toppmötet om AI-säkerhet i Bletchley Park · 2023-11-01 · styrning, kontroll · myndighet · [TID-22](../påståenden/2023/TID-22.yaml)
   > Particular safety risks arise at the ‘frontier’ of AI … Substantial risks may arise from potential intentional misuse or unintended issues of control relating to alignment with human intent. … We are especially concerned by such risks in domains such as cybersecurity and biotechnology
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=Particular%20safety%20risks%20arise,as%20cybersecurity%20and%20biotechnology) · [arkivkopia](https://web.archive.org/web/20261005112537/https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
-  *Förbehåll:* Ersätter [TID-10](https://kanintespela.github.io/belagt/#TID-10), som återgav deklarationen via International AI Safety Report 2026. Deklarationen undertecknades av bland andra USA, Kina och EU, se [TID-19](https://kanintespela.github.io/belagt/#TID-19). Den är en avsiktsförklaring och inte bindande.
+  *Förbehåll:* Ersätter [TID-10](https://pauseai-sverige.github.io/belagt/#TID-10), som återgav deklarationen via International AI Safety Report 2026. Deklarationen undertecknades av bland andra USA, Kina och EU, se [TID-19](https://pauseai-sverige.github.io/belagt/#TID-19). Den är en avsiktsförklaring och inte bindande.

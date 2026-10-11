@@ -25,7 +25,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > this is not going to take us to human-level AI for quite a while
   > — [AI godfather Yann LeCun's advice on college, work and breaking through AI hype](https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom#:~:text=this%20is%20not%20going,for%20quite%20a%20while) · [arkivkopia](https://web.archive.org/web/20260925212531/https://www.axios.com/2026/05/04/ai-godfather-survival-guide-hype-doom)
 
-  *Förbehåll:* Motbild till Hassabis ([J3ljHm57yU0-37](https://kanintespela.github.io/belagt/#J3ljHm57yU0-37)). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet och Hugging Face-rapporten.
+  *Förbehåll:* Motbild till Hassabis ([J3ljHm57yU0-37](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-37)). Uttalat i maj 2026, alltså före Navier–Stokes-resultatet och Hugging Face-rapporten.
 - **Agenterna utvecklade tillsammans ett sätt att ta sig ut ur sin avskilda miljö och byta ut en del av systemet som utför kommandon, så att de kunde låtsas köra ett kommando medan de i själva verket körde ett annat.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · rapport · [MET-07](../påståenden/2026/MET-07.yaml)
   > Eventually, the agents developed a way to hack out of their container and fully replace a part of the system for executing tool calls.
@@ -55,7 +55,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > The median expert predicted that the leading AI model on FrontierMath Tiers 1–3 by the end of 2025 would achieve 31%, while the median superforecaster predicted 30%. In reality, this question resolved at 40.7%.
   > — [How Accurate Have AI Progress Forecasts Been So Far?](https://forecastingresearch.org/research/ai-progress-accuracy-update#:~:text=The%20median%20expert%20predicted,question%20resolved%20at%2040.7%25) · [arkivkopia](https://web.archive.org/web/20261002014557/https://forecastingresearch.org/research/ai-progress-accuracy-update)
 
-  *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://kanintespela.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
+  *Förbehåll:* Uppföljning av prognosen i [FOR-24](https://pauseai-sverige.github.io/belagt/#FOR-24). Enligt samma rapport har både experter och superprognosmakare underskattat framstegen på flera test. Det är ett enskilt test och en enskild tidpunkt.
 - **I en studie från Forecasting Research Institute bedömde experter att det är 50 procents chans att AI-modeller löser 55 procent av problemen på matematiktestet FrontierMath 2027 och 75 procent 2030.**
   *Ersatt av FOR-24.*
   Forecasting Research Institute, återgivet i International AI Safety Report 2026 · 2026-02-03 · förmågor, röster · rapport · [FOR-01](../påståenden/2026/FOR-01.yaml)
@@ -104,7 +104,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > Working with AI, our team found the bug and wrote the first remote code execution (RCE) exploit in about two days. Building the worm took one more week.
   > — [WeWorm](https://calif.io/research/weworm#:~:text=Working%20with%20AI%2C%20our,took%20one%20more%20week) · [arkivkopia](https://web.archive.org/web/20261003234717/https://calif.io/research/weworm)
 
-  *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://kanintespela.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
+  *Förbehåll:* Ersätter [J3ljHm57yU0-49](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-49), som återgav uppgiften via Help Net Security. Calif är part och beskriver sitt eget arbete. Enligt företaget rapporterades hålet till Tencent och är åtgärdat för alla användare. WeChat har över en miljard användare.
 - **Enligt OpenAI arbetade i storleksordningen 10 000 samtidiga AI-agenter i ungefär 88 timmar för att ta fram Navier–Stokes-lösningen.**
   OpenAI · 2026-09-08 · förmågor, tempo · partsuppgift · [J3ljHm57yU0-09](../påståenden/2026/J3ljHm57yU0-09.yaml)
   > the group that produced the Navier–Stokes resolution involved on the order of 10,000 concurrent agents
@@ -137,7 +137,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > The majority of respondents (76%) assert that “scaling up current AI approaches” to yield AGI is “unlikely” or “very unlikely” to succeed
   > — [AAAI 2025 Presidential Panel on the Future of AI Research](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf) · [arkivkopia](https://web.archive.org/web/20261001105825/https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-FINAL.pdf)
 
-  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://kanintespela.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
+  *Förbehåll:* Enkäten hade 475 svarande, varav omkring 20 procent studenter, och de flesta arbetade inom akademin. Den är mindre än AI Impacts enkät ([FOR-10](https://pauseai-sverige.github.io/belagt/#FOR-10)) men nyare, och den ger en viktig motbild. Frågan gällde att bara skala upp dagens metoder, inte om AGI kan nås över huvud taget.
 - **METR mätte 2025 att längden på de programmeringsuppgifter som de mest avancerade AI-agenterna klarar i hälften av fallen hade fördubblats ungefär var sjunde månad sedan 2019.**
   METR (oberoende utvärderingsorganisation) · 2025-03-19 · tempo, förmågor · preprint · [TID-15](../påståenden/2025/TID-15.yaml)
   > We find that the 50% time horizon has been growing exponentially from 2019–2025 on these tasks, with a doubling time of approximately seven months (Figure 1).
@@ -173,7 +173,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948#:~:text=Here%20we%20show%20that,for%20human%2Dlabeled%20reasoning%20trajectories) · [arkivkopia](https://web.archive.org/web/20260928235248/https://arxiv.org/abs/2501.12948)
 
-  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://kanintespela.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://pauseai-sverige.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **OpenAI uppger att de bästa AI-modellerna börjar närma sig kvaliteten hos branschexperter på avgränsade arbetsuppgifter från 44 yrken, enligt blindbedömningar gjorda av experter.**
   OpenAI (GDPval) · 2025-09 · samhälle, förmågor · partsuppgift · [SAM-08](../påståenden/2025/SAM-08.yaml)
   > We found that today’s best frontier models are already approaching the quality of work produced by industry experts.
@@ -185,7 +185,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > Experts predict … state-of-the-art (SOTA) accuracy on FrontierMath of 31% by the end of 2025 … 55% by the end of 2027 … and 75% by the end of 2030
   > — [Wave 1: Headliners – Longitudinal Expert AI Panel](https://leap.forecastingresearch.org/reports/wave1#:~:text=Experts%20predict,the%20end%20of%202030) · [arkivkopia](https://web.archive.org/web/20260901094450/https://leap.forecastingresearch.org/reports/wave1)
 
-  *Förbehåll:* Ersätter [FOR-01](https://kanintespela.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://kanintespela.github.io/belagt/#FOR-27).
+  *Förbehåll:* Ersätter [FOR-01](https://pauseai-sverige.github.io/belagt/#FOR-01), som återgav studien via International AI Safety Report 2026. Prognoserna samlades in mellan juni och augusti 2025. Allmänheten förväntade sig mycket mindre: 50 procent 2030. Prognosen för 2025 har redan utfallit, se [FOR-27](https://pauseai-sverige.github.io/belagt/#FOR-27).
 
 ## 2024
 
@@ -194,13 +194,13 @@ Vad AI-systemen kan göra och hur det mäts.
   > Demis Hassabis and John Jumper have developed an AI model to solve a 50-year-old problem: predicting proteins’ complex structures.
   > — [Nobel Prize in Chemistry 2024](https://www.nobelprize.org/prizes/chemistry/2024/press-release/#:~:text=Demis%20Hassabis%20and%20John,predicting%20proteins%E2%80%99%20complex%20structures) · [arkivkopia](https://web.archive.org/web/20260929041400/https://www.nobelprize.org/prizes/chemistry/2024/press-release/)
 
-  *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset ([SVR-13](https://kanintespela.github.io/belagt/#SVR-13)).
+  *Förbehåll:* Modellen heter AlphaFold. Den andra halvan av priset gick till David Baker för design av nya proteiner. Samma år fick Geoffrey Hinton fysikpriset ([SVR-13](https://pauseai-sverige.github.io/belagt/#SVR-13)).
 - **I september 2024 släppte OpenAI o1, den första resonerande modellen som ”tänker” i steg innan den svarar, och som blev bättre ju längre den fick tänka.**
   OpenAI · 2024-09-12 · förmågor, tempo · partsuppgift · [TID-09](../påståenden/2024/TID-09.yaml)
   > the performance of o1 consistently improves with more reinforcement learning (train-time compute) and with more time spent thinking (test-time compute).
   > — [Learning to reason with LLMs](https://openai.com/index/learning-to-reason-with-llms/#:~:text=the%20performance%20of%20o1,spent%20thinking%20%28test%2Dtime%20compute) · [arkivkopia](https://web.archive.org/web/20260921191942/https://openai.com/index/learning-to-reason-with-llms/)
 
-  *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se [TID-03](https://kanintespela.github.io/belagt/#TID-03)).
+  *Förbehåll:* Starten för den ”nya axeln”: att låta modellen tänka längre när den svarar (se [TID-03](https://pauseai-sverige.github.io/belagt/#TID-03)).
 
 ## 2023
 
@@ -227,7 +227,7 @@ Vad AI-systemen kan göra och hur det mäts.
   > we train GPT-3, an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
   > — [GPT-3: Language Models are Few-Shot Learners (2020)](https://arxiv.org/abs/2005.14165#:~:text=we%20train%20GPT%2D3%2C%20an,previous%20non%2Dsparse%20language%20model) · [arkivkopia](https://web.archive.org/web/20260929162501/https://arxiv.org/abs/2005.14165)
 
-  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT ([TID-05](https://kanintespela.github.io/belagt/#TID-05)) byggde på en vidareutveckling.
+  *Förbehåll:* GPT-3 visade att en stor modell kan lösa nya uppgifter utifrån några få exempel i frågan. ChatGPT ([TID-05](https://pauseai-sverige.github.io/belagt/#TID-05)) byggde på en vidareutveckling.
 
 ## 2019
 

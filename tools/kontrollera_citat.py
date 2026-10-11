@@ -29,8 +29,8 @@ from pathlib import Path
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
-REPO = "https://github.com/kanintespela/belagt/blob/main/"
-UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-citatkontroll; +https://github.com/kanintespela/belagt)"}
+REPO = "https://github.com/pauseai-sverige/belagt/blob/main/"
+UA = {"User-Agent": "Mozilla/5.0 (compatible; belagt-citatkontroll; +https://github.com/pauseai-sverige/belagt)"}
 CJK_RE = re.compile(r"[぀-ヿ㐀-鿿가-힯]")
 UTELÄMNANDE_RE = re.compile(r"\s*(?:\[…\]|\[\.\.\.\]|…|\.\.\.)\s*")
 ARXIV_RE = re.compile(r"^https?://arxiv\.org/abs/([\w.\-/]+?)(?:v\d+)?/?$")

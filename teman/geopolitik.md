@@ -95,7 +95,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > Here we show that the reasoning abilities of LLMs can be incentivized through pure reinforcement learning (RL), obviating the need for human-labeled reasoning trajectories.
   > — [DeepSeek-R1 (januari 2025)](https://arxiv.org/abs/2501.12948#:~:text=Here%20we%20show%20that,for%20human%2Dlabeled%20reasoning%20trajectories) · [arkivkopia](https://web.archive.org/web/20260928235248/https://arxiv.org/abs/2501.12948)
 
-  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://kanintespela.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
+  *Förbehåll:* Modellen heter DeepSeek-R1 och gick i samma riktning som OpenAI:s o1 ([TID-09](https://pauseai-sverige.github.io/belagt/#TID-09)). Den hämtade texten är en reviderad version från januari 2026. Den första versionen kom i januari 2025.
 - **Kina står för omkring 99 procent av världens raffinerade gallium, en metall som används i avancerade datorchip och kraftelektronik.**
   IEA (Internationella energirådet), rapporten Energy and AI · 2025-04 · miljö, geopolitik · myndighet · [ENE-12](../påståenden/2025/ENE-12.yaml)
   > China currently accounts for around 99% of global refined gallium supply.
@@ -123,7 +123,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* hålla fast vid FN som huvudkanal
   > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml#:~:text=%E5%9D%9A%E6%8C%81%E4%BB%A5%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%BA%E4%B8%BB%E6%B8%A0%E9%81%93) · [arkivkopia](https://web.archive.org/web/20261001125414/https://www.mfa.gov.cn/web/zyxw/202507/t20250726_11677803.shtml)
 
-  *Förbehåll:* Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
+  *Förbehåll:* Jämför [KIN-05](https://pauseai-sverige.github.io/belagt/#KIN-05). Att förorda FN framför klubbar som G7 är en genomgående linje i kinesisk utrikespolitik och inte specifikt för AI.
 - **Kinas premiärminister Li Qiang föreslog i juli 2025 att en världsorganisation för AI-samarbete ska bildas.**
   Li Qiang, Kinas premiärminister (talet publicerat av Kinas utrikesministerium) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-29](../påståenden/2025/KIN-29.yaml)
   > 中国政府倡议成立世界人工智能合作组织。
@@ -131,7 +131,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Kinas regering föreslår att en världsorganisation för AI-samarbete bildas.
   > — [李强出席2025世界人工智能大会暨人工智能全球治理高级别会议开幕式并致辞](https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml#:~:text=%E4%B8%AD%E5%9B%BD%E6%94%BF%E5%BA%9C%E5%80%A1%E8%AE%AE%E6%88%90%E7%AB%8B%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%90%88%E4%BD%9C%E7%BB%84%E7%BB%87%E3%80%82) · [arkivkopia](https://web.archive.org/web/20260508150653/https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881/202507/t20250726_11677829.shtml)
 
-  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
+  *Förbehåll:* Ur utrikesministeriets nyhetstext om talet, som återger vad han sa i referat. Det är inte ordagrant tal. Förslaget lades fram vid World AI Conference i Shanghai. Jämför [KIN-05](https://pauseai-sverige.github.io/belagt/#KIN-05), där samma förslag återges av Concordia AI.
 - **Kinas handlingsplan för global AI-styrning från juli 2025 stöder att FN inrättar två mekanismer för AI, en internationell vetenskaplig panel och en global dialog om AI-styrning, och att de kommer igång så snart som möjligt.**
   Kinas regering (handlingsplan publicerad av utrikesministeriet) · 2025-07-26 · styrning, geopolitik · myndighet · [KIN-34](../påståenden/2025/KIN-34.yaml)
   > 支持在联合国框架下建立国际人工智能科学小组和全球人工智能治理对话两项机制并尽早运行
@@ -139,7 +139,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > *Översatt från kinesiska av Claude (AI), inte granskad av någon som läser kinesiska:* Stöder att två mekanismer, en internationell vetenskaplig panel för artificiell intelligens och en global dialog om styrning av artificiell intelligens, inrättas inom FN:s ram och kommer igång så snart som möjligt
   > — [人工智能全球治理行动计划（全文）](https://www.mfa.gov.cn/zyxw/202507/t20250726_11677803.shtml#:~:text=%E6%94%AF%E6%8C%81%E5%9C%A8%E8%81%94%E5%90%88%E5%9B%BD%E6%A1%86%E6%9E%B6%E4%B8%8B%E5%BB%BA%E7%AB%8B%E5%9B%BD,%E7%90%86%E5%AF%B9%E8%AF%9D%E4%B8%A4%E9%A1%B9%E6%9C%BA%E5%88%B6%E5%B9%B6%E5%B0%BD%E6%97%A9%E8%BF%90%E8%A1%8C) · [arkivkopia](https://web.archive.org/web/20261001185618/https://www.mfa.gov.cn/zyxw/202507/t20250726_11677803.shtml)
 
-  *Förbehåll:* Ersätter [KIN-05](https://kanintespela.github.io/belagt/#KIN-05), som återgav Kinas hållning via Concordia AI. Förslaget om en världsorganisation för AI-samarbete (WAICO) finns i [KIN-29](https://kanintespela.github.io/belagt/#KIN-29). Samma handlingsplan vill att FN ska vara huvudkanalen för AI-styrning, se [KIN-18](https://kanintespela.github.io/belagt/#KIN-18).
+  *Förbehåll:* Ersätter [KIN-05](https://pauseai-sverige.github.io/belagt/#KIN-05), som återgav Kinas hållning via Concordia AI. Förslaget om en världsorganisation för AI-samarbete (WAICO) finns i [KIN-29](https://pauseai-sverige.github.io/belagt/#KIN-29). Samma handlingsplan vill att FN ska vara huvudkanalen för AI-styrning, se [KIN-18](https://pauseai-sverige.github.io/belagt/#KIN-18).
 - **Japans AI-lag, som ska främja forskning om och användning av AI, utfärdades den 4 juni 2025 och gäller fullt ut sedan den 1 september 2025, då också regeringens AI-strategihögkvarter inrättades.**
   Japans regeringskansli (Cabinet Office) · 2025-09-01 · styrning, geopolitik · myndighet · [JPN-01](../påståenden/2025/JPN-01.yaml)
   > 令和７年６月４日にＡＩ法が公布・一部施行され、９月１日にはＡＩ戦略本部の設置に係る規定等も含め、全面施行されました。
@@ -155,7 +155,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > *Översatt från japanska av Claude (AI), inte granskad av någon som läser japanska:* Utvecklingen och användningen av AI inom landet ligger efter, och många medborgare är oroliga för de risker som AI medför.
   > — [ＡＩ法　全面施行 －次なるフェーズへ－](https://www.cao.go.jp/press/new_wave/20251003.html#:~:text=%E5%9B%BD%E5%86%85%E3%81%AE%EF%BC%A1%EF%BC%A9%E9%96%8B%E7%99%BA%E3%83%BB%E6%B4%BB%E7%94%A8%E3%81%AF%E9%81%85,%E5%AE%89%E3%82%92%E6%8A%B1%E3%81%88%E3%81%A6%E3%81%84%E3%82%8B%E7%8A%B6%E6%B3%81%E3%81%A7%E3%81%99%E3%80%82) · [arkivkopia](https://web.archive.org/web/20260721161208/https://www.cao.go.jp/press/new_wave/20251003.html)
 
-  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://kanintespela.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
+  *Förbehåll:* Det är regeringens motivering till AI-lagen ([JPN-01](https://pauseai-sverige.github.io/belagt/#JPN-01)). Hur stor oron är framgår inte av källan.
 - **Indiens riktlinjer för AI-styrning från november 2025 bygger på principen att inte orsaka skada och på att använda befintlig lagstiftning där det går, i stället för en ny AI-lag.**
   Indiens digitaliseringsministerium (MeitY) och regeringens vetenskapliga chefsrådgivare · 2025-11-05 · styrning, geopolitik · myndighet · [IND-02](../påståenden/2025/IND-02.yaml)
   > Our focus remains on using existing legislation wherever possible. … The guiding principle that defines the spirit of the framework is simple, ‘Do No Harm’.
@@ -199,4 +199,4 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
   > There is potential for serious, even catastrophic, harm, either deliberate or unintentional, stemming from the most significant capabilities of these AI models.
   > — [The Bletchley Declaration by Countries Attending the AI Safety Summit, 1-2 November 2023](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023#:~:text=There%20is%20potential%20for,of%20these%20AI%20models) · [arkivkopia](https://web.archive.org/web/20261001115437/https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 
-  *Förbehåll:* Primärkällan till [TID-10](https://kanintespela.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
+  *Förbehåll:* Primärkällan till [TID-10](https://pauseai-sverige.github.io/belagt/#TID-10). Att både USA och Kina skrev under samma text om katastrofrisker är ett av få exempel på en gemensam hållning mellan de två länderna.
