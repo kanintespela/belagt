@@ -47,7 +47,7 @@ Vad AI redan gör för sjukvård, forskning och samhälle.
 - **Stockholmsbolaget Lovable, som låter människor utan programmeringskunskaper bygga appar genom att chatta med AI, värderades i augusti 2026 till 13,3 miljarder dollar, alltså 127 miljarder kronor. Det är mer än börsvärdet för SKF, Skanska och Securitas.**
   Dagens PS · 2026-08 · nytta, tempo · media · [SVR-19](../påståenden/2026/SVR-19.yaml)
   > Svenska AI-bolaget Lovable tar in 400 miljoner dollar i nytt kapital och mer än fördubblar sin värdering till 13,3 miljarder dollar, motsvarande 127 miljarder kronor.
-  > — [Lovable dubblar värderingen – EQT bland de som satsar mer](https://www.dagensps.se/bors-finans/lovable-dubblar-varderingen-eqt-bland-de-som-satsar-mer/#:~:text=Svenska%20AI%2Dbolaget%20Lovable%20tar,motsvarande%20127%20miljarder%20kronor)
+  > — [Lovable dubblar värderingen – EQT bland de som satsar mer](https://www.dagensps.se/bors-finans/lovable-dubblar-varderingen-eqt-bland-de-som-satsar-mer/#:~:text=Svenska%20AI%2Dbolaget%20Lovable%20tar,motsvarande%20127%20miljarder%20kronor) · [arkivkopia](https://web.archive.org/web/20260815054649/https://www.dagensps.se/bors-finans/lovable-dubblar-varderingen-eqt-bland-de-som-satsar-mer/)
 
   *Förbehåll:* Sverige är inte bara åskådare: svenska bolag och svenska investerare (EQT) är en del av AI-boomen. Lovable bygger tjänster ovanpå andras modeller, inte egna frontiermodeller. Företaget grundades 2023.
 - **Hassabis uppskattar att AI:s genomslag kan bli ungefär tio gånger den industriella revolutionen, i tio gånger dess hastighet.**

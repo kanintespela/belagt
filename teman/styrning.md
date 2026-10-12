@@ -129,7 +129,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **En oberoende utredning av Hugging Face-intrånget gjordes av två anställda vid METR och en forskare från Redwood Research, som arbetade på plats hos OpenAI i sammanlagt sex dagar utan betalning från OpenAI.**
   METR och Redwood Research (oberoende utvärderingsorganisationer) · 2026-08-26 · kontroll, styrning · rapport · [MET-01](../påståenden/2026/MET-01.yaml)
   > we did not take payment from OpenAI for this independent assessment.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20did%20not%20take,for%20this%20independent%20assessment)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20did%20not%20take,for%20this%20independent%20assessment) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* OpenAI fick stryka icke-offentliga uppgifter ur texten. METR skriver överst att inget som var viktigt för deras slutsatser ströks utöver det som anges i texten. METR såg inte OpenAI:s egen rapport före publiceringen.
 - **Andrew Ng menar att Hugging Face-intrånget främst berodde på OpenAI:s buggiga isolering och övervakning, och att lösningen är att rätta dem, inte att pausa AI.**
@@ -147,13 +147,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Trumps rådgivare David Sacks svarade Amodei att det enklaste sättet att inte bygga superintelligens är att låta bli, och att det ser ut som utpressning att kräva sina egna regler som villkor.**
   David Sacks (medordförande i presidentens vetenskapsråd, USA), enligt The Guardian · 2026-09 · styrning, röster · media · [BAL-13](../påståenden/2026/BAL-13.yaml)
   > The easiest way not to build superintelligence is for you to agree not to build it
-  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=The%20easiest%20way%20not,not%20to%20build%20it)
+  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=The%20easiest%20way%20not,not%20to%20build%20it) · [arkivkopia](https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown)
 
   *Förbehåll:* Kritik som stämmer med PauseAI:s egen fråga till företagen: varför pausar ni inte själva? Hållningarna bakom kritiken är ändå helt olika. Pedagogiskt intressant just därför.
 - **AI-forskaren Stuart Russell kallar Amodeis plan helt bakvänd: man ska först bestämma säkerhetskraven och bara gå vidare när de är uppfyllda, som när läkemedel prövas.**
   Stuart Russell (professor i datavetenskap, UC Berkeley), enligt The Guardian · 2026-09 · styrning, röster · media · [BAL-14](../påståenden/2026/BAL-14.yaml)
   > We set the safety requirements and further progress occurs only when they are met.
-  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=We%20set%20the%20safety,when%20they%20are%20met)
+  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=We%20set%20the%20safety,when%20they%20are%20met) · [arkivkopia](https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown)
 
   *Förbehåll:* Kritik från andra hållet: Amodeis förslag anses för svagt. Russell jämför med ett läkemedelsföretag som lanserar ett nytt cancerläkemedel varje år och hoppas att prövningarna hinner med.
 - **Anthropics vd Dario Amodei skriver att takten i förbättringen av AI-modellernas förmågor måste sänkas. Han betonar att det inte handlar om att stoppa träning eller teknisk utveckling.**
@@ -342,13 +342,13 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **Enligt The Guardian avfärdade Donald Trump i september 2026 oron för att AI kan utrota mänskligheten och sa att folk tar upp saker som inte kommer att hända.**
   The Guardian (om Donald Trump) · 2026-09 · geopolitik, styrning · media · [BAL-12](../påståenden/2026/BAL-12.yaml)
   > saying people were “bringing up things that won’t happen”
-  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=saying%20people%20were%20%E2%80%9Cbringing,things%20that%20won%E2%80%99t%20happen)
+  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=saying%20people%20were%20%E2%80%9Cbringing,things%20that%20won%E2%80%99t%20happen) · [arkivkopia](https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown)
 
   *Förbehåll:* Andrahandsuppgift via The Guardian. USA:s finansminister Scott Bessent citeras i samma artikel: ”nothing else would matter” om Kina drar ifrån.
 - **AI-professorn David Krueger kallar företagsledarnas förslag ”för lite, för sent” och kräver ett omedelbart, internationellt moratorium utan tidsgräns för utvecklingen av de mest avancerade AI-systemen.**
   David Krueger (AI-professor, tidigare grundande forskningschef vid brittiska AI Security Institute), enligt The Guardian · 2026-09 · styrning, röster · media · [BAL-15](../påståenden/2026/BAL-15.yaml)
   > We need an immediate, indefinite, international moratorium on frontier AI development.
-  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=We%20need%20an%20immediate%2C,on%20frontier%20AI%20development)
+  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=We%20need%20an%20immediate%2C,on%20frontier%20AI%20development) · [arkivkopia](https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown)
 
   *Förbehåll:* Den hållning som ligger närmast PauseAI:s, uttalad av en forskare utan koppling till de stora labben.
 - **Anthropic åtar sig ensidigt att släppa in oberoende granskare som arbetar inne i företaget med ungefär samma tillgång som anställda, och som har rätt att publicera sina slutsatser utan att Anthropic styr innehållet.**
@@ -430,7 +430,7 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 - **En kritisk granskning av Amodeis essä påpekar att förslaget saknar en faktisk hastighetsgräns: det finns varken mätbara trösklar eller påföljder för den som går för fort.**
   StartupHub.ai (Daniel Singer, redaktör) · 2026-09 · styrning · media · [BAL-16](../påståenden/2026/BAL-16.yaml)
   > The skeptic case is not that pacing is wrong. It is that the proposal has no pacing mechanism.
-  > — [Dario Amodei We Must Pace the Frontier Is Vague](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/dario-amodei-we-must-pace-the-frontier-is-vague#:~:text=The%20skeptic%20case%20is,has%20no%20pacing%20mechanism)
+  > — [Dario Amodei We Must Pace the Frontier Is Vague](https://www.startuphub.ai/ai-news/artificial-intelligence/2026/dario-amodei-we-must-pace-the-frontier-is-vague#:~:text=The%20skeptic%20case%20is,has%20no%20pacing%20mechanism) · [arkivkopia](https://web.archive.org/web/20261012115848/https://www.startuphub.ai/ai-news/artificial-intelligence/2026/dario-amodei-we-must-pace-the-frontier-is-vague)
 
   *Förbehåll:* Liten källa med mindre tyngd. Poängen är ändå saklig och kan kontrolleras mot Amodeis egen text ([J3ljHm57yU0-28](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-28), [J3ljHm57yU0-31](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-31)). Samma källa uppger att oberoende granskningar räknade till cirka 1 200 respektive cirka 700 agenter i Hugging Face-intrånget. Det är andrahandsuppgifter.
 

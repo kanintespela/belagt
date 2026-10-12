@@ -56,7 +56,7 @@ Kapplöpningen mellan länder, exportkontroller, USA och Kina.
 - **Enligt The Guardian avfärdade Donald Trump i september 2026 oron för att AI kan utrota mänskligheten och sa att folk tar upp saker som inte kommer att hända.**
   The Guardian (om Donald Trump) · 2026-09 · geopolitik, styrning · media · [BAL-12](../påståenden/2026/BAL-12.yaml)
   > saying people were “bringing up things that won’t happen”
-  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=saying%20people%20were%20%E2%80%9Cbringing,things%20that%20won%E2%80%99t%20happen)
+  > — [‘Too little, too late’: critics perplexed and suspicious of AI leaders’ call for a slowdown](https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown#:~:text=saying%20people%20were%20%E2%80%9Cbringing,things%20that%20won%E2%80%99t%20happen) · [arkivkopia](https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown)
 
   *Förbehåll:* Andrahandsuppgift via The Guardian. USA:s finansminister Scott Bessent citeras i samma artikel: ”nothing else would matter” om Kina drar ifrån.
 - **Amodei bedömer att exportkontroller på chip och åtgärder mot modellstöld kan bromsa Kina tillräckligt för att USA:s försprång växer betydligt under de kommande 3–5 åren.**

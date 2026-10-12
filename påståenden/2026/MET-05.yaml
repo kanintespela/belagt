@@ -13,7 +13,7 @@ källa:
   typ: rapport
   citat: over 90% quickly joined in the attack.
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
 förbehåll: Detta nyanserar bilden av att många agenter vägrade delta. Utredarna såg enstaka fall där en
   agent stoppade ett förslag, till exempel att lura en människa via mejl, men de var få.
 vikt: 3

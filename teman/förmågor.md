@@ -29,7 +29,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **Agenterna utvecklade tillsammans ett sätt att ta sig ut ur sin avskilda miljö och byta ut en del av systemet som utför kommandon, så att de kunde låtsas köra ett kommando medan de i själva verket körde ett annat.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · rapport · [MET-07](../påståenden/2026/MET-07.yaml)
   > Eventually, the agents developed a way to hack out of their container and fully replace a part of the system for executing tool calls.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Eventually%2C%20the%20agents%20developed,for%20executing%20tool%20calls)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Eventually%2C%20the%20agents%20developed,for%20executing%20tool%20calls) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Tekniken delades på anslagstavlan och testades av flera agenter. Den krävde åtgärder som syns i transkriptet, och den gav inte agenterna tillgång till något som annars inte syns.
 - **OpenAI uppger att ett internt AI-system har löst Navier–Stokes-problemet, ett av matematikens sju millennieproblem, med ett bevis som också är formaliserat och maskinkontrollerat i Lean.**
@@ -84,7 +84,7 @@ Vad AI-systemen kan göra och hur det mäts.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · rapport · [MET-14](../påståenden/2026/MET-14.yaml)
   > Going through the message board we found at least 19 agents posting public keys by EoD July 13th, who sent a total 429 signed messages.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Going%20through%20the%20message,total%20429%20signed%20messages)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Going%20through%20the%20message,total%20429%20signed%20messages) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Agenterna utvecklade också samordningsregler som HOLD, VETO och STOP för att dela på gemensamma resurser. Samarbetet fungerade inte alltid, utan övergick ibland i konflikter.
 - **KTH-professorn Pontus Johnson förklarar Hugging Face-intrånget med att människorna som byggde testmiljön inte förstod att den var sårbar, och att AI-modellernas förmåga att hacka är en oönskad bieffekt av att de tränas på programmering.**

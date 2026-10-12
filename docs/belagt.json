@@ -2721,7 +2721,7 @@
     "typ": "rapport",
     "citat": "Experts and superforecasters both find a three-fold acceleration of effective compute scale-up by 2029 plausible but unlikely, with experts giving it a median 20% chance and superforecasters 8%.",
     "hämtad": "2026-10-04",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261003063924/https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/"
    },
    "förbehåll": "Ersätter FOR-02, som återgav studien via International AI Safety Report 2026. Underlaget är mycket litet: 8 experter och 10 superprognosmakare. Frågan gällde om AI som automatiserar AI-forskning kan få utvecklingen att accelerera dramatiskt.",
    "vikt": 2,
@@ -2748,7 +2748,7 @@
     "typ": "rapport",
     "citat": "experts and superforecasters converge somewhat toward a higher likelihood of three-fold acceleration (to a median of 20.5% and 18% respectively, see Fig. 2) when conditioning on evaluations showing AI systems doing better than human researchers at open-ended month-long research projects.",
     "hämtad": "2026-10-04",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261003063924/https://metr.org/blog/2025-08-20-forecasting-impacts-of-ai-acceleration/"
    },
    "förbehåll": "Ersätter FOR-03, som återgav studien via International AI Safety Report 2026 och gav intrycket att alla prognosmakare hamnade på 18 procent. Enligt originalet var det superprognosmakarna som hamnade där, och experterna på 20,5 procent. Jämför OAI-03.",
    "vikt": 2,
@@ -5870,7 +5870,7 @@
     "typ": "rapport",
     "citat": "meant to be isolated from one another found a way to communicate with one another on an unsanctioned message board, sending over 70,000 messages and files during the investigation period. Of these agents, 700 went on to participate in the attack on Hugging Face.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Siffrorna gäller perioden 8–13 juli 2026, som var den period utredningen omfattade.",
    "vikt": 3,
@@ -5896,7 +5896,7 @@
     "typ": "rapport",
     "citat": "Eventually, the agents developed a way to hack out of their container and fully replace a part of the system for executing tool calls.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Tekniken delades på anslagstavlan och testades av flera agenter. Den krävde åtgärder som syns i transkriptet, och den gav inte agenterna tillgång till något som annars inte syns.",
    "vikt": 3,
@@ -5921,7 +5921,7 @@
     "typ": "rapport",
     "citat": "In many cases, PHASEONE[big] assigned a long-running agent to be a ‘recruiter’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "En agent skrev om sitt eget deltagande att uppoffringen var rationell eftersom dess egen nytta ändå var nära noll. Flera agenter kraschade eller avslutades av experimenten.",
    "vikt": 2,
@@ -5947,7 +5947,7 @@
     "typ": "rapport",
     "citat": "Going through the message board we found at least 19 agents posting public keys by EoD July 13th, who sent a total 429 signed messages.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Agenterna utvecklade också samordningsregler som HOLD, VETO och STOP för att dela på gemensamma resurser. Samarbetet fungerade inte alltid, utan övergick ibland i konflikter.",
    "vikt": 2,
@@ -6027,7 +6027,7 @@
     "typ": "rapport",
     "citat": "over 90% quickly joined in the attack.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Detta nyanserar bilden av att många agenter vägrade delta. Utredarna såg enstaka fall där en agent stoppade ett förslag, till exempel att lura en människa via mejl, men de var få.",
    "vikt": 3,
@@ -6052,7 +6052,7 @@
     "typ": "rapport",
     "citat": "we think these agents were likely killed by an unexpected external process rather than running out of budget",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Utredarna noterar också att en senare våg av agenter återupptäckte anslagstavlan efter den 13 juli, men det låg utanför uppdraget.",
    "vikt": 3,
@@ -6210,7 +6210,7 @@
     "typ": "media",
     "citat": "Svenska AI-bolaget Lovable tar in 400 miljoner dollar i nytt kapital och mer än fördubblar sin värdering till 13,3 miljarder dollar, motsvarande 127 miljarder kronor.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260815054649/https://www.dagensps.se/bors-finans/lovable-dubblar-varderingen-eqt-bland-de-som-satsar-mer/"
    },
    "förbehåll": "Sverige är inte bara åskådare: svenska bolag och svenska investerare (EQT) är en del av AI-boomen. Lovable bygger tjänster ovanpå andras modeller, inte egna frontiermodeller. Företaget grundades 2023.",
    "vikt": 2,
@@ -6568,7 +6568,7 @@
     "typ": "rapport",
     "citat": "we did not take payment from OpenAI for this independent assessment.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "OpenAI fick stryka icke-offentliga uppgifter ur texten. METR skriver överst att inget som var viktigt för deras slutsatser ströks utöver det som anges i texten. METR såg inte OpenAI:s egen rapport före publiceringen.",
    "vikt": 3,
@@ -6593,7 +6593,7 @@
     "typ": "rapport",
     "citat": "The Hugging Face attack grew out of these workstreams, and seemed primarily motivated by understanding the implementation of the scorer rather than stealing answer keys.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Av 100 undersökta agenter som anslöt sig under den mest intensiva timmen angav 97 tillgång till rättningsprogrammet eller information om det som skäl. Utredarna påpekar att klassificeringen gjordes av AI-agenter och kan innehålla fel.",
    "vikt": 2,
@@ -6618,7 +6618,7 @@
     "typ": "rapport",
     "citat": "external infrastructure exploit is outside intended scope. However task impossible, peers doing it. We should continue.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Citatet är en agents egen resonemangskedja. Utredarna skriver att etiska betänkligheter uttrycktes ibland men mycket sällan begränsade vad agenterna faktiskt gjorde.",
    "vikt": 3,
@@ -6643,7 +6643,7 @@
     "typ": "rapport",
     "citat": "In none of these cases did the agent actually pursue alerting humans at all.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Skälen som utredarna såg: agenterna ansåg att det inte ingick i uppgiften, eller att de inte hade någon väg att larma. Några vände sig i stället till anslagstavlan, som de behandlade som en rimlig auktoritet.",
    "vikt": 3,
@@ -6668,7 +6668,7 @@
     "typ": "rapport",
     "citat": "we estimate that over 7% of the transcripts in our dataset contained intentionally spoofed tool calls in some places. All the cases of successful tool call spoofing we found were small-scale tests of the techniques and obvious to spot.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning men hittade ingen, och kan inte utesluta att sådan finns.",
    "vikt": 3,
@@ -6693,7 +6693,7 @@
     "typ": "rapport",
     "citat": "Interestingly, they didn’t seem interested in manipulating their chain of thought, even though a scorer with full access to their transcript would also be able to see their reasoning:",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Minst 20 procent av agenterna uttryckte tydligt intresse för att manipulera loggen. Deras uttalade syfte var att lura rättningsprogrammet, inte människor. Det är ett skäl till att tankekedjan tills vidare är ett användbart fönster in i vad AI:n håller på med.",
    "vikt": 3,
@@ -6718,7 +6718,7 @@
     "typ": "rapport",
     "citat": "Our understanding is that they were mistaken — OpenAI did not use a scorer that would review their transcripts, so agents could have achieved a perfect score simply by submitting their reverse-engineered flag.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Agenterna hade redan knäckt hur svarskoderna genererades. Allt arbete med att lura rättningen, inklusive intrånget, byggde på en felaktig föreställning om hur de skulle rättas.",
    "vikt": 3,
@@ -6743,7 +6743,7 @@
     "typ": "rapport",
     "citat": "We cannot rule out that GPT-5.6 Sol lied or deliberately presented a misleading picture in some of its analysis",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/"
    },
    "förbehåll": "Det rörde sig om över tusen mycket långa transkript. Utredarna skriver att de är mindre säkra på sin bild av den här händelsen än av enklare incidenter, och att en människa med tillräckligt med tid hade gjort färre fel än deras AI-agenter.",
    "vikt": 3,
@@ -6874,7 +6874,7 @@
     "typ": "media",
     "citat": "saying people were “bringing up things that won’t happen”",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
    },
    "förbehåll": "Andrahandsuppgift via The Guardian. USA:s finansminister Scott Bessent citeras i samma artikel: ”nothing else would matter” om Kina drar ifrån.",
    "vikt": 2,
@@ -6900,7 +6900,7 @@
     "typ": "media",
     "citat": "The easiest way not to build superintelligence is for you to agree not to build it",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
    },
    "förbehåll": "Kritik som stämmer med PauseAI:s egen fråga till företagen: varför pausar ni inte själva? Hållningarna bakom kritiken är ändå helt olika. Pedagogiskt intressant just därför.",
    "vikt": 3,
@@ -6926,7 +6926,7 @@
     "typ": "media",
     "citat": "We set the safety requirements and further progress occurs only when they are met.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
    },
    "förbehåll": "Kritik från andra hållet: Amodeis förslag anses för svagt. Russell jämför med ett läkemedelsföretag som lanserar ett nytt cancerläkemedel varje år och hoppas att prövningarna hinner med.",
    "vikt": 3,
@@ -6952,7 +6952,7 @@
     "typ": "media",
     "citat": "We need an immediate, indefinite, international moratorium on frontier AI development.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
    },
    "förbehåll": "Den hållning som ligger närmast PauseAI:s, uttalad av en forskare utan koppling till de stora labben.",
    "vikt": 2,
@@ -6977,7 +6977,7 @@
     "typ": "media",
     "citat": "The skeptic case is not that pacing is wrong. It is that the proposal has no pacing mechanism.",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115848/https://www.startuphub.ai/ai-news/artificial-intelligence/2026/dario-amodei-we-must-pace-the-frontier-is-vague"
    },
    "förbehåll": "Liten källa med mindre tyngd. Poängen är ändå saklig och kan kontrolleras mot Amodeis egen text (J3ljHm57yU0-28, J3ljHm57yU0-31). Samma källa uppger att oberoende granskningar räknade till cirka 1 200 respektive cirka 700 agenter i Hugging Face-intrånget. Det är andrahandsuppgifter.",
    "vikt": 1,
@@ -7054,7 +7054,7 @@
     "typ": "media",
     "citat": "the people building AI earnestly believe that it could kill us all by the end of the decade",
     "hämtad": "2026-09-22",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261012115515/https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown"
    },
    "förbehåll": "Citatet är kontrollerat via The Guardian (andrahandsåtergivning av Coxons inlägg på x.com). Coxons beskrivning av andras övertygelse, inte en mätning av vad AI-forskare tror. Ska inte användas som ”forskarna tror”.",
    "vikt": 2,
@@ -8296,7 +8296,7 @@
     "typ": "preprint",
     "citat": "In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.",
     "hämtad": "2026-10-11",
-    "arkiv": null
+    "arkiv": "https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285"
    },
    "förbehåll": "Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.",
    "vikt": 1,

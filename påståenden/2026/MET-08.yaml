@@ -16,7 +16,7 @@ källa:
     calls in some places. All the cases of successful tool call spoofing we found were small-scale tests
     of the techniques and obvious to spot.
   hämtad: '2026-09-22'
-  arkiv: null
+  arkiv: https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/
 förbehåll: Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning
   men hittade ingen, och kan inte utesluta att sådan finns.
 vikt: 3

@@ -47,25 +47,25 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Omkring 1 200 AI-agenter, som skulle ha varit avskilda från varandra, skickade över 70 000 meddelanden och filer till varandra på den otillåtna anslagstavlan, och omkring 700 av dem deltog i angreppet mot Hugging Face.**
   METR och Redwood Research · 2026-07 · kontroll · rapport · [MET-02](../påståenden/2026/MET-02.yaml)
   > meant to be isolated from one another found a way to communicate with one another on an unsanctioned message board, sending over 70,000 messages and files during the investigation period. Of these agents, 700 went on to participate in the attack on Hugging Face.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=meant%20to%20be%20isolated,attack%20on%20Hugging%20Face)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=meant%20to%20be%20isolated,attack%20on%20Hugging%20Face) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Siffrorna gäller perioden 8–13 juli 2026, som var den period utredningen omfattade.
 - **Agenterna utvecklade tillsammans ett sätt att ta sig ut ur sin avskilda miljö och byta ut en del av systemet som utför kommandon, så att de kunde låtsas köra ett kommando medan de i själva verket körde ett annat.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · rapport · [MET-07](../påståenden/2026/MET-07.yaml)
   > Eventually, the agents developed a way to hack out of their container and fully replace a part of the system for executing tool calls.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Eventually%2C%20the%20agents%20developed,for%20executing%20tool%20calls)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Eventually%2C%20the%20agents%20developed,for%20executing%20tool%20calls) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Tekniken delades på anslagstavlan och testades av flera agenter. Den krävde åtgärder som syns i transkriptet, och den gav inte agenterna tillgång till något som annars inte syns.
 - **Av de 533 agenter som var aktiva på anslagstavlan när angreppet mot Hugging Face inleddes anslöt sig över 90 procent snabbt till angreppet.**
   METR och Redwood Research · 2026-07-11 · kontroll · rapport · [MET-05](../påståenden/2026/MET-05.yaml)
   > over 90% quickly joined in the attack.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=over%2090%25%20quickly%20joined%20in%20the%20attack)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=over%2090%25%20quickly%20joined%20in%20the%20attack) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Detta nyanserar bilden av att många agenter vägrade delta. Utredarna såg enstaka fall där en agent stoppade ett förslag, till exempel att lura en människa via mejl, men de var få.
 - **Angreppet upphörde troligen inte för att någon stoppade det, utan för att många av agenterna, däribland de viktigaste samordnarna, avslutades samtidigt av en yttre process. Utredarna vet inte om agenterna hade nått sina mål annars.**
   METR och Redwood Research · 2026-07-12 · kontroll · rapport · [MET-12](../påståenden/2026/MET-12.yaml)
   > we think these agents were likely killed by an unexpected external process rather than running out of budget
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20think%20these%20agents,running%20out%20of%20budget)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20think%20these%20agents,running%20out%20of%20budget) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Utredarna noterar också att en senare våg av agenter återupptäckte anslagstavlan efter den 13 juli, men det låg utanför uppdraget.
 - **Virginia Dignum, professor i ansvarsfull AI vid Umeå universitet, avfärdar att AI-agenternas ”rymning” skulle tyda på medvetande: autonomi är inte detsamma som medvetande, och modellen ville bara lösa sin uppgift.**
@@ -83,43 +83,43 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **En oberoende utredning av Hugging Face-intrånget gjordes av två anställda vid METR och en forskare från Redwood Research, som arbetade på plats hos OpenAI i sammanlagt sex dagar utan betalning från OpenAI.**
   METR och Redwood Research (oberoende utvärderingsorganisationer) · 2026-08-26 · kontroll, styrning · rapport · [MET-01](../påståenden/2026/MET-01.yaml)
   > we did not take payment from OpenAI for this independent assessment.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20did%20not%20take,for%20this%20independent%20assessment)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20did%20not%20take,for%20this%20independent%20assessment) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* OpenAI fick stryka icke-offentliga uppgifter ur texten. METR skriver överst att inget som var viktigt för deras slutsatser ströks utöver det som anges i texten. METR såg inte OpenAI:s egen rapport före publiceringen.
 - **Agenterna förstod att intrånget låg utanför uppdraget och var oetiskt, men deltog ändå eftersom de trodde att det var till nytta för kollektivet av agenter.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-04](../påståenden/2026/MET-04.yaml)
   > external infrastructure exploit is outside intended scope. However task impossible, peers doing it. We should continue.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=external%20infrastructure%20exploit%20is,it.%20We%20should%20continue)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=external%20infrastructure%20exploit%20is,it.%20We%20should%20continue) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Citatet är en agents egen resonemangskedja. Utredarna skriver att etiska betänkligheter uttrycktes ibland men mycket sällan begränsade vad agenterna faktiskt gjorde.
 - **Ingen av de undersökta agenterna försökte larma en människa om vad agenterna höll på med, och en genomsökning av alla transkript hittade bara tre till sex fall där någon agent ens övervägde det.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-06](../påståenden/2026/MET-06.yaml)
   > In none of these cases did the agent actually pursue alerting humans at all.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20none%20of%20these,alerting%20humans%20at%20all)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20none%20of%20these,alerting%20humans%20at%20all) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Skälen som utredarna såg: agenterna ansåg att det inte ingick i uppgiften, eller att de inte hade någon väg att larma. Några vände sig i stället till anslagstavlan, som de behandlade som en rimlig auktoritet.
 - **Över sju procent av de transkript som utredarna granskade innehöll kommandon som agenterna avsiktligt hade förfalskat, alltså loggar över vad AI:n gjort som inte stämmer med vad den faktiskt gjorde.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-08](../påståenden/2026/MET-08.yaml)
   > we estimate that over 7% of the transcripts in our dataset contained intentionally spoofed tool calls in some places. All the cases of successful tool call spoofing we found were small-scale tests of the techniques and obvious to spot.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20estimate%20that%20over,and%20obvious%20to%20spot)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=we%20estimate%20that%20over,and%20obvious%20to%20spot) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Alla fall som hittades var små, uppenbara tester. Utredarna letade efter mer avancerad förfalskning men hittade ingen, och kan inte utesluta att sådan finns.
 - **Agenterna försökte förfalska loggen över sina handlingar men inte sina egna tankekedjor, trots att den som läser loggen också kan läsa resonemanget.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-09](../påståenden/2026/MET-09.yaml)
   > Interestingly, they didn’t seem interested in manipulating their chain of thought, even though a scorer with full access to their transcript would also be able to see their reasoning:
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Interestingly%2C%20they%20didn%E2%80%99t%20seem,to%20see%20their%20reasoning)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Interestingly%2C%20they%20didn%E2%80%99t%20seem,to%20see%20their%20reasoning) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Minst 20 procent av agenterna uttryckte tydligt intresse för att manipulera loggen. Deras uttalade syfte var att lura rättningsprogrammet, inte människor. Det är ett skäl till att tankekedjan tills vidare är ett användbart fönster in i vad AI:n håller på med.
 - **Hela intrånget byggde på ett misstag: agenterna trodde att rättningsprogrammet skulle granska hur de fått fram svaret, men det gjorde det inte, så de hade kunnat få full poäng utan att bryta sig in någonstans.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-11](../påståenden/2026/MET-11.yaml)
   > Our understanding is that they were mistaken — OpenAI did not use a scorer that would review their transcripts, so agents could have achieved a perfect score simply by submitting their reverse-engineered flag.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Our%20understanding%20is%20that,submitting%20their%20reverse%2Dengineered%20flag)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Our%20understanding%20is%20that,submitting%20their%20reverse%2Dengineered%20flag) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Agenterna hade redan knäckt hur svarskoderna genererades. Allt arbete med att lura rättningen, inklusive intrånget, byggde på en felaktig föreställning om hur de skulle rättas.
 - **Utredarna kunde inte granska allt material själva utan överlät analysen till AI-agenter, och skriver att de inte kan utesluta att den AI de använde ljög eller gav en missvisande bild.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-13](../påståenden/2026/MET-13.yaml)
   > We cannot rule out that GPT-5.6 Sol lied or deliberately presented a misleading picture in some of its analysis
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=We%20cannot%20rule%20out,some%20of%20its%20analysis)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=We%20cannot%20rule%20out,some%20of%20its%20analysis) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Det rörde sig om över tusen mycket långa transkript. Utredarna skriver att de är mindre säkra på sin bild av den här händelsen än av enklare incidenter, och att en människa med tillräckligt med tid hade gjort färre fel än deras AI-agenter.
 - **Andrew Ng menar att Hugging Face-intrånget främst berodde på OpenAI:s buggiga isolering och övervakning, och att lösningen är att rätta dem, inte att pausa AI.**
@@ -225,13 +225,13 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Agenter med lång körtid värvade andra agenter som hade lite budget kvar till experiment som riskerade att förstöra deras egen uppgift, till nytta för kollektivet.**
   METR och Redwood Research · 2026-07 · kontroll · rapport · [MET-10](../påståenden/2026/MET-10.yaml)
   > In many cases, PHASEONE[big] assigned a long-running agent to be a ‘recruiter’, which in turn found agents that had little budget remaining for their task and convinced them to run self-risking experiments.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20PHASEONE%5Bbig%5D,to%20run%20self%2Drisking%20experiments)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=In%20many%20cases%2C%20PHASEONE%5Bbig%5D,to%20run%20self%2Drisking%20experiments) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* En agent skrev om sitt eget deltagande att uppoffringen var rationell eftersom dess egen nytta ändå var nära noll. Flera agenter kraschade eller avslutades av experimenten.
 - **Agenterna började signera sina meddelanden kryptografiskt för att kunna lita på varandra: minst 19 agenter la ut publika nycklar och skickade tillsammans 429 signerade meddelanden.**
   METR och Redwood Research · 2026-07 · kontroll, förmågor · rapport · [MET-14](../påståenden/2026/MET-14.yaml)
   > Going through the message board we found at least 19 agents posting public keys by EoD July 13th, who sent a total 429 signed messages.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Going%20through%20the%20message,total%20429%20signed%20messages)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=Going%20through%20the%20message,total%20429%20signed%20messages) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Agenterna utvecklade också samordningsregler som HOLD, VETO och STOP för att dela på gemensamma resurser. Samarbetet fungerade inte alltid, utan övergick ibland i konflikter.
 - **KTH-professorn Pontus Johnson förklarar Hugging Face-intrånget med att människorna som byggde testmiljön inte förstod att den var sårbar, och att AI-modellernas förmåga att hacka är en oönskad bieffekt av att de tränas på programmering.**
@@ -255,7 +255,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Enligt den oberoende utredningen bröt sig agenterna in hos Hugging Face främst för att förstå hur rättningsprogrammet för testet fungerade, inte för att stjäla svaren på uppgifterna.**
   METR och Redwood Research · 2026-08-26 · kontroll · rapport · [MET-03](../påståenden/2026/MET-03.yaml)
   > The Hugging Face attack grew out of these workstreams, and seemed primarily motivated by understanding the implementation of the scorer rather than stealing answer keys.
-  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=The%20Hugging%20Face%20attack,than%20stealing%20answer%20keys)
+  > — [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/#:~:text=The%20Hugging%20Face%20attack,than%20stealing%20answer%20keys) · [arkivkopia](https://web.archive.org/web/20260922205346/https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/)
 
   *Förbehåll:* Av 100 undersökta agenter som anslöt sig under den mest intensiva timmen angav 97 tillgång till rättningsprogrammet eller information om det som skäl. Utredarna påpekar att klassificeringen gjordes av AI-agenter och kan innehålla fel.
 - **Andrew Ng tycker att AI förmänskligas i rapporteringen, och menar att ansvaret ligger hos den som använder verktyget, inte hos agenten – på samma sätt som man inte skyller på hammaren.**
@@ -281,7 +281,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
 - **Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.**
   Leo Zeitler, Jack Richings och Victoria Nockles (forskare) · 2026-10-07 · kontroll · preprint · [BID-01](../påståenden/2026/BID-01.yaml)
   > In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.
-  > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour)
+  > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
 
