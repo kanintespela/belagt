@@ -4,7 +4,7 @@
 
 Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
 
-113 påståenden, de viktigaste först inom varje år.
+116 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -391,6 +391,24 @@ Reglering, standarder, tillsyn och förslag om att bromsa eller pausa.
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk#:~:text=Det%20finns%20en%20stor,tredjepartsobservat%C3%B6rer%20som%20utv%C3%A4rderar%20systemen) · [arkivkopia](https://web.archive.org/web/20260917063807/https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
   *Förbehåll:* Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår ([J3ljHm57yU0-31](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-31)). Man kan alltså vara överens om åtgärder utan att vara överens om risken.
+- **EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade modellerna.**
+  EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-04](../påståenden/2026/BID-04.yaml)
+  > The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.
+  > — [Commission holds special meeting of Scientific panel on frontier AI safety and risks](https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks#:~:text=The%20panel%20has%20been,developed%20the%20models%20involved)
+
+  *Förbehåll:* Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller. Det är kommissionens egen beskrivning av panelens arbete.
+- **Den brittiska regeringen uppger att den ska pröva skärpta skydd mot AI-hot inom regelverket för cybersäkerhet och motståndskraft, bland annat hur allvarliga AI-incidenter och nästan-olyckor kan identifieras och rapporteras.**
+  Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS) · 2026-10-12 · styrning · myndighet · [BID-02](../påståenden/2026/BID-02.yaml)
+  > Stronger protections against emerging AI threats to be considered through the Cyber Security and Resilience Bill regime, such as how serious AI incidents and near misses can be identified and reported.
+  > — [Britain steps up national defences against growing AI risks](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=Stronger%20protections%20against%20emerging,be%20identified%20and%20reported)
+
+  *Förbehåll:* Det är ett pressmeddelande om vad regeringen ska överväga, inte en lag. Pressmeddelandet skriver att detaljerna ska utarbetas tillsammans med parlamentariker, tekniska experter och de aktörer som ska genomföra dem.
+- **Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.**
+  Kanishka Narayan (Storbritanniens AI-minister) · 2026-10-12 · styrning, kontroll · myndighet · [BID-03](../påståenden/2026/BID-03.yaml)
+  > And if you cannot adequately control the risks, do not release the system.
+  > — [Britain steps up national defences against growing AI risks](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=And%20if%20you%20cannot,not%20release%20the%20system)
+
+  *Förbehåll:* Uttalandet är ett citat av ministern i regeringens pressmeddelande och är inte ett lagkrav. Ministern säger i samma stycke att regeringen "will legislate wherever necessary", men pressmeddelandet anger inga konkreta lagförslag om att hindra lanseringar.
 - **Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner kronor på AI, enligt en debattartikel i Ny Teknik.**
   Christoffer Bergman (Neo4j), debattartikel i Ny Teknik · 2026 · miljö, styrning · opinion · [SVS-09](../påståenden/2026/SVS-09.yaml)
   > Privata aktörer investerar över 140 miljarder kronor i svenska datacenter, medan regeringen satsar 479 miljoner på ai.

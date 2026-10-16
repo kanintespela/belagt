@@ -4,7 +4,7 @@
 
 Vad forskare, insiders, politiker och andra bedömare säger.
 
-88 påståenden, de viktigaste först inom varje år.
+89 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -297,6 +297,12 @@ Vad forskare, insiders, politiker och andra bedömare säger.
   > — [Professorn om AI-hotet: ”Låg risk”](https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk#:~:text=Det%20finns%20en%20stor,tredjepartsobservat%C3%B6rer%20som%20utv%C3%A4rderar%20systemen) · [arkivkopia](https://web.archive.org/web/20260917063807/https://www.svt.se/nyheter/inrikes/professorn-om-ai-hotet-lag-risk)
 
   *Förbehåll:* Heintz ser låg risk men vill ändå ha samma åtgärd som Amodei föreslår ([J3ljHm57yU0-31](https://pauseai-sverige.github.io/belagt/#J3ljHm57yU0-31)). Man kan alltså vara överens om åtgärder utan att vara överens om risken.
+- **Fyra forskare, bland dem Martin McKee, hävdar att kontrollen över AI inte tas av AI utan lämnas bort steg för steg, av organisationer som är upplagda så att ingen är placerad för att kunna säga nej.**
+  Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare) · 2026-10-09 · kontroll, röster · preprint · [BID-05](../påståenden/2026/BID-05.yaml)
+  > We argue that control is not taken by AI but given away, one delegation at a time, by organisations arranged so that nobody is positioned to say no
+  > — [Who Can Say No? Control, Accountability and the Pace of Frontier AI](https://arxiv.org/abs/2610.13340#:~:text=We%20argue%20that%20control,positioned%20to%20say%20no)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Artikeln är ett resonemang om styrning och organisation, inte en mätning, och beskriver sig själv som "a start, not a solution".
 
 ## 2025
 

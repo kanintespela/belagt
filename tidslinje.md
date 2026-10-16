@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 318 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 322 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -2007,3 +2007,27 @@ Alla 318 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
+- **EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade modellerna.**
+  EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-04](./påståenden/2026/BID-04.yaml)
+  > The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.
+  > — [Commission holds special meeting of Scientific panel on frontier AI safety and risks](https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks#:~:text=The%20panel%20has%20been,developed%20the%20models%20involved)
+
+  *Förbehåll:* Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller. Det är kommissionens egen beskrivning av panelens arbete.
+- **Fyra forskare, bland dem Martin McKee, hävdar att kontrollen över AI inte tas av AI utan lämnas bort steg för steg, av organisationer som är upplagda så att ingen är placerad för att kunna säga nej.**
+  Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare) · 2026-10-09 · kontroll, röster · preprint · [BID-05](./påståenden/2026/BID-05.yaml)
+  > We argue that control is not taken by AI but given away, one delegation at a time, by organisations arranged so that nobody is positioned to say no
+  > — [Who Can Say No? Control, Accountability and the Pace of Frontier AI](https://arxiv.org/abs/2610.13340#:~:text=We%20argue%20that%20control,positioned%20to%20say%20no)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Artikeln är ett resonemang om styrning och organisation, inte en mätning, och beskriver sig själv som "a start, not a solution".
+- **Den brittiska regeringen uppger att den ska pröva skärpta skydd mot AI-hot inom regelverket för cybersäkerhet och motståndskraft, bland annat hur allvarliga AI-incidenter och nästan-olyckor kan identifieras och rapporteras.**
+  Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS) · 2026-10-12 · styrning · myndighet · [BID-02](./påståenden/2026/BID-02.yaml)
+  > Stronger protections against emerging AI threats to be considered through the Cyber Security and Resilience Bill regime, such as how serious AI incidents and near misses can be identified and reported.
+  > — [Britain steps up national defences against growing AI risks](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=Stronger%20protections%20against%20emerging,be%20identified%20and%20reported)
+
+  *Förbehåll:* Det är ett pressmeddelande om vad regeringen ska överväga, inte en lag. Pressmeddelandet skriver att detaljerna ska utarbetas tillsammans med parlamentariker, tekniska experter och de aktörer som ska genomföra dem.
+- **Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.**
+  Kanishka Narayan (Storbritanniens AI-minister) · 2026-10-12 · styrning, kontroll · myndighet · [BID-03](./påståenden/2026/BID-03.yaml)
+  > And if you cannot adequately control the risks, do not release the system.
+  > — [Britain steps up national defences against growing AI risks](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=And%20if%20you%20cannot,not%20release%20the%20system)
+
+  *Förbehåll:* Uttalandet är ett citat av ministern i regeringens pressmeddelande och är inte ett lagkrav. Ministern säger i samma stycke att regeringen "will legislate wherever necessary", men pressmeddelandet anger inga konkreta lagförslag om att hindra lanseringar.

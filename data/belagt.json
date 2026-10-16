@@ -8305,6 +8305,109 @@
    "ersatt_av": null,
    "citera": "Leo Zeitler, Jack Richings och Victoria Nockles (forskare), 2026-10-07. AI Safety Considerations for Agents With Limited Time to Act. https://arxiv.org/abs/2610.10285. Via Belagt BID-01: https://pauseai-sverige.github.io/belagt/#BID-01",
    "citatlänk": "https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour"
+  },
+  {
+   "id": "BID-04",
+   "påstående": "EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade modellerna.",
+   "typ": "händelse",
+   "vem": "EU-kommissionen",
+   "datum": "2026-10-09",
+   "tema": [
+    "styrning",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks",
+    "titel": "Commission holds special meeting of Scientific panel on frontier AI safety and risks",
+    "typ": "myndighet",
+    "citat": "The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.",
+    "hämtad": "2026-10-16",
+    "arkiv": null
+   },
+   "förbehåll": "Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller. Det är kommissionens egen beskrivning av panelens arbete.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-10-16",
+   "ersatt_av": null,
+   "citera": "EU-kommissionen, 2026-10-09. Commission holds special meeting of Scientific panel on frontier AI safety and risks. https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks. Via Belagt BID-04: https://pauseai-sverige.github.io/belagt/#BID-04",
+   "citatlänk": "https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks#:~:text=The%20panel%20has%20been,developed%20the%20models%20involved"
+  },
+  {
+   "id": "BID-05",
+   "påstående": "Fyra forskare, bland dem Martin McKee, hävdar att kontrollen över AI inte tas av AI utan lämnas bort steg för steg, av organisationer som är upplagda så att ingen är placerad för att kunna säga nej.",
+   "typ": "bedömning",
+   "vem": "Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare)",
+   "datum": "2026-10-09",
+   "tema": [
+    "kontroll",
+    "röster"
+   ],
+   "källa": {
+    "url": "https://arxiv.org/abs/2610.13340",
+    "titel": "Who Can Say No? Control, Accountability and the Pace of Frontier AI",
+    "typ": "preprint",
+    "citat": "We argue that control is not taken by AI but given away, one delegation at a time, by organisations arranged so that nobody is positioned to say no",
+    "hämtad": "2026-10-16",
+    "arkiv": null
+   },
+   "förbehåll": "Preprint som inte är granskad av andra forskare. Artikeln är ett resonemang om styrning och organisation, inte en mätning, och beskriver sig själv som \"a start, not a solution\".",
+   "vikt": 1,
+   "bäst_före": null,
+   "kontrollerad": "2026-10-16",
+   "ersatt_av": null,
+   "citera": "Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare), 2026-10-09. Who Can Say No? Control, Accountability and the Pace of Frontier AI. https://arxiv.org/abs/2610.13340. Via Belagt BID-05: https://pauseai-sverige.github.io/belagt/#BID-05",
+   "citatlänk": "https://arxiv.org/abs/2610.13340#:~:text=We%20argue%20that%20control,positioned%20to%20say%20no"
+  },
+  {
+   "id": "BID-02",
+   "påstående": "Den brittiska regeringen uppger att den ska pröva skärpta skydd mot AI-hot inom regelverket för cybersäkerhet och motståndskraft, bland annat hur allvarliga AI-incidenter och nästan-olyckor kan identifieras och rapporteras.",
+   "typ": "förslag",
+   "vem": "Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS)",
+   "datum": "2026-10-12",
+   "tema": [
+    "styrning"
+   ],
+   "källa": {
+    "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+    "titel": "Britain steps up national defences against growing AI risks",
+    "typ": "myndighet",
+    "citat": "Stronger protections against emerging AI threats to be considered through the Cyber Security and Resilience Bill regime, such as how serious AI incidents and near misses can be identified and reported.",
+    "hämtad": "2026-10-16",
+    "arkiv": null
+   },
+   "förbehåll": "Det är ett pressmeddelande om vad regeringen ska överväga, inte en lag. Pressmeddelandet skriver att detaljerna ska utarbetas tillsammans med parlamentariker, tekniska experter och de aktörer som ska genomföra dem.",
+   "vikt": 2,
+   "bäst_före": "2027-10-01",
+   "kontrollerad": "2026-10-16",
+   "ersatt_av": null,
+   "citera": "Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS), 2026-10-12. Britain steps up national defences against growing AI risks. https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks. Via Belagt BID-02: https://pauseai-sverige.github.io/belagt/#BID-02",
+   "citatlänk": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=Stronger%20protections%20against%20emerging,be%20identified%20and%20reported"
+  },
+  {
+   "id": "BID-03",
+   "påstående": "Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.",
+   "typ": "förslag",
+   "vem": "Kanishka Narayan (Storbritanniens AI-minister)",
+   "datum": "2026-10-12",
+   "tema": [
+    "styrning",
+    "kontroll"
+   ],
+   "källa": {
+    "url": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks",
+    "titel": "Britain steps up national defences against growing AI risks",
+    "typ": "myndighet",
+    "citat": "And if you cannot adequately control the risks, do not release the system.",
+    "hämtad": "2026-10-16",
+    "arkiv": null
+   },
+   "förbehåll": "Uttalandet är ett citat av ministern i regeringens pressmeddelande och är inte ett lagkrav. Ministern säger i samma stycke att regeringen \"will legislate wherever necessary\", men pressmeddelandet anger inga konkreta lagförslag om att hindra lanseringar.",
+   "vikt": 2,
+   "bäst_före": null,
+   "kontrollerad": "2026-10-16",
+   "ersatt_av": null,
+   "citera": "Kanishka Narayan (Storbritanniens AI-minister), 2026-10-12. Britain steps up national defences against growing AI risks. https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks. Via Belagt BID-03: https://pauseai-sverige.github.io/belagt/#BID-03",
+   "citatlänk": "https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=And%20if%20you%20cannot,not%20release%20the%20system"
   }
  ]
 }
