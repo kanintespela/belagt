@@ -1,0 +1,21 @@
+id: BID-02
+påstående: Den brittiska regeringen uppger att den ska pröva skärpta skydd mot AI-hot inom regelverket för cybersäkerhet
+  och motståndskraft, bland annat hur allvarliga AI-incidenter och nästan-olyckor kan identifieras och rapporteras.
+typ: förslag
+vem: Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS)
+datum: '2026-10-12'
+tema:
+- styrning
+källa:
+  url: https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks
+  titel: Britain steps up national defences against growing AI risks
+  typ: myndighet
+  citat: Stronger protections against emerging AI threats to be considered through the Cyber Security and Resilience Bill regime, such as how serious AI incidents and near misses can be identified and reported.
+  hämtad: '2026-10-16'
+  arkiv: null
+förbehåll: Det är ett pressmeddelande om vad regeringen ska överväga, inte en lag. Pressmeddelandet skriver att
+  detaljerna ska utarbetas tillsammans med parlamentariker, tekniska experter och de aktörer som ska genomföra dem.
+vikt: 2
+bäst_före: '2027-10-01'
+kontrollerad: '2026-10-16'
+ersatt_av: null

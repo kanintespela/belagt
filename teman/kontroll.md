@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-58 påståenden, de viktigaste först inom varje år.
+61 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -278,12 +278,30 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Personal Statement on AI Risk](https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub#:~:text=the%20argument%E2%80%94that%20if%20we,very%20strong%20to%20me) · [arkivkopia](https://web.archive.org/web/20260923141050/https://docs.google.com/document/d/e/2PACX-1vQNl3SEX5IyA6d9qHjjFZN-qzGRZNFI6b63g-yu1Fy-ZYkVfCWm7i9WXRXw63m6yDB_auDuPLyQ7jBm/pub)
 
   *Förbehåll:* Selsam skriver samtidigt att han fortfarande brottas med frågan och inte har några svar.
+- **EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade modellerna.**
+  EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-04](../påståenden/2026/BID-04.yaml)
+  > The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.
+  > — [Commission holds special meeting of Scientific panel on frontier AI safety and risks](https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks#:~:text=The%20panel%20has%20been,developed%20the%20models%20involved)
+
+  *Förbehåll:* Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller. Det är kommissionens egen beskrivning av panelens arbete.
+- **Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.**
+  Kanishka Narayan (Storbritanniens AI-minister) · 2026-10-12 · styrning, kontroll · myndighet · [BID-03](../påståenden/2026/BID-03.yaml)
+  > And if you cannot adequately control the risks, do not release the system.
+  > — [Britain steps up national defences against growing AI risks](https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks#:~:text=And%20if%20you%20cannot,not%20release%20the%20system)
+
+  *Förbehåll:* Uttalandet är ett citat av ministern i regeringens pressmeddelande och är inte ett lagkrav. Ministern säger i samma stycke att regeringen "will legislate wherever necessary", men pressmeddelandet anger inga konkreta lagförslag om att hindra lanseringar.
 - **Tre forskare hävdar att de har bevisat att inte ens en perfekt AI-agent kan garantera säkert beteende i två beskrivna miljöer, där miljön bara är delvis observerbar och agenten måste agera inom begränsad tid.**
   Leo Zeitler, Jack Richings och Victoria Nockles (forskare) · 2026-10-07 · kontroll · preprint · [BID-01](../påståenden/2026/BID-01.yaml)
   > In these scenarios, we prove that even a perfect agent cannot guarantee safe behaviour.
   > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
+- **Fyra forskare, bland dem Martin McKee, hävdar att kontrollen över AI inte tas av AI utan lämnas bort steg för steg, av organisationer som är upplagda så att ingen är placerad för att kunna säga nej.**
+  Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare) · 2026-10-09 · kontroll, röster · preprint · [BID-05](../påståenden/2026/BID-05.yaml)
+  > We argue that control is not taken by AI but given away, one delegation at a time, by organisations arranged so that nobody is positioned to say no
+  > — [Who Can Say No? Control, Accountability and the Pace of Frontier AI](https://arxiv.org/abs/2610.13340#:~:text=We%20argue%20that%20control,positioned%20to%20say%20no)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Artikeln är ett resonemang om styrning och organisation, inte en mätning, och beskriver sig själv som "a start, not a solution".
 
 ## 2025
 

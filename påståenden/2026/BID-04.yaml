@@ -1,0 +1,23 @@
+id: BID-04
+påstående: EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen
+  över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade
+  modellerna.
+typ: händelse
+vem: EU-kommissionen
+datum: '2026-10-09'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks
+  titel: Commission holds special meeting of Scientific panel on frontier AI safety and risks
+  typ: myndighet
+  citat: The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.
+  hämtad: '2026-10-16'
+  arkiv: null
+förbehåll: Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller.
+  Det är kommissionens egen beskrivning av panelens arbete.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-16'
+ersatt_av: null

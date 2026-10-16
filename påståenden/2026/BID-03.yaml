@@ -1,0 +1,23 @@
+id: BID-03
+påstående: Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen
+  att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.
+typ: förslag
+vem: Kanishka Narayan (Storbritanniens AI-minister)
+datum: '2026-10-12'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://www.gov.uk/government/news/britain-steps-up-national-defences-against-growing-ai-risks
+  titel: Britain steps up national defences against growing AI risks
+  typ: myndighet
+  citat: And if you cannot adequately control the risks, do not release the system.
+  hämtad: '2026-10-16'
+  arkiv: null
+förbehåll: Uttalandet är ett citat av ministern i regeringens pressmeddelande och är inte ett lagkrav. Ministern
+  säger i samma stycke att regeringen "will legislate wherever necessary", men pressmeddelandet anger inga
+  konkreta lagförslag om att hindra lanseringar.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-16'
+ersatt_av: null
