@@ -172,9 +172,19 @@ python tools/bevaka.py          # nytt i de bevakade källorna (körs också var
 python tools/bast_fore.py       # poster att kontrollera igen (körs också varje månad)
 ```
 
-Nya poster tas fram i ett separat arbetsrepo där källtexterna finns hämtade och citaten
-kontrolleras mot dem. När något nytt har verifierats där öppnas automatiskt en pull request
-hit (grenar som heter `nya-ÅÅÅÅ-MM-DD`), och ingenting kommer in förrän den är granskad.
+Allt körs i GitHub Actions eller i molnet, inte på någons egen dator. Nya poster tas fram så här:
+
+1. **Måndag:** arbetsflödet *Bevakning* lägger det som är nytt i de bevakade källorna i ärendet
+   *Nytt att granska*.
+2. **Lördag:** en schemalagd Claude-session i molnet går igenom tipsen i ärendet. Den följer
+   varje tips till primärkällan, hämtar den och skriver en post bara om ett ordagrant citat
+   bekräftar påståendet. Sedan kör den `python tools/kontrollera_citat.py <id> …` och
+   `python tools/bygg.py --kontroll`, och stryker poster vars citat inte hittas.
+3. Sessionen öppnar en pull request som utkast från en gren som heter `nya-ÅÅÅÅ-MM-DD`. Där
+   står varje ny post med källa och citat, och vilka tips som valdes bort och varför. Den kryssar
+   också i de genomgångna tipsen i ärendet.
+4. **En människa granskar** pull requesten mot den här metoden. Ingenting kommer in förrän den
+   är granskad och ihopslagen.
 
 Du kan också föreslå en post direkt: skapa en fil enligt mallen ovan, kör `python tools/bygg.py`
 och öppna en pull request med länk till källan. Id:t får då prefixet `BID-` följt av nästa lediga nummer.
