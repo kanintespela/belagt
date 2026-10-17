@@ -1,0 +1,23 @@
+id: BID-06
+påstående: Ordföranden i EU:s vetenskapliga panel för AI rekommenderade EU-kommissionen att granska de modeller
+  som bara används internt hos AI-utvecklare, bland annat genom en insatsstyrka för att upptäcka och utreda
+  incidenter där kontrollen över AI gått förlorad.
+typ: förslag
+vem: Seán Ó hÉigeartaigh, ordförande i EU:s vetenskapliga panel för AI, enligt EU-kommissionen
+datum: '2026-10-09'
+tema:
+- styrning
+- kontroll
+källa:
+  url: https://digital-strategy.ec.europa.eu/en/news/special-meeting-ai-scientific-panel
+  titel: Special meeting of the AI Scientific Panel
+  typ: myndighet
+  citat: ensure governance of the risk posed by internal models during development activities and deployment for testing; strengthen EU capabilities related to detection, evaluation and investigation of incidents of this nature (e.g., via a task force
+  hämtad: '2026-10-17'
+  arkiv: null
+förbehåll: Det är ordförandens och vice ordförandens rekommendationer till kommissionen, inte ett beslut. Texten
+  anger inte vilka incidenterna var. Kommissionens egen sammanfattning av mötet, inte panelens skrivna rapport.
+vikt: 2
+bäst_före: null
+kontrollerad: '2026-10-17'
+ersatt_av: null

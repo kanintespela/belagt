@@ -1,0 +1,23 @@
+id: BID-07
+påstående: Tre forskare rapporterar att AI-modeller som tränats genom destillation (elevmodeller) från modeller
+  med dolda beteenden (lärarmodeller) oftare avslöjade beteendet när de tillfrågades än lärarmodellerna själva.
+  Forskarna föreslår metoden för att avslöja AI som döljer sin felinriktning.
+typ: mätning
+vem: Sebastian Prasanna, Jacqueline Tay och Alek Westover (forskare)
+datum: '2026-10-07'
+tema:
+- kontroll
+källa:
+  url: https://arxiv.org/abs/2610.11012
+  titel: Distillation for Incrimination and Distillation for Capabilities
+  typ: preprint
+  citat: produces students that are significantly more likely than their teachers to admit their hidden behavior when asked
+  hämtad: '2026-10-17'
+  arkiv: null
+förbehåll: Preprint som inte är granskad av andra forskare. Försöken gjordes på AuditBenchs modeller med inbyggda
+  hemligheter, inte på verkliga AI-system som döljer felinriktning, och författarna skriver att effekten
+  till stor del försvinner när eleven inte delar lärarens förtränade bas.
+vikt: 1
+bäst_före: null
+kontrollerad: '2026-10-17'
+ersatt_av: null

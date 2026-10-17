@@ -2,7 +2,7 @@
 
 # Tidslinje
 
-Alla 322 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
+Alla 324 påståenden i arkivet, i den ordning det de handlar om hände eller sades.
 
 ## 2017
 
@@ -2007,6 +2007,12 @@ Alla 322 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
+- **Tre forskare rapporterar att AI-modeller som tränats genom destillation (elevmodeller) från modeller med dolda beteenden (lärarmodeller) oftare avslöjade beteendet när de tillfrågades än lärarmodellerna själva. Forskarna föreslår metoden för att avslöja AI som döljer sin felinriktning.**
+  Sebastian Prasanna, Jacqueline Tay och Alek Westover (forskare) · 2026-10-07 · kontroll · preprint · [BID-07](./påståenden/2026/BID-07.yaml)
+  > produces students that are significantly more likely than their teachers to admit their hidden behavior when asked
+  > — [Distillation for Incrimination and Distillation for Capabilities](https://arxiv.org/abs/2610.11012#:~:text=produces%20students%20that%20are,hidden%20behavior%20when%20asked)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Försöken gjordes på AuditBenchs modeller med inbyggda hemligheter, inte på verkliga AI-system som döljer felinriktning, och författarna skriver att effekten till stor del försvinner när eleven inte delar lärarens förtränade bas.
 - **EU-kommissionen uppger att dess vetenskapliga panel för AI har undersökt nyliga incidenter där kontrollen över AI-system gått förlorad, och tillsammans med AI-kontoret tagit fram frågor till de företag som utvecklade modellerna.**
   EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-04](./påståenden/2026/BID-04.yaml)
   > The panel has been investigating recent loss-of-control incidents, and together with the Commission’s AI Office, has worked on a set of questions for the companies that developed the models involved.
@@ -2019,6 +2025,12 @@ Alla 322 påståenden i arkivet, i den ordning det de handlar om hände eller sa
   > — [Who Can Say No? Control, Accountability and the Pace of Frontier AI](https://arxiv.org/abs/2610.13340#:~:text=We%20argue%20that%20control,positioned%20to%20say%20no)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Artikeln är ett resonemang om styrning och organisation, inte en mätning, och beskriver sig själv som "a start, not a solution".
+- **Ordföranden i EU:s vetenskapliga panel för AI rekommenderade EU-kommissionen att granska de modeller som bara används internt hos AI-utvecklare, bland annat genom en insatsstyrka för att upptäcka och utreda incidenter där kontrollen över AI gått förlorad.**
+  Seán Ó hÉigeartaigh, ordförande i EU:s vetenskapliga panel för AI, enligt EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-06](./påståenden/2026/BID-06.yaml)
+  > ensure governance of the risk posed by internal models during development activities and deployment for testing; strengthen EU capabilities related to detection, evaluation and investigation of incidents of this nature (e.g., via a task force
+  > — [Special meeting of the AI Scientific Panel](https://digital-strategy.ec.europa.eu/en/news/special-meeting-ai-scientific-panel#:~:text=ensure%20governance%20of%20the,via%20a%20task%20force)
+
+  *Förbehåll:* Det är ordförandens och vice ordförandens rekommendationer till kommissionen, inte ett beslut. Texten anger inte vilka incidenterna var. Kommissionens egen sammanfattning av mötet, inte panelens skrivna rapport.
 - **Den brittiska regeringen uppger att den ska pröva skärpta skydd mot AI-hot inom regelverket för cybersäkerhet och motståndskraft, bland annat hur allvarliga AI-incidenter och nästan-olyckor kan identifieras och rapporteras.**
   Storbritanniens regering (Cabinet Office, AI Security Institute, NCSC och DCMS) · 2026-10-12 · styrning · myndighet · [BID-02](./påståenden/2026/BID-02.yaml)
   > Stronger protections against emerging AI threats to be considered through the Cyber Security and Resilience Bill regime, such as how serious AI incidents and near misses can be identified and reported.
