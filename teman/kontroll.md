@@ -4,7 +4,7 @@
 
 Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmedvetenhet.
 
-61 påståenden, de viktigaste först inom varje år.
+63 påståenden, de viktigaste först inom varje år.
 
 ## 2026
 
@@ -284,6 +284,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [Commission holds special meeting of Scientific panel on frontier AI safety and risks](https://digital-strategy.ec.europa.eu/en/news/commission-holds-special-meeting-scientific-panel-frontier-ai-safety-and-risks#:~:text=The%20panel%20has%20been,developed%20the%20models%20involved)
 
   *Förbehåll:* Pressmeddelandet beskriver inte vilka incidenterna var eller vad frågorna till företagen innehåller. Det är kommissionens egen beskrivning av panelens arbete.
+- **Ordföranden i EU:s vetenskapliga panel för AI rekommenderade EU-kommissionen att granska de modeller som bara används internt hos AI-utvecklare, bland annat genom en insatsstyrka för att upptäcka och utreda incidenter där kontrollen över AI gått förlorad.**
+  Seán Ó hÉigeartaigh, ordförande i EU:s vetenskapliga panel för AI, enligt EU-kommissionen · 2026-10-09 · styrning, kontroll · myndighet · [BID-06](../påståenden/2026/BID-06.yaml)
+  > ensure governance of the risk posed by internal models during development activities and deployment for testing; strengthen EU capabilities related to detection, evaluation and investigation of incidents of this nature (e.g., via a task force
+  > — [Special meeting of the AI Scientific Panel](https://digital-strategy.ec.europa.eu/en/news/special-meeting-ai-scientific-panel#:~:text=ensure%20governance%20of%20the,via%20a%20task%20force)
+
+  *Förbehåll:* Det är ordförandens och vice ordförandens rekommendationer till kommissionen, inte ett beslut. Texten anger inte vilka incidenterna var. Kommissionens egen sammanfattning av mötet, inte panelens skrivna rapport.
 - **Storbritanniens AI-minister Kanishka Narayan uppmanade företagen som utvecklar de mest kraftfulla AI-systemen att inte släppa ett system om de inte kan kontrollera riskerna tillräckligt.**
   Kanishka Narayan (Storbritanniens AI-minister) · 2026-10-12 · styrning, kontroll · myndighet · [BID-03](../påståenden/2026/BID-03.yaml)
   > And if you cannot adequately control the risks, do not release the system.
@@ -296,6 +302,12 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
+- **Tre forskare rapporterar att elever som tränats genom destillation från modeller med dolda beteenden oftare avslöjade beteendet när de tillfrågades än sina lärarmodeller, vilket de föreslår som metod för att avslöja AI som döljer sin felinriktning.**
+  Sebastian Prasanna, Jacqueline Tay och Alek Westover (forskare) · 2026-10-07 · kontroll · preprint · [BID-07](../påståenden/2026/BID-07.yaml)
+  > produces students that are significantly more likely than their teachers to admit their hidden behavior when asked
+  > — [Distillation for Incrimination and Distillation for Capabilities](https://arxiv.org/abs/2610.11012#:~:text=produces%20students%20that%20are,hidden%20behavior%20when%20asked)
+
+  *Förbehåll:* Preprint som inte är granskad av andra forskare. Försöken gjordes på AuditBenchs modeller med inbyggda hemligheter, inte på verkliga AI-system som döljer felinriktning, och författarna skriver att effekten till stor del försvinner när eleven inte delar lärarens förtränade bas.
 - **Fyra forskare, bland dem Martin McKee, hävdar att kontrollen över AI inte tas av AI utan lämnas bort steg för steg, av organisationer som är upplagda så att ingen är placerad för att kunna säga nej.**
   Rikard Rosenbacke, Carl Rosenbacke, Victor Rosenbacke och Martin McKee (forskare) · 2026-10-09 · kontroll, röster · preprint · [BID-05](../påståenden/2026/BID-05.yaml)
   > We argue that control is not taken by AI but given away, one delegation at a time, by organisations arranged so that nobody is positioned to say no
