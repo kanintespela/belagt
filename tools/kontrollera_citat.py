@@ -15,6 +15,7 @@ Skriver markdown till stdout, eller ingenting om allt stämmer. Körs varje mån
 helst, så att ingen behöver lita på att citaten kontrollerades när posten skrevs.
 """
 import argparse
+import gzip
 import html.parser
 import io
 import re
@@ -23,9 +24,11 @@ import time
 import unicodedata
 import urllib.error
 import urllib.request
+import zlib
 from collections import defaultdict
 from pathlib import Path
 
+import brotli
 import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -136,10 +139,24 @@ class TomtSvar(Exception):
     citatet saknas."""
 
 
+def packa_upp(data, packning):
+    """Wayback Machine skickar arkivkopior (id_) packade som sidan var när den sparades, även
+    när ingen har bett om det. urllib packar inte upp själv."""
+    if packning == "br":
+        return brotli.decompress(data)
+    if packning == "deflate":
+        return zlib.decompress(data, -zlib.MAX_WBITS) if data[:1] != b"x" else zlib.decompress(data)
+    if packning == "gzip" or data[:2] == b"\x1f\x8b":
+        return gzip.decompress(data)
+    return data
+
+
 def hämta(url, timeout=60):
     req = urllib.request.Request(url, headers=UA)
     with urllib.request.urlopen(req, timeout=timeout) as r:
         data, typ = r.read(), r.headers.get("Content-Type", "")
+        packning = r.headers.get("Content-Encoding", "").lower()
+    data = packa_upp(data, packning)
     if "pdf" in typ or data[:5] == b"%PDF-":
         text = pdf_text(data)
     else:
