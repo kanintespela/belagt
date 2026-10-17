@@ -8308,7 +8308,7 @@
   },
   {
    "id": "BID-07",
-   "påstående": "Tre forskare rapporterar att elever som tränats genom destillation från modeller med dolda beteenden oftare avslöjade beteendet när de tillfrågades än sina lärarmodeller, vilket de föreslår som metod för att avslöja AI som döljer sin felinriktning.",
+   "påstående": "Tre forskare rapporterar att AI-modeller som tränats genom destillation (elevmodeller) från modeller med dolda beteenden (lärarmodeller) oftare avslöjade beteendet när de tillfrågades än lärarmodellerna själva. Forskarna föreslår metoden för att avslöja AI som döljer sin felinriktning.",
    "typ": "mätning",
    "vem": "Sebastian Prasanna, Jacqueline Tay och Alek Westover (forskare)",
    "datum": "2026-10-07",

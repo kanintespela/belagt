@@ -302,7 +302,7 @@ Går systemen att styra, övervaka och testa? Alignment, tankekedjor och testmed
   > — [AI Safety Considerations for Agents With Limited Time to Act](https://arxiv.org/abs/2610.10285#:~:text=In%20these%20scenarios%2C%20we,cannot%20guarantee%20safe%20behaviour) · [arkivkopia](https://web.archive.org/web/20261008153122/https://arxiv.org/abs/2610.10285)
 
   *Förbehåll:* Preprint som inte är granskad av andra forskare. Beviset gäller de två konstruerade scenarierna (ett med oändligt tillståndsrum, ett med signalblandning), inte AI-system i allmänhet. Författarna drar slutsatsen att varje bevis för AI-säkerhet måste ta hänsyn till miljön och inte bara agenten.
-- **Tre forskare rapporterar att elever som tränats genom destillation från modeller med dolda beteenden oftare avslöjade beteendet när de tillfrågades än sina lärarmodeller, vilket de föreslår som metod för att avslöja AI som döljer sin felinriktning.**
+- **Tre forskare rapporterar att AI-modeller som tränats genom destillation (elevmodeller) från modeller med dolda beteenden (lärarmodeller) oftare avslöjade beteendet när de tillfrågades än lärarmodellerna själva. Forskarna föreslår metoden för att avslöja AI som döljer sin felinriktning.**
   Sebastian Prasanna, Jacqueline Tay och Alek Westover (forskare) · 2026-10-07 · kontroll · preprint · [BID-07](../påståenden/2026/BID-07.yaml)
   > produces students that are significantly more likely than their teachers to admit their hidden behavior when asked
   > — [Distillation for Incrimination and Distillation for Capabilities](https://arxiv.org/abs/2610.11012#:~:text=produces%20students%20that%20are,hidden%20behavior%20when%20asked)
