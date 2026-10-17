@@ -83,6 +83,9 @@ Använd mallen [Granska en översättning](https://github.com/pauseai-sverige/be
 så skrivs ditt namn in som granskare. Förslag på nya poster går också
 att skicka som pull request, se [METOD.md](METOD.md).
 
+**Använder du en AI-agent?** Läs [AGENTS.md](AGENTS.md). Där står hur agenten hämtar posterna,
+använder dem i texter och föreslår nya poster.
+
 ## Licens
 
 Innehållet får användas fritt, även kommersiellt, om du anger källan:
