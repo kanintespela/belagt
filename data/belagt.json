@@ -191,12 +191,12 @@
     "typ": "rapport",
     "citat": "We document large-scale disagreement and minimal convergence of beliefs over the course of the XPT, with the largest disagreement about risks from artificial intelligence.",
     "hämtad": "2026-09-28",
-    "arkiv": "https://web.archive.org/web/20260429191429/https://forecastingresearch.org/xpt"
+    "arkiv": "https://web.archive.org/web/20261017111201/https://forecastingresearch.org/research/existential-risk-persuasion-tournament"
    },
    "förbehåll": "169 prognosmakare deltog. Rapporten publicerades 2023. De exakta sannolikheterna står i rapporten men inte i den hämtade sammanfattningen.",
    "vikt": 2,
    "bäst_före": null,
-   "kontrollerad": "2026-09-28",
+   "kontrollerad": "2026-10-17",
    "ersatt_av": null,
    "citera": "Forecasting Research Institute (Existential Risk Persuasion Tournament), 2023. Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute. https://forecastingresearch.org/xpt. Via Belagt FOR-22: https://pauseai-sverige.github.io/belagt/#FOR-22",
    "citatlänk": "https://forecastingresearch.org/xpt#:~:text=We%20document%20large%2Dscale%20disagreement,risks%20from%20artificial%20intelligence"
@@ -217,12 +217,12 @@
     "typ": "rapport",
     "citat": "why were superforecasters so unmoved by experts’ much higher estimates of AI extinction risk, and why were experts so unmoved by the superforecasters’ lower estimates?",
     "hämtad": "2026-09-28",
-    "arkiv": "https://web.archive.org/web/20260429191429/https://forecastingresearch.org/xpt"
+    "arkiv": "https://web.archive.org/web/20261017111201/https://forecastingresearch.org/research/existential-risk-persuasion-tournament"
    },
    "förbehåll": "Jämför FOR-02, där AI-experter också gav högre sannolikheter än superprognosmakare. Superprognosmakare har bra träffsäkerhet på kortsiktiga frågor, men det är oklart hur väl det gäller för ovanliga händelser långt fram.",
    "vikt": 2,
    "bäst_före": null,
-   "kontrollerad": "2026-09-28",
+   "kontrollerad": "2026-10-17",
    "ersatt_av": null,
    "citera": "Forecasting Research Institute (Existential Risk Persuasion Tournament), 2023. Forecasting Existential Risks: Evidence from a Long-Run Forecasting Tournament – Forecasting Research Institute. https://forecastingresearch.org/xpt. Via Belagt FOR-23: https://pauseai-sverige.github.io/belagt/#FOR-23",
    "citatlänk": "https://forecastingresearch.org/xpt#:~:text=why%20were%20superforecasters%20so,the%20superforecasters%E2%80%99%20lower%20estimates%3F"
